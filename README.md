@@ -6,7 +6,7 @@
 
 生成public文件夹
 
-	 hugo --theme=academic --baseUrl="https://github.com/GISerDaiShaoqing/mycv.git"
+	 hugo --theme=academic --baseUrl="https://giserdaishaoqing.github.io/mycv/"
 
 push到github上
 
