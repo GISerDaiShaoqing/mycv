@@ -10,6 +10,9 @@
 
 push到github上
 
+	cd public
+	git init
+	git remote add origin https://github.com/GISerDaiShaoqing/mycv.git
 	git add -A
 	git commit -m "message"
 	git push -u origin master
