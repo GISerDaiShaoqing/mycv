@@ -11,12 +11,27 @@
     <atom:link href="/mycv/project/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Geovisualization by using Remap</title>
-      <link>https://giserdaishaoqing.github.io/mycv/project/geovisualization-by-using-remap/</link>
+      <title>Geovisualization</title>
+      <link>https://giserdaishaoqing.github.io/mycv/project/geovisualization/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://giserdaishaoqing.github.io/mycv/project/geovisualization-by-using-remap/</guid>
-      <description></description>
+      <guid>https://giserdaishaoqing.github.io/mycv/project/geovisualization/</guid>
+      <description>
+
+&lt;p&gt;We will visualize the geographical features by R packages/Python library.&lt;/p&gt;
+
+&lt;h2 id=&#34;remap-in-r&#34;&gt;&lt;strong&gt;Remap(in R)&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://giserdaishaoqing.github.io/Geographical_Tribune_of_Youth/&#34; target=&#34;_blank&#34;&gt;demo&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The case study is visualization of geographical tribune of youth.&lt;/p&gt;
+
+&lt;h2 id=&#34;folium-in-python&#34;&gt;&lt;strong&gt;Folium(in Python)&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;[](!&lt;a href=&#34;https://github.com/GISerDaiShaoqing/My-Studies-of-Urban-GIS/blob/master/3.Spatial%20visualization%20demo%20in%20folium(for%20Python)/output/windspeed.png&#34; target=&#34;_blank&#34;&gt;https://github.com/GISerDaiShaoqing/My-Studies-of-Urban-GIS/blob/master/3.Spatial%20visualization%20demo%20in%20folium(for%20Python)/output/windspeed.png&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;We visualize the raster by folium.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -25,7 +40,21 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://giserdaishaoqing.github.io/mycv/project/note-of-applied-statistics-with-r/</guid>
-      <description></description>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://giserdaishaoqing.gitbooks.io/note-of-applied-statistics-with-r-book/content/&#34; target=&#34;_blank&#34;&gt;Book&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In big data era, statistical theory is still meaningful. What&amp;rsquo;s deep learning study? &amp;ldquo;import tensorflow as tf&amp;rdquo;. Without basic statistical theory, we could not complete a very good study of deep learning or machine learning.&lt;/p&gt;
+
+&lt;h2 id=&#34;acknowledge&#34;&gt;&lt;strong&gt;Acknowledge&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;We thanks &lt;strong&gt;Mr.Wang&lt;/strong&gt;(&lt;a href=&#34;http://www.mscas.ac.cn/Teachers/Professor/234.shtml&#34; target=&#34;_blank&#34;&gt;CV&lt;/a&gt;) and her lessons: applied stastistics in University of Chinese Academic Sciences.&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Junping Jia, &lt;em&gt;Statistics&lt;/em&gt; (Fifth Edition), Renmin University of China Press, 2012.
+Xiaoqun He, &lt;em&gt;Multivariate Statistical Analysis&lt;/em&gt; (3rd Edition), Renmin University Press, 2012.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -34,9 +63,27 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://giserdaishaoqing.github.io/mycv/project/sponge-city-planning-research-in-the-view-of-landscape-analysis/</guid>
-      <description>&lt;p&gt;The research extracted the impervious surface from the non-NGI(natural green infrastructure ) landscape and used the precipitation-volumetric method to simulate waterlogging scenarios. We determined the area of rainwater submersion by simulation experiments, the change in the NGI landscape by overlaying images of the region, and the association between these features by data mining. Using the change in ecology indices, we ascertained the changing spatial patterns of the NGI landscape and used these findings to formulate suggestions for Sponge City planning in Fuzhou. Overall, our work combines three research themes, urban waterlogging, landscape ecology, and data mining, for a deep analysis of the relationship between the NGI landscape and storm runoff in an urban environment.&lt;/p&gt;
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;The research extracted the impervious surface from the non-NGI(natural green infrastructure ) landscape and used the precipitation-volumetric method to simulate waterlogging scenarios. We determined the area of rainwater submersion by simulation experiments, the change in the NGI landscape by overlaying images of the region, and the association between these features by data mining. Using the change in ecology indices, we ascertained the changing spatial patterns of the NGI landscape and used these findings to formulate suggestions for Sponge City planning in Fuzhou. Overall, our work combines three research themes, urban waterlogging, landscape ecology, and data mining, for a deep analysis of the relationship between the NGI landscape and storm runoff in an urban environment.&lt;/p&gt;
 
 &lt;p&gt;Our research results are inculded in the 2016 International Low Impact Development Conference Abstracts Proceedings and display at the 2016 International Low Impact Development Conference. Our research papers are included in the &amp;ldquo;Proceedings of 2016 International Low Impact Development Conference-China&amp;rdquo;. The Organizing Committee have negotiated the publication of conference papers as an American Society of Civil Engineers (ASCE) special Proceedings. The ASCE Proceedings is EI-indexed and is very widely recognized world-wide.&lt;/p&gt;
+
+&lt;h2 id=&#34;highlights&#34;&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;(1) Submerged areas were characterized by high population densities and high levels of human activity.&lt;/p&gt;
+
+&lt;p&gt;(2) Spatial association rule mining revealed a strong association between areas that were converted from NGI landscape and areas that were submerged in our simulations.&lt;/p&gt;
+
+&lt;p&gt;(3) Combination of urban waterlogging, landscape ecology and data mining.&lt;/p&gt;
+
+&lt;h2 id=&#34;publication&#34;&gt;&lt;strong&gt;Publication&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Shaoqing Dai&lt;/strong&gt;, Huixian Jiang, Jiajia Li. The Simulation Analysis of Waterlogging and the Sponge City Planning Control of Central Urabn Area in Fuzhou City. &lt;em&gt;2016 International Low Imapct Developement(LID) Conference&lt;/em&gt;, ASCE, 2016.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Shaoqing Dai&lt;/strong&gt;; Jiajia Li; Shudi Zuo; Yin Ren, Huixian Jiang. Landscape-Scale Simulation Analysis of Waterlogging and Sponge City Planning for a Central Urban Area in Fuzhou City, China, &lt;em&gt;International Low Impact Development Conference China 2016 : LID Applications in Sponge City Projects(EI-indexed)&lt;/em&gt;, 2017.&lt;/p&gt;
 </description>
     </item>
     
@@ -46,9 +93,15 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://giserdaishaoqing.github.io/mycv/project/the-optimization-model-of-high-education-staffs-refuge-space-under-earthquake-disater/</guid>
-      <description>&lt;p&gt;Earthquake is a devastating natural disaster, The seismic refuge has become the research focus in the world. Status quo of Qishan campus of Fujian Normal University earthquake disaster prone and vulnerability based on, The campus network model using L-A coupled seismic refuge constrained model and the evaluation method of MCE deployment optimization research. The results are as follows. 1）The principle of combining with national disaster in earthquake emergency shelter planning based on planning, 20 earthquake emergency shelter. 2）Fujian Normal University college student population spatial distribution pattern showed uneven spatial distribution, the characteristics of the North south. Under different time scales and different obvious spatial agglomeration. 3) According to the spatial and temporal distribution of proposed model assumptions, in different time scales according to different locations of the evacuation route analysis. And the crowd under earthquake disaster evacuation of about 64.412m/min by using the MCE evaluation method and entropy method. According to the evaluation method of MCE results, the use of L-A network constraint model to evaluate campus earthquake evacuation capability. The whole campus evacuation capability is weak, scenario simulation refuge accommodate the number of students is 18638, the shelter utilization rate is only 30%. The need for further planning and construction of disaster prevention and mitigation.&lt;/p&gt;
+      <description>
 
-&lt;p&gt;&lt;strong&gt;L-A network model&lt;/strong&gt;, &lt;strong&gt;The temporal and spatial distribution pattern of population&lt;/strong&gt;, &lt;strong&gt;MCE evaluation&lt;/strong&gt;, &lt;strong&gt;The University Campus&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Earthquake is a devastating natural disaster, The seismic refuge has become the research focus in the world. Status quo of Qishan campus of Fujian Normal University earthquake disaster prone and vulnerability based on, The campus network model using L-A coupled seismic refuge constrained model and the evaluation method of MCE deployment optimization research. The results are as follows. 1）The principle of combining with national disaster in earthquake emergency shelter planning based on planning, 20 earthquake emergency shelter. 2）Fujian Normal University college student population spatial distribution pattern showed uneven spatial distribution, the characteristics of the North south. Under different time scales and different obvious spatial agglomeration. 3) According to the spatial and temporal distribution of proposed model assumptions, in different time scales according to different locations of the evacuation route analysis. And the crowd under earthquake disaster evacuation of about 64.412m/min by using the MCE evaluation method and entropy method. According to the evaluation method of MCE results, the use of L-A network constraint model to evaluate campus earthquake evacuation capability. The whole campus evacuation capability is weak, scenario simulation refuge accommodate the number of students is 18638, the shelter utilization rate is only 30%. The need for further planning and construction of disaster prevention and mitigation.&lt;/p&gt;
+
+&lt;h2 id=&#34;key-words&#34;&gt;&lt;strong&gt;Key Words&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;L-A network model, The temporal and spatial distribution pattern of population, MCE evaluation, The University Campus&lt;/p&gt;
 </description>
     </item>
     
@@ -58,39 +111,15 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://giserdaishaoqing.github.io/mycv/project/the-simulation-model-of-building-site-location-and-construction-based-on-data-augmented-design-and-bim-a-case-study-of-fujian-normal-university/</guid>
-      <description>&lt;p&gt;With the tide of Smart City and Big Data era, I explore the practice of Data Augmented Design、GIS and BIM in Smart Campus’s Application based on Fujian Normal University Keji Buildings. I build the simulation model of building site location and construction. And I use Data Augmented Design, GIS spatial analysis, Space Syntax and City Engine 3D modeling to support the building site location and assessment of planning, build the BIM model and develop the public participation GIS of Keji Buildings. The result shows, 1) The location based on multi-source GIS data and principle of sustainable development. It has high reliability and offer a case study of building location in campus. The result of Space Syntax showed that the location has the higher choice and integration than others. It’s quite believable on the basis of quantitative analysis. 2)The BIM which based on CGA rules includes indoor and outdoor models. The building information models and collision detection tools could help the constructors solve the problem like pipeline collision. 3)The System of Smart Campus Public Participation could provide the functions of public participation based on VR and simulation analysis of sunlight. It aimed better decision-making and management.&lt;/p&gt;
+      <description>
 
-&lt;p&gt;&lt;strong&gt;BIM&lt;/strong&gt;; &lt;strong&gt;GIS&lt;/strong&gt;; &lt;strong&gt;The simulation model of building site location and construction&lt;/strong&gt;; &lt;strong&gt;Data Augmented Design&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;p&gt;View swipe.&lt;/p&gt;
+&lt;p&gt;With the tide of Smart City and Big Data era, I explore the practice of Data Augmented Design、GIS and BIM in Smart Campus’s Application based on Fujian Normal University Keji Buildings. I build the simulation model of building site location and construction. And I use Data Augmented Design, GIS spatial analysis, Space Syntax and City Engine 3D modeling to support the building site location and assessment of planning, build the BIM model and develop the public participation GIS of Keji Buildings.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://oyo5uzjmz.bkt.clouddn.com/complete1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;key-words&#34;&gt;&lt;strong&gt;Key Words&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;p&gt;Solar analysis.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://oyo5uzjmz.bkt.clouddn.com/sun.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://oyo5uzjmz.bkt.clouddn.com/sun2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Shortest Path.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://oyo5uzjmz.bkt.clouddn.com/run2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Indoor design.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://oyo5uzjmz.bkt.clouddn.com/indoor.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Report.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://oyo5uzjmz.bkt.clouddn.com/report1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://oyo5uzjmz.bkt.clouddn.com/report2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Collision detection.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://oyo5uzjmz.bkt.clouddn.com/knock1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://oyo5uzjmz.bkt.clouddn.com/knock2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;BIM; GIS; The simulation model of building site location and construction; Data Augmented Design&lt;/p&gt;
 </description>
     </item>
     
@@ -100,9 +129,13 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://giserdaishaoqing.github.io/mycv/project/the-virtual-3d-model-of--fuzhou-strait-olympic-sports-center/</guid>
-      <description>&lt;p&gt;The research built up the virtual 3D model of Fuzhou strait olmpic sports center. At the same time, our research includes the planning of the surrounding infrastructure. Eespecially, we use City Engine to construct our variable model(different styles of building) to create greater values.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://contest.esrichina.com.cn/html/zuopinzhanshi/2015sanweijianmoyushejizuhuojia/2015/1210/294.html&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;3D model of Stadium.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Co-author&lt;/strong&gt;: Minhang Ye, Ruitong Chen, Haihan Zhuo&lt;/p&gt;
+
+&lt;p&gt;The research built up the virtual 3D model of Fuzhou strait olmpic sports center. At the same time, our research includes the planning of the surrounding infrastructure. Eespecially, we use City Engine to construct our variable model(different styles of building) to create greater values.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3D model of Stadium&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://oyo5uzjmz.bkt.clouddn.com/2.%E4%B8%BB%E4%BD%93%E8%82%B2%E9%A6%86%E6%88%AA%E5%9B%BE.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
@@ -110,13 +143,13 @@
 
 &lt;p&gt;&lt;img src=&#34;http://oyo5uzjmz.bkt.clouddn.com/3.%E4%B8%BB%E4%BD%93%E8%82%B2%E9%A6%86%E7%B2%BE%E7%BB%86%E5%BB%BA%E6%A8%A1%EF%BC%88%E6%A0%8F%E6%9D%86%E3%80%81%E6%A5%BC%E6%A2%AF%E3%80%81%E5%87%BA%E5%8F%A3%EF%BC%89.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Different styles of buildings.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Different styles of buildings&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://oyo5uzjmz.bkt.clouddn.com/9.%E5%B1%85%E6%B0%91%E5%8C%BA%E8%A7%84%E5%88%99%E5%BB%BA%E6%A8%A1%EF%BC%88window1+balconyA%EF%BC%89.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://oyo5uzjmz.bkt.clouddn.com/10.%E5%B1%85%E6%B0%91%E5%8C%BA%E8%A7%84%E5%88%99%E5%BB%BA%E6%A8%A1%EF%BC%88window1+balconyC%EF%BC%89.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Detection of illegal construction.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Detection of illegal construction&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://oyo5uzjmz.bkt.clouddn.com/26.Zoning%E5%8A%9F%E8%83%BD%E6%88%AA%E5%9B%BE.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
