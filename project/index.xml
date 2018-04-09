@@ -24,13 +24,13 @@
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://giserdaishaoqing.github.io/Geographical_Tribune_of_Youth/&#34; target=&#34;_blank&#34;&gt;demo&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;The case study is visualization of geographical tribune of youth.&lt;/p&gt;
+&lt;p&gt;The case study is visualization of the geographical tribune of youth.&lt;/p&gt;
 
 &lt;h2 id=&#34;folium-in-python&#34;&gt;&lt;strong&gt;Folium(in Python)&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;p&gt;[](!&lt;a href=&#34;https://github.com/GISerDaiShaoqing/My-Studies-of-Urban-GIS/blob/master/3.Spatial%20visualization%20demo%20in%20folium(for%20Python)/output/windspeed.png&#34; target=&#34;_blank&#34;&gt;https://github.com/GISerDaiShaoqing/My-Studies-of-Urban-GIS/blob/master/3.Spatial%20visualization%20demo%20in%20folium(for%20Python)/output/windspeed.png&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://p04n283nf.bkt.clouddn.com/windspeed.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;We visualize the raster by folium.&lt;/p&gt;
+&lt;p&gt;We visualize the raster(wind speed in Tibet) by folium.&lt;/p&gt;
 </description>
     </item>
     
