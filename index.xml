@@ -11,6 +11,24 @@
     <atom:link href="/mycv/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>The Scale Effect, Zoning Effect of Geographical Features, the Modified Areal Unit Problem and Chanllege of Spatial Stastistics</title>
+      <link>https://giserdaishaoqing.github.io/mycv/talk/2018-05-27/</link>
+      <pubDate>Sun, 27 May 2018 08:30:00 +0800</pubDate>
+      
+      <guid>https://giserdaishaoqing.github.io/mycv/talk/2018-05-27/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Resolution Mapping of Direct CO2 Emissions and Uncertainties at the Urban Scale </title>
+      <link>https://giserdaishaoqing.github.io/mycv/talk/2018-05-22/</link>
+      <pubDate>Tue, 22 May 2018 16:15:00 +0800</pubDate>
+      
+      <guid>https://giserdaishaoqing.github.io/mycv/talk/2018-05-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title> Individual and Interactive Influences of Anthropogenic and Ecological Factors on Forest PM2.5 Concentrations at an Urban Scale</title>
       <link>https://giserdaishaoqing.github.io/mycv/publication/2018-03-26/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
@@ -156,54 +174,6 @@
 
 &lt;p&gt;Junping Jia, &lt;em&gt;Statistics&lt;/em&gt; (Fifth Edition), Renmin University of China Press, 2012.
 Xiaoqun He, &lt;em&gt;Multivariate Statistical Analysis&lt;/em&gt; (3rd Edition), Renmin University Press, 2012.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sponge city planning research in the view of landscape anslysis</title>
-      <link>https://giserdaishaoqing.github.io/mycv/project/sponge-city-planning-research-in-the-view-of-landscape-analysis/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://giserdaishaoqing.github.io/mycv/project/sponge-city-planning-research-in-the-view-of-landscape-analysis/</guid>
-      <description>
-
-&lt;h2 id=&#34;description&#34;&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;The research extracted the impervious surface from the non-NGI(natural green infrastructure ) landscape and used the precipitation-volumetric method to simulate waterlogging scenarios. We determined the area of rainwater submersion by simulation experiments, the change in the NGI landscape by overlaying images of the region, and the association between these features by data mining. Using the change in ecology indices, we ascertained the changing spatial patterns of the NGI landscape and used these findings to formulate suggestions for Sponge City planning in Fuzhou. Overall, our work combines three research themes, urban waterlogging, landscape ecology, and data mining, for a deep analysis of the relationship between the NGI landscape and storm runoff in an urban environment.&lt;/p&gt;
-
-&lt;p&gt;Our research results are inculded in the 2016 International Low Impact Development Conference Abstracts Proceedings and display at the 2016 International Low Impact Development Conference. Our research papers are included in the &amp;ldquo;Proceedings of 2016 International Low Impact Development Conference-China&amp;rdquo;. The Organizing Committee have negotiated the publication of conference papers as an American Society of Civil Engineers (ASCE) special Proceedings. The ASCE Proceedings is EI-indexed and is very widely recognized world-wide.&lt;/p&gt;
-
-&lt;h2 id=&#34;highlights&#34;&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;(1) Submerged areas were characterized by high population densities and high levels of human activity.&lt;/p&gt;
-
-&lt;p&gt;(2) Spatial association rule mining revealed a strong association between areas that were converted from NGI landscape and areas that were submerged in our simulations.&lt;/p&gt;
-
-&lt;p&gt;(3) Combination of urban waterlogging, landscape ecology and data mining.&lt;/p&gt;
-
-&lt;h2 id=&#34;publication&#34;&gt;&lt;strong&gt;Publication&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Shaoqing Dai&lt;/strong&gt;, Huixian Jiang, Jiajia Li. The Simulation Analysis of Waterlogging and the Sponge City Planning Control of Central Urabn Area in Fuzhou City. &lt;em&gt;2016 International Low Imapct Developement(LID) Conference&lt;/em&gt;, ASCE, 2016.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Shaoqing Dai&lt;/strong&gt;; Jiajia Li; Shudi Zuo; Yin Ren, Huixian Jiang. Landscape-Scale Simulation Analysis of Waterlogging and Sponge City Planning for a Central Urban Area in Fuzhou City, China, &lt;em&gt;International Low Impact Development Conference China 2016 : LID Applications in Sponge City Projects(EI-indexed)&lt;/em&gt;, 2017.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Optimization Model of High Education Staff’s Refuge Space Under Earthquake Disater</title>
-      <link>https://giserdaishaoqing.github.io/mycv/project/the-optimization-model-of-high-education-staffs-refuge-space-under-earthquake-disater/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://giserdaishaoqing.github.io/mycv/project/the-optimization-model-of-high-education-staffs-refuge-space-under-earthquake-disater/</guid>
-      <description>
-
-&lt;h2 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;Earthquake is a devastating natural disaster, The seismic refuge has become the research focus in the world. Status quo of Qishan campus of Fujian Normal University earthquake disaster prone and vulnerability based on, The campus network model using L-A coupled seismic refuge constrained model and the evaluation method of MCE deployment optimization research. The results are as follows. 1）The principle of combining with national disaster in earthquake emergency shelter planning based on planning, 20 earthquake emergency shelter. 2）Fujian Normal University college student population spatial distribution pattern showed uneven spatial distribution, the characteristics of the North south. Under different time scales and different obvious spatial agglomeration. 3) According to the spatial and temporal distribution of proposed model assumptions, in different time scales according to different locations of the evacuation route analysis. And the crowd under earthquake disaster evacuation of about 64.412m/min by using the MCE evaluation method and entropy method. According to the evaluation method of MCE results, the use of L-A network constraint model to evaluate campus earthquake evacuation capability. The whole campus evacuation capability is weak, scenario simulation refuge accommodate the number of students is 18638, the shelter utilization rate is only 30%. The need for further planning and construction of disaster prevention and mitigation.&lt;/p&gt;
-
-&lt;h2 id=&#34;key-words&#34;&gt;&lt;strong&gt;Key Words&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;L-A network model, The temporal and spatial distribution pattern of population, MCE evaluation, The University Campus&lt;/p&gt;
 </description>
     </item>
     
