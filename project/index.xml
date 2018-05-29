@@ -7,8 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Shaoqing Dai</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 May 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/mycv/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>D3L Tool of NASA Satellite</title>
+      <link>https://giserdaishaoqing.github.io/mycv/project/d3l-tool-of-nasa-satellite/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://giserdaishaoqing.github.io/mycv/project/d3l-tool-of-nasa-satellite/</guid>
+      <description>
+
+&lt;p&gt;D3L Tool of NASA Satellite was developed by Mr. Dai . The program provides a graphical interface to download satellite imagery from NASA, such as MODIS products, MERIS and more. Due to new NASA Policies LAADS FTP servers (both public and private) will be shutting down around Monday, April 20th 2018. NASA provide some scripts to download, but it&amp;rsquo;s a little hard for some people who didn&amp;rsquo;t use python. So I have developed the D3L Tool of NASA Satellite.&lt;/p&gt;
+
+&lt;h2 id=&#34;download-link&#34;&gt;&lt;strong&gt;Download Link&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://p04n283nf.bkt.clouddn.com/D3LToolcn.zip&#34; target=&#34;_blank&#34;&gt;D3L Tool of NASA Satellite 1.0 (4/27/2018) for 64-bit Windows 8，10, Chinese Vesion&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://p04n283nf.bkt.clouddn.com/D3LToolen.zip&#34; target=&#34;_blank&#34;&gt;D3L Tool of NASA Satellite 1.0 (4/27/2018) for 64-bit Windows 8，10, English Vesion&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://p04n283nf.bkt.clouddn.com/D3LToolcnWin732bit.zip&#34; target=&#34;_blank&#34;&gt;D3L Tool of NASA Satellite 1.0 (4/27/2018) for 32-bit Windows 7, Chinese Vesion&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://p04n283nf.bkt.clouddn.com/D3LToolenWin732bit.zip&#34; target=&#34;_blank&#34;&gt;D3L Tool of NASA Satellite 1.0 (4/27/2018) for 32-bit Windows 7, Chinese Vesion&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;blog-in-chinese&#34;&gt;&lt;strong&gt;Blog(in Chinese)&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://giserdaishaoqing.github.io/2018/05/18/MODIS%E6%95%B0%E6%8D%AE%E7%9A%84%E7%AE%80%E4%BB%8B%E5%92%8C%E4%B8%8B%E8%BD%BD%EF%BC%88%E5%85%AD%EF%BC%89%E2%80%94%E2%80%94%E5%9F%BA%E4%BA%8E%E6%B5%8F%E8%A7%88%E5%99%A8%E6%A8%A1%E6%8B%9F%E7%99%BB%E9%99%86%E4%B8%8B%E8%BD%BD%E7%9A%84%E6%96%B9%E5%BC%8F%E4%BB%A5%E5%8F%8AD3L%20Tool%E5%BC%80%E5%8F%91/&#34; target=&#34;_blank&#34;&gt;MODIS数据的简介和下载（六）——基于浏览器模拟登陆下载的方式以及D3L Tool开发&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;official-website&#34;&gt;&lt;strong&gt;Official Website&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://giserdaishaoqing.github.io/D3LTool/&#34; target=&#34;_blank&#34;&gt;D3L Tool of NASA Satellite&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Geovisualization</title>
