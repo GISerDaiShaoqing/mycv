@@ -41,6 +41,26 @@
     </item>
     
     <item>
+      <title>Geographical Detector in R</title>
+      <link>https://giserdaishaoqing.github.io/mycv/project/geographical-detector-in-r/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://giserdaishaoqing.github.io/mycv/project/geographical-detector-in-r/</guid>
+      <description>
+
+&lt;p&gt;Due to the limitation of Excel software of geographical detector, I developed the Geographical Detector by R.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.geodetector.org/&#34; target=&#34;_blank&#34;&gt;Geographical Detector Offical Website&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://p04n283nf.bkt.clouddn.com/%E7%A9%BA%E9%97%B4%E7%BB%9F%E8%AE%A1%E7%90%86%E8%AE%BA%E5%9B%BE%EF%BC%88%E7%8E%8B%E5%8A%B2%E5%B3%B0%EF%BC%89.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;more-detailed-information&#34;&gt;&lt;strong&gt;More Detailed Information&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;We are fulfilling the information and software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Geovisualization</title>
       <link>https://giserdaishaoqing.github.io/mycv/project/geovisualization/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -72,7 +92,8 @@
       <guid>https://giserdaishaoqing.github.io/mycv/project/note-of-applied-statistics-with-r/</guid>
       <description>
 
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://giserdaishaoqing.gitbooks.io/note-of-applied-statistics-with-r-book/content/&#34; target=&#34;_blank&#34;&gt;Book&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/GISerDaiShaoqing/Note-of-Applied-Statistics-with-R&#34; target=&#34;_blank&#34;&gt;Project&lt;/a&gt;&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;https://giserdaishaoqing.gitbooks.io/note-of-applied-statistics-with-r-book/content/&#34; target=&#34;_blank&#34;&gt;Book&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;In big data era, statistical theory is still meaningful. What&amp;rsquo;s deep learning study? &amp;ldquo;import tensorflow as tf&amp;rdquo;. Without basic statistical theory, we could not complete a very good study of deep learning or machine learning.&lt;/p&gt;
 
@@ -143,6 +164,8 @@ Xiaoqun He, &lt;em&gt;Multivariate Statistical Analysis&lt;/em&gt; (3rd Edition)
       <guid>https://giserdaishaoqing.github.io/mycv/project/the-simulation-model-of-building-site-location-and-construction-based-on-data-augmented-design-and-bim-a-case-study-of-fujian-normal-university/</guid>
       <description>
 
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://www.arcgis.com/apps/CEWebViewer/viewer.html?3dWebScene=763aa7b8bf7e4f0985eeb19c2fa34f7a&#34; target=&#34;_blank&#34;&gt;Online Model&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
 &lt;h2 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/h2&gt;
 
 &lt;p&gt;With the tide of Smart City and Big Data era, I explore the practice of Data Augmented Design、GIS and BIM in Smart Campus’s Application based on Fujian Normal University Keji Buildings. I build the simulation model of building site location and construction. And I use Data Augmented Design, GIS spatial analysis, Space Syntax and City Engine 3D modeling to support the building site location and assessment of planning, build the BIM model and develop the public participation GIS of Keji Buildings.&lt;/p&gt;
@@ -159,7 +182,7 @@ Xiaoqun He, &lt;em&gt;Multivariate Statistical Analysis&lt;/em&gt; (3rd Edition)
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://giserdaishaoqing.github.io/mycv/project/the-virtual-3d-model-of--fuzhou-strait-olympic-sports-center/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://contest.esrichina.com.cn/html/zuopinzhanshi/2015sanweijianmoyushejizuhuojia/2015/1210/294.html&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://contest.esrichina.com.cn/html/zuopinzhanshi/2015sanweijianmoyushejizuhuojia/2015/1210/294.html&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Co-author&lt;/strong&gt;: Minhang Ye, Ruitong Cheng, Haihan Zhuo&lt;/p&gt;
 
