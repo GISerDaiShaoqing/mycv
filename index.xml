@@ -6,9 +6,67 @@
     <description>Recent content in Academic on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Shaoqing Dai</copyright>
+    <copyright>&amp;copy; 2016-2018 Shaoqing Dai</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/mycv/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>List of News</title>
+      <link>https://giserdaishaoqing.github.io/mycv/news/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://giserdaishaoqing.github.io/mycv/news/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Aug. 1, 2018&lt;/strong&gt;:
+Shaoqing Dai has been attended the Applied Energy Summer School 2018 at Tsinghua University, Beijing, China.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mar. 26, 2018&lt;/strong&gt;:
+The results by integrating forest management patches inventory, remote sensing and GIS indicated that the elevation and species
+had a significant effect on PM2.5 in urban forest. The interactions between the human activities and other ecological factors
+were the non-linear enhancement. &lt;a href=&#34;../publication/2018-03-26/&#34;&gt;This paper&lt;/a&gt; is now available on
+&lt;a href=&#34;http://www.mdpi.com/2072-4292/10/4/521&#34; target=&#34;_blank&#34;&gt;Remote Sensing&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mar. 22, 2018&lt;/strong&gt;:
+Shaoqing Dai won the the national winning award on 2017 “Sharing Cup” College Student Science and Technology Resource
+Sharing Service Innovation Contest.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Feb. 15, 2018&lt;/strong&gt;:
+We used the panel data analyze the eﬀects of command-and-control and market-oriented policy tools on China’s energy
+conservation and emissions reduction innovation. &lt;a href=&#34;../publication/2018-02-15/&#34;&gt;This Chinese paper&lt;/a&gt; published on
+&lt;a href=&#34;http://www.cpre.sdnu.edu.cn/WKC/WebPublication/paperDigest.aspx?paperID=e08627b9-4786-4236-9c4d-f558b23cf875&#34; target=&#34;_blank&#34;&gt;China Populaiton, Resources and Environment&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dec. 27, 2017&lt;/strong&gt;:
+We used the panel data analyze the eﬀects of command-and-control and market-oriented policy tools on China’s energy
+conservation and emissions reduction innovation. &lt;a href=&#34;../publication/2017-12-27/&#34;&gt;This English paper&lt;/a&gt; published on
+&lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/10042857.2017.1418273&#34; target=&#34;_blank&#34;&gt;Chinese Journal of Populaiton Resources and Environment&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dec. 16, 2017&lt;/strong&gt;:
+We explored the relationship between the Carbon Dioxide Emission and fragmentation of urban functional landscape.
+The abstract and poster were accepted and showed at the American Geophysical Union(AGU) Fall Meeting, New Orleans, America.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Dec. 4, 2017&lt;/strong&gt;:
+Our research determined the association between the area of submersion and the change area of landscape by data mining.
+Using the change in ecology indices, we ascertained the changing spatial patterns of the NGI landscape and used these
+findings to formulate suggestions for Sponge City planning in Fuzhou. Overall, our work combines three research themes,
+urban waterlogging, landscape ecology, and data mining, for a deep analysis of the relationship between the NGI landscape
+and storm runoff in an urban environment. &lt;a href=&#34;../publication/2017-12-04/&#34;&gt;This paper&lt;/a&gt; published on
+&lt;a href=&#34;https://ascelibrary.org/doi/book/10.1061/9780784481042&#34; target=&#34;_blank&#34;&gt;International Low Impact Development Conference China 2016 : LID Applications in Sponge City Projects&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Oct. 24, 2017&lt;/strong&gt;:
+Shaoqing Dai attended the 15th User Conference of esri as a volunteer of expericence zone.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;May. 15, 2017&lt;/strong&gt;:
+Our poster about the relationship between the carbon dioxide emissions and fargmentation of urban functional landscape showed
+at the The 9th Lecture of Modern Ecology, Shanghai, China.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Aug. 26, 2016&lt;/strong&gt;:
+We analyzed the survey of the safety of eletric bicycle as a volunteer of Green Bike-Transit.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jun. 26, 2016&lt;/strong&gt;：
+Our poster of sponge city research showed at the 2016 International Low Impact Development Conference, China National Convention Center, Beijing, China.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>D3L Tool of NASA Satellite</title>
@@ -124,7 +182,7 @@
     </item>
     
     <item>
-      <title>The PM2.5 Environmental Effect of Urban Form</title>
+      <title>The Environmental Effect of Urban Form on PM2.5</title>
       <link>https://giserdaishaoqing.github.io/mycv/talk/2017-11-11/</link>
       <pubDate>Wed, 08 Nov 2017 11:55:00 +0800</pubDate>
       
@@ -199,30 +257,6 @@
 &lt;p&gt;Under the storm of global informatization, development of smart city draws much attention and smart transportation is the root. For the city of Fuzhou’s Cangsang district is one of the earliest pilot smart cities and the place to hold the national youth games, this study takes it as the target area and makes a transportation plan based on data augmentation design.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://p04n283nf.bkt.clouddn.com/10thIACP_groupphoto.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Geovisualization</title>
-      <link>https://giserdaishaoqing.github.io/mycv/project/geovisualization/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://giserdaishaoqing.github.io/mycv/project/geovisualization/</guid>
-      <description>
-
-&lt;p&gt;We will visualize the geographical features by R packages/Python library.&lt;/p&gt;
-
-&lt;h2 id=&#34;remap-in-r&#34;&gt;&lt;strong&gt;Remap(in R)&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://giserdaishaoqing.github.io/Geographical_Tribune_of_Youth/&#34; target=&#34;_blank&#34;&gt;demo&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The case study is visualization of the geographical tribune of youth.&lt;/p&gt;
-
-&lt;h2 id=&#34;folium-in-python&#34;&gt;&lt;strong&gt;Folium(in Python)&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://p04n283nf.bkt.clouddn.com/windspeed.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We visualize the raster(wind speed in Tibet) by folium.&lt;/p&gt;
 </description>
     </item>
     
