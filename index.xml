@@ -11,13 +11,41 @@
     <atom:link href="/mycv/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title> Analysis of Heavy Metal Sources in the Soil of Riverbanks Across an Urbanization Gradient</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/2018-10-04/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/2018-10-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Influence of Walking Environment on Robbery, Snatch and Theft Crime in Urban Area, H City, China(Chinese)</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/2018-08-15/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/2018-08-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>List of News</title>
       <link>https://giserdaishaoqing.github.io/mycv/news/</link>
       <pubDate>Tue, 14 Aug 2018 00:00:00 +0800</pubDate>
       
       <guid>https://giserdaishaoqing.github.io/mycv/news/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Aug. 1, 2018&lt;/strong&gt;:
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Oct. 4,2018&lt;/strong&gt;:
+We determined the influence factors of heavy metal across the urbanization gradient and found that in the exurbs,
+the stronger interaction effects were observed between strong and weak factors. &lt;a href=&#34;../publication/2018-10-04/&#34;&gt;This paper&lt;/a&gt;
+is now available on &lt;a href=&#34;https://www.mdpi.com/1660-4601/15/10/2175&#34; target=&#34;_blank&#34;&gt;International Journal of Environmental Research and Public Health&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sep.30, 2018&lt;/strong&gt;:
+Shaoqing Dai, Weixu Yang and Jiajia Li attended the 2th big data supports spatial plannning and design competition
+and entered the finals. The topic of our work is &amp;ldquo;Parcel-Scale Identification of production, life and ecology space:
+a case of Ningbo city&amp;rdquo;. We will go to Fuzhou in 28th, October, 2018 and present our work.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Aug. 1, 2018&lt;/strong&gt;:
 Shaoqing Dai attended the Applied Energy Summer School 2018 at Tsinghua University, Beijing, China.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;May. 25,2018&lt;/strong&gt;:
@@ -313,24 +341,6 @@ Our poster of sponge city research presented at the 2016 International Low Impac
 
 &lt;p&gt;&lt;img src=&#34;http://p04n283nf.bkt.clouddn.com/03551963773.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>The Simulation Analysis of Waterlogging and the Sponge City Planning Control of Central Urabn Area in Fuzhou City</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/2016-06-26/</link>
-      <pubDate>Sun, 26 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/2016-06-26/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Analysis of Urban Spatial Development Pattern in Beijing Based on the Big Data of Government(Chinese)</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/2016-06-24/</link>
-      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/2016-06-24/</guid>
-      <description></description>
     </item>
     
   </channel>
