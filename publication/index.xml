@@ -11,6 +11,15 @@
     <atom:link href="/mycv/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Determining the Mechanisms that Influence the Surface Temperature of Urban Forest Canopies by Combining Remote Sensing Methods, Ground Observations, and Spatial Statistical Models</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/2018-11-15/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/2018-11-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title> Analysis of Heavy Metal Sources in the Soil of Riverbanks Across an Urbanization Gradient</title>
       <link>https://giserdaishaoqing.github.io/mycv/publication/2018-10-04/</link>
       <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
@@ -25,7 +34,48 @@
       <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://giserdaishaoqing.github.io/mycv/publication/2018-08-15/</guid>
-      <description></description>
+      <description>
+
+&lt;h3 id=&#34;scientific-problems&#34;&gt;Scientific problems&lt;/h3&gt;
+
+&lt;p&gt;(1) The influence of urban walking environment on the RST, whether it is in consitent with the theory of good urban walking environment and reducing crime rate in western context?&lt;/p&gt;
+
+&lt;p&gt;(2) What are the characteristics and laws of urban walking environment on RST?&lt;/p&gt;
+
+&lt;h3 id=&#34;framework&#34;&gt;Framework&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/201812052312.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180601.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Walking environment in urban&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180602.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The results of spatial aggregation(a) and spatial autocorrelation(b)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180603.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The spatial distribution of residence probability of suspects under the different distances&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180604.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The visualization of correlation coefficient matrix and scatter plot&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180605.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Spatial variation of regression coefficient of GWGLM&lt;/p&gt;
+
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;The results showed that the walking environment probably has a positive effect on the RST crime in H city, the greater walkability, the more RST. The effects of walking environment probably has spatial heterogeneity features both on RST and the residence probability of suspects.&lt;/p&gt;
+
+&lt;h3 id=&#34;wechat-articles&#34;&gt;Wechat articles&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/4AOmOlRPz--PQpRbgdiXqw&#34; target=&#34;_blank&#34;&gt;【犯罪地理专栏】H市城区步行环境对两抢一盗警情的影响&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
