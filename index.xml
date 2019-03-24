@@ -45,43 +45,43 @@
       <guid>https://giserdaishaoqing.github.io/mycv/publication/2018-08-15/</guid>
       <description>
 
-&lt;h3 id=&#34;scientific-problems&#34;&gt;Scientific problems&lt;/h3&gt;
+&lt;h4 id=&#34;scientific-problems&#34;&gt;Scientific problems&lt;/h4&gt;
 
 &lt;p&gt;(1) The influence of urban walking environment on the RST, whether it is in consitent with the theory of good urban walking environment and reducing crime rate in western context?&lt;/p&gt;
 
 &lt;p&gt;(2) What are the characteristics and laws of urban walking environment on RST?&lt;/p&gt;
 
-&lt;h3 id=&#34;framework&#34;&gt;Framework&lt;/h3&gt;
+&lt;h4 id=&#34;methods&#34;&gt;Methods&lt;/h4&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/201812052312.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
+&lt;h4 id=&#34;results&#34;&gt;Results&lt;/h4&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180601.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Walking environment in urban&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Walking environment in urban&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180602.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The results of spatial aggregation(a) and spatial autocorrelation(b)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The results of spatial aggregation(a) and spatial autocorrelation(b)&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180603.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The spatial distribution of residence probability of suspects under the different distances&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The spatial distribution of residence probability of suspects under the different distances&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180604.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The visualization of correlation coefficient matrix and scatter plot&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The visualization of correlation coefficient matrix and scatter plot&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180605.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Spatial variation of regression coefficient of GWGLM&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Spatial variation of regression coefficient of GWGLM&lt;/em&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+&lt;h4 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h4&gt;
 
 &lt;p&gt;The results showed that the walking environment probably has a positive effect on the RST crime in H city, the greater walkability, the more RST. The effects of walking environment probably has spatial heterogeneity features both on RST and the residence probability of suspects.&lt;/p&gt;
 
-&lt;h3 id=&#34;wechat-articles&#34;&gt;Wechat articles&lt;/h3&gt;
+&lt;h4 id=&#34;wechat-articles&#34;&gt;Wechat articles&lt;/h4&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/4AOmOlRPz--PQpRbgdiXqw&#34; target=&#34;_blank&#34;&gt;【犯罪地理专栏】H市城区步行环境对两抢一盗警情的影响&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -251,18 +251,24 @@ Our poster of sponge city research presented at the 2016 International Low Impac
     </item>
     
     <item>
-      <title>Open academic software and code</title>
-      <link>https://giserdaishaoqing.github.io/mycv/project/open-source-academic-software-and-courses/</link>
+      <title>Open academic softwares and scripts</title>
+      <link>https://giserdaishaoqing.github.io/mycv/project/open-source-academic-software-and-scripts/</link>
       <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://giserdaishaoqing.github.io/mycv/project/open-source-academic-software-and-courses/</guid>
+      <guid>https://giserdaishaoqing.github.io/mycv/project/open-source-academic-software-and-scripts/</guid>
       <description>
 
-&lt;h2 id=&#34;1-d3l-tool-of-nasa-satellite&#34;&gt;1 D3L Tool of NASA Satellite&lt;/h2&gt;
+&lt;p&gt;There are some open academic softwares and scripts which are developed by me. The softwares are used for downloading satellit data easily, writing notebook for paper quickly and so on. The srcipts are about the geo-visualization and based on R, Python or Javascripts.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;d3l-tool-of-nasa-satellite&#34;&gt;D3L Tool of NASA Satellite&lt;/h4&gt;
 
 &lt;p&gt;D3L Tool of NASA Satellite was developed by Mr. Dai . The program provides a graphical interface to download satellite imagery from NASA, such as MODIS products, MERIS and more. Due to new NASA Policies LAADS FTP servers (both public and private) will be shutting down around Monday, April 20th 2018. NASA provide some scripts to download, but it&amp;rsquo;s a little hard for some people who didn&amp;rsquo;t use python. So I have developed the D3L Tool of NASA Satellite.&lt;/p&gt;
 
-&lt;h3 id=&#34;download-link&#34;&gt;&lt;strong&gt;Download Link&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Download Link&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://science.gisersqdai.top/D3LToolcn.zip&#34; target=&#34;_blank&#34;&gt;D3L Tool of NASA Satellite 1.0 (4/27/2018) for 64-bit Windows 8，10, Chinese Vesion&lt;/a&gt;&lt;/p&gt;
 
@@ -274,31 +280,52 @@ Our poster of sponge city research presented at the 2016 International Low Impac
 
 &lt;p&gt;&lt;a href=&#34;https://pan.baidu.com/share/home?uk=2855623577&amp;amp;suk=QR0keGnZkZWNh9Pf3aQyaQ&amp;amp;view=share#category/type=0&#34; target=&#34;_blank&#34;&gt;Baidu Pan&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;blog-in-chinese&#34;&gt;&lt;strong&gt;Blog(in Chinese)&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Blog(in Chinese)&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://gisersqdai.top//2018/05/18/MODIS%E6%95%B0%E6%8D%AE%E7%9A%84%E7%AE%80%E4%BB%8B%E5%92%8C%E4%B8%8B%E8%BD%BD%EF%BC%88%E5%85%AD%EF%BC%89%E2%80%94%E2%80%94%E5%9F%BA%E4%BA%8E%E6%B5%8F%E8%A7%88%E5%99%A8%E6%A8%A1%E6%8B%9F%E7%99%BB%E9%99%86%E4%B8%8B%E8%BD%BD%E7%9A%84%E6%96%B9%E5%BC%8F%E4%BB%A5%E5%8F%8AD3L%20Tool%E5%BC%80%E5%8F%91/&#34; target=&#34;_blank&#34;&gt;MODIS数据的简介和下载（六）——基于浏览器模拟登陆下载的方式以及D3L Tool开发&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;official-website&#34;&gt;&lt;strong&gt;Official Website&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Official Website&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://gisersqdai.top//D3LTool/&#34; target=&#34;_blank&#34;&gt;D3L Tool of NASA Satellite&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;2-geovisualization&#34;&gt;2 Geovisualization&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;scripts-of-geovisualization&#34;&gt;Scripts of Geovisualization&lt;/h4&gt;
 
 &lt;p&gt;We will visualize the geographical features by R packages/Python library.&lt;/p&gt;
 
-&lt;h3 id=&#34;remap-in-r&#34;&gt;&lt;strong&gt;Remap(in R)&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Remap(in R)&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://gisersqdai.top//Geographical_Tribune_of_Youth/&#34; target=&#34;_blank&#34;&gt;demo&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The case study is visualization of the geographical tribune of youth.&lt;/p&gt;
 
-&lt;h3 id=&#34;folium-in-python&#34;&gt;&lt;strong&gt;Folium(in Python)&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Folium(in Python)&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/windspeed.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;We visualize the raster(wind speed in Tibet) by folium.&lt;/p&gt;
+&lt;p&gt;We visualize the raster(wind speed in Tibet) by folium. We also can use Heat map to visualize the points by folium. If you need this code,  please send an e-mail to dsq1993qingge@163.com.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://gisersqdai.top/SustainableCity-Working-Group/&#34; target=&#34;_blank&#34;&gt;Heat Map&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
+
+&lt;p&gt;If you are using the softwares or scripts in paper, please cited as follow:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Shaoqing Dai. (2018). D3L Tool of NASA Satellite. &lt;a href=&#34;https://www.researchgate.net/publication/331975387_D3L_Tool_of_NASA_Satellite_v10&#34; target=&#34;_blank&#34;&gt;doi:10.13140/RG.2.2.26178.63689&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Shaoqing Dai. (2017). Spatial visualization demo in folium (for Python). &lt;a href=&#34;https://www.researchgate.net/publication/319679788_Spatial_visualization_demo_in_folium_for_Python&#34; target=&#34;_blank&#34;&gt;doi:10.13140/RG.2.2.16320.23045&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -310,9 +337,11 @@ Our poster of sponge city research presented at the 2016 International Low Impac
       <guid>https://giserdaishaoqing.github.io/mycv/project/spatial-analysis-spatial-statistics-and-its-application-in-geographical-ecological-and-environmental-research/</guid>
       <description>
 
-&lt;h2 id=&#34;1-theory-development-and-software&#34;&gt;1 Theory development and Software&lt;/h2&gt;
+&lt;h4 id=&#34;theory-development-and-software&#34;&gt;Theory development and Software&lt;/h4&gt;
 
-&lt;h3 id=&#34;1-geographical-detector-for-r&#34;&gt;1 Geographical Detector for R&lt;/h3&gt;
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;geographical-detector-for-r&#34;&gt;Geographical Detector for R&lt;/h4&gt;
 
 &lt;p&gt;Due to the limitation of Excel software of geographical detector, I developed the Geographical Detector by R.&lt;/p&gt;
 
@@ -324,14 +353,24 @@ Our poster of sponge city research presented at the 2016 International Low Impac
 
 &lt;p&gt;We are fulfilling the information and software.&lt;/p&gt;
 
-&lt;h3 id=&#34;2-note-of-applied-statistics-with-r&#34;&gt;2 Note of Applied Statistics with R&lt;/h3&gt;
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;note-of-applied-statistics-with-r&#34;&gt;Note of Applied Statistics with R&lt;/h4&gt;
 
 &lt;p&gt;This is some note of Applied Statistics with R which comes from my course &amp;lsquo;Applied Statistics&amp;rsquo; at this term. The Note includes 14 Chapters. The note is in Chinese. &lt;a href=&#34;https://github.com/GISerDaiShaoqing/Note-of-Applied-Statistics-with-R&#34; target=&#34;_blank&#34;&gt;Project&lt;/a&gt;,&lt;a href=&#34;https://github.com/GISerDaiShaoqing/Note-of-Applied-Statistics-with-R-Book&#34; target=&#34;_blank&#34;&gt;Book&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/GISerDaiShaoqing/Note-of-Applied-Statistics-with-R&#34; target=&#34;_blank&#34;&gt;Project&lt;/a&gt;&lt;/strong&gt;
 &lt;strong&gt;&lt;a href=&#34;https://giserdaishaoqing.gitbooks.io/note-of-applied-statistics-with-r-book/content/&#34; target=&#34;_blank&#34;&gt;Book&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;download-and-introduction&#34;&gt;&lt;strong&gt;Download and introduction&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In big data era, statistical theory is still meaningful. What&amp;rsquo;s deep learning study? &amp;ldquo;import tensorflow as tf&amp;rdquo;. Without basic statistical theory, we could not complete a very good study of deep learning or machine learning.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Download&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://science.gisersqdai.top/note-of-applied-statistics-with-r-book.pdf&#34; target=&#34;_blank&#34;&gt;Note-of-Applied-Statistics-with-R pdf&lt;/a&gt;&lt;/p&gt;
 
@@ -341,64 +380,152 @@ Our poster of sponge city research presented at the 2016 International Low Impac
 
 &lt;p&gt;&lt;a href=&#34;https://pan.baidu.com/share/home?uk=2855623577&amp;amp;suk=QR0keGnZkZWNh9Pf3aQyaQ&amp;amp;view=share#category/type=0&#34; target=&#34;_blank&#34;&gt;Note-of-Applied-Statistics-with-R Baidu Pan&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;In big data era, statistical theory is still meaningful. What&amp;rsquo;s deep learning study? &amp;ldquo;import tensorflow as tf&amp;rdquo;. Without basic statistical theory, we could not complete a very good study of deep learning or machine learning.&lt;/p&gt;
-
-&lt;h3 id=&#34;acknowledge&#34;&gt;&lt;strong&gt;Acknowledge&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Acknowledge&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;We thanks &lt;strong&gt;Mr.Wang&lt;/strong&gt;(&lt;a href=&#34;http://www.mscas.ac.cn/Teachers/Professor/234.shtml&#34; target=&#34;_blank&#34;&gt;CV&lt;/a&gt;) and her lessons: applied stastistics in University of Chinese Academic Sciences.&lt;/p&gt;
 
-&lt;h3 id=&#34;reference&#34;&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Junping Jia, &lt;em&gt;Statistics&lt;/em&gt; (Fifth Edition), Renmin University of China Press, 2012.&lt;/p&gt;
 
-&lt;p&gt;Junping Jia, &lt;em&gt;Statistics&lt;/em&gt; (Fifth Edition), Renmin University of China Press, 2012.
-Xiaoqun He, &lt;em&gt;Multivariate Statistical Analysis&lt;/em&gt; (3rd Edition), Renmin University Press, 2012.&lt;/p&gt;
+&lt;p&gt;Xiaoqun He, &lt;em&gt;Multivariate Statistical Analysis&lt;/em&gt; (3rd Edition), Renmin University Press, 2012.&lt;/p&gt;
 
-&lt;h2 id=&#34;2-applications-in-geographical-ecological-and-environmental-research&#34;&gt;2 Applications in geographical, ecological and environmental research&lt;/h2&gt;
+&lt;hr /&gt;
 
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;h4 id=&#34;applications-in-geographical-ecological-and-environmental-research&#34;&gt;Applications in geographical, ecological and environmental research&lt;/h4&gt;
 
-&lt;p&gt;We used spatial analysis, spatial statistics and data mining in geographical, ecological and environmental research.&lt;/p&gt;
+&lt;p&gt;We used spatial analysis, spatial statistics and data mining in geographical, ecological and environmental research. Firstly, we used the Pearson correlation coefficient, generalized linear model, geographically weighted generalized linear regression model to analyze the impact of urban walking environment on robbery, snatch and theft crime (RST). Secondly, Regional soil quality issues arising from rapid urbanization have received extensive attention. Correlation, principle component analysis, cluster analysis and GeoDetector models were used to analyze the heavy metal sources in the soil accross an urbanization gradient. Thirdly, we used panel model to analyze the effects of command-and-control and market-oriented policy tools on China’s energy conservation and emissions reduction innovation. Forthly, some data mining technology was used to analyze urban spatial development pattern in beijing based on the big data of government. Finally, we developed a method to identify the urban ecological-production-living spaces and analyzed the high education staff’s refuge space under earthquake disater. These studies included criminal geography, heavy metal sources in soil, environmental economics, land use and disater, we used spatial analysis, spatial statistics and data mining in different topic researches. It&amp;rsquo;s very interesting.&lt;/p&gt;
 
-&lt;h3 id=&#34;1-influence-of-walking-environment-on-robbery-snatch-and-theft-crime-in-urban-area-h-city-china&#34;&gt;1 Influence of Walking Environment on Robbery, Snatch and Theft Crime in Urban Area, H City, China.&lt;/h3&gt;
+&lt;h4 id=&#34;results&#34;&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;/h4&gt;
 
-&lt;p&gt;Published in &lt;em&gt;Scientia Geographica Sinica&lt;/em&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Influence of Walking Environment on Robbery, Snatch and Theft Crime in Urban Area, H City, China&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;
-The urban space environment is an important factor for urban crimes. A greater walkability of city can reduce the crime rate in many Criminal Geography theories. However, there is few empirical studies in China. Previous studies on Criminal Geography paid more attention to the role of urban environment in crime prevention, and lack of attention to its auxiliary function of criminal investigation. This study built a multi-source spatial database by combining the theory of CPTED, Defensible Space, Criminal Behavior and Geographic Profiling. The municipal district of H city located in the southeastern coastal region of China was taken as a case study area. The Walk Score and criminal geographic targeting model were applied for the measurement. The Pearson correlation coefficient, generalized linear model, geographically weighted generalized linear regression model were used to analyze the impact of urban walking environment on robbery, snatch and theft crime (RST). The results showed that the walking environment probably has a positive effect on the RST crime in H city, the greater walkability, the more RST. The effects of walking environment probably has spatial heterogeneity features both on RST and the residence probability of suspects. There were different impacts of walking environment on the RST and the residence probability of suspects in different regions. The areas near the major transportation hubs or along the main road have great walking environment. However, they probably have more RST and higher residence probability of suspects than other places based on result of model. Although the high-grade hotels, commercial buildings and tourist attractions have great walking environment, there were low RST and the residence probability of suspects based on result of model due to the sound security and personnel access control system. This research provides a reference for prevention and investigation for robbery, snatch and theft crime.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180601.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Key Words&lt;/strong&gt;
-urban walking environment, robbery, snatch and theft crime, CPTED theory, Criminal Geography&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Walking environment in urban&lt;/em&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;2-analysis-of-heavy-metal-sources-in-the-soil-of-riverbanks-across-an-urbanization-gradient&#34;&gt;2 Analysis of Heavy Metal Sources in the Soil of Riverbanks Across an Urbanization Gradient&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180604.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;
-Regional soil quality issues arising from rapid urbanization have received extensive attention. The riverbank that runs through a city is representative of urbanization gradient transformation. Thirty soil samples in the Yangtze River Delta urban agglomeration were collected and analyzed for the concentrations of seven analytes. Correlation, principle component analysis, cluster analysis and GeoDetector models suggested that the four groups (Cr-Ni-Cu, Cu-Zn-As-Sb, Cd and Pb) shared the same sources in the core urban region; five groups (Cr-Ni-Cu-Zn, As, Cd, Sb and Pb) in the suburbs and three groups (Cr-Ni, Cu-Zn-Cd-Sb-Pb and As) in the exurbs. GeoDetector methods not only validated the results of the three other methods, but also provided more possible impact factors. Besides the direct influences, the interaction effects among factors were quantified. Interactive combination with strong nonlinear increment changed from between-two-weak factors in the central region to between-strong-and-weak factors in the suburbs. In the exurbs, the stronger interaction effects were observed between strong and weak factors. Therefore, the GeoDetector model, which provided more detailed information of artificial sources could be used as a tool for identifying the potential factors of toxic elements and offering scientific basis for the development of subsequent pollution reduction strategies.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The visualization of correlation coefficient matrix and scatter plot&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Key Words&lt;/strong&gt;
-soil heavy metals, quantitative source apportionment, principal component analysis-multiple linear regression (PCA-MLR), GeoDetector model, GIS spatial analysis method&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180605.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;3-research-on-the-effects-of-command-and-control-and-market-oriented-policy-tools-on-china-s-energy-conservation-and-emissions-reduction-innovation&#34;&gt;3 Research on the effects of command-and-control and market-oriented policy tools on China’s energy conservation and emissions reduction innovation&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Spatial variation of regression coefficient of GWGLM&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;The impact of environmental regulation on technology innovation is a hot spot in current research where a large number of empirical studies are based on Porter Hypothesis (PH). However, there are still
-controversies in academia about the establishment of “weak” and “narrow” versions of PH. Based on the panel data of application for patent of energy conservation and emission reduction (ECER) technology of Chinese city scale during 2008–2014, comprehensive energy price, pollutant emission, etc., mixed regression model and systematic generalized method of moments method were adopted, respectively, to study the impact of market-oriented and command-and-control policy tool on China’s ECER technology innovation. The results show that the environmental regulation hindered the technological innovation in the immediate phase; however, it turned out to be positive in the first-lag phase. Hence, the establishment of “weak” PH is time-bounded. The command-and-control policy tool played a more positive role in promoting technological innovation in the first-lag phase than market-oriented policy tool. Therefore, “narrow” PH is not tenable. The reason is that the main participants of China’s ECER technology innovation are state-owned companies and public institutions. Regionally speaking, the impact which command-and-control policy tool has on technological innovation at sight was nonsignificant in the eastern, the central, and the western regions of China whilst market-oriented policy tool had a negative effect. And market-oriented policy tool in the central region had strongest negative effect, which would diminish in the eastern region and become weakest in the western region. This was related to regional energy consumption level and the market economic vitality.&lt;/p&gt;
+&lt;p&gt;The results showed that the walking environment probably has a positive effect on the RST crime in H city, the greater walkability, the more RST. The effects of walking environment probably has spatial heterogeneity features both on RST and the residence probability of suspects.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Key Words&lt;/strong&gt;
-Environmental regulation,command-and-control policy tools,market-oriented policy tools, emissions reduction, innovation&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Analysis of Heavy Metal Sources in the Soil of Riverbanks Across an Urbanization Gradient&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h3 id=&#34;4-the-identification-of-urban-ecological-production-living-spaces-and-urban-resilience-simulation-optimization&#34;&gt;4 The identification of urban ecological-production-living spaces and urban resilience simulation optimization&lt;/h3&gt;
+&lt;p&gt;The four groups (Cr-Ni-Cu, Cu-Zn-As-Sb, Cd and Pb) shared the same sources in the core urban region; five groups (Cr-Ni-Cu-Zn, As, Cd, Sb and Pb) in the suburbs and three groups (Cr-Ni, Cu-Zn-Cd-Sb-Pb and As) in the exurbs. GeoDetector methods not only validated the results of the three other methods, but also provided more possible impact factors. Besides the direct influences, the interaction effects among factors were quantified. Interactive combination with strong nonlinear increment changed from between-two-weak factors in the central region to between-strong-and-weak factors in the suburbs. In the exurbs, the stronger interaction effects were observed between strong and weak factors.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.mdpi.com/ijerph/ijerph-15-02175/article_deploy/html/images/ijerph-15-02175-g004-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The spatial distribution of the heavy metal concentrations during the urbanization gradients&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The inverse distance weighted (IDW) interpolated spatial patterns of Cd, Ni, Cu, Zn, As, Cd, Sb and Pb concentrations in the topsoil of the study area.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.mdpi.com/ijerph/ijerph-15-02175/article_deploy/html/images/ijerph-15-02175-g006-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Numbers of nonlinear increase combinations in (a) urban core regions, (b) suburban regions, and &amp;copy; exurban regions. “Increase” means the comparison between the q value of interactions and the sum of two impact factors. “Increase 30–50%” low-level non-linear enhancement, “Increase 50–100%” means mid-level non-linear enhancement, “Increase &amp;gt;100%” means high-level non-linear enhancement&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The combinations of interactive factors with nonlinear enhancements in the suburban area were fewer than in other urban gradient areas.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Research on the effects of command-and-control and market-oriented policy tools on China’s energy conservation and emissions reduction innovation&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;The category of market-oriented environmental regulation at provincial-level in 2014&lt;/em&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Category&lt;/th&gt;
+&lt;th&gt;Province&lt;/th&gt;
+&lt;th&gt;Price&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;I&lt;/td&gt;
+&lt;td&gt;Qinghai; Chongqing; Hunan; Heilongjiang; Tianjin; Hebei&lt;/td&gt;
+&lt;td&gt;1 514-1 650&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;II&lt;/td&gt;
+&lt;td&gt;Shanxi; Xinjiang; Liaoning; Shandong; Jilin; Sichuan&lt;/td&gt;
+&lt;td&gt;1 651-1 787&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;III&lt;/td&gt;
+&lt;td&gt;Shanghai; Guizhou; Hubei; Gansu; Guangxi; Beijing; Henan&lt;/td&gt;
+&lt;td&gt;1 788-1 972&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;IV&lt;/td&gt;
+&lt;td&gt;Ningxia; Hainan; Jiangxi; Shaanxi; Yunnan; Jiangsu; Fujian&lt;/td&gt;
+&lt;td&gt;1 973-2 142&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;V&lt;/td&gt;
+&lt;td&gt;Zhejiang; Anhui; Guangdong; Inner Mongolia&lt;/td&gt;
+&lt;td&gt;2 143-2 322&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;No data&lt;/td&gt;
+&lt;td&gt;Tibet; Taiwan; Hong Kong; Macao&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;we can vaguely find out the spatial relationships between technology of ECER, command-and-control environmental regulation intensity, and marketoriented environmental regulation intensity. It may be
+due to the delay in the performance of environmental regulations and this paper constructed the static measurement model and measurement model so as to verify.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The Analysis of Urban Spatial Development Pattern in Beijing Based on the Big Data of Government&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/QQ%E6%88%AA%E5%9B%BE20190324234240.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Influence distribution of annual variables geographical position grid on characteristics of LUP data in the second stage&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;We present a non-negative matrix factorization (NMF) method and recognize these patterns by using the land construction permission dataset. We find out two main developing patterns in these years, and made a series of analysis and explanation on both patterns by combining some additional information.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The identification of urban ecological-production-living spaces and urban resilience simulation optimization&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;We used multi-source data to identify the urban ecological-production-living spaces and provided some suggesstions for urban resilience simulation optimization. We developed some ArcGIS toolbox based on model builder and Python. Our results won the national third prize in the 2th big data supports spatial plannning and design competition.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/SPSD%E5%A5%96%E7%8A%B62018small.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The Optimization Model of High Education Staff’s Refuge Space Under Earthquake Disater&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h3 id=&#34;5-the-optimization-model-of-high-education-staff-s-refuge-space-under-earthquake-disater&#34;&gt;5 The Optimization Model of High Education Staff’s Refuge Space Under Earthquake Disater&lt;/h3&gt;
+&lt;p&gt;This is a report of fund by Fujian Normal University(cxxl-2014137). According to the spatial and temporal distribution of proposed model assumptions, in different time scales according to different locations of the evacuation route analysis. And the crowd under earthquake disaster evacuation of about 64.412m/min by using the MCE evaluation method and entropy method. According to the evaluation method of MCE results, the use of L-A network constraint model to evaluate campus earthquake evacuation capability. The whole campus evacuation capability is weak, scenario simulation refuge accommodate the number of students is 18638, the shelter utilization rate is only 30%. The need for further planning and construction of disaster prevention and mitigation.&lt;/p&gt;
 
-&lt;p&gt;Funded by Fujian Normal University(cxxl-2014137)&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;
-Earthquake is a devastating natural disaster, The seismic refuge has become the research focus in the world. Status quo of Qishan campus of Fujian Normal University earthquake disaster prone and vulnerability based on, The campus network model using L-A coupled seismic refuge constrained model and the evaluation method of MCE deployment optimization research. The results are as follows. 1）The principle of combining with national disaster in earthquake emergency shelter planning based on planning, 20 earthquake emergency shelter. 2）Fujian Normal University college student population spatial distribution pattern showed uneven spatial distribution, the characteristics of the North south. Under different time scales and different obvious spatial agglomeration. 3) According to the spatial and temporal distribution of proposed model assumptions, in different time scales according to different locations of the evacuation route analysis. And the crowd under earthquake disaster evacuation of about 64.412m/min by using the MCE evaluation method and entropy method. According to the evaluation method of MCE results, the use of L-A network constraint model to evaluate campus earthquake evacuation capability. The whole campus evacuation capability is weak, scenario simulation refuge accommodate the number of students is 18638, the shelter utilization rate is only 30%. The need for further planning and construction of disaster prevention and mitigation.&lt;/p&gt;
+&lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;Key Words&lt;/strong&gt;
-L-A network model, The temporal and spatial distribution pattern of population, MCE evaluation, The University Campus&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;戴劭勍&lt;/strong&gt;, 江辉仙, 李佳佳, 苏娴, 吴娟, and 任引. &amp;ldquo;H 市城区步行环境对两抢一盗警情的影响.&amp;rdquo; 地理科学 38, no. 8 (2018): 1235-1244.[Dai Shaoqing, Jiang Huixian, Li Jiajia, Su Xian, Wu Juan and Ren Yin. Influence
+of Walking Environment on Robbery, Snatch and Theft Crime in Urban Area, H City, China. Scientia Geographica Sinica 38, no. 8 (2018): 1235-1244.] doi: 10.13249/j.cnki.sgs.2018.08.005&lt;/li&gt;
+&lt;li&gt;戴劭勍. 2014-2015. 福建师范大学大学生创新创业训练计划(创新训练类)项目《地震灾害下高校人员避难疏散安置模型优化研究》(编号：cxxl-2014137).[Dai Shaoqing. 2014-2015. The Optimization Model of High Education Staff’s Refuge Space Under Earthquake Disater. Funded by Fujian Normal University(cxxl-2014137).]&lt;/li&gt;
+&lt;li&gt;Zuo, Shudi, &lt;strong&gt;Shaoqing Dai&lt;/strong&gt;, Yaying Li, Jianfeng Tang, and Yin Ren. &amp;ldquo;Analysis of Heavy Metal Sources in the Soil of Riverbanks Across an Urbanization Gradient.&amp;rdquo; International journal of environmental research and public health 15, no. 10 (2018): 2175.5.&lt;/li&gt;
+&lt;li&gt;叶琴, 曾刚, &lt;strong&gt;戴劭勍&lt;/strong&gt;, and 王丰龙. &amp;ldquo;不同环境规制工具对中国节能减排技术创新的影响——基于 285 个地级市面板数据.&amp;rdquo; 中国人口· 资源与环境 2 (2018): 13.&lt;/li&gt;
+&lt;li&gt;Ye, Qin, &lt;strong&gt;Shaoqing Dai&lt;/strong&gt;, and Gang Zeng. &amp;ldquo;Research on the effects of command-and-control and market-oriented policy tools on China’s energy conservation and emissions reduction innovation.&amp;rdquo; Chinese Journal of Population Resources and Environment 16, no. 1 (2018): 1-11.&lt;/li&gt;
+&lt;li&gt;李苗裔, &lt;strong&gt;戴劭勍&lt;/strong&gt;, 王静远, and 沈振江. &amp;ldquo;基于政府大数据的北京城市空间发展模式分析.&amp;rdquo; 地理信息世界 23, no. 3 (2016): 20-26.[Li Miaoyi, Dai Shaoqing, Wang Jingyuan, Shen Zhenjiang. The Analysis of Urban Spatial Development Pattern in Beijing Based on the Big Data of Government. Geomatics World 23, no. 3 (2016): 20-26.]&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -461,31 +588,118 @@ L-A network model, The temporal and spatial distribution pattern of population, 
       <guid>https://giserdaishaoqing.github.io/mycv/publication/2017-12-04/</guid>
       <description>
 
+&lt;h4 id=&#34;introduction&#34;&gt;Introduction&lt;/h4&gt;
+
 &lt;p&gt;The urban underlying surface heavily influences waterlogging (Arnold and Gibbons 1996). During the urbanization process, vegetation, water, and wetlands are replaced by impervious surfaces, including steel, cement, and other building materials. During the late-1990s, governments began to pay closer attention to the influence of urban underlying surfaces on storm water management. They started to develop low-impact development (LID) practices（Carlson et al 2014; Martin et al 2015; Palla and Genecco 2015）, which seek to use the landscape to control the water source and reduce the shock loads of storm water. Typical LID practices include green roofs, permeable pavements, and other green infrastructures. With the introduction of the Sponge City concept, China has gradually been introducing LID technology to improve the urban underlying surface and the spatial distribution of landscape（Chou 2015）.&lt;/p&gt;
 
 &lt;p&gt;Most previous research of LID analyzed simulation experiments and storm water management at the small-scale level（Allan et al 1997; Meerow and Newell 2017）, whereas little analysis has been done at the urban level. Moreover, few studies have considered the influence of the natural green infrastructure (NGI), which refers to landscape that is good at receiving water. Here, we analyzed the urban central area of Fuzhou City, China, using remote sensing (RS) and geographic information system (GIS) data to divide the urban underlying surface into NGI and non-NGI landscapes. We extracted the impervious surface from the non-NGI landscape and used the precipitation-volumetric method to simulate waterlogging scenarios. We determined the area of rainwater submersion by simulation experiments, the change in the NGI landscape by overlaying images of the region, and the association between these features by data mining. Using the change in ecology indices, we ascertained the changing spatial patterns of the NGI landscape and used these findings to formulate suggestions for Sponge City planning in Fuzhou. Overall, our work combines three research themes, urban waterlogging, landscape ecology, and data mining, for a deep analysis of the relationship between the NGI landscape and storm runoff in an urban environment.&lt;/p&gt;
 
-&lt;p&gt;Flow chart of the study&lt;/p&gt;
+&lt;h4 id=&#34;methods&#34;&gt;Methods&lt;/h4&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/fig2new.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Visual representation of simulation results for scenario 1 and scenario 2&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Flow chart of the study&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;result&#34;&gt;&lt;strong&gt;Result&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Submerged areas were characterized by high population densities and high levels of human activity.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Simulation results of storm water scenarios&lt;/em&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Simulated parameter&lt;/th&gt;
+&lt;th&gt;Scenario 1&lt;/th&gt;
+&lt;th&gt;Scenario 2&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Storm intensity($L·S^{-1}·ha^{-1}$)&lt;/td&gt;
+&lt;td&gt;163.183&lt;/td&gt;
+&lt;td&gt;101.847&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Runoff($L·S^{-1}$)&lt;/td&gt;
+&lt;td&gt;5.342×$10^6$&lt;/td&gt;
+&lt;td&gt;6.668×$10^6$&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Submerged depth(m)&lt;/td&gt;
+&lt;td&gt;3.943&lt;/td&gt;
+&lt;td&gt;4.055&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Maximum submerged depth(m)&lt;/td&gt;
+&lt;td&gt;1.943&lt;/td&gt;
+&lt;td&gt;2.055&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Submerged area ($km^{2}$)&lt;/td&gt;
+&lt;td&gt;1.345&lt;/td&gt;
+&lt;td&gt;6.032&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The main submerged area in Fuzhou included the central business district. Numbers of people exposed to the submerged areas of scenarios 1 and 2 were 12,840 and 46,460 people, respectively.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/fig.3%28h%29.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/fig.3%28i%29.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;conclusions&#34;&gt;CONCLUSIONS&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Visual representation of simulation results for scenario 1 and scenario 2&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Spatial association rule mining revealed a strong association between areas that were converted from NGI landscape and areas that were submerged in our simulations.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Rules&lt;/th&gt;
+&lt;th&gt;Support&lt;/th&gt;
+&lt;th&gt;Confidence&lt;/th&gt;
+&lt;th&gt;Lift&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Submerged=&amp;gt;Change&lt;/td&gt;
+&lt;td&gt;0.002&lt;/td&gt;
+&lt;td&gt;0.212&lt;/td&gt;
+&lt;td&gt;1.655&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Stay=&amp;gt;No Submerged&lt;/td&gt;
+&lt;td&gt;0.865&lt;/td&gt;
+&lt;td&gt;0.992&lt;/td&gt;
+&lt;td&gt;1.001&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;If an area was submerged, then the probability that the area was converted landscape was 21.2%. If an area was not subject to landscape conversion, then the probability that it would not be a submerged area was 99.2%.&lt;/p&gt;
+
+&lt;h4 id=&#34;conclusions&#34;&gt;CONCLUSIONS&lt;/h4&gt;
 
 &lt;p&gt;Based on the results of this study, we derived the following conclusions:&lt;/p&gt;
 
-&lt;blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;Simulation analysis for the central urban area of Fuzhou City, assuming a 100-year storm with rainfall durations of 2 and 4 hours, resulted in submerged depths (areas) of 3.943 m (1.345 km2) and 4.055 m (6.032 km2), to which 12,840 and 46,460 people, respectively, were exposed. Submerged areas were found at locations of stronger human activity, which caused a higher risk of waterlogging.&lt;/li&gt;
 &lt;li&gt;The area covered by NGI landscape in the central urban area of Fuzhou City decreased considerably and became more fragmented from 2006 to 2014. Urban residential area covers 40% of the converted landscape.&lt;/li&gt;
 &lt;li&gt;Results of association rule mining showed that the submerged area has an important relationship with the NGI landscape conversion that, in turn, makes waterlogging frequent in urban areas. We used EIC to measure the change in landscape patterns and spatial distribution of the NGI landscape. Based on the results, we identified some ecological nodes and corridors and made some suggestions related to the Sponge City planning of Fuzhou City.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
