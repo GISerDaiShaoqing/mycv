@@ -363,7 +363,7 @@ Our poster of sponge city research presented at the 2016 International Low Impac
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/windspeed.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;We visualize the raster(wind speed in Tibet) by folium. We also can use Heat map to visualize the points by folium. If you need this script,  please send an e-mail to dsq1993qingge@163.com.&lt;/p&gt;
+&lt;p&gt;We visualize the raster(wind speed in Tibet) by folium. We also can use Heat map to visualize the points by folium(more informations can see the link of Heat Map). If you need this script of Heat Map,  please send an e-mail to dsq1993qingge@163.com.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://gisersqdai.top/SustainableCity-Working-Group/&#34; target=&#34;_blank&#34;&gt;Heat Map&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
@@ -381,20 +381,22 @@ Our poster of sponge city research presented at the 2016 International Low Impac
     </item>
     
     <item>
-      <title>The application of spatial analysis and spatial statistics in geographical, ecological and environmental research</title>
-      <link>https://giserdaishaoqing.github.io/mycv/project/the-application-of-spatial-analysis-and-spatial-statistics-in-geographical-ecological-and-environmental-research/</link>
+      <title>The application of RS, GIS and spatial statistics in geographical, ecological and environmental research</title>
+      <link>https://giserdaishaoqing.github.io/mycv/project/the-application-of-rs-gis-and-spatial-statistics-in-geographical-ecological-and-environmental-research/</link>
       <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://giserdaishaoqing.github.io/mycv/project/the-application-of-spatial-analysis-and-spatial-statistics-in-geographical-ecological-and-environmental-research/</guid>
+      <guid>https://giserdaishaoqing.github.io/mycv/project/the-application-of-rs-gis-and-spatial-statistics-in-geographical-ecological-and-environmental-research/</guid>
       <description>
 
 &lt;hr /&gt;
 
 &lt;h4 id=&#34;applications-in-geographical-ecological-and-environmental-research&#34;&gt;Applications in geographical, ecological and environmental research&lt;/h4&gt;
 
-&lt;p&gt;We used spatial analysis, spatial statistics and data mining in geographical, ecological and environmental research. Firstly, we used the Pearson correlation coefficient, generalized linear model, geographically weighted generalized linear regression model to analyze the impact of urban walking environment on robbery, snatch and theft crime (RST). Secondly, Regional soil quality issues arising from rapid urbanization have received extensive attention. Correlation, principle component analysis, cluster analysis and GeoDetector models were used to analyze the heavy metal sources in the soil accross an urbanization gradient. Thirdly, we used panel model to analyze the effects of command-and-control and market-oriented policy tools on China’s energy conservation and emissions reduction innovation. Forthly, some data mining technology was used to analyze urban spatial development pattern in beijing based on the big data of government. Finally, we developed a method to identify the urban ecological-production-living spaces and analyzed the high education staff’s refuge space under earthquake disater. These studies included criminal geography, heavy metal sources in soil, environmental economics, land use and disater, we used spatial analysis, spatial statistics and data mining in different topic researches. It&amp;rsquo;s very interesting.&lt;/p&gt;
+&lt;p&gt;We used spatial analysis, spatial statistics and data mining to analyze the RS and GIS data in geographical, ecological and environmental research. Firstly, we used the Pearson correlation coefficient, generalized linear model, geographically weighted generalized linear regression model to analyze the impact of urban walking environment on robbery, snatch and theft crime (RST). Secondly, Regional soil quality issues arising from rapid urbanization have received extensive attention. Correlation, principle component analysis, cluster analysis and GeoDetector models were used to analyze the heavy metal sources in the soil accross an urbanization gradient. Thirdly, we used panel model to analyze the effects of command-and-control and market-oriented policy tools on China’s energy conservation and emissions reduction innovation. Forthly, some data mining technology was used to analyze urban spatial development pattern in beijing based on the big data of government. Finally, we developed a method to identify the urban ecological-production-living spaces and analyzed the high education staff’s refuge space under earthquake disater. These studies included criminal geography, heavy metal sources in soil, environmental economics, land use and disater, we used spatial analysis, spatial statistics and data mining in different topic researches. It&amp;rsquo;s very interesting.&lt;/p&gt;
 
 &lt;h4 id=&#34;results&#34;&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;hr /&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Influence of Walking Environment on Robbery, Snatch and Theft Crime in Urban Area, H City, China&lt;/strong&gt;&lt;/li&gt;
@@ -414,6 +416,8 @@ Our poster of sponge city research presented at the 2016 International Low Impac
 
 &lt;p&gt;The results showed that the walking environment probably has a positive effect on the RST crime in H city, the greater walkability, the more RST. The effects of walking environment probably has spatial heterogeneity features both on RST and the residence probability of suspects.&lt;/p&gt;
 
+&lt;hr /&gt;
+
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Analysis of Heavy Metal Sources in the Soil of Riverbanks Across an Urbanization Gradient&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -431,6 +435,8 @@ Our poster of sponge city research presented at the 2016 International Low Impac
 &lt;p&gt;&lt;em&gt;Numbers of nonlinear increase combinations in (a) urban core regions, (b) suburban regions, and &amp;copy; exurban regions. “Increase” means the comparison between the q value of interactions and the sum of two impact factors. “Increase 30–50%” low-level non-linear enhancement, “Increase 50–100%” means mid-level non-linear enhancement, “Increase &amp;gt;100%” means high-level non-linear enhancement&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The combinations of interactive factors with nonlinear enhancements in the suburban area were fewer than in other urban gradient areas.&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Research on the effects of command-and-control and market-oriented policy tools on China’s energy conservation and emissions reduction innovation&lt;/strong&gt;&lt;/li&gt;
@@ -489,6 +495,8 @@ Our poster of sponge city research presented at the 2016 International Low Impac
 &lt;p&gt;we can vaguely find out the spatial relationships between technology of ECER, command-and-control environmental regulation intensity, and marketoriented environmental regulation intensity. It may be
 due to the delay in the performance of environmental regulations and this paper constructed the static measurement model and measurement model so as to verify.&lt;/p&gt;
 
+&lt;hr /&gt;
+
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;The Analysis of Urban Spatial Development Pattern in Beijing Based on the Big Data of Government&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -499,11 +507,15 @@ due to the delay in the performance of environmental regulations and this paper 
 
 &lt;p&gt;We present a non-negative matrix factorization (NMF) method and recognize these patterns by using the land construction permission dataset. We find out two main developing patterns in these years, and made a series of analysis and explanation on both patterns by combining some additional information.&lt;/p&gt;
 
+&lt;hr /&gt;
+
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;The identification of urban ecological-production-living spaces and urban resilience simulation optimization&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;We used multi-source data to identify the urban ecological-production-living spaces and provided some suggesstions for urban resilience simulation optimization. We developed some ArcGIS toolbox based on model builder and Python. Our results won the national third prize in the 2th big data supports spatial plannning and design competition.&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;The Optimization Model of High Education Staff’s Refuge Space Under Earthquake Disater&lt;/strong&gt;&lt;/li&gt;
@@ -516,13 +528,13 @@ due to the delay in the performance of environmental regulations and this paper 
 &lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;戴劭勍&lt;/strong&gt;, 江辉仙, 李佳佳, 苏娴, 吴娟, and 任引. &amp;ldquo;H 市城区步行环境对两抢一盗警情的影响.&amp;rdquo; 地理科学 38, no. 8 (2018): 1235-1244.[Dai Shaoqing, Jiang Huixian, Li Jiajia, Su Xian, Wu Juan and Ren Yin. Influence
+&lt;li&gt;&lt;strong&gt;戴劭勍&lt;/strong&gt;, 江辉仙, 李佳佳, 苏娴, 吴娟, and 任引. &amp;ldquo;H 市城区步行环境对两抢一盗警情的影响.&amp;rdquo; 地理科学 38, no. 8 (2018): 1235-1244.[&lt;strong&gt;Dai Shaoqing&lt;/strong&gt;, Jiang Huixian, Li Jiajia, Su Xian, Wu Juan and Ren Yin. Influence
 of Walking Environment on Robbery, Snatch and Theft Crime in Urban Area, H City, China. Scientia Geographica Sinica 38, no. 8 (2018): 1235-1244.]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;戴劭勍&lt;/strong&gt;. 2014-2015. 福建师范大学大学生创新创业训练计划(创新训练类)项目《地震灾害下高校人员避难疏散安置模型优化研究》(编号：cxxl-2014137).[Dai Shaoqing. 2014-2015. The Optimization Model of High Education Staff’s Refuge Space Under Earthquake Disater. Funded by Fujian Normal University(cxxl-2014137).]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;戴劭勍&lt;/strong&gt;. 2014-2015. 福建师范大学大学生创新创业训练计划(创新训练类)项目《地震灾害下高校人员避难疏散安置模型优化研究》(编号：cxxl-2014137).[&lt;strong&gt;Dai Shaoqing&lt;/strong&gt;. 2014-2015. The Optimization Model of High Education Staff’s Refuge Space Under Earthquake Disater. Funded by Fujian Normal University(cxxl-2014137).]&lt;/li&gt;
 &lt;li&gt;Zuo, Shudi, &lt;strong&gt;Shaoqing Dai&lt;/strong&gt;, Yaying Li, Jianfeng Tang, and Yin Ren. &amp;ldquo;Analysis of Heavy Metal Sources in the Soil of Riverbanks Across an Urbanization Gradient.&amp;rdquo; International journal of environmental research and public health 15, no. 10 (2018): 2175.5.&lt;/li&gt;
 &lt;li&gt;叶琴, 曾刚, &lt;strong&gt;戴劭勍&lt;/strong&gt;, and 王丰龙. &amp;ldquo;不同环境规制工具对中国节能减排技术创新的影响——基于 285 个地级市面板数据.&amp;rdquo; 中国人口· 资源与环境 2 (2018): 13.&lt;/li&gt;
 &lt;li&gt;Ye, Qin, &lt;strong&gt;Shaoqing Dai&lt;/strong&gt;, and Gang Zeng. &amp;ldquo;Research on the effects of command-and-control and market-oriented policy tools on China’s energy conservation and emissions reduction innovation.&amp;rdquo; Chinese Journal of Population Resources and Environment 16, no. 1 (2018): 1-11.&lt;/li&gt;
-&lt;li&gt;李苗裔, &lt;strong&gt;戴劭勍&lt;/strong&gt;, 王静远, and 沈振江. &amp;ldquo;基于政府大数据的北京城市空间发展模式分析.&amp;rdquo; 地理信息世界 23, no. 3 (2016): 20-26.[Li Miaoyi, Dai Shaoqing, Wang Jingyuan, Shen Zhenjiang. The Analysis of Urban Spatial Development Pattern in Beijing Based on the Big Data of Government. Geomatics World 23, no. 3 (2016): 20-26.]&lt;/li&gt;
+&lt;li&gt;李苗裔, &lt;strong&gt;戴劭勍&lt;/strong&gt;, 王静远, and 沈振江. &amp;ldquo;基于政府大数据的北京城市空间发展模式分析.&amp;rdquo; 地理信息世界 23, no. 3 (2016): 20-26.[Li Miaoyi, &lt;strong&gt;Dai Shaoqing&lt;/strong&gt;, Wang Jingyuan, Shen Zhenjiang. The Analysis of Urban Spatial Development Pattern in Beijing Based on the Big Data of Government. Geomatics World 23, no. 3 (2016): 20-26.]&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
