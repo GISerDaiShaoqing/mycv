@@ -11,6 +11,15 @@
     <atom:link href="/mycv/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A GIS-based high spatial resolution assessment of large-scale PV generation potential in China</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/2019-04-17/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/2019-04-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PM2.5 Spatiotemporal Evolution and Drivers in the Yangtze River Delta between 2005 and 2015</title>
       <link>https://giserdaishaoqing.github.io/mycv/publication/2019-02-01/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
@@ -94,7 +103,11 @@
       
       <guid>https://giserdaishaoqing.github.io/mycv/news/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Feb. 1, 2019&lt;/strong&gt;:
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Apr. 17, 2019&lt;/strong&gt;:
+We constructed a GIS-based model to accurately estimate the large-scale PV power generation potential in China. &lt;a href=&#34;../mycv/publication/2019-04-17/&#34;&gt;This paper&lt;/a&gt;
+is now available on &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0306261919306312?dgcid=coauthor&#34; target=&#34;_blank&#34;&gt;Applied Energy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Feb. 1, 2019&lt;/strong&gt;:
 The spatiotemporal distribution pattern of PM2.5 is influenced by many environmental factors, we analyzed the spatial distribution and variation
 characteristics of PM2.5 concentrations in the YRD from 2005–2015. &lt;a href=&#34;../mycv/publication/2019-02-01/&#34;&gt;This paper&lt;/a&gt;
 is now available on &lt;a href=&#34;https://www.mdpi.com/2073-4433/10/2/55&#34; target=&#34;_blank&#34;&gt;Atmosphere&lt;/a&gt;.&lt;/p&gt;
@@ -720,18 +733,6 @@ of Walking Environment on Robbery, Snatch and Theft Crime in Urban Area, H City,
 &lt;li&gt;The area covered by NGI landscape in the central urban area of Fuzhou City decreased considerably and became more fragmented from 2006 to 2014. Urban residential area covers 40% of the converted landscape.&lt;/li&gt;
 &lt;li&gt;Results of association rule mining showed that the submerged area has an important relationship with the NGI landscape conversion that, in turn, makes waterlogging frequent in urban areas. We used EIC to measure the change in landscape patterns and spatial distribution of the NGI landscape. Based on the results, we identified some ecological nodes and corridors and made some suggestions related to the Sponge City planning of Fuzhou City.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Environmental Effect of Urban Form on PM2.5: A Case Study of Beijing-Tianjin-Hebei Urban Agglomeration</title>
-      <link>https://giserdaishaoqing.github.io/mycv/talk/2017-11-11/</link>
-      <pubDate>Wed, 08 Nov 2017 11:55:00 +0800</pubDate>
-      
-      <guid>https://giserdaishaoqing.github.io/mycv/talk/2017-11-11/</guid>
-      <description>&lt;p&gt;We explore the relationship between urban form and PM2.5 based on multi-source data fusion. Our working report won the excellence award in the 5th &amp;ldquo;Share Cup&amp;rdquo; Science and Technology Resources Sharing Service Innovation Competition Competition.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/%E5%85%B1%E4%BA%AB%E6%9D%AF.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
