@@ -321,9 +321,9 @@ of Walking Environment on Robbery, Snatch and Theft Crime in Urban Area, H City,
 
 &lt;hr /&gt;
 
-&lt;h4 id=&#34;high-resolution-co-2-emission-gridding-mapand-urban-form&#34;&gt;High resolution $CO_2$ emission gridding mapand urban form&lt;/h4&gt;
+&lt;h4 id=&#34;high-resolution-co-2-emission-gridded-maps-and-urban-form&#34;&gt;High resolution $CO_2$ emission gridded maps and urban form&lt;/h4&gt;
 
-&lt;p&gt;Cities are the main sources of $CO_2$ emissions and, thus, must abate emissions responsibly. About 50% of urban $CO_2$ emissions was attributed to urban forms, mixed land use, building types, and transportation networks.  It is necessary to characterize the pixel-based distribution of urban direct $CO_2$ emissions accurately. But large uncertainties was found at the urban scale, it&amp;rsquo;s important to analyze the uncertainties of $CO_2$ emissions gridding map at the urban scale. Besides, exlporing the relationship between $CO_2$ emissions and urban form is useful for planning.&lt;/p&gt;
+&lt;p&gt;Cities are the main sources of $CO_2$ emissions and, thus, must abate emissions responsibly. About 50% of urban $CO_2$ emissions was attributed to urban forms, mixed land use, building types, and transportation networks.  It is necessary to characterize the pixel-based distribution of urban direct $CO_2$ emissions accurately. But large uncertainties was found at the urban scale, it&amp;rsquo;s important to analyze the uncertainties of $CO_2$ emissions gridded map at the urban scale. Besides, exlporing the relationship between $CO_2$ emissions and urban form is useful for planning.&lt;/p&gt;
 
 &lt;h4 id=&#34;results-1&#34;&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;/h4&gt;
 
@@ -331,11 +331,15 @@ of Walking Environment on Robbery, Snatch and Theft Crime in Urban Area, H City,
 
 &lt;p&gt;&lt;em&gt;Comparison between our high resolution $CO_2$ emission gridding map and CHRED&lt;/em&gt;&lt;/p&gt;
 
+&lt;p&gt;detailed informations can see &lt;a href=&#34;http://science.gisersqdai.top/CEopendata.html&#34; target=&#34;_blank&#34;&gt;it&lt;/a&gt;&lt;/p&gt;
+
 &lt;hr /&gt;
 
 &lt;h4 id=&#34;references&#34;&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/h4&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Shaoqing Dai&lt;/strong&gt;, Shudi Zuo, Yin Ren. &amp;ldquo;High-resolution mapping of direct $CO_2$ emissions and uncertainties at the urban scale&amp;rdquo;. In Proceedings of Spatial Accuracy 2018. Beijing: Aussino Academic Publishing House. 2018: 88-90.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shaoqing Dai&lt;/strong&gt;, Xiaoman Zheng, Shudi Zuo, Yin Ren. &amp;ldquo;Improving the prediction accuracy of forest aboveground biomass benchmark map by integrating machine learning and spatial statistics&amp;rdquo;. In Proceedings of Spatial Accuracy 2018. Beijing: Aussino Academic Publishing House. 2018: 80-83.&lt;/li&gt;
 &lt;li&gt;Shudi Zuo, &lt;strong&gt;Shaoqing Dai&lt;/strong&gt;, Yin Ren, and Zhaowu Yu. &amp;ldquo;Quantifying the linear and nonlinear relations between the urban form fragmentation and the carbon emission distribution.&amp;rdquo; In AGU Fall Meeting Abstracts. 2017.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
