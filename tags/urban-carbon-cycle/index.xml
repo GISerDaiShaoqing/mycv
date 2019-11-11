@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Urban Carbon Cycle | Shaoqing Dai</title>
+    <link>https://giserdaishaoqing.github.io/mycv/tags/urban-carbon-cycle/</link>
+      <atom:link href="https://giserdaishaoqing.github.io/mycv/tags/urban-carbon-cycle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Urban Carbon Cycle</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2019 Shaoqing Dai</copyright><lastBuildDate>Thu, 03 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://giserdaishaoqing.github.io/mycv/img/site.png</url>
+      <title>Urban Carbon Cycle</title>
+      <link>https://giserdaishaoqing.github.io/mycv/tags/urban-carbon-cycle/</link>
+    </image>
+    
+    <item>
+      <title>More fragmentized urban form more CO$_2$ emissions? A comprehensive relationship from the combination analysis across different scales</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/relationship-co2-fragmentation-jclp/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/relationship-co2-fragmentation-jclp/</guid>
+      <description>
+
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Use of multi-source data and an analytical framework composed of 3 methods.&lt;/li&gt;
+&lt;li&gt;Exploration of the impact of 30-m versus 500-m spatial resolution.&lt;/li&gt;
+&lt;li&gt;Low fragmented mixed and industrial lands affect CO$_2$ emissions negatively.&lt;/li&gt;
+&lt;li&gt;Low fragmented residential and public lands affect CO$_2$ emissions positively.&lt;/li&gt;
+&lt;li&gt;Interactions of factors are weaker at a 30-m resolution than at a 500-m resolution.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;Besides the industrial production, transportation, local weather, and fossil fuel use, urban form is the factor that affects energy-related CO$_2$ emissions from human activities secondarily. The major forms of human activity affected by urban form are traffic and residential energy consumption/use emissions. After a wide examination of the relationship between urban higher fragmentation and CO$_2$ emissions, scholars found fragmentation of land use areas (i.e. areas designated for human activities or purposes) is associated with greater CO$_2$ emissions. However, the evidences might be biased by the uncertainties from the spatial distribution of emissions (also referred to “downscaling”, or “representation” uncertainty), the delineation of urban fragmentation landscape, and the analysis method, which ignores the spatial heterogeneity. Zuo et al. (2019) published the study in the Journal of Cleaner Production, which compared the relationships between urban form fragmentation and CO$_2$ emissions in an urban system through the analytic framework composed of the Pearson correlation analysis, geographically weighted regression (GWR), and geographical detector methods with the use of multi-source data to construct the CO$_2$ emissions maps. The analytical framework can be applied to CO$_2$ emissions research in urban agglomerations, megacities, and small towns.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/JCLP/JCLP.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
+
+&lt;p&gt;In terms of the GWR analysis, the coarse resolution resulted in: 1) positive coefficients of fragmentation metric becoming negative, and 2) greater absolute values of negative coefficients. As to the results of Geographical detector, single factor impact powers and interactions among fragmentation factors showed a weakening effect at R$_{30m}$, but a strengthening and weakening effect at R500m. However, there were common results observed in low-fragmented areas across different scales. That is, in low-fragmented mixed-function areas and industrial areas, the more fragmented the area was, the less the CO2 emission there would be. However, in low-fragmented residential, administrative and public service areas, the more fragmented the area was, the higher the CO$_2$ emission there would be. Therefore, the government should disperse the mixed function zones and industrial parcels with diverse types of land, and build the contiguous residential and public service land in the low fragmentation area of urban system.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/JCLP/fig6new.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The “Scale effect” has always been the hot topic in landscape ecology research. Although, there are many studies on the driving force of urban environmental problems by using landscape metrics. Most studies are carried out in regional, continental and global scales. However, in this study, we explored the relationship between the urban form fragmentation and CO$_2$ emissions in the city scale from the perspective of dual resolution sizes and summarized the research conclusions that can be used in urban internal management based on the analysis results of small towns. At the same time, the influence of scale effect and how to choose the appropriate scale were discussed in the discussion section. The rigorous discussion was also made on whether the research conclusion is applicable to medium and large cities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving the prediction accuracy of forest aboveground biomass benchmark map by integrating machine learning and spatial statistics</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/improved-biomass-map-ei-meeting/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/improved-biomass-map-ei-meeting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Resolution Mapping of Direct CO$_2$ Emissions and Uncertainties at the Urban Scale</title>
+      <link>https://giserdaishaoqing.github.io/mycv/talk/sa2018talks/</link>
+      <pubDate>Tue, 22 May 2018 16:15:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/talk/sa2018talks/</guid>
+      <description>&lt;p&gt;Mapping direct carbon emissions at high-resolution in urban environments could help in the development of measures to mitigate carbon emissions through optimizing the layout of inner structures.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/SpatialAccuracy2018workshop.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/SpatialAccuracy2018.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>High-resolution mapping of direct CO$_2$ emissions and uncertainties at the urban scale</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/high-resolution-co2-map-ei-meeting/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/high-resolution-co2-map-ei-meeting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying the linear and nonlinear relations between the urban form fragmentation and the carbon emission distribution</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/relationship-co2-fragmentation-agu/</link>
+      <pubDate>Sat, 16 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/relationship-co2-fragmentation-agu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Carbon Cycle</title>
+      <link>https://giserdaishaoqing.github.io/mycv/project/urban-carbon-cycle/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/project/urban-carbon-cycle/</guid>
+      <description>&lt;p&gt;Firstly, we propose herein a low-cost method that combines machine learning and spatial statistics to construct a regional biomass map from non-representative sample units. Secondly, we scaled up an ecological process model to obtain the spatial distribution of regional biomass. Finally, we used some data assimilation technology by these data.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/figcs.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Figure The accuracy of different methods for biomass estimation&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Cities are the main sources of $CO_2$ emissions and, thus, must abate emissions responsibly. About 50% of urban $CO_2$ emissions was attributed to urban forms, mixed land use, building types, and transportation networks.  It is necessary to characterize the pixel-based distribution of urban direct $CO_2$ emissions accurately. But large uncertainties was found at the urban scale, it&amp;rsquo;s important to analyze the uncertainties of $CO_2$ emissions gridded map at the urban scale. Besides, exlporing the relationship between $CO_2$ emissions and urban form is useful for planning.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/contribution.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Figure 2 Comparison between our high resolution $CO_2$ emission gridding map and CHRED&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;detailed informations can see &lt;a href=&#34;http://science.gisersqdai.top/CEopendata.html&#34; target=&#34;_blank&#34;&gt;it&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We compared the relationships between urban form fragmentation and CO$_2$ emissions in an urban system through the analytic framework composed of the Pearson correlation analysis, geographically weighted regression (GWR), and geographical detector methods with the use of multi-source data to construct the CO$_2$ emissions maps. The analytical framework can be applied to CO$_2$ emissions research in urban agglomerations, megacities, and small towns.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/JCLP/JCLP.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Figure 3 Analytical Framework&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

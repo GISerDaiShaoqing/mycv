@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Urban Blue and Green Space | Shaoqing Dai</title>
+    <link>https://giserdaishaoqing.github.io/mycv/tags/urban-blue-and-green-space/</link>
+      <atom:link href="https://giserdaishaoqing.github.io/mycv/tags/urban-blue-and-green-space/index.xml" rel="self" type="application/rss+xml" />
+    <description>Urban Blue and Green Space</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2019 Shaoqing Dai</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://giserdaishaoqing.github.io/mycv/img/site.png</url>
+      <title>Urban Blue and Green Space</title>
+      <link>https://giserdaishaoqing.github.io/mycv/tags/urban-blue-and-green-space/</link>
+    </image>
+    
+    <item>
+      <title>Urban Blue and Green Space</title>
+      <link>https://giserdaishaoqing.github.io/mycv/project/urban-blue-and-green-space/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/project/urban-blue-and-green-space/</guid>
+      <description>&lt;p&gt;In the new normal period of economic transition in China, The Government came up with the concept of the Sponge City, we have some different views of sponge city planning
+The research extracted the impervious surface from the non-NGI(natural green infrastructure ) landscape and used the precipitation-volumetric method to simulate waterlogging scenarios. We determined the area of rainwater submersion by simulation experiments, the change in the NGI landscape by overlaying images of the region, and the association between these features by data mining. Using the change in ecology indices, we ascertained the changing spatial patterns of the NGI landscape and used these findings to formulate suggestions for Sponge City planning in Fuzhou. Overall, our work combines three research themes, urban waterlogging, landscape ecology, and data mining, for a deep analysis of the relationship between the NGI landscape and storm runoff in an urban environment.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Submerged areas were characterized by high population densities and high levels of human activity.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Table 1 Simulation results of storm water scenarios&lt;/em&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Simulated parameter&lt;/th&gt;
+&lt;th&gt;Scenario 1&lt;/th&gt;
+&lt;th&gt;Scenario 2&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Storm intensity($L·S^{-1}·ha^{-1}$)&lt;/td&gt;
+&lt;td&gt;163.183&lt;/td&gt;
+&lt;td&gt;101.847&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Runoff($L·S^{-1}$)&lt;/td&gt;
+&lt;td&gt;5.342×$10^6$&lt;/td&gt;
+&lt;td&gt;6.668×$10^6$&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Submerged depth(m)&lt;/td&gt;
+&lt;td&gt;3.943&lt;/td&gt;
+&lt;td&gt;4.055&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Maximum submerged depth(m)&lt;/td&gt;
+&lt;td&gt;1.943&lt;/td&gt;
+&lt;td&gt;2.055&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Submerged area ($km^{2}$)&lt;/td&gt;
+&lt;td&gt;1.345&lt;/td&gt;
+&lt;td&gt;6.032&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The main submerged area in Fuzhou included the central business district. Numbers of people exposed to the submerged areas of scenarios 1 and 2 were 12,840 and 46,460 people, respectively.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/fig.3%28h%29.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/fig.3%28i%29.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Figure 2 Visual representation of simulation results for scenario 1 and scenario 2&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Spatial association rule mining revealed a strong association between areas that were converted from NGI landscape and areas that were submerged in our simulations.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Table 2 Results of association rule mining&lt;/em&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Rules&lt;/th&gt;
+&lt;th&gt;Support&lt;/th&gt;
+&lt;th&gt;Confidence&lt;/th&gt;
+&lt;th&gt;Lift&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Submerged=&amp;gt;Change&lt;/td&gt;
+&lt;td&gt;0.002&lt;/td&gt;
+&lt;td&gt;0.212&lt;/td&gt;
+&lt;td&gt;1.655&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Stay=&amp;gt;No Submerged&lt;/td&gt;
+&lt;td&gt;0.865&lt;/td&gt;
+&lt;td&gt;0.992&lt;/td&gt;
+&lt;td&gt;1.001&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;If an area was submerged, then the probability that the area was converted landscape was 21.2%. If an area was not subject to landscape conversion, then the probability that it would not be a submerged area was 99.2%.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, we used multi-source data to identify the urban ecological-production-living spaces and provided some suggesstions for urban resilience simulation optimization. We developed some ArcGIS toolbox based on model builder and Python. Our results won the national third prize in the 2th big data supports spatial plannning and design competition.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

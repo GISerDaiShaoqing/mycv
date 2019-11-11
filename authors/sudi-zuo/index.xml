@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sudi Zuo | Shaoqing Dai</title>
+    <link>https://giserdaishaoqing.github.io/mycv/authors/sudi-zuo/</link>
+      <atom:link href="https://giserdaishaoqing.github.io/mycv/authors/sudi-zuo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sudi Zuo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2019 Shaoqing Dai</copyright><lastBuildDate>Mon, 04 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://giserdaishaoqing.github.io/mycv/img/site.png</url>
+      <title>Sudi Zuo</title>
+      <link>https://giserdaishaoqing.github.io/mycv/authors/sudi-zuo/</link>
+    </image>
+    
+    <item>
+      <title>Landscape-Scale Simulation Analysis of Waterlogging and Sponge City Planning for a Central Urban Area in Fuzhou City, China</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/landscape-blue-green-space/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/landscape-blue-green-space/</guid>
+      <description>
+
+&lt;h4 id=&#34;introduction&#34;&gt;Introduction&lt;/h4&gt;
+
+&lt;p&gt;The urban underlying surface heavily influences waterlogging. During the urbanization process, vegetation, water, and wetlands are replaced by impervious surfaces, including steel, cement, and other building materials. During the late-1990s, governments began to pay closer attention to the influence of urban underlying surfaces on storm water management. They started to develop low-impact development (LID) practices, which seek to use the landscape to control the water source and reduce the shock loads of storm water. Typical LID practices include green roofs, permeable pavements, and other green infrastructures. With the introduction of the Sponge City concept, China has gradually been introducing LID technology to improve the urban underlying surface and the spatial distribution of landscape.&lt;/p&gt;
+
+&lt;p&gt;Most previous research of LID analyzed simulation experiments and storm water management at the small-scale level, whereas little analysis has been done at the urban level. Moreover, few studies have considered the influence of the natural green infrastructure (NGI), which refers to landscape that is good at receiving water. Here, we analyzed the urban central area of Fuzhou City, China, using remote sensing (RS) and geographic information system (GIS) data to divide the urban underlying surface into NGI and non-NGI landscapes. We extracted the impervious surface from the non-NGI landscape and used the precipitation-volumetric method to simulate waterlogging scenarios. We determined the area of rainwater submersion by simulation experiments, the change in the NGI landscape by overlaying images of the region, and the association between these features by data mining. Using the change in ecology indices, we ascertained the changing spatial patterns of the NGI landscape and used these findings to formulate suggestions for Sponge City planning in Fuzhou. Overall, our work combines three research themes, urban waterlogging, landscape ecology, and data mining, for a deep analysis of the relationship between the NGI landscape and storm runoff in an urban environment.&lt;/p&gt;
+
+&lt;h4 id=&#34;methods&#34;&gt;Methods&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/fig2new.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Flow chart of the study&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;result&#34;&gt;&lt;strong&gt;Result&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Submerged areas were characterized by high population densities and high levels of human activity.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Simulation results of storm water scenarios&lt;/em&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Simulated parameter&lt;/th&gt;
+&lt;th&gt;Scenario 1&lt;/th&gt;
+&lt;th&gt;Scenario 2&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Storm intensity($L·S^{-1}·ha^{-1}$)&lt;/td&gt;
+&lt;td&gt;163.183&lt;/td&gt;
+&lt;td&gt;101.847&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Runoff($L·S^{-1}$)&lt;/td&gt;
+&lt;td&gt;5.342×$10^6$&lt;/td&gt;
+&lt;td&gt;6.668×$10^6$&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Submerged depth(m)&lt;/td&gt;
+&lt;td&gt;3.943&lt;/td&gt;
+&lt;td&gt;4.055&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Maximum submerged depth(m)&lt;/td&gt;
+&lt;td&gt;1.943&lt;/td&gt;
+&lt;td&gt;2.055&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Submerged area ($km^{2}$)&lt;/td&gt;
+&lt;td&gt;1.345&lt;/td&gt;
+&lt;td&gt;6.032&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The main submerged area in Fuzhou included the central business district. Numbers of people exposed to the submerged areas of scenarios 1 and 2 were 12,840 and 46,460 people, respectively.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/fig.3%28h%29.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/fig.3%28i%29.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Visual representation of simulation results for scenario 1 and scenario 2&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Spatial association rule mining revealed a strong association between areas that were converted from NGI landscape and areas that were submerged in our simulations.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Rules&lt;/th&gt;
+&lt;th&gt;Support&lt;/th&gt;
+&lt;th&gt;Confidence&lt;/th&gt;
+&lt;th&gt;Lift&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Submerged=&amp;gt;Change&lt;/td&gt;
+&lt;td&gt;0.002&lt;/td&gt;
+&lt;td&gt;0.212&lt;/td&gt;
+&lt;td&gt;1.655&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Stay=&amp;gt;No Submerged&lt;/td&gt;
+&lt;td&gt;0.865&lt;/td&gt;
+&lt;td&gt;0.992&lt;/td&gt;
+&lt;td&gt;1.001&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;If an area was submerged, then the probability that the area was converted landscape was 21.2%. If an area was not subject to landscape conversion, then the probability that it would not be a submerged area was 99.2%.&lt;/p&gt;
+
+&lt;h4 id=&#34;conclusions&#34;&gt;CONCLUSIONS&lt;/h4&gt;
+
+&lt;p&gt;Based on the results of this study, we derived the following conclusions:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Simulation analysis for the central urban area of Fuzhou City, assuming a 100-year storm with rainfall durations of 2 and 4 hours, resulted in submerged depths (areas) of 3.943 m (1.345 km2) and 4.055 m (6.032 km2), to which 12,840 and 46,460 people, respectively, were exposed. Submerged areas were found at locations of stronger human activity, which caused a higher risk of waterlogging.&lt;/li&gt;
+&lt;li&gt;The area covered by NGI landscape in the central urban area of Fuzhou City decreased considerably and became more fragmented from 2006 to 2014. Urban residential area covers 40% of the converted landscape.&lt;/li&gt;
+&lt;li&gt;Results of association rule mining showed that the submerged area has an important relationship with the NGI landscape conversion that, in turn, makes waterlogging frequent in urban areas. We used EIC to measure the change in landscape patterns and spatial distribution of the NGI landscape. Based on the results, we identified some ecological nodes and corridors and made some suggestions related to the Sponge City planning of Fuzhou City.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

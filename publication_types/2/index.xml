@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Shaoqing Dai</title>
+    <link>https://giserdaishaoqing.github.io/mycv/publication_types/2/</link>
+      <atom:link href="https://giserdaishaoqing.github.io/mycv/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2019 Shaoqing Dai</copyright><lastBuildDate>Thu, 03 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://giserdaishaoqing.github.io/mycv/img/site.png</url>
+      <title>2</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>More fragmentized urban form more CO$_2$ emissions? A comprehensive relationship from the combination analysis across different scales</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/relationship-co2-fragmentation-jclp/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/relationship-co2-fragmentation-jclp/</guid>
+      <description>
+
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Use of multi-source data and an analytical framework composed of 3 methods.&lt;/li&gt;
+&lt;li&gt;Exploration of the impact of 30-m versus 500-m spatial resolution.&lt;/li&gt;
+&lt;li&gt;Low fragmented mixed and industrial lands affect CO$_2$ emissions negatively.&lt;/li&gt;
+&lt;li&gt;Low fragmented residential and public lands affect CO$_2$ emissions positively.&lt;/li&gt;
+&lt;li&gt;Interactions of factors are weaker at a 30-m resolution than at a 500-m resolution.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;Besides the industrial production, transportation, local weather, and fossil fuel use, urban form is the factor that affects energy-related CO$_2$ emissions from human activities secondarily. The major forms of human activity affected by urban form are traffic and residential energy consumption/use emissions. After a wide examination of the relationship between urban higher fragmentation and CO$_2$ emissions, scholars found fragmentation of land use areas (i.e. areas designated for human activities or purposes) is associated with greater CO$_2$ emissions. However, the evidences might be biased by the uncertainties from the spatial distribution of emissions (also referred to “downscaling”, or “representation” uncertainty), the delineation of urban fragmentation landscape, and the analysis method, which ignores the spatial heterogeneity. Zuo et al. (2019) published the study in the Journal of Cleaner Production, which compared the relationships between urban form fragmentation and CO$_2$ emissions in an urban system through the analytic framework composed of the Pearson correlation analysis, geographically weighted regression (GWR), and geographical detector methods with the use of multi-source data to construct the CO$_2$ emissions maps. The analytical framework can be applied to CO$_2$ emissions research in urban agglomerations, megacities, and small towns.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/JCLP/JCLP.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
+
+&lt;p&gt;In terms of the GWR analysis, the coarse resolution resulted in: 1) positive coefficients of fragmentation metric becoming negative, and 2) greater absolute values of negative coefficients. As to the results of Geographical detector, single factor impact powers and interactions among fragmentation factors showed a weakening effect at R$_{30m}$, but a strengthening and weakening effect at R500m. However, there were common results observed in low-fragmented areas across different scales. That is, in low-fragmented mixed-function areas and industrial areas, the more fragmented the area was, the less the CO2 emission there would be. However, in low-fragmented residential, administrative and public service areas, the more fragmented the area was, the higher the CO$_2$ emission there would be. Therefore, the government should disperse the mixed function zones and industrial parcels with diverse types of land, and build the contiguous residential and public service land in the low fragmentation area of urban system.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/JCLP/fig6new.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The “Scale effect” has always been the hot topic in landscape ecology research. Although, there are many studies on the driving force of urban environmental problems by using landscape metrics. Most studies are carried out in regional, continental and global scales. However, in this study, we explored the relationship between the urban form fragmentation and CO$_2$ emissions in the city scale from the perspective of dual resolution sizes and summarized the research conclusions that can be used in urban internal management based on the analysis results of small towns. At the same time, the influence of scale effect and how to choose the appropriate scale were discussed in the discussion section. The rigorous discussion was also made on whether the research conclusion is applicable to medium and large cities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The impacts of climate and land use/land cover changes on water yield service in Ningbo region(Chinese)</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/lucc-invest-water-yield/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/lucc-invest-water-yield/</guid>
+      <description>
+
+&lt;h4 id=&#34;scientific-problems&#34;&gt;Scientific problems&lt;/h4&gt;
+
+&lt;p&gt;(1) The influence of urban walking environment on the RST, whether it is in consitent with the theory of good urban walking environment and reducing crime rate in western context?&lt;/p&gt;
+
+&lt;p&gt;(2) What are the characteristics and laws of urban walking environment on RST?&lt;/p&gt;
+
+&lt;h4 id=&#34;methods&#34;&gt;Methods&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/201812052312.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;results&#34;&gt;Results&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180601.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Walking environment in urban&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180602.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The results of spatial aggregation(a) and spatial autocorrelation(b)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180603.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The spatial distribution of residence probability of suspects under the different distances&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180604.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The visualization of correlation coefficient matrix and scatter plot&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180605.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Spatial variation of regression coefficient of GWGLM&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h4&gt;
+
+&lt;p&gt;The results showed that the walking environment probably has a positive effect on the RST crime in H city, the greater walkability, the more RST. The effects of walking environment probably has spatial heterogeneity features both on RST and the residence probability of suspects.&lt;/p&gt;
+
+&lt;h4 id=&#34;wechat-articles&#34;&gt;Wechat articles&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/4AOmOlRPz--PQpRbgdiXqw&#34; target=&#34;_blank&#34;&gt;【犯罪地理专栏】H市城区步行环境对两抢一盗警情的影响&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A GIS-based high spatial resolution assessment of large-scale PV generation potential in China</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/gis-pv-energy/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/gis-pv-energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PM2.5 Spatiotemporal Evolution and Drivers in the Yangtze River Delta between 2005 and 2015</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/yrt-pm25-drive-factors/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/yrt-pm25-drive-factors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining the Mechanisms that Influence the Surface Temperature of Urban Forest Canopies by Combining Remote Sensing Methods, Ground Observations, and Spatial Statistical Models</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/lst-geodector-satellite/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/lst-geodector-satellite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Heavy Metal Sources in the Soil of Riverbanks Across an Urbanization Gradient</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/heavy-metal-geodetector/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/heavy-metal-geodetector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of Walking Environment on Robbery, Snatch and Theft Crime in Urban Area, H City, China(Chinese)</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/crime-geography-walkscore/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/crime-geography-walkscore/</guid>
+      <description>
+
+&lt;h4 id=&#34;scientific-problems&#34;&gt;Scientific problems&lt;/h4&gt;
+
+&lt;p&gt;(1) The influence of urban walking environment on the RST, whether it is in consitent with the theory of good urban walking environment and reducing crime rate in western context?&lt;/p&gt;
+
+&lt;p&gt;(2) What are the characteristics and laws of urban walking environment on RST?&lt;/p&gt;
+
+&lt;h4 id=&#34;methods&#34;&gt;Methods&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/201812052312.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;results&#34;&gt;Results&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180601.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Walking environment in urban&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180602.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The results of spatial aggregation(a) and spatial autocorrelation(b)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180603.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The spatial distribution of residence probability of suspects under the different distances&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180604.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The visualization of correlation coefficient matrix and scatter plot&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180605.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Spatial variation of regression coefficient of GWGLM&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h4&gt;
+
+&lt;p&gt;The results showed that the walking environment probably has a positive effect on the RST crime in H city, the greater walkability, the more RST. The effects of walking environment probably has spatial heterogeneity features both on RST and the residence probability of suspects.&lt;/p&gt;
+
+&lt;h4 id=&#34;wechat-articles&#34;&gt;Wechat articles&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/4AOmOlRPz--PQpRbgdiXqw&#34; target=&#34;_blank&#34;&gt;【犯罪地理专栏】H市城区步行环境对两抢一盗警情的影响&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Individual and Interactive Influences of Anthropogenic and Ecological Factors on Forest PM2.5 Concentrations at an Urban Scale</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/pm25-geodetector-multi-factors/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/pm25-geodetector-multi-factors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research on the effects of different policy tools on China’s emissions reduction innovation(Chinese)</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/energy-conservation-and-emissions-reduction-innovation-journal-cn/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/energy-conservation-and-emissions-reduction-innovation-journal-cn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research on the effects of command-and-control and market-oriented policy tools on China’s energy conservation and emissions reduction innovation</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/energy-conservation-and-emissions-reduction-innovation-journal-en/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/energy-conservation-and-emissions-reduction-innovation-journal-en/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Analysis of Urban Spatial Development Pattern in Beijing Based on the Big Data of Government(Chinese)</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/urban-spatial-development-beijing/</link>
+      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/urban-spatial-development-beijing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
