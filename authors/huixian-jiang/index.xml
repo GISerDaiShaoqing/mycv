@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Huixian Jiang | Shaoqing Dai</title>
-    <link>/authors/huixian-jiang/</link>
-      <atom:link href="/authors/huixian-jiang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://giserdaishaoqing.github.io/mycv/authors/huixian-jiang/</link>
+      <atom:link href="https://giserdaishaoqing.github.io/mycv/authors/huixian-jiang/index.xml" rel="self" type="application/rss+xml" />
     <description>Huixian Jiang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2019 Shaoqing Dai</copyright><lastBuildDate>Wed, 15 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/site.png</url>
+      <url>https://giserdaishaoqing.github.io/mycv/img/site.png</url>
       <title>Huixian Jiang</title>
-      <link>/authors/huixian-jiang/</link>
+      <link>https://giserdaishaoqing.github.io/mycv/authors/huixian-jiang/</link>
     </image>
     
     <item>
       <title>Influence of Walking Environment on Robbery, Snatch and Theft Crime in Urban Area, H City, China(Chinese)</title>
-      <link>/publication/crime-geography-walkscore/</link>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/crime-geography-walkscore/</link>
       <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/crime-geography-walkscore/</guid>
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/crime-geography-walkscore/</guid>
       <description>
 
 &lt;h4 id=&#34;scientific-problems&#34;&gt;Scientific problems&lt;/h4&gt;
@@ -63,9 +63,9 @@
     
     <item>
       <title>Landscape-Scale Simulation Analysis of Waterlogging and Sponge City Planning for a Central Urban Area in Fuzhou City, China</title>
-      <link>/publication/landscape-blue-green-space/</link>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/landscape-blue-green-space/</link>
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/landscape-blue-green-space/</guid>
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/landscape-blue-green-space/</guid>
       <description>
 
 &lt;h4 id=&#34;introduction&#34;&gt;Introduction&lt;/h4&gt;
@@ -187,9 +187,9 @@
     
     <item>
       <title>The Simulation Analysis of Waterlogging and the Sponge City Planning Control of Central Urabn Area in Fuzhou City</title>
-      <link>/publication/sponge-city-blue-green-space/</link>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/sponge-city-blue-green-space/</link>
       <pubDate>Sun, 26 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/sponge-city-blue-green-space/</guid>
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/sponge-city-blue-green-space/</guid>
       <description></description>
     </item>
     

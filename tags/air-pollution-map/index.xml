@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Air Pollution Map | Shaoqing Dai</title>
-    <link>/tags/air-pollution-map/</link>
-      <atom:link href="/tags/air-pollution-map/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://giserdaishaoqing.github.io/mycv/tags/air-pollution-map/</link>
+      <atom:link href="https://giserdaishaoqing.github.io/mycv/tags/air-pollution-map/index.xml" rel="self" type="application/rss+xml" />
     <description>Air Pollution Map</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2019 Shaoqing Dai</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/site.png</url>
+      <url>https://giserdaishaoqing.github.io/mycv/img/site.png</url>
       <title>Air Pollution Map</title>
-      <link>/tags/air-pollution-map/</link>
+      <link>https://giserdaishaoqing.github.io/mycv/tags/air-pollution-map/</link>
     </image>
     
     <item>
       <title>Air Pollution Map</title>
-      <link>/project/air-pollution-map/</link>
+      <link>https://giserdaishaoqing.github.io/mycv/project/air-pollution-map/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/air-pollution-map/</guid>
+      <guid>https://giserdaishaoqing.github.io/mycv/project/air-pollution-map/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://res.mdpi.com/atmosphere/atmosphere-10-00055/article_deploy/html/images/atmosphere-10-00055-g004-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Figure 1 The spatial distribution of changes in annual average PM2.5 concentrations in different YRD cities from 2005 to 2015&lt;/em&gt;&lt;/p&gt;
