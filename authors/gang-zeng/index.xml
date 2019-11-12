@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gang Zeng | Shaoqing Dai</title>
-    <link>https://giserdaishaoqing.github.io/mycv/authors/gang-zeng/</link>
-      <atom:link href="https://giserdaishaoqing.github.io/mycv/authors/gang-zeng/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/gang-zeng/</link>
+      <atom:link href="/authors/gang-zeng/index.xml" rel="self" type="application/rss+xml" />
     <description>Gang Zeng</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2019 Shaoqing Dai</copyright><lastBuildDate>Thu, 15 Feb 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://giserdaishaoqing.github.io/mycv/img/site.png</url>
+      <url>/img/site.png</url>
       <title>Gang Zeng</title>
-      <link>https://giserdaishaoqing.github.io/mycv/authors/gang-zeng/</link>
+      <link>/authors/gang-zeng/</link>
     </image>
     
     <item>
       <title>Research on the effects of different policy tools on China’s emissions reduction innovation(Chinese)</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/energy-conservation-and-emissions-reduction-innovation-journal-cn/</link>
+      <link>/publication/energy-conservation-and-emissions-reduction-innovation-journal-cn/</link>
       <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/energy-conservation-and-emissions-reduction-innovation-journal-cn/</guid>
+      <guid>/publication/energy-conservation-and-emissions-reduction-innovation-journal-cn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research on the effects of command-and-control and market-oriented policy tools on China’s energy conservation and emissions reduction innovation</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/energy-conservation-and-emissions-reduction-innovation-journal-en/</link>
+      <link>/publication/energy-conservation-and-emissions-reduction-innovation-journal-en/</link>
       <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/energy-conservation-and-emissions-reduction-innovation-journal-en/</guid>
+      <guid>/publication/energy-conservation-and-emissions-reduction-innovation-journal-en/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research on the Effects of Different Policy Tools on China’s Energy Conservation and Emissions Reduction Innovation Based on the Panel Data of 285 prefectural-level municipalities(Chinese)</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/energy-conservation-and-emissions-reduction-innovation-meeting/</link>
+      <link>/publication/energy-conservation-and-emissions-reduction-innovation-meeting/</link>
       <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/energy-conservation-and-emissions-reduction-innovation-meeting/</guid>
+      <guid>/publication/energy-conservation-and-emissions-reduction-innovation-meeting/</guid>
       <description></description>
     </item>
     

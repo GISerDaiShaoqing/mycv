@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Shaoqing Dai</title>
-    <link>https://giserdaishaoqing.github.io/mycv/publication_types/</link>
-      <atom:link href="https://giserdaishaoqing.github.io/mycv/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication_types/</link>
+      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2019 Shaoqing Dai</copyright><lastBuildDate>Thu, 03 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://giserdaishaoqing.github.io/mycv/img/site.png</url>
+      <url>/img/site.png</url>
       <title>Publication_types</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication_types/</link>
+      <link>/publication_types/</link>
     </image>
     
     <item>
       <title>2</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication_types/2/</link>
+      <link>/publication_types/2/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication_types/2/</guid>
+      <guid>/publication_types/2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication_types/1/</link>
+      <link>/publication_types/1/</link>
       <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication_types/1/</guid>
+      <guid>/publication_types/1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>6</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication_types/6/</link>
+      <link>/publication_types/6/</link>
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication_types/6/</guid>
+      <guid>/publication_types/6/</guid>
       <description></description>
     </item>
     
