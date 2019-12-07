@@ -2,117 +2,117 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Shaoqing Dai</title>
-    <link>https://giserdaishaoqing.github.io/mycv/tags/</link>
-      <atom:link href="https://giserdaishaoqing.github.io/mycv/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://gisersqdai.top/mycv/tags/</link>
+      <atom:link href="https://gisersqdai.top/mycv/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2019 Shaoqing Dai</copyright><lastBuildDate>Thu, 03 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://giserdaishaoqing.github.io/mycv/img/site.png</url>
+      <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Tags</title>
-      <link>https://giserdaishaoqing.github.io/mycv/tags/</link>
+      <link>https://gisersqdai.top/mycv/tags/</link>
     </image>
     
     <item>
       <title>GIS</title>
-      <link>https://giserdaishaoqing.github.io/mycv/tags/gis/</link>
+      <link>https://gisersqdai.top/mycv/tags/gis/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/tags/gis/</guid>
+      <guid>https://gisersqdai.top/mycv/tags/gis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Landscape Ecology</title>
-      <link>https://giserdaishaoqing.github.io/mycv/tags/landscape-ecology/</link>
+      <link>https://gisersqdai.top/mycv/tags/landscape-ecology/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/tags/landscape-ecology/</guid>
+      <guid>https://gisersqdai.top/mycv/tags/landscape-ecology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RS</title>
-      <link>https://giserdaishaoqing.github.io/mycv/tags/rs/</link>
+      <link>https://gisersqdai.top/mycv/tags/rs/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/tags/rs/</guid>
+      <guid>https://gisersqdai.top/mycv/tags/rs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial Statistics</title>
-      <link>https://giserdaishaoqing.github.io/mycv/tags/spatial-statistics/</link>
+      <link>https://gisersqdai.top/mycv/tags/spatial-statistics/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/tags/spatial-statistics/</guid>
+      <guid>https://gisersqdai.top/mycv/tags/spatial-statistics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Urban Carbon Cycle</title>
-      <link>https://giserdaishaoqing.github.io/mycv/tags/urban-carbon-cycle/</link>
+      <link>https://gisersqdai.top/mycv/tags/urban-carbon-cycle/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/tags/urban-carbon-cycle/</guid>
+      <guid>https://gisersqdai.top/mycv/tags/urban-carbon-cycle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ecological Modeling</title>
-      <link>https://giserdaishaoqing.github.io/mycv/tags/ecological-modeling/</link>
+      <link>https://gisersqdai.top/mycv/tags/ecological-modeling/</link>
       <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/tags/ecological-modeling/</guid>
+      <guid>https://gisersqdai.top/mycv/tags/ecological-modeling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ecosystem Sevices</title>
-      <link>https://giserdaishaoqing.github.io/mycv/tags/ecosystem-sevices/</link>
+      <link>https://gisersqdai.top/mycv/tags/ecosystem-sevices/</link>
       <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/tags/ecosystem-sevices/</guid>
+      <guid>https://gisersqdai.top/mycv/tags/ecosystem-sevices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning</title>
-      <link>https://giserdaishaoqing.github.io/mycv/tags/machine-learning/</link>
+      <link>https://gisersqdai.top/mycv/tags/machine-learning/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/tags/machine-learning/</guid>
+      <guid>https://gisersqdai.top/mycv/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Urban Computing</title>
-      <link>https://giserdaishaoqing.github.io/mycv/tags/urban-computing/</link>
+      <link>https://gisersqdai.top/mycv/tags/urban-computing/</link>
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/tags/urban-computing/</guid>
+      <guid>https://gisersqdai.top/mycv/tags/urban-computing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Air Pollution Map</title>
-      <link>https://giserdaishaoqing.github.io/mycv/tags/air-pollution-map/</link>
+      <link>https://gisersqdai.top/mycv/tags/air-pollution-map/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/tags/air-pollution-map/</guid>
+      <guid>https://gisersqdai.top/mycv/tags/air-pollution-map/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial-Temporal GIS Theory</title>
-      <link>https://giserdaishaoqing.github.io/mycv/tags/spatial-temporal-gis-theory/</link>
+      <link>https://gisersqdai.top/mycv/tags/spatial-temporal-gis-theory/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/tags/spatial-temporal-gis-theory/</guid>
+      <guid>https://gisersqdai.top/mycv/tags/spatial-temporal-gis-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Urban Blue and Green Space</title>
-      <link>https://giserdaishaoqing.github.io/mycv/tags/urban-blue-and-green-space/</link>
+      <link>https://gisersqdai.top/mycv/tags/urban-blue-and-green-space/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/tags/urban-blue-and-green-space/</guid>
+      <guid>https://gisersqdai.top/mycv/tags/urban-blue-and-green-space/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Virtual Geographical Environment</title>
-      <link>https://giserdaishaoqing.github.io/mycv/tags/virtual-geographical-environment/</link>
+      <link>https://gisersqdai.top/mycv/tags/virtual-geographical-environment/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/tags/virtual-geographical-environment/</guid>
+      <guid>https://gisersqdai.top/mycv/tags/virtual-geographical-environment/</guid>
       <description></description>
     </item>
     
