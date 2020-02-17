@@ -5,7 +5,7 @@
     <link>https://giserdaishaoqing.github.io/mycv/tags/</link>
       <atom:link href="https://giserdaishaoqing.github.io/mycv/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Thu, 03 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://giserdaishaoqing.github.io/mycv/img/site.png</url>
       <title>Tags</title>
@@ -15,8 +15,32 @@
     <item>
       <title>GIS</title>
       <link>https://giserdaishaoqing.github.io/mycv/tags/gis/</link>
-      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://giserdaishaoqing.github.io/mycv/tags/gis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RS</title>
+      <link>https://giserdaishaoqing.github.io/mycv/tags/rs/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/tags/rs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Statistics</title>
+      <link>https://giserdaishaoqing.github.io/mycv/tags/spatial-statistics/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/tags/spatial-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Carbon Cycle</title>
+      <link>https://giserdaishaoqing.github.io/mycv/tags/urban-carbon-cycle/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/tags/urban-carbon-cycle/</guid>
       <description></description>
     </item>
     
@@ -25,30 +49,6 @@
       <link>https://giserdaishaoqing.github.io/mycv/tags/landscape-ecology/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://giserdaishaoqing.github.io/mycv/tags/landscape-ecology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RS</title>
-      <link>https://giserdaishaoqing.github.io/mycv/tags/rs/</link>
-      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/tags/rs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial Statistics</title>
-      <link>https://giserdaishaoqing.github.io/mycv/tags/spatial-statistics/</link>
-      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/tags/spatial-statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Urban Carbon Cycle</title>
-      <link>https://giserdaishaoqing.github.io/mycv/tags/urban-carbon-cycle/</link>
-      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/tags/urban-carbon-cycle/</guid>
       <description></description>
     </item>
     

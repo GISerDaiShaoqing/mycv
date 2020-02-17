@@ -78,7 +78,9 @@
 
 &lt;p&gt;&lt;em&gt;Figure 2 Comparison between our high resolution $CO_2$ emission gridding map and CHRED&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;detailed informations can see &lt;a href=&#34;http://science.gisersqdai.top/CEopendata.html&#34; target=&#34;_blank&#34;&gt;it&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;detailed informations can see &lt;a href=&#34;http://science.gisersqdai.top/CEopendata.html&#34; target=&#34;_blank&#34;&gt;it&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We used a general hybrid approach based on global downscaled and bottom-up elements to produce the CO2 emissions gridded maps, identitfied the urban functional districts map, and generated the city-scale effect related impact factors. All the maps were included in a spatial database. Detailed information can see &lt;a href=&#34;http://science.gisersqdai.top/DIB/DIBdata.html&#34; target=&#34;_blank&#34;&gt;it&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;We compared the relationships between urban form fragmentation and CO$_2$ emissions in an urban system through the analytic framework composed of the Pearson correlation analysis, geographically weighted regression (GWR), and geographical detector methods with the use of multi-source data to construct the CO$_2$ emissions maps. The analytical framework can be applied to CO$_2$ emissions research in urban agglomerations, megacities, and small towns.&lt;/p&gt;
 
