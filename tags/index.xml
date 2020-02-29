@@ -5,7 +5,7 @@
     <link>https://giserdaishaoqing.github.io/mycv/tags/</link>
       <atom:link href="https://giserdaishaoqing.github.io/mycv/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://giserdaishaoqing.github.io/mycv/img/site.png</url>
       <title>Tags</title>
@@ -15,7 +15,7 @@
     <item>
       <title>GIS</title>
       <link>https://giserdaishaoqing.github.io/mycv/tags/gis/</link>
-      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://giserdaishaoqing.github.io/mycv/tags/gis/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>RS</title>
       <link>https://giserdaishaoqing.github.io/mycv/tags/rs/</link>
-      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://giserdaishaoqing.github.io/mycv/tags/rs/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Spatial Statistics</title>
       <link>https://giserdaishaoqing.github.io/mycv/tags/spatial-statistics/</link>
-      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://giserdaishaoqing.github.io/mycv/tags/spatial-statistics/</guid>
       <description></description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>Urban Carbon Cycle</title>
       <link>https://giserdaishaoqing.github.io/mycv/tags/urban-carbon-cycle/</link>
-      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://giserdaishaoqing.github.io/mycv/tags/urban-carbon-cycle/</guid>
       <description></description>
     </item>
@@ -47,7 +47,7 @@
     <item>
       <title>Landscape Ecology</title>
       <link>https://giserdaishaoqing.github.io/mycv/tags/landscape-ecology/</link>
-      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://giserdaishaoqing.github.io/mycv/tags/landscape-ecology/</guid>
       <description></description>
     </item>
@@ -69,9 +69,17 @@
     </item>
     
     <item>
+      <title>Ecological Modelling</title>
+      <link>https://giserdaishaoqing.github.io/mycv/tags/ecological-modelling/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/tags/ecological-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine Learning</title>
       <link>https://giserdaishaoqing.github.io/mycv/tags/machine-learning/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://giserdaishaoqing.github.io/mycv/tags/machine-learning/</guid>
       <description></description>
     </item>
@@ -87,7 +95,7 @@
     <item>
       <title>Air Pollution Map</title>
       <link>https://giserdaishaoqing.github.io/mycv/tags/air-pollution-map/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
       <guid>https://giserdaishaoqing.github.io/mycv/tags/air-pollution-map/</guid>
       <description></description>
     </item>
@@ -95,24 +103,24 @@
     <item>
       <title>Spatial-Temporal GIS Theory</title>
       <link>https://giserdaishaoqing.github.io/mycv/tags/spatial-temporal-gis-theory/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://giserdaishaoqing.github.io/mycv/tags/spatial-temporal-gis-theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Urban Blue and Green Space</title>
-      <link>https://giserdaishaoqing.github.io/mycv/tags/urban-blue-and-green-space/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/tags/urban-blue-and-green-space/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Virtual Geographical Environment</title>
       <link>https://giserdaishaoqing.github.io/mycv/tags/virtual-geographical-environment/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 May 2016 00:00:00 +0000</pubDate>
       <guid>https://giserdaishaoqing.github.io/mycv/tags/virtual-geographical-environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Blue and Green Space</title>
+      <link>https://giserdaishaoqing.github.io/mycv/tags/urban-blue-and-green-space/</link>
+      <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/tags/urban-blue-and-green-space/</guid>
       <description></description>
     </item>
     

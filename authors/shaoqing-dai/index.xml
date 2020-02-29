@@ -5,7 +5,7 @@
     <link>https://giserdaishaoqing.github.io/mycv/authors/shaoqing-dai/</link>
       <atom:link href="https://giserdaishaoqing.github.io/mycv/authors/shaoqing-dai/index.xml" rel="self" type="application/rss+xml" />
     <description>**Shaoqing Dai**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://giserdaishaoqing.github.io/mycv/img/site.png</url>
       <title>**Shaoqing Dai**</title>
@@ -15,7 +15,7 @@
     <item>
       <title>A spatial database of CO$_2$ emissions, urban form fragmentation and city-scale effect related impact factors for the low carbon urban system in Jinjiang city, China</title>
       <link>https://giserdaishaoqing.github.io/mycv/publication/high-resolution-co2-map-dib/</link>
-      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://giserdaishaoqing.github.io/mycv/publication/high-resolution-co2-map-dib/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>More fragmentized urban form more CO$_2$ emissions? A comprehensive relationship from the combination analysis across different scales</title>
       <link>https://giserdaishaoqing.github.io/mycv/publication/relationship-co2-fragmentation-jclp/</link>
-      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://giserdaishaoqing.github.io/mycv/publication/relationship-co2-fragmentation-jclp/</guid>
       <description>
 
@@ -102,6 +102,14 @@
 
 &lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/4AOmOlRPz--PQpRbgdiXqw&#34; target=&#34;_blank&#34;&gt;【犯罪地理专栏】H市城区步行环境对两抢一盗警情的影响&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Creating a Carbon Source and Sink Map by Coupling an Ecological Process Model with an Emission Inventory to Study a Carbon Balance</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/masterthesis/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/masterthesis/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -186,14 +194,6 @@
     </item>
     
     <item>
-      <title>The Scale Effect, Zoning Effect of Geographical Features, the Modified Areal Unit Problem and the Chanlleges of Spatial Stastistics(Chinese)</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/maup-geodetector-r/</link>
-      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/maup-geodetector-r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Improving the prediction accuracy of forest aboveground biomass benchmark map by integrating machine learning and spatial statistics</title>
       <link>https://giserdaishaoqing.github.io/mycv/publication/improved-biomass-map-ei-meeting/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
@@ -230,14 +230,6 @@
       <link>https://giserdaishaoqing.github.io/mycv/publication/energy-conservation-and-emissions-reduction-innovation-journal-en/</link>
       <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
       <guid>https://giserdaishaoqing.github.io/mycv/publication/energy-conservation-and-emissions-reduction-innovation-journal-en/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantifying the linear and nonlinear relations between the urban form fragmentation and the carbon emission distribution</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/relationship-co2-fragmentation-agu/</link>
-      <pubDate>Sat, 16 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/relationship-co2-fragmentation-agu/</guid>
       <description></description>
     </item>
     
@@ -374,14 +366,6 @@
     </item>
     
     <item>
-      <title>Research on the Effects of Different Policy Tools on China’s Energy Conservation and Emissions Reduction Innovation Based on the Panel Data of 285 prefectural-level municipalities(Chinese)</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/energy-conservation-and-emissions-reduction-innovation-meeting/</link>
-      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/energy-conservation-and-emissions-reduction-innovation-meeting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The Simulation Analysis of Waterlogging and the Sponge City Planning Control of Central Urabn Area in Fuzhou City</title>
       <link>https://giserdaishaoqing.github.io/mycv/publication/sponge-city-blue-green-space/</link>
       <pubDate>Sun, 26 Jun 2016 00:00:00 +0000</pubDate>
@@ -394,6 +378,14 @@
       <link>https://giserdaishaoqing.github.io/mycv/publication/urban-spatial-development-beijing/</link>
       <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
       <guid>https://giserdaishaoqing.github.io/mycv/publication/urban-spatial-development-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Planning Location and Design of Smart Campus Based on BIM and GIS：A Case Study of Fujian Normal University</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/undergraduatethesis/</link>
+      <pubDate>Sat, 28 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/undergraduatethesis/</guid>
       <description></description>
     </item>
     

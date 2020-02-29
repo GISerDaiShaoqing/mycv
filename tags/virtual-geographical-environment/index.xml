@@ -5,7 +5,7 @@
     <link>https://giserdaishaoqing.github.io/mycv/tags/virtual-geographical-environment/</link>
       <atom:link href="https://giserdaishaoqing.github.io/mycv/tags/virtual-geographical-environment/index.xml" rel="self" type="application/rss+xml" />
     <description>Virtual Geographical Environment</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Sat, 28 May 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://giserdaishaoqing.github.io/mycv/img/site.png</url>
       <title>Virtual Geographical Environment</title>
@@ -13,11 +13,21 @@
     </image>
     
     <item>
+      <title>The Planning Location and Design of Smart Campus Based on BIM and GIS：A Case Study of Fujian Normal University</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/undergraduatethesis/</link>
+      <pubDate>Sat, 28 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/undergraduatethesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Virtual Geographical Environment</title>
       <link>https://giserdaishaoqing.github.io/mycv/project/virtual-geographical-environment/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Jun 2014 00:00:00 +0000</pubDate>
       <guid>https://giserdaishaoqing.github.io/mycv/project/virtual-geographical-environment/</guid>
       <description>
+
+&lt;p&gt;There are two projects about the virtual geographical environments and its applications in geography.&lt;/p&gt;
 
 &lt;h4 id=&#34;the-virtual-3d-model-of-fuzhou-strait-olympic-sports-center&#34;&gt;The Virtual 3D model of Fuzhou Strait Olympic Sports Center&lt;/h4&gt;
 
@@ -55,15 +65,15 @@
 
 &lt;hr /&gt;
 
-&lt;h4 id=&#34;the-simulation-model-of-building-site-location-and-construction-based-on-data-augmented-design-and-bim-a-case-study-of-fujian-normal-university&#34;&gt;The Simulation Model of Building Site Location and Construction Based on Data Augmented Design and BIM: A Case Study of Fujian Normal University&lt;/h4&gt;
+&lt;h4 id=&#34;the-planning-location-and-design-of-smart-campus-based-on-bim-and-gis-a-case-study-of-fujian-normal-university&#34;&gt;The Planning Location and Design of Smart Campus Based on BIM and GIS：A Case Study of Fujian Normal University&lt;/h4&gt;
 
-&lt;p&gt;This is my undergraduate thesis. With the tide of Smart City and Big Data era, I explore the practice of Data Augmented Design、GIS and BIM in Smart Campus’s Application based on Fujian Normal University Keji Buildings.&lt;/p&gt;
+&lt;p&gt;This is my undergraduate thesis. With the tide of Smart City and Big Data era, I explore the practice of Data Augmented Design, GIS and BIM in Smart Campus’s Application based on Fujian Normal University Keji Buildings.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://www.arcgis.com/apps/CEWebViewer/viewer.html?3dWebScene=763aa7b8bf7e4f0985eeb19c2fa34f7a&#34; target=&#34;_blank&#34;&gt;Online Model&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;With the tide of Smart City and Big Data era, I explore the practice of Data Augmented Design、GIS and BIM in Smart Campus’s Application based on Fujian Normal University Keji Buildings. I build the simulation model of building site location and construction. And I use Data Augmented Design, GIS spatial analysis, Space Syntax and City Engine 3D modeling to support the building site location and assessment of planning, build the BIM model and develop the public participation GIS of Keji Buildings.&lt;/p&gt;
+&lt;p&gt;With the tide of Smart City and Big Data era, I explore the practice of Data Augmented Design, GIS and BIM in Smart Campus’s Application based on Fujian Normal University Keji Buildings. I build the simulation model of building site location and construction. And I use Data Augmented Design, GIS spatial analysis, Space Syntax and City Engine 3D modeling to support the building site location and assessment of planning, build the BIM model and develop the public participation GIS of Keji Buildings. This work was funded by the Project-The Technological Innovation Plan of University Students, Fujian Normal University, &amp;ldquo;The Optimization Model of High Education Staff’s Refuge Space Under Earthquake Disater&amp;rdquo;(cxxl-2014137).&lt;/p&gt;
 </description>
     </item>
     

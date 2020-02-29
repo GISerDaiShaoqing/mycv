@@ -5,7 +5,7 @@
     <link>https://giserdaishaoqing.github.io/mycv/</link>
       <atom:link href="https://giserdaishaoqing.github.io/mycv/index.xml" rel="self" type="application/rss+xml" />
     <description>Shaoqing Dai</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://giserdaishaoqing.github.io/mycv/img/site.png</url>
       <title>Shaoqing Dai</title>
@@ -15,7 +15,7 @@
     <item>
       <title>A spatial database of CO$_2$ emissions, urban form fragmentation and city-scale effect related impact factors for the low carbon urban system in Jinjiang city, China</title>
       <link>https://giserdaishaoqing.github.io/mycv/publication/high-resolution-co2-map-dib/</link>
-      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://giserdaishaoqing.github.io/mycv/publication/high-resolution-co2-map-dib/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>More fragmentized urban form more CO$_2$ emissions? A comprehensive relationship from the combination analysis across different scales</title>
       <link>https://giserdaishaoqing.github.io/mycv/publication/relationship-co2-fragmentation-jclp/</link>
-      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://giserdaishaoqing.github.io/mycv/publication/relationship-co2-fragmentation-jclp/</guid>
       <description>
 
@@ -102,6 +102,14 @@
 
 &lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/4AOmOlRPz--PQpRbgdiXqw&#34; target=&#34;_blank&#34;&gt;【犯罪地理专栏】H市城区步行环境对两抢一盗警情的影响&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Creating a Carbon Source and Sink Map by Coupling an Ecological Process Model with an Emission Inventory to Study a Carbon Balance</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/masterthesis/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/masterthesis/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -192,14 +200,6 @@
       <guid>https://giserdaishaoqing.github.io/mycv/talk/rlanguage2018talks/</guid>
       <description>&lt;p&gt;Scale effect and zoning effect are important in geographical research. The combination with scale effect and zoning effect will cause the modified areal unit problem. So how to deal with it in spatial stastics?&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>The Scale Effect, Zoning Effect of Geographical Features, the Modified Areal Unit Problem and the Chanlleges of Spatial Stastistics(Chinese)</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/maup-geodetector-r/</link>
-      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/maup-geodetector-r/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -449,14 +449,6 @@ Our poster of sponge city research presented at the 2016 International Low Impac
     </item>
     
     <item>
-      <title>Quantifying the linear and nonlinear relations between the urban form fragmentation and the carbon emission distribution</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/relationship-co2-fragmentation-agu/</link>
-      <pubDate>Sat, 16 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/relationship-co2-fragmentation-agu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Landscape-Scale Simulation Analysis of Waterlogging and Sponge City Planning for a Central Urban Area in Fuzhou City, China</title>
       <link>https://giserdaishaoqing.github.io/mycv/publication/landscape-blue-green-space/</link>
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
@@ -609,14 +601,6 @@ Our poster of sponge city research presented at the 2016 International Low Impac
     </item>
     
     <item>
-      <title>Research on the Effects of Different Policy Tools on China’s Energy Conservation and Emissions Reduction Innovation Based on the Panel Data of 285 prefectural-level municipalities(Chinese)</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/energy-conservation-and-emissions-reduction-innovation-meeting/</link>
-      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/energy-conservation-and-emissions-reduction-innovation-meeting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The Criminal Geographical Analysis about Walking Environment of Urban</title>
       <link>https://giserdaishaoqing.github.io/mycv/talk/buu2016talks/</link>
       <pubDate>Sun, 27 Nov 2016 14:10:00 +0000</pubDate>
@@ -624,6 +608,63 @@ Our poster of sponge city research presented at the 2016 International Low Impac
       <description>&lt;p&gt;The urban space environment is an important factor for urban crimes. A greater walkability of city can reduce the crime rate in many Criminal Geography theories. However, there is few empirical studies in China.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/03551963773.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Air Pollution Map</title>
+      <link>https://giserdaishaoqing.github.io/mycv/project/air-pollution-map/</link>
+      <pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/project/air-pollution-map/</guid>
+      <description>&lt;p&gt;Air pollution became a global concern of public health and environmental govermance, especially in the developing countries. There is the need to understanding the spatio-temporal dynamics of air pollution. How to map an accurate air pollution map is the main research problem in studies of air pollution. We could explore the driver factors of air pollution based on the spatio-temmporal air pollution maps with high accuracy. We used the different methods such as spatial interpolation methods, remote sensing retrieval, machine learning and land use regression model to obatin the air pollution maps and found some interesting results. But how to intergrating the different methods is the further studies.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-10-00521/article_deploy/html/images/remotesensing-10-00521-g005-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 1 Scores for the interactive effects of impact factors sensitivity rankings at the three periods studied calculated based on simulations using multisource data&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/atmosphere/atmosphere-10-00055/article_deploy/html/images/atmosphere-10-00055-g004-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 2 The spatial distribution of changes in annual average PM2.5 concentrations in different YRD cities from 2005 to 2015.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Urban Carbon Cycle</title>
+      <link>https://giserdaishaoqing.github.io/mycv/project/urban-carbon-cycle/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/project/urban-carbon-cycle/</guid>
+      <description>&lt;p&gt;Cities are typical sources of carbon and a focus of climate-change mitigation. Although there is great potential for reducing emissions in cities, constructing low-carbonemission cities under the carbon-emission reduction target of the 2016 Paris Agreement remains challenging as there is little scientific evidence for use by government decisionmakers. To solve this problem, we must understand the urban carbon-cycle process in greater detail and especially analyze spatiotemporal variations in carbon sources and sinks.&lt;/p&gt;
+
+&lt;p&gt;The forest is the only exact carbon sink. How to map the accurate carbon sink maps? Firstly, we propose herein a low-cost method that combines machine learning and spatial statistics to construct a regional biomass map from non-representative sample units. Secondly, we scaled up an ecological process model to obtain the spatial distribution of regional biomass. Finally, we used some data assimilation technology by these data.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/figcs.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Figure 1 The accuracy of different methods for biomass estimation&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Cities are the main sources of $CO_2$ emissions and, thus, must abate emissions responsibly. About 50% of urban $CO_2$ emissions was attributed to urban forms, mixed land use, building types, and transportation networks.  It is necessary to characterize the pixel-based distribution of urban direct $CO_2$ emissions accurately. But large uncertainties was found at the urban scale, it&amp;rsquo;s important to analyze the uncertainties of $CO_2$ emissions gridded map at the urban scale. Besides, exlporing the relationship between $CO_2$ emissions and urban form is useful for planning.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/contribution.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Figure 2 Comparison between our high resolution $CO_2$ emission gridding map and CHRED&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;detailed informations can see &lt;a href=&#34;http://science.gisersqdai.top/CEopendata.html&#34; target=&#34;_blank&#34;&gt;it&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We used a general hybrid approach based on global downscaled and bottom-up elements to produce the CO$_2$ emissions gridded maps, identitfied the urban functional districts map, and generated the city-scale effect related impact factors. All the maps were included in a spatial database. Detailed information can see &lt;a href=&#34;http://science.gisersqdai.top/DIB/DIBdata.html&#34; target=&#34;_blank&#34;&gt;it&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We compared the relationships between urban form fragmentation and CO$_2$ emissions in an urban system through the analytic framework composed of the Pearson correlation analysis, geographically weighted regression (GWR), and geographical detector methods with the use of multi-source data to construct the CO$_2$ emissions maps. The analytical framework can be applied to CO$_2$ emissions research in urban agglomerations, megacities, and small towns.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/JCLP/JCLP.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Figure 3 Analytical Framework&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatial-Temporal GIS Theory</title>
+      <link>https://giserdaishaoqing.github.io/mycv/project/spatial-temporal-gis-theory/</link>
+      <pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/project/spatial-temporal-gis-theory/</guid>
+      <description>&lt;p&gt;Spatial-temporal data is the key to handling big data in this era. Therefore, we need to explored and improved the spatial-temporal GIS theory. On the other hand, we could used the big data to study the traditional spatial-temporal GIS theory and its applicathions such as spatial-temporal human behaviour, criminal geographical theory. Furthermore, scale effect and the modified areal unit problem(MAUP) are also the unsolved problems in geographical study. We want to improve the spatial-temporal geographical theory and its applicathions.&lt;/p&gt;
 </description>
     </item>
     
@@ -655,49 +696,17 @@ Our poster of sponge city research presented at the 2016 International Low Impac
     </item>
     
     <item>
-      <title>Air Pollution Map</title>
-      <link>https://giserdaishaoqing.github.io/mycv/project/air-pollution-map/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/project/air-pollution-map/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.mdpi.com/atmosphere/atmosphere-10-00055/article_deploy/html/images/atmosphere-10-00055-g004-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Figure 1 The spatial distribution of changes in annual average PM2.5 concentrations in different YRD cities from 2005 to 2015&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The proportion of level V concentrations continuously increased from 0.00% in 2005 to 7.75% in 2015, showing a rapid expansion trend in the YRD. The proportion of level I and level V concentration gradually increased from 2005 to 2010.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://res.mdpi.com/atmosphere/atmosphere-10-00055/article_deploy/html/images/atmosphere-10-00055-g007-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Figure 2 Annual average PM2.5 concentrations in different climate, ecosystem and geomorphological subregions (NS = North subtropical humid zone, CS = Central subtropical humid zone, AL = Arable land ecosystem, FL=Forest ecosystem, GL = Grassland ecosystem, WL = Water and wetland ecosystem, HS = Human settlement ecosystem, PL = Plain, TL = Tableland, HI = Hills, Mo1 = Small-undulating mountain, Mo2 = Mid-undulating mountain, Mo3 = Large-undulating mountain)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;For the years 2005, 2010 and 2015, average PM2.5 concentrations were highest in the subregion of the human settlement ecosystem , followed by the farmland ecosystem  and the wetland ecosystem . Average PM2.5 concentrations were highest in the north subtropic humid climate subregion and the central subtropic humid climate subregion . And finally, average PM2.5 concentrations were highest in the geomorphological plain subregion, followed by the platform subregion and the hilly subregion.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://res.mdpi.com/remotesensing/remotesensing-10-00521/article_deploy/html/images/remotesensing-10-00521-g002-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Figure 3 Spatial distributions of urban forest PM2.5 concentrations on three different days at the optimal distance threshold of 3500 m&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The spatial distributions of PM2.5 concentrations on 13 and 29 December 2014 and 14 January 2015 showed significant spatial clustering. The aggregated areas (hot spots and cold spots) of PM2.5 identified by Getis-Ord Gi* showed that PM2.5 hot spots were concentrated in urban centers and suburbs and cold spots were mainly distributed in the suburbs and exurban regions.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://res.mdpi.com/remotesensing/remotesensing-10-00521/article_deploy/html/images/remotesensing-10-00521-g005-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Figrue 4 Scores for the interactive effects of impact factors sensitivity rankings at the three periods studied calculated based on simulations using multisource data (A is the result on 13 December 2014; B is the result on 29 December 2014; C is the result on 14 January 2015)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;With the acceleration of urbanization, the interactive effects of population density, impervious surface percentage, and other factors could result in increased air pollution.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Spatial-Temporal GIS Theory</title>
-      <link>https://giserdaishaoqing.github.io/mycv/project/spatial-temporal-gis-theory/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/project/spatial-temporal-gis-theory/</guid>
-      <description>&lt;p&gt;Spatial-temporal data is the key to handling big data in this era. Therefore, we need to explored and improved the spatial-temporal GIS theory. On the other hand, we could used the big data to study the traditional spatial-temporal GIS theory and its applicathions such as spatial-temporal human behaviour, criminal geographical theory. Furthermore, scale effect and the modified areal unit problem(MAUP) are also the unsolved problems in geographical study. We want to improve the spatial-temporal geographical theory and its applicathions.&lt;/p&gt;
-</description>
+      <title>The Planning Location and Design of Smart Campus Based on BIM and GIS：A Case Study of Fujian Normal University</title>
+      <link>https://giserdaishaoqing.github.io/mycv/publication/undergraduatethesis/</link>
+      <pubDate>Sat, 28 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://giserdaishaoqing.github.io/mycv/publication/undergraduatethesis/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Urban Blue and Green Space</title>
       <link>https://giserdaishaoqing.github.io/mycv/project/urban-blue-and-green-space/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://giserdaishaoqing.github.io/mycv/project/urban-blue-and-green-space/</guid>
       <description>&lt;p&gt;In the new normal period of economic transition in China, The Government came up with the concept of the Sponge City, we have some different views of sponge city planning
 The research extracted the impervious surface from the non-NGI(natural green infrastructure ) landscape and used the precipitation-volumetric method to simulate waterlogging scenarios. We determined the area of rainwater submersion by simulation experiments, the change in the NGI landscape by overlaying images of the region, and the association between these features by data mining. Using the change in ecology indices, we ascertained the changing spatial patterns of the NGI landscape and used these findings to formulate suggestions for Sponge City planning in Fuzhou. Overall, our work combines three research themes, urban waterlogging, landscape ecology, and data mining, for a deep analysis of the relationship between the NGI landscape and storm runoff in an urban environment.&lt;/p&gt;
@@ -798,40 +807,13 @@ The research extracted the impervious surface from the non-NGI(natural green inf
     </item>
     
     <item>
-      <title>Urban Carbon Cycle</title>
-      <link>https://giserdaishaoqing.github.io/mycv/project/urban-carbon-cycle/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/project/urban-carbon-cycle/</guid>
-      <description>&lt;p&gt;Firstly, we propose herein a low-cost method that combines machine learning and spatial statistics to construct a regional biomass map from non-representative sample units. Secondly, we scaled up an ecological process model to obtain the spatial distribution of regional biomass. Finally, we used some data assimilation technology by these data.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/figcs.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Figure The accuracy of different methods for biomass estimation&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Cities are the main sources of $CO_2$ emissions and, thus, must abate emissions responsibly. About 50% of urban $CO_2$ emissions was attributed to urban forms, mixed land use, building types, and transportation networks.  It is necessary to characterize the pixel-based distribution of urban direct $CO_2$ emissions accurately. But large uncertainties was found at the urban scale, it&amp;rsquo;s important to analyze the uncertainties of $CO_2$ emissions gridded map at the urban scale. Besides, exlporing the relationship between $CO_2$ emissions and urban form is useful for planning.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/contribution.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Figure 2 Comparison between our high resolution $CO_2$ emission gridding map and CHRED&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;detailed informations can see &lt;a href=&#34;http://science.gisersqdai.top/CEopendata.html&#34; target=&#34;_blank&#34;&gt;it&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;We used a general hybrid approach based on global downscaled and bottom-up elements to produce the CO2 emissions gridded maps, identitfied the urban functional districts map, and generated the city-scale effect related impact factors. All the maps were included in a spatial database. Detailed information can see &lt;a href=&#34;http://science.gisersqdai.top/DIB/DIBdata.html&#34; target=&#34;_blank&#34;&gt;it&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;We compared the relationships between urban form fragmentation and CO$_2$ emissions in an urban system through the analytic framework composed of the Pearson correlation analysis, geographically weighted regression (GWR), and geographical detector methods with the use of multi-source data to construct the CO$_2$ emissions maps. The analytical framework can be applied to CO$_2$ emissions research in urban agglomerations, megacities, and small towns.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/JCLP/JCLP.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Figure 3 Analytical Framework&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Virtual Geographical Environment</title>
       <link>https://giserdaishaoqing.github.io/mycv/project/virtual-geographical-environment/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Jun 2014 00:00:00 +0000</pubDate>
       <guid>https://giserdaishaoqing.github.io/mycv/project/virtual-geographical-environment/</guid>
       <description>
+
+&lt;p&gt;There are two projects about the virtual geographical environments and its applications in geography.&lt;/p&gt;
 
 &lt;h4 id=&#34;the-virtual-3d-model-of-fuzhou-strait-olympic-sports-center&#34;&gt;The Virtual 3D model of Fuzhou Strait Olympic Sports Center&lt;/h4&gt;
 
@@ -869,15 +851,15 @@ The research extracted the impervious surface from the non-NGI(natural green inf
 
 &lt;hr /&gt;
 
-&lt;h4 id=&#34;the-simulation-model-of-building-site-location-and-construction-based-on-data-augmented-design-and-bim-a-case-study-of-fujian-normal-university&#34;&gt;The Simulation Model of Building Site Location and Construction Based on Data Augmented Design and BIM: A Case Study of Fujian Normal University&lt;/h4&gt;
+&lt;h4 id=&#34;the-planning-location-and-design-of-smart-campus-based-on-bim-and-gis-a-case-study-of-fujian-normal-university&#34;&gt;The Planning Location and Design of Smart Campus Based on BIM and GIS：A Case Study of Fujian Normal University&lt;/h4&gt;
 
-&lt;p&gt;This is my undergraduate thesis. With the tide of Smart City and Big Data era, I explore the practice of Data Augmented Design、GIS and BIM in Smart Campus’s Application based on Fujian Normal University Keji Buildings.&lt;/p&gt;
+&lt;p&gt;This is my undergraduate thesis. With the tide of Smart City and Big Data era, I explore the practice of Data Augmented Design, GIS and BIM in Smart Campus’s Application based on Fujian Normal University Keji Buildings.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://www.arcgis.com/apps/CEWebViewer/viewer.html?3dWebScene=763aa7b8bf7e4f0985eeb19c2fa34f7a&#34; target=&#34;_blank&#34;&gt;Online Model&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;With the tide of Smart City and Big Data era, I explore the practice of Data Augmented Design、GIS and BIM in Smart Campus’s Application based on Fujian Normal University Keji Buildings. I build the simulation model of building site location and construction. And I use Data Augmented Design, GIS spatial analysis, Space Syntax and City Engine 3D modeling to support the building site location and assessment of planning, build the BIM model and develop the public participation GIS of Keji Buildings.&lt;/p&gt;
+&lt;p&gt;With the tide of Smart City and Big Data era, I explore the practice of Data Augmented Design, GIS and BIM in Smart Campus’s Application based on Fujian Normal University Keji Buildings. I build the simulation model of building site location and construction. And I use Data Augmented Design, GIS spatial analysis, Space Syntax and City Engine 3D modeling to support the building site location and assessment of planning, build the BIM model and develop the public participation GIS of Keji Buildings. This work was funded by the Project-The Technological Innovation Plan of University Students, Fujian Normal University, &amp;ldquo;The Optimization Model of High Education Staff’s Refuge Space Under Earthquake Disater&amp;rdquo;(cxxl-2014137).&lt;/p&gt;
 </description>
     </item>
     

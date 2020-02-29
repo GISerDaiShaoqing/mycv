@@ -5,7 +5,7 @@
     <link>https://giserdaishaoqing.github.io/mycv/tags/air-pollution-map/</link>
       <atom:link href="https://giserdaishaoqing.github.io/mycv/tags/air-pollution-map/index.xml" rel="self" type="application/rss+xml" />
     <description>Air Pollution Map</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Mon, 24 Oct 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://giserdaishaoqing.github.io/mycv/img/site.png</url>
       <title>Air Pollution Map</title>
@@ -15,31 +15,17 @@
     <item>
       <title>Air Pollution Map</title>
       <link>https://giserdaishaoqing.github.io/mycv/project/air-pollution-map/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
       <guid>https://giserdaishaoqing.github.io/mycv/project/air-pollution-map/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.mdpi.com/atmosphere/atmosphere-10-00055/article_deploy/html/images/atmosphere-10-00055-g004-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Air pollution became a global concern of public health and environmental govermance, especially in the developing countries. There is the need to understanding the spatio-temporal dynamics of air pollution. How to map an accurate air pollution map is the main research problem in studies of air pollution. We could explore the driver factors of air pollution based on the spatio-temmporal air pollution maps with high accuracy. We used the different methods such as spatial interpolation methods, remote sensing retrieval, machine learning and land use regression model to obatin the air pollution maps and found some interesting results. But how to intergrating the different methods is the further studies.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Figure 1 The spatial distribution of changes in annual average PM2.5 concentrations in different YRD cities from 2005 to 2015&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-10-00521/article_deploy/html/images/remotesensing-10-00521-g005-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The proportion of level V concentrations continuously increased from 0.00% in 2005 to 7.75% in 2015, showing a rapid expansion trend in the YRD. The proportion of level I and level V concentration gradually increased from 2005 to 2010.&lt;/p&gt;
+&lt;p&gt;Figure 1 Scores for the interactive effects of impact factors sensitivity rankings at the three periods studied calculated based on simulations using multisource data&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://res.mdpi.com/atmosphere/atmosphere-10-00055/article_deploy/html/images/atmosphere-10-00055-g007-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/atmosphere/atmosphere-10-00055/article_deploy/html/images/atmosphere-10-00055-g004-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Figure 2 Annual average PM2.5 concentrations in different climate, ecosystem and geomorphological subregions (NS = North subtropical humid zone, CS = Central subtropical humid zone, AL = Arable land ecosystem, FL=Forest ecosystem, GL = Grassland ecosystem, WL = Water and wetland ecosystem, HS = Human settlement ecosystem, PL = Plain, TL = Tableland, HI = Hills, Mo1 = Small-undulating mountain, Mo2 = Mid-undulating mountain, Mo3 = Large-undulating mountain)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;For the years 2005, 2010 and 2015, average PM2.5 concentrations were highest in the subregion of the human settlement ecosystem , followed by the farmland ecosystem  and the wetland ecosystem . Average PM2.5 concentrations were highest in the north subtropic humid climate subregion and the central subtropic humid climate subregion . And finally, average PM2.5 concentrations were highest in the geomorphological plain subregion, followed by the platform subregion and the hilly subregion.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://res.mdpi.com/remotesensing/remotesensing-10-00521/article_deploy/html/images/remotesensing-10-00521-g002-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Figure 3 Spatial distributions of urban forest PM2.5 concentrations on three different days at the optimal distance threshold of 3500 m&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The spatial distributions of PM2.5 concentrations on 13 and 29 December 2014 and 14 January 2015 showed significant spatial clustering. The aggregated areas (hot spots and cold spots) of PM2.5 identified by Getis-Ord Gi* showed that PM2.5 hot spots were concentrated in urban centers and suburbs and cold spots were mainly distributed in the suburbs and exurban regions.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://res.mdpi.com/remotesensing/remotesensing-10-00521/article_deploy/html/images/remotesensing-10-00521-g005-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Figrue 4 Scores for the interactive effects of impact factors sensitivity rankings at the three periods studied calculated based on simulations using multisource data (A is the result on 13 December 2014; B is the result on 29 December 2014; C is the result on 14 January 2015)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;With the acceleration of urbanization, the interactive effects of population density, impervious surface percentage, and other factors could result in increased air pollution.&lt;/p&gt;
+&lt;p&gt;Figure 2 The spatial distribution of changes in annual average PM2.5 concentrations in different YRD cities from 2005 to 2015.&lt;/p&gt;
 </description>
     </item>
     
