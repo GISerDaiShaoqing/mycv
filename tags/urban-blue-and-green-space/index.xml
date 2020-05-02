@@ -17,14 +17,18 @@
       <link>https://gisersqdai.top/mycv/project/urban-blue-and-green-space/</link>
       <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/project/urban-blue-and-green-space/</guid>
-      <description>&lt;p&gt;In the new normal period of economic transition in China, The Government came up with the concept of the Sponge City, we have some different views of sponge city planning
+      <description>
+
+&lt;h1 id=&#34;the-relation-between-ngi-landscape-and-urban-submerged-area&#34;&gt;The relation between NGI landscape and urban submerged area&lt;/h1&gt;
+
+&lt;p&gt;In the new normal period of economic transition in China, The Government came up with the concept of the Sponge City, we have some different views of sponge city planning
 The research extracted the impervious surface from the non-NGI(natural green infrastructure ) landscape and used the precipitation-volumetric method to simulate waterlogging scenarios. We determined the area of rainwater submersion by simulation experiments, the change in the NGI landscape by overlaying images of the region, and the association between these features by data mining. Using the change in ecology indices, we ascertained the changing spatial patterns of the NGI landscape and used these findings to formulate suggestions for Sponge City planning in Fuzhou. Overall, our work combines three research themes, urban waterlogging, landscape ecology, and data mining, for a deep analysis of the relationship between the NGI landscape and storm runoff in an urban environment.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Submerged areas were characterized by high population densities and high levels of human activity.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;Table 1 Simulation results of storm water scenarios&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table 1 Simulation results of storm water scenarios&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -74,13 +78,13 @@ The research extracted the impervious surface from the non-NGI(natural green inf
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/fig.3%28i%29.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Figure 2 Visual representation of simulation results for scenario 1 and scenario 2&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 2 Visual representation of simulation results for scenario 1 and scenario 2&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Spatial association rule mining revealed a strong association between areas that were converted from NGI landscape and areas that were submerged in our simulations.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;Table 2 Results of association rule mining&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table 2 Results of association rule mining&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;

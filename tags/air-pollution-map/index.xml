@@ -17,15 +17,19 @@
       <link>https://gisersqdai.top/mycv/project/air-pollution-map/</link>
       <pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/project/air-pollution-map/</guid>
-      <description>&lt;p&gt;Air pollution became a global concern of public health and environmental govermance, especially in the developing countries. There is the need to understanding the spatio-temporal dynamics of air pollution. How to map an accurate air pollution map is the main research problem in studies of air pollution. We could explore the driver factors of air pollution based on the spatio-temmporal air pollution maps with high accuracy. We used the different methods such as spatial interpolation methods, remote sensing retrieval, machine learning and land use regression model to obatin the air pollution maps and found some interesting results. But how to intergrating the different methods is the further studies.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;Air pollution became a global concern of public health and environmental govermance, especially in the developing countries. There is the need to understanding the spatio-temporal dynamics of air pollution. How to map an accurate air pollution map is the main research problem in studies of air pollution. We could explore the driver factors of air pollution based on the spatio-temmporal air pollution maps with high accuracy. We used the different methods such as spatial interpolation methods, remote sensing retrieval, machine learning and land use regression model to obatin the air pollution maps and found some interesting results. But how to intergrating the different methods is the further studies.&lt;/p&gt;
+
+&lt;h1 id=&#34;drive-factors-of-pm2-5-concentration-and-map&#34;&gt;Drive factors of PM2.5 concentration and map&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-10-00521/article_deploy/html/images/remotesensing-10-00521-g005-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Figure 1 Scores for the interactive effects of impact factors sensitivity rankings at the three periods studied calculated based on simulations using multisource data&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 1 Scores for the interactive effects of impact factors sensitivity rankings at the three periods studied calculated based on simulations using multisource data&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/atmosphere/atmosphere-10-00055/article_deploy/html/images/atmosphere-10-00055-g004-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Figure 2 The spatial distribution of changes in annual average PM2.5 concentrations in different YRD cities from 2005 to 2015.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 2 The spatial distribution of changes in annual average PM2.5 concentrations in different YRD cities from 2005 to 2015&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     

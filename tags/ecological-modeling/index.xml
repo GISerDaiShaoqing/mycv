@@ -66,29 +66,49 @@
       <link>https://gisersqdai.top/mycv/project/urban-carbon-cycle/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/project/urban-carbon-cycle/</guid>
-      <description>&lt;p&gt;Cities are typical sources of carbon and a focus of climate-change mitigation. Although there is great potential for reducing emissions in cities, constructing low-carbonemission cities under the carbon-emission reduction target of the 2016 Paris Agreement remains challenging as there is little scientific evidence for use by government decisionmakers. To solve this problem, we must understand the urban carbon-cycle process in greater detail and especially analyze spatiotemporal variations in carbon sources and sinks.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;Cities are typical sources of carbon and a focus of climate-change mitigation. Although there is great potential for reducing emissions in cities, constructing low-carbonemission cities under the carbon-emission reduction target of the 2016 Paris Agreement remains challenging as there is little scientific evidence for use by government decisionmakers. To solve this problem, we must understand the urban carbon-cycle process in greater detail and especially analyze spatiotemporal variations in carbon sources and sinks.&lt;/p&gt;
+
+&lt;h1 id=&#34;1-carbon-sink-map&#34;&gt;1 Carbon sink map&lt;/h1&gt;
 
 &lt;p&gt;The forest is the only exact carbon sink. How to map the accurate carbon sink maps? Firstly, we propose herein a low-cost method that combines machine learning and spatial statistics to construct a regional biomass map from non-representative sample units. Secondly, we scaled up an ecological process model to obtain the spatial distribution of regional biomass. Finally, we used some data assimilation technology by these data.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/figcs.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Figure 1 The accuracy of different methods for biomass estimation&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 1 The accuracy of different methods for biomass estimation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;2-carbon-source-map&#34;&gt;2 Carbon source map&lt;/h1&gt;
 
 &lt;p&gt;Cities are the main sources of $CO_2$ emissions and, thus, must abate emissions responsibly. About 50% of urban $CO_2$ emissions was attributed to urban forms, mixed land use, building types, and transportation networks.  It is necessary to characterize the pixel-based distribution of urban direct $CO_2$ emissions accurately. But large uncertainties was found at the urban scale, it&amp;rsquo;s important to analyze the uncertainties of $CO_2$ emissions gridded map at the urban scale. Besides, exlporing the relationship between $CO_2$ emissions and urban form is useful for planning.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/contribution.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Figure 2 Comparison between our high resolution $CO_2$ emission gridding map and CHRED&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 2 Comparison between our high resolution $CO_2$ emission gridding map and CHRED&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;detailed informations can see &lt;a href=&#34;http://science.gisersqdai.top/CEopendata.html&#34; target=&#34;_blank&#34;&gt;it&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;We used a general hybrid approach based on global downscaled and bottom-up elements to produce the CO$_2$ emissions gridded maps, identitfied the urban functional districts map, and generated the city-scale effect related impact factors. All the maps were included in a spatial database. Detailed information can see &lt;a href=&#34;http://science.gisersqdai.top/DIB/DIBdata.html&#34; target=&#34;_blank&#34;&gt;it&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;We compared the relationships between urban form fragmentation and CO$_2$ emissions in an urban system through the analytic framework composed of the Pearson correlation analysis, geographically weighted regression (GWR), and geographical detector methods with the use of multi-source data to construct the CO$_2$ emissions maps. The analytical framework can be applied to CO$_2$ emissions research in urban agglomerations, megacities, and small towns.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S2352340920301682-gr1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3 The high-resolution CO$_2$ girded maps&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;3-the-relation-between-co-2-emissions-and-urban-form&#34;&gt;3 The relation between CO$_2$ emissions and urban form&lt;/h1&gt;
+
+&lt;p&gt;Understanding the spatial or temporal distribution of carbon cycle including carbon sink and source is the key to design low-carbon city development policy. We compared the relationships between urban form fragmentation and CO$_2$ emissions in an urban system through the analytic framework composed of the Pearson correlation analysis, geographically weighted regression (GWR), and geographical detector methods with the use of multi-source data to construct the CO$_2$ emissions maps. The analytical framework can be applied to CO$_2$ emissions research in urban agglomerations, megacities, and small towns.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/JCLP/JCLP.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Figure 3 Analytical Framework&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 4 Analytical Framework&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0959652619335292-gr2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 5 Percentages of CO$_2$ emissions in Jinjiang attributed to total built-up areas and their composite functional land uses&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0959652619335292-gr7.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 6 Geographical detector results for fragmentation factors, PUA, and POID for CO$_2$ emissions from 4 sources.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     

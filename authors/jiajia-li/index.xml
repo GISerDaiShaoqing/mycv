@@ -29,27 +29,29 @@
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/201812052312.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Figure 1 Analytic framework&lt;/strong&gt;&lt;/p&gt;
+
 &lt;h4 id=&#34;results&#34;&gt;Results&lt;/h4&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180601.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Walking environment in urban&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 2 Walking environment in urban&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180602.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;The results of spatial aggregation(a) and spatial autocorrelation(b)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 3 The results of spatial aggregation(a) and spatial autocorrelation(b)&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180603.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;The spatial distribution of residence probability of suspects under the different distances&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 4 The spatial distribution of residence probability of suspects under the different distances&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180604.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;The visualization of correlation coefficient matrix and scatter plot&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 5 The visualization of correlation coefficient matrix and scatter plot&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180605.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Spatial variation of regression coefficient of GWGLM&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 6Spatial variation of regression coefficient of GWGLM&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h4&gt;
 
@@ -78,7 +80,7 @@
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/fig2new.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Flow chart of the study&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 1 Flow chart of the study&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;result&#34;&gt;&lt;strong&gt;Result&lt;/strong&gt;&lt;/h4&gt;
 
@@ -86,7 +88,7 @@
 &lt;li&gt;Submerged areas were characterized by high population densities and high levels of human activity.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;Simulation results of storm water scenarios&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table 1 Simulation results of storm water scenarios&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -136,11 +138,13 @@
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/fig.3%28i%29.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Visual representation of simulation results for scenario 1 and scenario 2&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 2 Visual representation of simulation results for scenario 1 and scenario 2&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Spatial association rule mining revealed a strong association between areas that were converted from NGI landscape and areas that were submerged in our simulations.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Table 2  Results of association rule mining&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;

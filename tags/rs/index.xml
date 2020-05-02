@@ -56,6 +56,33 @@
     </item>
     
     <item>
+      <title>Spatial Lifecourse Epidemiology</title>
+      <link>https://gisersqdai.top/mycv/project/spatial-lifecourse-epidemiology/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/project/spatial-lifecourse-epidemiology/</guid>
+      <description>
+
+&lt;p&gt;Spatial Lifecourse Epidemiology was proposed by my supervisor, Dr.Jia Peng in &lt;a href=&#34;https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(18)30245-6/fulltext&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Lancet Planetary Health&lt;/em&gt;&lt;/a&gt;. Now it is also applied to &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1471492220300052&#34; target=&#34;_blank&#34;&gt;infectious disease&lt;/a&gt;, especially the COVID-19 pandemic. It&amp;rsquo;s an emerging research field. There are &lt;a href=&#34;https://ehp.niehs.nih.gov/doi/full/10.1289/EHP4868&#34; target=&#34;_blank&#34;&gt;the top 10 research priorities in Spatial Lifecourse Epidemiology&lt;/a&gt; and &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1353829219306355&#34; target=&#34;_blank&#34;&gt;the Spatial Lifecourse Epidemiology Reporting Standards (ISLE-ReSt) statement&lt;/a&gt; publishing in the Journals. My Ph.D. project will focus on how to use the Earth Observation handling(Google Earth Engine), geospatial big data handling(Street View Image segment), and spatial statistics model to explore the health geography and spatial epidemiology problem. Our research interests include obesity, infectious disease like COVID-19, non-communicate disease, but not limited to these topics.&lt;/p&gt;
+
+&lt;h1 id=&#34;1-obesity&#34;&gt;1 Obesity&lt;/h1&gt;
+
+&lt;p&gt;We conducted a series of systematic reviews articles in &lt;em&gt;Obesity Reviews&lt;/em&gt; to determine all the obesogenic environmental factors in childhood obesity.&lt;/p&gt;
+
+&lt;h1 id=&#34;2-covid-19-pandemic&#34;&gt;2 COVID-19 Pandemic&lt;/h1&gt;
+
+&lt;p&gt;I built up a website about COVID-19 studies, &lt;a href=&#34;http://covid19.gisersqdai.top/en-us/&#34; target=&#34;_blank&#34;&gt;Awesome of COVID-19&lt;/a&gt;. This website was used for collecting all the resources of COVID-19 related studies and was powered by &lt;a href=&#34;https://github.com/txd-team/docsite&#34; target=&#34;_blank&#34;&gt;docsite&lt;/a&gt;. Besides, I developed a dashboard shiny app about COVID-19 map, &lt;a href=&#34;https://gisersqdai.shinyapps.io/COVID19VIS/&#34; target=&#34;_blank&#34;&gt;COVID-19 shiny app&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/GISerDaiShaoqing/Awesome_COVID-19/raw/master/img/websnapt.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1 Snapshot of website &amp;ldquo;Awesome of COVID-19&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/GISerDaiShaoqing/Awesome_COVID-19/raw/master/img/quick_start.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2 Snapshot of COVID-19 shiny app&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Creating a Carbon Source and Sink Map by Coupling an Ecological Process Model with an Emission Inventory to Study a Carbon Balance</title>
       <link>https://gisersqdai.top/mycv/publication/masterthesis/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
@@ -117,7 +144,7 @@
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/fig2new.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Flow chart of the study&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 1 Flow chart of the study&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;result&#34;&gt;&lt;strong&gt;Result&lt;/strong&gt;&lt;/h4&gt;
 
@@ -125,7 +152,7 @@
 &lt;li&gt;Submerged areas were characterized by high population densities and high levels of human activity.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;Simulation results of storm water scenarios&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table 1 Simulation results of storm water scenarios&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -175,11 +202,13 @@
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/fig.3%28i%29.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Visual representation of simulation results for scenario 1 and scenario 2&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 2 Visual representation of simulation results for scenario 1 and scenario 2&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Spatial association rule mining revealed a strong association between areas that were converted from NGI landscape and areas that were submerged in our simulations.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Table 2  Results of association rule mining&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -246,15 +275,19 @@
       <link>https://gisersqdai.top/mycv/project/air-pollution-map/</link>
       <pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/project/air-pollution-map/</guid>
-      <description>&lt;p&gt;Air pollution became a global concern of public health and environmental govermance, especially in the developing countries. There is the need to understanding the spatio-temporal dynamics of air pollution. How to map an accurate air pollution map is the main research problem in studies of air pollution. We could explore the driver factors of air pollution based on the spatio-temmporal air pollution maps with high accuracy. We used the different methods such as spatial interpolation methods, remote sensing retrieval, machine learning and land use regression model to obatin the air pollution maps and found some interesting results. But how to intergrating the different methods is the further studies.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;Air pollution became a global concern of public health and environmental govermance, especially in the developing countries. There is the need to understanding the spatio-temporal dynamics of air pollution. How to map an accurate air pollution map is the main research problem in studies of air pollution. We could explore the driver factors of air pollution based on the spatio-temmporal air pollution maps with high accuracy. We used the different methods such as spatial interpolation methods, remote sensing retrieval, machine learning and land use regression model to obatin the air pollution maps and found some interesting results. But how to intergrating the different methods is the further studies.&lt;/p&gt;
+
+&lt;h1 id=&#34;drive-factors-of-pm2-5-concentration-and-map&#34;&gt;Drive factors of PM2.5 concentration and map&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-10-00521/article_deploy/html/images/remotesensing-10-00521-g005-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Figure 1 Scores for the interactive effects of impact factors sensitivity rankings at the three periods studied calculated based on simulations using multisource data&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 1 Scores for the interactive effects of impact factors sensitivity rankings at the three periods studied calculated based on simulations using multisource data&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/atmosphere/atmosphere-10-00055/article_deploy/html/images/atmosphere-10-00055-g004-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Figure 2 The spatial distribution of changes in annual average PM2.5 concentrations in different YRD cities from 2005 to 2015.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 2 The spatial distribution of changes in annual average PM2.5 concentrations in different YRD cities from 2005 to 2015&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -263,29 +296,49 @@
       <link>https://gisersqdai.top/mycv/project/urban-carbon-cycle/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/project/urban-carbon-cycle/</guid>
-      <description>&lt;p&gt;Cities are typical sources of carbon and a focus of climate-change mitigation. Although there is great potential for reducing emissions in cities, constructing low-carbonemission cities under the carbon-emission reduction target of the 2016 Paris Agreement remains challenging as there is little scientific evidence for use by government decisionmakers. To solve this problem, we must understand the urban carbon-cycle process in greater detail and especially analyze spatiotemporal variations in carbon sources and sinks.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;Cities are typical sources of carbon and a focus of climate-change mitigation. Although there is great potential for reducing emissions in cities, constructing low-carbonemission cities under the carbon-emission reduction target of the 2016 Paris Agreement remains challenging as there is little scientific evidence for use by government decisionmakers. To solve this problem, we must understand the urban carbon-cycle process in greater detail and especially analyze spatiotemporal variations in carbon sources and sinks.&lt;/p&gt;
+
+&lt;h1 id=&#34;1-carbon-sink-map&#34;&gt;1 Carbon sink map&lt;/h1&gt;
 
 &lt;p&gt;The forest is the only exact carbon sink. How to map the accurate carbon sink maps? Firstly, we propose herein a low-cost method that combines machine learning and spatial statistics to construct a regional biomass map from non-representative sample units. Secondly, we scaled up an ecological process model to obtain the spatial distribution of regional biomass. Finally, we used some data assimilation technology by these data.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/figcs.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Figure 1 The accuracy of different methods for biomass estimation&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 1 The accuracy of different methods for biomass estimation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;2-carbon-source-map&#34;&gt;2 Carbon source map&lt;/h1&gt;
 
 &lt;p&gt;Cities are the main sources of $CO_2$ emissions and, thus, must abate emissions responsibly. About 50% of urban $CO_2$ emissions was attributed to urban forms, mixed land use, building types, and transportation networks.  It is necessary to characterize the pixel-based distribution of urban direct $CO_2$ emissions accurately. But large uncertainties was found at the urban scale, it&amp;rsquo;s important to analyze the uncertainties of $CO_2$ emissions gridded map at the urban scale. Besides, exlporing the relationship between $CO_2$ emissions and urban form is useful for planning.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/contribution.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Figure 2 Comparison between our high resolution $CO_2$ emission gridding map and CHRED&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 2 Comparison between our high resolution $CO_2$ emission gridding map and CHRED&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;detailed informations can see &lt;a href=&#34;http://science.gisersqdai.top/CEopendata.html&#34; target=&#34;_blank&#34;&gt;it&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;We used a general hybrid approach based on global downscaled and bottom-up elements to produce the CO$_2$ emissions gridded maps, identitfied the urban functional districts map, and generated the city-scale effect related impact factors. All the maps were included in a spatial database. Detailed information can see &lt;a href=&#34;http://science.gisersqdai.top/DIB/DIBdata.html&#34; target=&#34;_blank&#34;&gt;it&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;We compared the relationships between urban form fragmentation and CO$_2$ emissions in an urban system through the analytic framework composed of the Pearson correlation analysis, geographically weighted regression (GWR), and geographical detector methods with the use of multi-source data to construct the CO$_2$ emissions maps. The analytical framework can be applied to CO$_2$ emissions research in urban agglomerations, megacities, and small towns.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S2352340920301682-gr1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3 The high-resolution CO$_2$ girded maps&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;3-the-relation-between-co-2-emissions-and-urban-form&#34;&gt;3 The relation between CO$_2$ emissions and urban form&lt;/h1&gt;
+
+&lt;p&gt;Understanding the spatial or temporal distribution of carbon cycle including carbon sink and source is the key to design low-carbon city development policy. We compared the relationships between urban form fragmentation and CO$_2$ emissions in an urban system through the analytic framework composed of the Pearson correlation analysis, geographically weighted regression (GWR), and geographical detector methods with the use of multi-source data to construct the CO$_2$ emissions maps. The analytical framework can be applied to CO$_2$ emissions research in urban agglomerations, megacities, and small towns.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/JCLP/JCLP.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Figure 3 Analytical Framework&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 4 Analytical Framework&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0959652619335292-gr2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 5 Percentages of CO$_2$ emissions in Jinjiang attributed to total built-up areas and their composite functional land uses&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0959652619335292-gr7.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 6 Geographical detector results for fragmentation factors, PUA, and POID for CO$_2$ emissions from 4 sources.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -294,7 +347,19 @@
       <link>https://gisersqdai.top/mycv/project/spatial-temporal-gis-theory/</link>
       <pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/project/spatial-temporal-gis-theory/</guid>
-      <description>&lt;p&gt;Spatial-temporal data is the key to handling big data in this era. Therefore, we need to explored and improved the spatial-temporal GIS theory. On the other hand, we could used the big data to study the traditional spatial-temporal GIS theory and its applicathions such as spatial-temporal human behaviour, criminal geographical theory. Furthermore, scale effect and the modified areal unit problem(MAUP) are also the unsolved problems in geographical study. We want to improve the spatial-temporal geographical theory and its applicathions.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;Spatial-temporal data is the key to handling big data in this era. Therefore, we need to explored and improved the spatial-temporal GIS theory. On the other hand, we could used the big data to study the traditional spatial-temporal GIS theory and its applicathions such as spatial-temporal human behaviour, criminal geographical theory. Furthermore, scale effect and the modified areal unit problem(MAUP) are also the unsolved problems in geographical study. We want to improve the spatial-temporal geographical theory and its applicathions.&lt;/p&gt;
+
+&lt;h1 id=&#34;application-of-spatial-statistical-theory-in-crime-geography&#34;&gt;Application of spatial statistical theory in crime geography&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/201812052312.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1 Analytic framework&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The results showed that the walking environment probably has a positive effect on the RST crime in H city, the greater walkability, the more RST. The effects of walking environment probably has spatial heterogeneity features both on RST and the residence probability of suspects.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/4AOmOlRPz--PQpRbgdiXqw&#34; target=&#34;_blank&#34;&gt;【犯罪地理专栏】H市城区步行环境对两抢一盗警情的影响&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -319,14 +384,18 @@
       <link>https://gisersqdai.top/mycv/project/urban-blue-and-green-space/</link>
       <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/project/urban-blue-and-green-space/</guid>
-      <description>&lt;p&gt;In the new normal period of economic transition in China, The Government came up with the concept of the Sponge City, we have some different views of sponge city planning
+      <description>
+
+&lt;h1 id=&#34;the-relation-between-ngi-landscape-and-urban-submerged-area&#34;&gt;The relation between NGI landscape and urban submerged area&lt;/h1&gt;
+
+&lt;p&gt;In the new normal period of economic transition in China, The Government came up with the concept of the Sponge City, we have some different views of sponge city planning
 The research extracted the impervious surface from the non-NGI(natural green infrastructure ) landscape and used the precipitation-volumetric method to simulate waterlogging scenarios. We determined the area of rainwater submersion by simulation experiments, the change in the NGI landscape by overlaying images of the region, and the association between these features by data mining. Using the change in ecology indices, we ascertained the changing spatial patterns of the NGI landscape and used these findings to formulate suggestions for Sponge City planning in Fuzhou. Overall, our work combines three research themes, urban waterlogging, landscape ecology, and data mining, for a deep analysis of the relationship between the NGI landscape and storm runoff in an urban environment.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Submerged areas were characterized by high population densities and high levels of human activity.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;Table 1 Simulation results of storm water scenarios&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table 1 Simulation results of storm water scenarios&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -376,13 +445,13 @@ The research extracted the impervious surface from the non-NGI(natural green inf
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/fig.3%28i%29.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Figure 2 Visual representation of simulation results for scenario 1 and scenario 2&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 2 Visual representation of simulation results for scenario 1 and scenario 2&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Spatial association rule mining revealed a strong association between areas that were converted from NGI landscape and areas that were submerged in our simulations.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;Table 2 Results of association rule mining&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table 2 Results of association rule mining&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
