@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Shaoqing Dai</title>
-    <link>https://giserdaishaoqing.github.io/mycv/talk/</link>
-      <atom:link href="https://giserdaishaoqing.github.io/mycv/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://gisersqdai.top/mycv/talk/</link>
+      <atom:link href="https://gisersqdai.top/mycv/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Sun, 27 May 2018 08:30:00 +0000</lastBuildDate>
     <image>
-      <url>https://giserdaishaoqing.github.io/mycv/img/site.png</url>
+      <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://giserdaishaoqing.github.io/mycv/talk/</link>
+      <link>https://gisersqdai.top/mycv/talk/</link>
     </image>
     
     <item>
       <title>The Scale Effect, Zoning Effect of Geographical Features, the Modified Areal Unit Problem and the Chanlleges of Spatial Stastistics</title>
-      <link>https://giserdaishaoqing.github.io/mycv/talk/rlanguage2018talks/</link>
+      <link>https://gisersqdai.top/mycv/talk/rlanguage2018talks/</link>
       <pubDate>Sun, 27 May 2018 08:30:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/talk/rlanguage2018talks/</guid>
+      <guid>https://gisersqdai.top/mycv/talk/rlanguage2018talks/</guid>
       <description>&lt;p&gt;Scale effect and zoning effect are important in geographical research. The combination with scale effect and zoning effect will cause the modified areal unit problem. So how to deal with it in spatial stastics?&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>High-Resolution Mapping of Direct CO$_2$ Emissions and Uncertainties at the Urban Scale</title>
-      <link>https://giserdaishaoqing.github.io/mycv/talk/sa2018talks/</link>
+      <link>https://gisersqdai.top/mycv/talk/sa2018talks/</link>
       <pubDate>Tue, 22 May 2018 16:15:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/talk/sa2018talks/</guid>
+      <guid>https://gisersqdai.top/mycv/talk/sa2018talks/</guid>
       <description>&lt;p&gt;Mapping direct carbon emissions at high-resolution in urban environments could help in the development of measures to mitigate carbon emissions through optimizing the layout of inner structures.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/SpatialAccuracy2018workshop.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -36,18 +36,18 @@
     
     <item>
       <title>The Environmental Effect of Urban Form on PM2.5, A Case Study of Beijing-Tianjin-Hebei Urban Agglomeration</title>
-      <link>https://giserdaishaoqing.github.io/mycv/talk/iale2017talks/</link>
+      <link>https://gisersqdai.top/mycv/talk/iale2017talks/</link>
       <pubDate>Sat, 11 Nov 2017 16:55:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/talk/iale2017talks/</guid>
+      <guid>https://gisersqdai.top/mycv/talk/iale2017talks/</guid>
       <description>&lt;p&gt;We explore the relationship between urban form and PM2.5 based on multi-source data fusion. Our working report won the excellence award in the 5th &amp;ldquo;Share Cup&amp;rdquo; Science and Technology Resources Sharing Service Innovation Competition Competition.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Assement Platform of Urban Forest Ecosystem Servcie Based on InVEST model and IOT</title>
-      <link>https://giserdaishaoqing.github.io/mycv/talk/shnu2017talks/</link>
+      <link>https://gisersqdai.top/mycv/talk/shnu2017talks/</link>
       <pubDate>Thu, 28 Sep 2017 10:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/talk/shnu2017talks/</guid>
+      <guid>https://gisersqdai.top/mycv/talk/shnu2017talks/</guid>
       <description>&lt;p&gt;How the ecology develop in the big data era? We have to combine the landsenses ecology, big data and IOT to solve the environmental problem.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/tableau.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>The Criminal Geographical Analysis about Walking Environment of Urban</title>
-      <link>https://giserdaishaoqing.github.io/mycv/talk/buu2016talks/</link>
+      <link>https://gisersqdai.top/mycv/talk/buu2016talks/</link>
       <pubDate>Sun, 27 Nov 2016 14:10:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/talk/buu2016talks/</guid>
+      <guid>https://gisersqdai.top/mycv/talk/buu2016talks/</guid>
       <description>&lt;p&gt;The urban space environment is an important factor for urban crimes. A greater walkability of city can reduce the crime rate in many Criminal Geography theories. However, there is few empirical studies in China.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/03551963773.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -67,9 +67,9 @@
     
     <item>
       <title>Transportation Planning of Smart City on the Basis of Data Augmentation Design Under the Perspective of Humanism, A Case Study of Fuzhou’S Cangshan District</title>
-      <link>https://giserdaishaoqing.github.io/mycv/talk/iacp2016talks/</link>
+      <link>https://gisersqdai.top/mycv/talk/iacp2016talks/</link>
       <pubDate>Sat, 02 Jul 2016 17:10:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/talk/iacp2016talks/</guid>
+      <guid>https://gisersqdai.top/mycv/talk/iacp2016talks/</guid>
       <description>&lt;p&gt;The papers won the National Third Prize during the “Smart City” Special Competition of 14th “Challenge Cup” National College Student Curricular Academic Science and Technology Works Competition. Under the storm of global informatization, development of smart city draws much attention and smart transportation is the basic of smart cities. For the city of Fuzhou’s Cangsang district is one of the earliest pilot smart cities and the place to hold the national youth games, this study takes it as the target area and makes a transportation plan based on data augmentation design.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/10thIACP_groupphoto.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;

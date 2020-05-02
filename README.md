@@ -6,7 +6,7 @@
 
 生成public文件夹
 
-	 hugo --theme=academic --baseUrl="https://giserdaishaoqing.github.io/mycv/"
+	 hugo --theme=academic --baseUrl="https://gisersqdai.top/mycv/"
 
 push到github上
 
@@ -16,3 +16,7 @@ push到github上
 	git add -A
 	git commit -m "message"
 	git push -u origin master
+
+
+
+![](https://github.com/GISerDaiShaoqing/Curriculum-Vitae-Latex/blob/master/cn/qrcodeCV.png)

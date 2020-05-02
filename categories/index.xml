@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Shaoqing Dai</title>
-    <link>https://giserdaishaoqing.github.io/mycv/categories/</link>
-      <atom:link href="https://giserdaishaoqing.github.io/mycv/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://gisersqdai.top/mycv/categories/</link>
+      <atom:link href="https://gisersqdai.top/mycv/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright>
     <image>
-      <url>https://giserdaishaoqing.github.io/mycv/img/site.png</url>
+      <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Categories</title>
-      <link>https://giserdaishaoqing.github.io/mycv/categories/</link>
+      <link>https://gisersqdai.top/mycv/categories/</link>
     </image>
     
   </channel>

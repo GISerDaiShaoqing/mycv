@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Urban Computing | Shaoqing Dai</title>
-    <link>https://giserdaishaoqing.github.io/mycv/tags/urban-computing/</link>
-      <atom:link href="https://giserdaishaoqing.github.io/mycv/tags/urban-computing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://gisersqdai.top/mycv/tags/urban-computing/</link>
+      <atom:link href="https://gisersqdai.top/mycv/tags/urban-computing/index.xml" rel="self" type="application/rss+xml" />
     <description>Urban Computing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Mon, 04 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://giserdaishaoqing.github.io/mycv/img/site.png</url>
+      <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Urban Computing</title>
-      <link>https://giserdaishaoqing.github.io/mycv/tags/urban-computing/</link>
+      <link>https://gisersqdai.top/mycv/tags/urban-computing/</link>
     </image>
     
     <item>
       <title>Landscape-Scale Simulation Analysis of Waterlogging and Sponge City Planning for a Central Urban Area in Fuzhou City, China</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/landscape-blue-green-space/</link>
+      <link>https://gisersqdai.top/mycv/publication/landscape-blue-green-space/</link>
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/landscape-blue-green-space/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/landscape-blue-green-space/</guid>
       <description>
 
 &lt;h4 id=&#34;introduction&#34;&gt;Introduction&lt;/h4&gt;
@@ -138,26 +138,26 @@
     
     <item>
       <title>The Environmental Effect of Urban Form on PM2.5, A Case Study of Beijing-Tianjin-Hebei Urban Agglomeration</title>
-      <link>https://giserdaishaoqing.github.io/mycv/talk/iale2017talks/</link>
+      <link>https://gisersqdai.top/mycv/talk/iale2017talks/</link>
       <pubDate>Sat, 11 Nov 2017 16:55:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/talk/iale2017talks/</guid>
+      <guid>https://gisersqdai.top/mycv/talk/iale2017talks/</guid>
       <description>&lt;p&gt;We explore the relationship between urban form and PM2.5 based on multi-source data fusion. Our working report won the excellence award in the 5th &amp;ldquo;Share Cup&amp;rdquo; Science and Technology Resources Sharing Service Innovation Competition Competition.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Environmental Effect of Urban Form on PM2.5: A Case Study of Beijing-Tianjin-Hebei Urban Agglomerations(Chinese)</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/urban-form-pm25/</link>
+      <link>https://gisersqdai.top/mycv/publication/urban-form-pm25/</link>
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/urban-form-pm25/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/urban-form-pm25/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Air Pollution Map</title>
-      <link>https://giserdaishaoqing.github.io/mycv/project/air-pollution-map/</link>
+      <link>https://gisersqdai.top/mycv/project/air-pollution-map/</link>
       <pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/project/air-pollution-map/</guid>
+      <guid>https://gisersqdai.top/mycv/project/air-pollution-map/</guid>
       <description>&lt;p&gt;Air pollution became a global concern of public health and environmental govermance, especially in the developing countries. There is the need to understanding the spatio-temporal dynamics of air pollution. How to map an accurate air pollution map is the main research problem in studies of air pollution. We could explore the driver factors of air pollution based on the spatio-temmporal air pollution maps with high accuracy. We used the different methods such as spatial interpolation methods, remote sensing retrieval, machine learning and land use regression model to obatin the air pollution maps and found some interesting results. But how to intergrating the different methods is the further studies.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-10-00521/article_deploy/html/images/remotesensing-10-00521-g005-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -172,26 +172,26 @@
     
     <item>
       <title>Spatial-Temporal GIS Theory</title>
-      <link>https://giserdaishaoqing.github.io/mycv/project/spatial-temporal-gis-theory/</link>
+      <link>https://gisersqdai.top/mycv/project/spatial-temporal-gis-theory/</link>
       <pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/project/spatial-temporal-gis-theory/</guid>
+      <guid>https://gisersqdai.top/mycv/project/spatial-temporal-gis-theory/</guid>
       <description>&lt;p&gt;Spatial-temporal data is the key to handling big data in this era. Therefore, we need to explored and improved the spatial-temporal GIS theory. On the other hand, we could used the big data to study the traditional spatial-temporal GIS theory and its applicathions such as spatial-temporal human behaviour, criminal geographical theory. Furthermore, scale effect and the modified areal unit problem(MAUP) are also the unsolved problems in geographical study. We want to improve the spatial-temporal geographical theory and its applicathions.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Simulation Analysis of Waterlogging and the Sponge City Planning Control of Central Urabn Area in Fuzhou City</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/sponge-city-blue-green-space/</link>
+      <link>https://gisersqdai.top/mycv/publication/sponge-city-blue-green-space/</link>
       <pubDate>Sun, 26 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/sponge-city-blue-green-space/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/sponge-city-blue-green-space/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Analysis of Urban Spatial Development Pattern in Beijing Based on the Big Data of Government(Chinese)</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/urban-spatial-development-beijing/</link>
+      <link>https://gisersqdai.top/mycv/publication/urban-spatial-development-beijing/</link>
       <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/urban-spatial-development-beijing/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/urban-spatial-development-beijing/</guid>
       <description></description>
     </item>
     

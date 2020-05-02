@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Shaoqing Dai</title>
-    <link>https://giserdaishaoqing.github.io/mycv/publication/</link>
-      <atom:link href="https://giserdaishaoqing.github.io/mycv/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://gisersqdai.top/mycv/publication/</link>
+      <atom:link href="https://gisersqdai.top/mycv/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://giserdaishaoqing.github.io/mycv/img/site.png</url>
+      <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Publications</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/</link>
+      <link>https://gisersqdai.top/mycv/publication/</link>
     </image>
     
     <item>
       <title>A spatial database of CO$_2$ emissions, urban form fragmentation and city-scale effect related impact factors for the low carbon urban system in Jinjiang city, China</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/high-resolution-co2-map-dib/</link>
+      <link>https://gisersqdai.top/mycv/publication/high-resolution-co2-map-dib/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/high-resolution-co2-map-dib/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/high-resolution-co2-map-dib/</guid>
       <description></description>
     </item>
     
     <item>
       <title>More fragmentized urban form more CO$_2$ emissions? A comprehensive relationship from the combination analysis across different scales</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/relationship-co2-fragmentation-jclp/</link>
+      <link>https://gisersqdai.top/mycv/publication/relationship-co2-fragmentation-jclp/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/relationship-co2-fragmentation-jclp/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/relationship-co2-fragmentation-jclp/</guid>
       <description>
 
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
@@ -57,9 +57,9 @@
     
     <item>
       <title>The impacts of climate and land use/land cover changes on water yield service in Ningbo region(Chinese)</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/lucc-invest-water-yield/</link>
+      <link>https://gisersqdai.top/mycv/publication/lucc-invest-water-yield/</link>
       <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/lucc-invest-water-yield/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/lucc-invest-water-yield/</guid>
       <description>
 
 &lt;h4 id=&#34;scientific-problems&#34;&gt;Scientific problems&lt;/h4&gt;
@@ -106,49 +106,49 @@
     
     <item>
       <title>Creating a Carbon Source and Sink Map by Coupling an Ecological Process Model with an Emission Inventory to Study a Carbon Balance</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/masterthesis/</link>
+      <link>https://gisersqdai.top/mycv/publication/masterthesis/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/masterthesis/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/masterthesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A GIS-based high spatial resolution assessment of large-scale PV generation potential in China</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/gis-pv-energy/</link>
+      <link>https://gisersqdai.top/mycv/publication/gis-pv-energy/</link>
       <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/gis-pv-energy/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/gis-pv-energy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PM2.5 Spatiotemporal Evolution and Drivers in the Yangtze River Delta between 2005 and 2015</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/yrt-pm25-drive-factors/</link>
+      <link>https://gisersqdai.top/mycv/publication/yrt-pm25-drive-factors/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/yrt-pm25-drive-factors/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/yrt-pm25-drive-factors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Determining the Mechanisms that Influence the Surface Temperature of Urban Forest Canopies by Combining Remote Sensing Methods, Ground Observations, and Spatial Statistical Models</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/lst-geodector-satellite/</link>
+      <link>https://gisersqdai.top/mycv/publication/lst-geodector-satellite/</link>
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/lst-geodector-satellite/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/lst-geodector-satellite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of Heavy Metal Sources in the Soil of Riverbanks Across an Urbanization Gradient</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/heavy-metal-geodetector/</link>
+      <link>https://gisersqdai.top/mycv/publication/heavy-metal-geodetector/</link>
       <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/heavy-metal-geodetector/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/heavy-metal-geodetector/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Influence of Walking Environment on Robbery, Snatch and Theft Crime in Urban Area, H City, China(Chinese)</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/crime-geography-walkscore/</link>
+      <link>https://gisersqdai.top/mycv/publication/crime-geography-walkscore/</link>
       <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/crime-geography-walkscore/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/crime-geography-walkscore/</guid>
       <description>
 
 &lt;h4 id=&#34;scientific-problems&#34;&gt;Scientific problems&lt;/h4&gt;
@@ -195,49 +195,49 @@
     
     <item>
       <title>Improving the prediction accuracy of forest aboveground biomass benchmark map by integrating machine learning and spatial statistics</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/improved-biomass-map-ei-meeting/</link>
+      <link>https://gisersqdai.top/mycv/publication/improved-biomass-map-ei-meeting/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/improved-biomass-map-ei-meeting/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/improved-biomass-map-ei-meeting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-resolution mapping of direct CO$_2$ emissions and uncertainties at the urban scale</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/high-resolution-co2-map-ei-meeting/</link>
+      <link>https://gisersqdai.top/mycv/publication/high-resolution-co2-map-ei-meeting/</link>
       <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/high-resolution-co2-map-ei-meeting/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/high-resolution-co2-map-ei-meeting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Individual and Interactive Influences of Anthropogenic and Ecological Factors on Forest PM2.5 Concentrations at an Urban Scale</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/pm25-geodetector-multi-factors/</link>
+      <link>https://gisersqdai.top/mycv/publication/pm25-geodetector-multi-factors/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/pm25-geodetector-multi-factors/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/pm25-geodetector-multi-factors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research on the effects of different policy tools on China’s emissions reduction innovation(Chinese)</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/energy-conservation-and-emissions-reduction-innovation-journal-cn/</link>
+      <link>https://gisersqdai.top/mycv/publication/energy-conservation-and-emissions-reduction-innovation-journal-cn/</link>
       <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/energy-conservation-and-emissions-reduction-innovation-journal-cn/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/energy-conservation-and-emissions-reduction-innovation-journal-cn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research on the effects of command-and-control and market-oriented policy tools on China’s energy conservation and emissions reduction innovation</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/energy-conservation-and-emissions-reduction-innovation-journal-en/</link>
+      <link>https://gisersqdai.top/mycv/publication/energy-conservation-and-emissions-reduction-innovation-journal-en/</link>
       <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/energy-conservation-and-emissions-reduction-innovation-journal-en/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/energy-conservation-and-emissions-reduction-innovation-journal-en/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Landscape-Scale Simulation Analysis of Waterlogging and Sponge City Planning for a Central Urban Area in Fuzhou City, China</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/landscape-blue-green-space/</link>
+      <link>https://gisersqdai.top/mycv/publication/landscape-blue-green-space/</link>
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/landscape-blue-green-space/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/landscape-blue-green-space/</guid>
       <description>
 
 &lt;h4 id=&#34;introduction&#34;&gt;Introduction&lt;/h4&gt;
@@ -359,33 +359,33 @@
     
     <item>
       <title>The Environmental Effect of Urban Form on PM2.5: A Case Study of Beijing-Tianjin-Hebei Urban Agglomerations(Chinese)</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/urban-form-pm25/</link>
+      <link>https://gisersqdai.top/mycv/publication/urban-form-pm25/</link>
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/urban-form-pm25/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/urban-form-pm25/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Simulation Analysis of Waterlogging and the Sponge City Planning Control of Central Urabn Area in Fuzhou City</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/sponge-city-blue-green-space/</link>
+      <link>https://gisersqdai.top/mycv/publication/sponge-city-blue-green-space/</link>
       <pubDate>Sun, 26 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/sponge-city-blue-green-space/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/sponge-city-blue-green-space/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Analysis of Urban Spatial Development Pattern in Beijing Based on the Big Data of Government(Chinese)</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/urban-spatial-development-beijing/</link>
+      <link>https://gisersqdai.top/mycv/publication/urban-spatial-development-beijing/</link>
       <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/urban-spatial-development-beijing/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/urban-spatial-development-beijing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Planning Location and Design of Smart Campus Based on BIM and GIS：A Case Study of Fujian Normal University</title>
-      <link>https://giserdaishaoqing.github.io/mycv/publication/undergraduatethesis/</link>
+      <link>https://gisersqdai.top/mycv/publication/undergraduatethesis/</link>
       <pubDate>Sat, 28 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://giserdaishaoqing.github.io/mycv/publication/undergraduatethesis/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/undergraduatethesis/</guid>
       <description></description>
     </item>
     
