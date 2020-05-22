@@ -5,12 +5,28 @@
     <link>https://gisersqdai.top/mycv/tags/</link>
       <atom:link href="https://gisersqdai.top/mycv/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Tags</title>
       <link>https://gisersqdai.top/mycv/tags/</link>
     </image>
+    
+    <item>
+      <title>Obesity</title>
+      <link>https://gisersqdai.top/mycv/tags/obesity/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/obesity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Lifecourse Epidemiology</title>
+      <link>https://gisersqdai.top/mycv/tags/spatial-lifecourse-epidemiology/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/spatial-lifecourse-epidemiology/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GIS</title>
@@ -57,14 +73,6 @@
       <link>https://gisersqdai.top/mycv/tags/machine-learning/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial Lifecourse Epidemiology</title>
-      <link>https://gisersqdai.top/mycv/tags/spatial-lifecourse-epidemiology/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/spatial-lifecourse-epidemiology/</guid>
       <description></description>
     </item>
     

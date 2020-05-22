@@ -5,12 +5,20 @@
     <link>https://gisersqdai.top/mycv/</link>
       <atom:link href="https://gisersqdai.top/mycv/index.xml" rel="self" type="application/rss+xml" />
     <description>Shaoqing Dai</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Shaoqing Dai</title>
       <link>https://gisersqdai.top/mycv/</link>
     </image>
+    
+    <item>
+      <title>Access to bike lanes and childhood obesity: A systematic review and meta‐analysis</title>
+      <link>https://gisersqdai.top/mycv/publication/or-bikelane/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/or-bikelane/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A spatial database of CO$_2$ emissions, urban form fragmentation and city-scale effect related impact factors for the low carbon urban system in Jinjiang city, China</title>
@@ -282,6 +290,9 @@
       <pubDate>Mon, 08 Jan 2018 00:00:00 +0100</pubDate>
       <guid>https://gisersqdai.top/mycv/news/</guid>
       <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;May. 27, 2020&lt;/strong&gt;:
+&lt;a href=&#34;http://covid19.gisersqdai.top/en-us/&#34; target=&#34;_blank&#34;&gt;Awesome of COVID-19&lt;/a&gt; was indexed in the &lt;a href=&#34;https://aminer.cn/data-covid19/?lang=en&#34; target=&#34;_blank&#34;&gt;Aminer COVID-19 Open Datasets&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;April. 27, 2020&lt;/strong&gt;:
 I built up a website about COVID-19 studies, &lt;a href=&#34;http://covid19.gisersqdai.top/en-us/&#34; target=&#34;_blank&#34;&gt;Awesome of COVID-19&lt;/a&gt;. This website was used for collecting all the resources
 of COVID-19 related studies and was powered by &lt;a href=&#34;https://github.com/txd-team/docsite&#34; target=&#34;_blank&#34;&gt;docsite&lt;/a&gt;. Besides, I developed a dashboard shiny app about COVID-19 map,
