@@ -5,7 +5,7 @@
     <link>https://gisersqdai.top/mycv/tags/</link>
       <atom:link href="https://gisersqdai.top/mycv/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Fri, 07 Aug 2020 15:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Tags</title>
@@ -13,25 +13,9 @@
     </image>
     
     <item>
-      <title>Obesity</title>
-      <link>https://gisersqdai.top/mycv/tags/obesity/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/obesity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial Lifecourse Epidemiology</title>
-      <link>https://gisersqdai.top/mycv/tags/spatial-lifecourse-epidemiology/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/spatial-lifecourse-epidemiology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>GIS</title>
       <link>https://gisersqdai.top/mycv/tags/gis/</link>
-      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2020 15:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/gis/</guid>
       <description></description>
     </item>
@@ -39,7 +23,7 @@
     <item>
       <title>RS</title>
       <link>https://gisersqdai.top/mycv/tags/rs/</link>
-      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2020 15:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/rs/</guid>
       <description></description>
     </item>
@@ -47,8 +31,32 @@
     <item>
       <title>Spatial Statistics</title>
       <link>https://gisersqdai.top/mycv/tags/spatial-statistics/</link>
-      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2020 15:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/spatial-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial-Temporal GIS Theory</title>
+      <link>https://gisersqdai.top/mycv/tags/spatial-temporal-gis-theory/</link>
+      <pubDate>Fri, 07 Aug 2020 15:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/spatial-temporal-gis-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obesity</title>
+      <link>https://gisersqdai.top/mycv/tags/obesity/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/obesity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Lifecourse Epidemiology</title>
+      <link>https://gisersqdai.top/mycv/tags/spatial-lifecourse-epidemiology/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/spatial-lifecourse-epidemiology/</guid>
       <description></description>
     </item>
     
@@ -77,14 +85,6 @@
     </item>
     
     <item>
-      <title>Spatial-Temporal GIS Theory</title>
-      <link>https://gisersqdai.top/mycv/tags/spatial-temporal-gis-theory/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/spatial-temporal-gis-theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ecological Modeling</title>
       <link>https://gisersqdai.top/mycv/tags/ecological-modeling/</link>
       <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
@@ -97,14 +97,6 @@
       <link>https://gisersqdai.top/mycv/tags/ecosystem-sevices/</link>
       <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/ecosystem-sevices/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ecological Modelling</title>
-      <link>https://gisersqdai.top/mycv/tags/ecological-modelling/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/ecological-modelling/</guid>
       <description></description>
     </item>
     

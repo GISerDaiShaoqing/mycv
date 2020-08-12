@@ -5,12 +5,55 @@
     <link>https://gisersqdai.top/mycv/</link>
       <atom:link href="https://gisersqdai.top/mycv/index.xml" rel="self" type="application/rss+xml" />
     <description>Shaoqing Dai</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Sun, 09 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Shaoqing Dai</title>
       <link>https://gisersqdai.top/mycv/</link>
     </image>
+    
+    <item>
+      <title>Response of syntrophic bacterial and methanogenic archaeal communities in paddy soil to soil type and phenological period of rice growth</title>
+      <link>https://gisersqdai.top/mycv/publication/jclp-responserice/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/jclp-responserice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What is geography? From coronavirus disease 2019 to Bei Dou Systems</title>
+      <link>https://gisersqdai.top/mycv/talk/ta2020talks/</link>
+      <pubDate>Fri, 07 Aug 2020 15:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/ta2020talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Green space access in the neighbourhood and childhood obesity</title>
+      <link>https://gisersqdai.top/mycv/publication/or-greenspace/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/or-greenspace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neighbourhood speed limit and childhood obesity</title>
+      <link>https://gisersqdai.top/mycv/publication/or-speedlimit/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/or-speedlimit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Treatment of high-ash industrial sludge for producing improved char with low heavy metal toxicity</title>
+      <link>https://gisersqdai.top/mycv/publication/jaap-corrplot/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/jaap-corrplot/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0165237020303223-gr7.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 1 Pearson correlation between heavy metal speciation and characteristics of industrial sludge and char samples: (a) F1 + F2 fractions; (b) F3 fraction; &amp;copy; F4 fraction. The color (red to blue) indicates the change in correlation from negative to positive and the size of bubble shows the strength of correlation, which can be expressed by skew-symmetric numbers. Cross shows non-significant correlation between heavy metal and char property (P &amp;gt;  0.05). SA presents BET specific surface area.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Access to bike lanes and childhood obesity: A systematic review and meta‐analysis</title>
@@ -290,6 +333,10 @@
       <pubDate>Mon, 08 Jan 2018 00:00:00 +0100</pubDate>
       <guid>https://gisersqdai.top/mycv/news/</guid>
       <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;June. 21, 2020&lt;/strong&gt;:
+We used &amp;lsquo;corrplot&amp;rsquo; r package to visualize the correlation between heavy metal speciation and characteristics of industrial sludge and char samples. &lt;a href=&#34;../mycv/publication/JAAP-corrplot/&#34;&gt;This paper&lt;/a&gt;
+is now available on &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0165237020303223#fig0020&#34; target=&#34;_blank&#34;&gt;Journal of Analytical and Applied Pyrolysis&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;May. 12, 2020&lt;/strong&gt;:
 &lt;a href=&#34;http://covid19.gisersqdai.top/en-us/&#34; target=&#34;_blank&#34;&gt;Awesome of COVID-19&lt;/a&gt; was indexed in the &lt;a href=&#34;https://aminer.cn/data-covid19/?lang=en&#34; target=&#34;_blank&#34;&gt;Aminer COVID-19 Open Datasets&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 
