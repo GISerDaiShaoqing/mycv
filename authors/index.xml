@@ -5,7 +5,7 @@
     <link>https://gisersqdai.top/mycv/authors/</link>
       <atom:link href="https://gisersqdai.top/mycv/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Sun, 09 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Authors</title>
@@ -15,8 +15,96 @@
     <item>
       <title>**Shaoqing Dai**</title>
       <link>https://gisersqdai.top/mycv/authors/shaoqing-dai/</link>
-      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/authors/shaoqing-dai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fangyu Chen</title>
+      <link>https://gisersqdai.top/mycv/authors/fangyu-chen/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/authors/fangyu-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huixian Jiang</title>
+      <link>https://gisersqdai.top/mycv/authors/huixian-jiang/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/authors/huixian-jiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiajia Li</title>
+      <link>https://gisersqdai.top/mycv/authors/jiajia-li/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/authors/jiajia-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weixu Yang</title>
+      <link>https://gisersqdai.top/mycv/authors/weixu-yang/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/authors/weixu-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chao Yu</title>
+      <link>https://gisersqdai.top/mycv/authors/chao-yu/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/authors/chao-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kristen E. Rohli</title>
+      <link>https://gisersqdai.top/mycv/authors/kristen-e.-rohli/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/authors/kristen-e.-rohli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peng Jia</title>
+      <link>https://gisersqdai.top/mycv/authors/peng-jia/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/authors/peng-jia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert V. Rohli</title>
+      <link>https://gisersqdai.top/mycv/authors/robert-v.-rohli/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/authors/robert-v.-rohli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weiqi Zhou</title>
+      <link>https://gisersqdai.top/mycv/authors/weiqi-zhou/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/authors/weiqi-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiongfeng Pan</title>
+      <link>https://gisersqdai.top/mycv/authors/xiongfeng-pan/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/authors/xiongfeng-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yanan Ma</title>
+      <link>https://gisersqdai.top/mycv/authors/yanan-ma/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/authors/yanan-ma/</guid>
       <description></description>
     </item>
     
@@ -117,14 +205,6 @@
     </item>
     
     <item>
-      <title>Peng Jia</title>
-      <link>https://gisersqdai.top/mycv/authors/peng-jia/</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/authors/peng-jia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tong Wu</title>
       <link>https://gisersqdai.top/mycv/authors/tong-wu/</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
@@ -193,14 +273,6 @@
       <link>https://gisersqdai.top/mycv/authors/teng-fei/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/authors/teng-fei/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xiongfeng Pan</title>
-      <link>https://gisersqdai.top/mycv/authors/xiongfeng-pan/</link>
-      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/authors/xiongfeng-pan/</guid>
       <description></description>
     </item>
     
@@ -453,22 +525,6 @@
     </item>
     
     <item>
-      <title>Huixian Jiang</title>
-      <link>https://gisersqdai.top/mycv/authors/huixian-jiang/</link>
-      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/authors/huixian-jiang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jiajia Li</title>
-      <link>https://gisersqdai.top/mycv/authors/jiajia-li/</link>
-      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/authors/jiajia-li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Juan Wu</title>
       <link>https://gisersqdai.top/mycv/authors/juan-wu/</link>
       <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
@@ -601,7 +657,7 @@
       <link>https://gisersqdai.top/mycv/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/authors/admin/</guid>
-      <description>&lt;p&gt;Mr.Shaoqing Dai(戴劭勍) is a Ph.D. candidate of the &lt;a href=&#34;https://www.itc.nl/about-itc/organization/scientific-departments/earth-observation-science/&#34; target=&#34;_blank&#34;&gt;Department of Earth Observation Science&lt;/a&gt;, &lt;a href=&#34;https://www.itc.nl/&#34; target=&#34;_blank&#34;&gt;Faculty of Geo-information Science and Earth Observation(ITC)&lt;/a&gt;, &lt;a href=&#34;https://www.utwente.nl/en/&#34; target=&#34;_blank&#34;&gt;University of Twente&lt;/a&gt;. He earned a Master degree and a Bachelor degree from the &lt;a href=&#34;http://english.iue.cas.cn/&#34; target=&#34;_blank&#34;&gt;Institute of Urban Environment&lt;/a&gt;, &lt;a href=&#34;http://english.cas.cn/&#34; target=&#34;_blank&#34;&gt;Chinese Academy of Sciences&lt;/a&gt;, &lt;a href=&#34;https://www.ucas.ac.cn/&#34; target=&#34;_blank&#34;&gt;University of Chinese Academy of Sciences&lt;/a&gt; and &lt;a href=&#34;http://geo.fjnu.edu.cn/en/&#34; target=&#34;_blank&#34;&gt;School of Geographical Sciences&lt;/a&gt;, &lt;a href=&#34;http://www.fjnu.edu.cn/english/&#34; target=&#34;_blank&#34;&gt;Fujian Normal University&lt;/a&gt; respectively. He is a fellow of the International Initiative on Spatial Lifecourse Epidemiology(ISLE), a contributor to GeoDa Center, rgeoda, libgeoda Github organizations, a volunteer of Sustainable Cities &amp;amp; Mobility, and a co-worker of &lt;a href=&#34;http://segs.shnu.edu.cn/7d/48/c25642a687432/page.htm&#34; target=&#34;_blank&#34;&gt;Dr.Qin Ye&lt;/a&gt; of Shanghai Normal University.&lt;/p&gt;
+      <description>&lt;p&gt;Mr.Shaoqing Dai(戴劭勍) is a Ph.D. candidate of the &lt;a href=&#34;https://www.itc.nl/about-itc/organization/scientific-departments/earth-observation-science/&#34; target=&#34;_blank&#34;&gt;Department of Earth Observation Science&lt;/a&gt;, &lt;a href=&#34;https://www.itc.nl/&#34; target=&#34;_blank&#34;&gt;Faculty of Geo-information Science and Earth Observation(ITC)&lt;/a&gt;, &lt;a href=&#34;https://www.utwente.nl/en/&#34; target=&#34;_blank&#34;&gt;University of Twente&lt;/a&gt;. He earned a Master degree and a Bachelor degree from the &lt;a href=&#34;http://english.iue.cas.cn/&#34; target=&#34;_blank&#34;&gt;Institute of Urban Environment&lt;/a&gt;, &lt;a href=&#34;http://english.cas.cn/&#34; target=&#34;_blank&#34;&gt;Chinese Academy of Sciences&lt;/a&gt;, &lt;a href=&#34;https://www.ucas.ac.cn/&#34; target=&#34;_blank&#34;&gt;University of Chinese Academy of Sciences&lt;/a&gt; and &lt;a href=&#34;http://geo.fjnu.edu.cn/en/&#34; target=&#34;_blank&#34;&gt;School of Geographical Sciences&lt;/a&gt;, &lt;a href=&#34;http://www.fjnu.edu.cn/english/&#34; target=&#34;_blank&#34;&gt;Fujian Normal University&lt;/a&gt; respectively. He is a fellow of the International Institute of Spatial Lifecourse Epidemiology(ISLE), a contributor to GeoDa Center, rgeoda, libgeoda Github organizations, a volunteer of Sustainable Cities &amp;amp; Mobility, and a editor board of &lt;a href=&#34;https://github.com/GIS-Info/GIS-Info.github.io&#34; target=&#34;_blank&#34;&gt;guide for GIS study abroad&lt;/a&gt;. His collaborators are from East China Normal University, Instititue of Urban Environment, Chinese Academic of Sciences, and Shanghai Normal University.&lt;/p&gt;
 </description>
     </item>
     

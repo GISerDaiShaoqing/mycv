@@ -5,7 +5,7 @@
     <link>https://gisersqdai.top/mycv/tags/</link>
       <atom:link href="https://gisersqdai.top/mycv/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Fri, 07 Aug 2020 15:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Tags</title>
@@ -13,10 +13,66 @@
     </image>
     
     <item>
+      <title>Air Pollution Map</title>
+      <link>https://gisersqdai.top/mycv/tags/air-pollution-map/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/air-pollution-map/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GIS</title>
       <link>https://gisersqdai.top/mycv/tags/gis/</link>
-      <pubDate>Fri, 07 Aug 2020 15:00:00 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/gis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://gisersqdai.top/mycv/tags/machine-learning/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Lifecourse Epidemiology</title>
+      <link>https://gisersqdai.top/mycv/tags/spatial-lifecourse-epidemiology/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/spatial-lifecourse-epidemiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Statistics</title>
+      <link>https://gisersqdai.top/mycv/tags/spatial-statistics/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/spatial-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial-Temporal GIS Theory</title>
+      <link>https://gisersqdai.top/mycv/tags/spatial-temporal-gis-theory/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/spatial-temporal-gis-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Computing</title>
+      <link>https://gisersqdai.top/mycv/tags/urban-computing/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/urban-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obesity</title>
+      <link>https://gisersqdai.top/mycv/tags/obesity/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/obesity/</guid>
       <description></description>
     </item>
     
@@ -25,38 +81,6 @@
       <link>https://gisersqdai.top/mycv/tags/rs/</link>
       <pubDate>Fri, 07 Aug 2020 15:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/rs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial Statistics</title>
-      <link>https://gisersqdai.top/mycv/tags/spatial-statistics/</link>
-      <pubDate>Fri, 07 Aug 2020 15:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/spatial-statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial-Temporal GIS Theory</title>
-      <link>https://gisersqdai.top/mycv/tags/spatial-temporal-gis-theory/</link>
-      <pubDate>Fri, 07 Aug 2020 15:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/spatial-temporal-gis-theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Obesity</title>
-      <link>https://gisersqdai.top/mycv/tags/obesity/</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/obesity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial Lifecourse Epidemiology</title>
-      <link>https://gisersqdai.top/mycv/tags/spatial-lifecourse-epidemiology/</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/spatial-lifecourse-epidemiology/</guid>
       <description></description>
     </item>
     
@@ -77,14 +101,6 @@
     </item>
     
     <item>
-      <title>Machine Learning</title>
-      <link>https://gisersqdai.top/mycv/tags/machine-learning/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ecological Modeling</title>
       <link>https://gisersqdai.top/mycv/tags/ecological-modeling/</link>
       <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
@@ -101,18 +117,10 @@
     </item>
     
     <item>
-      <title>Urban Computing</title>
-      <link>https://gisersqdai.top/mycv/tags/urban-computing/</link>
+      <title>Urban Blue and Green Space</title>
+      <link>https://gisersqdai.top/mycv/tags/urban-blue-and-green-space/</link>
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/urban-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Air Pollution Map</title>
-      <link>https://gisersqdai.top/mycv/tags/air-pollution-map/</link>
-      <pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/air-pollution-map/</guid>
+      <guid>https://gisersqdai.top/mycv/tags/urban-blue-and-green-space/</guid>
       <description></description>
     </item>
     
@@ -121,14 +129,6 @@
       <link>https://gisersqdai.top/mycv/tags/virtual-geographical-environment/</link>
       <pubDate>Sat, 28 May 2016 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/virtual-geographical-environment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Urban Blue and Green Space</title>
-      <link>https://gisersqdai.top/mycv/tags/urban-blue-and-green-space/</link>
-      <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/urban-blue-and-green-space/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,103 @@
     <link>https://gisersqdai.top/mycv/tags/air-pollution-map/</link>
       <atom:link href="https://gisersqdai.top/mycv/tags/air-pollution-map/index.xml" rel="self" type="application/rss+xml" />
     <description>Air Pollution Map</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Mon, 24 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Air Pollution Map</title>
       <link>https://gisersqdai.top/mycv/tags/air-pollution-map/</link>
     </image>
+    
+    <item>
+      <title>The Evaluation of Health Effect of Short-term Exposure to PM2.5 during Spring Festival: A Case Study of 25 Cities in the Yangtze River Delta(Chinese)</title>
+      <link>https://gisersqdai.top/mycv/publication/pm25-health-exposure/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/pm25-health-exposure/</guid>
+      <description>
+
+&lt;h4 id=&#34;research-goal&#34;&gt;Research goal&lt;/h4&gt;
+
+&lt;p&gt;Spatiotemporal change of health risk of short-term exposure to PM2.5 affected by human mobility during Spring Festival.&lt;/p&gt;
+
+&lt;h4 id=&#34;results&#34;&gt;Results&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://gisersqdai.top/mycv/img/202010fig1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1 Comparison between different machine learning models via spatial cross validation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://gisersqdai.top/mycv/img/202010fig2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2 Daily level PM2.5 mapping at 1-km resolution&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Table 1 The average value and 95% confidence intervals of AF causing by PM2.5 exposure&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;死亡原因&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;$\bar{AF}(+)$(n = 2 858)&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;$\bar{AF}(-)$(n = 2 914)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;总死亡&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.28(0.21, 0.33)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.28(0.21, 0.33)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;心血管疾病&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.32(0.24, 0.38)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.33(0.25, 0.39)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;高血压疾病&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.40(0.19, 0.53)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.41(0.19, 0.54)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;冠心病&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.34(0.24, 0.41)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.35(0.26, 0.42)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;中风&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.29(0.19, 0.37)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.29(0.19, 0.38)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;呼吸道疾病&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.34(0.23, 0.42)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.34(0.24, 0.43)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;慢性阻塞性肺疾病&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.40(0.29, 0.48)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.40(0.29, 0.49)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://gisersqdai.top/mycv/img/202010fig3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3 The changing mode of human mobility-health risk in 25 cities of the Yangtze River Delta during the Spring Festival&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://gisersqdai.top/mycv/img/202010fig4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4 The time variation and OD matrices of AF&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h4&gt;
+
+&lt;p&gt;We should not ignore the health risks of short-term exposure to PM 2.5 caused by human mobility behavior during the Spring Festival, because the estimated average increased risks are from 0.25 to 0.39. The highest risk is more than 0.9. This reveals strong spatiotemporal heterogeneity in the health effect of short-term exposure to PM 2.5. Even the value of risks could change from 0.84 to-0.75 in two days. Most of the travel populations in the Yangtze River Delta have increased the health risk of short-term exposure to PM 2.5 caused by human mobility during the Spring Festival, such as Shanghai and Suzhou, with the exposed populations reaching to nearly 13.2 million and 6 million.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Air Pollution Map</title>
