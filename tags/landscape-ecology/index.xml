@@ -5,7 +5,7 @@
     <link>https://gisersqdai.top/mycv/tags/landscape-ecology/</link>
       <atom:link href="https://gisersqdai.top/mycv/tags/landscape-ecology/index.xml" rel="self" type="application/rss+xml" />
     <description>Landscape Ecology</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Thu, 03 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Landscape Ecology</title>
@@ -15,7 +15,7 @@
     <item>
       <title>More fragmentized urban form more CO$_2$ emissions? A comprehensive relationship from the combination analysis across different scales</title>
       <link>https://gisersqdai.top/mycv/publication/relationship-co2-fragmentation-jclp/</link>
-      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/publication/relationship-co2-fragmentation-jclp/</guid>
       <description>
 
@@ -37,11 +37,15 @@
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/JCLP/JCLP.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Figure 1 Analytical Framework&lt;/strong&gt;&lt;/p&gt;
+
 &lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
 
 &lt;p&gt;In terms of the GWR analysis, the coarse resolution resulted in: 1) positive coefficients of fragmentation metric becoming negative, and 2) greater absolute values of negative coefficients. As to the results of Geographical detector, single factor impact powers and interactions among fragmentation factors showed a weakening effect at R$_{30m}$, but a strengthening and weakening effect at R500m. However, there were common results observed in low-fragmented areas across different scales. That is, in low-fragmented mixed-function areas and industrial areas, the more fragmented the area was, the less the CO2 emission there would be. However, in low-fragmented residential, administrative and public service areas, the more fragmented the area was, the higher the CO$_2$ emission there would be. Therefore, the government should disperse the mixed function zones and industrial parcels with diverse types of land, and build the contiguous residential and public service land in the low fragmentation area of urban system.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/JCLP/fig6new.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2 Geographical detector results for fragmentation factors, PUA, and POID for CO$_2$ emissions from 4 sources.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The “Scale effect” has always been the hot topic in landscape ecology research. Although, there are many studies on the driving force of urban environmental problems by using landscape metrics. Most studies are carried out in regional, continental and global scales. However, in this study, we explored the relationship between the urban form fragmentation and CO$_2$ emissions in the city scale from the perspective of dual resolution sizes and summarized the research conclusions that can be used in urban internal management based on the analysis results of small towns. At the same time, the influence of scale effect and how to choose the appropriate scale were discussed in the discussion section. The rigorous discussion was also made on whether the research conclusion is applicable to medium and large cities.&lt;/p&gt;
 </description>
@@ -201,9 +205,9 @@
     
     <item>
       <title>The Environmental Effect of Urban Form on PM2.5: A Case Study of Beijing-Tianjin-Hebei Urban Agglomerations(Chinese)</title>
-      <link>https://gisersqdai.top/mycv/publication/urban-form-pm25-le/</link>
+      <link>https://gisersqdai.top/mycv/publication/urban-form-pm25-leworkshop/</link>
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/publication/urban-form-pm25-le/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/urban-form-pm25-leworkshop/</guid>
       <description></description>
     </item>
     
@@ -228,17 +232,25 @@
 
 &lt;p&gt;Cities are the main sources of $CO_2$ emissions and, thus, must abate emissions responsibly. About 50% of urban $CO_2$ emissions was attributed to urban forms, mixed land use, building types, and transportation networks.  It is necessary to characterize the pixel-based distribution of urban direct $CO_2$ emissions accurately. But large uncertainties was found at the urban scale, it&amp;rsquo;s important to analyze the uncertainties of $CO_2$ emissions gridded map at the urban scale. Besides, exlporing the relationship between $CO_2$ emissions and urban form is useful for planning.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/contribution.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Figure 2 Comparison between our high resolution $CO_2$ emission gridding map and CHRED&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;detailed informations can see &lt;a href=&#34;http://science.gisersqdai.top/CEopendata.html&#34; target=&#34;_blank&#34;&gt;it&lt;/a&gt;.&lt;/p&gt;
-
 &lt;p&gt;We used a general hybrid approach based on global downscaled and bottom-up elements to produce the CO$_2$ emissions gridded maps, identitfied the urban functional districts map, and generated the city-scale effect related impact factors. All the maps were included in a spatial database. Detailed information can see &lt;a href=&#34;http://science.gisersqdai.top/DIB/DIBdata.html&#34; target=&#34;_blank&#34;&gt;it&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S2352340920301682-gr1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/CO2compare.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 3 The high-resolution CO$_2$ girded maps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 2 Comparison between our $CO_2$ emission griddedmap and other inventories&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We assessed the uncertainty of CO$_2$ emissions gridded maps during the gridded proceess using our proposed analytic workflow and published in &lt;em&gt;Remote Sensing&lt;/em&gt;. Detailed information can see &lt;a href=&#34;http://science.gisersqdai.top/RSunco2/rsbrief.html&#34; target=&#34;_blank&#34;&gt;it&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-ag-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3 Graphical abstract&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g001-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4 Analytic workflow&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/GISerDaiShaoqing/manuscript_co2_gridded_uncertainty_RS/master/figure/CO2UN.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 5 The $CO_2$ gridded emissions maps and uncertainty maps&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;3-the-relation-between-co-2-emissions-and-urban-form&#34;&gt;3 The relation between CO$_2$ emissions and urban form&lt;/h1&gt;
 
@@ -246,15 +258,15 @@
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/JCLP/JCLP.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 4 Analytical Framework&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 6 Analytical Framework&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0959652619335292-gr2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 5 Percentages of CO$_2$ emissions in Jinjiang attributed to total built-up areas and their composite functional land uses&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 7 Percentages of CO$_2$ emissions in Jinjiang attributed to total built-up areas and their composite functional land uses&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0959652619335292-gr7.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 6 Geographical detector results for fragmentation factors, PUA, and POID for CO$_2$ emissions from 4 sources.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 8 Geographical detector results for fragmentation factors, PUA, and POID for CO$_2$ emissions from 4 sources.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     

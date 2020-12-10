@@ -5,12 +5,78 @@
     <link>https://gisersqdai.top/mycv/tags/rs/</link>
       <atom:link href="https://gisersqdai.top/mycv/tags/rs/index.xml" rel="self" type="application/rss+xml" />
     <description>RS</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Fri, 07 Aug 2020 15:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>RS</title>
       <link>https://gisersqdai.top/mycv/tags/rs/</link>
     </image>
+    
+    <item>
+      <title>Investigating the Uncertainties Propagation Analysis of CO$_2$ Emissions Gridded Maps at the Urban Scale: A Case Study of Jinjiang City, China</title>
+      <link>https://gisersqdai.top/mycv/publication/uncertainty-propogation-co2-map-rs/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/uncertainty-propogation-co2-map-rs/</guid>
+      <description>
+
+&lt;h3 id=&#34;graphic-abstract&#34;&gt;Graphic abstract&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-ag-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;A proposed workflow to analyze the uncertainties caused by gridded model and model input.&lt;/li&gt;
+&lt;li&gt;Fine-resolution (30 m) maps have a larger spatial variation in CO$_2$ emissions, which gives the fine-resolution maps a higher degree of uncertainty propagation.&lt;/li&gt;
+&lt;li&gt;This indicates a nonlinear change between the sum of the uncertainties for different sectors and the actual uncertainties in the gridded maps.&lt;/li&gt;
+&lt;li&gt;The nonlinear change can be explained by the “compensation of error” phenomenon.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;Estimating $CO_2$ emissions at the urban scale, including both un-gridded (i.e., administrative unit maps) and gridded maps, cannot avoid the propagation of uncertainties from input to result, which highlights the importance of being aware of uncertainty estimation, especially in gridded maps due to its implications for the precision mitigation of $CO_2$ emissions.&lt;/p&gt;
+
+&lt;p&gt;To address the above mentioned issue, an analytic workflow was proposed to analyze the propagated uncertainties caused by the gridded model and the input for gridded $CO_2$ emission maps. The present workflow used four sub-modules based on Monte Carlo simulations and a bootstrap sampling method to analyze uncertainties, without other detailed open emission inventories. Two of the submodules obtained the corresponding uncertainty of each grid value, generated the uncertainty map caused by the gridded model, and the uncertainties for the sum of each cell (also referred to as propagated uncertainties caused by the model); the other submodules generated the uncertainty distribution maps based on the total emission estimations and spatial proxies (also referred to as propagated uncertainties caused by input).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g001-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1 Analytic workflow of the uncertainty propagation in gridded $CO_2$ emission maps. ALs, activity levels; CI, confidence interval; EFs, emission factors; GDP, gross domestic product; KS, Kolmogorov–Smirnov; LUT, look up table; MLE, maximum likelihood estimation; NTL, night time light; PDFs, probability distribution functions.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
+
+&lt;p&gt;We regarded the gridded maps of $CO_2$ emissions constructed in previous studies as a case study, and applied the workflow to estimate the uncertainties. The estimation of different uncertainties helps decision makers in formulating relevant policies. Uncertainties in total emission estimations aid the determination of emission reduction targets, the corresponding risks for cities and enterprises, and significant emission sources. Uncertainty maps could help to identify locations suitable for developing low-carbon communities. Fine-resolution (30 m) maps have a larger spatial variation in $CO_2$ emissions, which gives the fine-resolution maps a higher degree of uncertainty propagation. Furthermore, the uncertainties of gridded $CO_2$ emission maps, caused by inserting a random error into spatial proxies, were found to decrease after the gridding process. This can be explained by the “compensation of error” phenomenon, which may be attributed to the cancellation of the overestimated and underestimated values among the different sectors at the same grid. This indicates a nonlinear change between the sum of the uncertainties for different sectors and the actual uncertainties in the gridded maps.&lt;/p&gt;
+
+&lt;h4 id=&#34;u1&#34;&gt;U1&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g004-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2  CDF curve of different $CO_2$ emissions at 30 m and 500 m resolution. The upper figures are at 30 m resolution, while the lower figures are at 500 m resolution. The red line is the distribution of the real values, while the blue line is the distribution of the simulated values. (a,e) are the total $CO_2$ emissions, (b,f) are the residential $CO_2$ emissions, (c,g) are the industrial $CO_2$ emissions, and (d,h) are the transport $CO_2$ emissions. KS., Kolmogorov–Smirnov; Sd, Standard deviation.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g005-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3  Uncertainty maps made by the gridded model of $CO_2$ emissions in Jinjiang city, at resolutions of 30 m (a–d) and 500 m (e–h). (a,e) show uncertainty maps of total $CO_2$ emissions. (b,f) show uncertainty maps of residential $CO_2$ emissions. (c,g) show uncertainty maps of industrial $CO_2$ emissions. (d,h) show uncertainty maps of transport $CO_2$ emissions.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;u2&#34;&gt;U2&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g006-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4 $CO_2$ emission population (statistic term) distributions of different sectors. The left figures are at 30 m resolution, while the right figures are at 500 m resolution. The red line is the distribution of the real values, and the blue line is the distribution of the simulated values. (a,e) are the total $CO_2$ emissions, (b,f) are the residential $CO_2$ emissions, (c,g) are the industrial $CO_2$ emissions, and (d,h) are the transport $CO_2$ emission.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;u3&#34;&gt;U3&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g007-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 5 Map showing the uncertainty caused by activity levels. (a,b) represent the uncertainty maps of total $CO_2$ emissions at 30 m and 500 m resolution, respectively.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;u4&#34;&gt;U4&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g008-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 6 Maps of uncertainty caused by the spatial proxies. (a,b) represent the maps of uncertainty of total $CO_2$ emissions at 30 m and 500 m resolutions.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>What is geography? From coronavirus disease 2019 to Bei Dou Systems</title>
@@ -29,9 +95,49 @@
     </item>
     
     <item>
+      <title>Spatial Lifecourse Epidemiology</title>
+      <link>https://gisersqdai.top/mycv/project/spatial-lifecourse-epidemiology/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/project/spatial-lifecourse-epidemiology/</guid>
+      <description>
+
+&lt;p&gt;Spatial Lifecourse Epidemiology was proposed by my supervisor, Dr.Jia Peng in &lt;a href=&#34;https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(18)30245-6/fulltext&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Lancet Planetary Health&lt;/em&gt;&lt;/a&gt;. Now it is also applied to &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1471492220300052&#34; target=&#34;_blank&#34;&gt;infectious disease&lt;/a&gt;, especially the COVID-19 pandemic. It&amp;rsquo;s an emerging research field. There are &lt;a href=&#34;https://ehp.niehs.nih.gov/doi/full/10.1289/EHP4868&#34; target=&#34;_blank&#34;&gt;the top 10 research priorities in Spatial Lifecourse Epidemiology&lt;/a&gt; and &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1353829219306355&#34; target=&#34;_blank&#34;&gt;the Spatial Lifecourse Epidemiology Reporting Standards (ISLE-ReSt) statement&lt;/a&gt; publishing in the Journals. My Ph.D. project will focus on how to use the Earth Observation handling(Google Earth Engine), geospatial big data handling(Street View Image segment), and spatial statistics model to explore the health geography and spatial epidemiology problem. Our research interests include obesity, infectious disease like COVID-19, non-communicate disease, but not limited to these topics.&lt;/p&gt;
+
+&lt;h1 id=&#34;1-obesity&#34;&gt;1 Obesity&lt;/h1&gt;
+
+&lt;p&gt;We conducted a series of systematic reviews articles in &lt;em&gt;Obesity Reviews&lt;/em&gt; to determine all the obesogenic environmental factors in childhood obesity.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1111/obr.13097&#34; target=&#34;_blank&#34;&gt;Natural environment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1111/obr.13100&#34; target=&#34;_blank&#34;&gt;Green space&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1111/obr.13042&#34; target=&#34;_blank&#34;&gt;Bike lanes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1111/obr.13052&#34; target=&#34;_blank&#34;&gt;Speed limit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;2-covid-19-pandemic&#34;&gt;2 COVID-19 Pandemic&lt;/h1&gt;
+
+&lt;p&gt;I built up a website about COVID-19 studies, &lt;a href=&#34;http://covid19.gisersqdai.top/en-us/&#34; target=&#34;_blank&#34;&gt;Awesome of COVID-19&lt;/a&gt;. This website was used for collecting all the resources of COVID-19 related studies and was powered by &lt;a href=&#34;https://github.com/txd-team/docsite&#34; target=&#34;_blank&#34;&gt;docsite&lt;/a&gt;. Besides, I developed a dashboard shiny app about COVID-19 map, &lt;a href=&#34;https://gisersqdai.shinyapps.io/COVID19VIS/&#34; target=&#34;_blank&#34;&gt;COVID-19 shiny app&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/GISerDaiShaoqing/Awesome_COVID-19/raw/master/img/websnapt.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1 Snapshot of website &amp;ldquo;Awesome of COVID-19&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/GISerDaiShaoqing/Awesome_COVID-19/raw/master/img/quick_start.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2 Snapshot of COVID-19 shiny app&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;3-health-effect-of-exposure-to-air-pollution&#34;&gt;3 Health effect of exposure to air pollution&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://gisersqdai.top/mycv/img/202010fig4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3 The time variation and OD matrices of AF&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>More fragmentized urban form more CO$_2$ emissions? A comprehensive relationship from the combination analysis across different scales</title>
       <link>https://gisersqdai.top/mycv/publication/relationship-co2-fragmentation-jclp/</link>
-      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/publication/relationship-co2-fragmentation-jclp/</guid>
       <description>
 
@@ -53,46 +159,17 @@
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/JCLP/JCLP.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Figure 1 Analytical Framework&lt;/strong&gt;&lt;/p&gt;
+
 &lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
 
 &lt;p&gt;In terms of the GWR analysis, the coarse resolution resulted in: 1) positive coefficients of fragmentation metric becoming negative, and 2) greater absolute values of negative coefficients. As to the results of Geographical detector, single factor impact powers and interactions among fragmentation factors showed a weakening effect at R$_{30m}$, but a strengthening and weakening effect at R500m. However, there were common results observed in low-fragmented areas across different scales. That is, in low-fragmented mixed-function areas and industrial areas, the more fragmented the area was, the less the CO2 emission there would be. However, in low-fragmented residential, administrative and public service areas, the more fragmented the area was, the higher the CO$_2$ emission there would be. Therefore, the government should disperse the mixed function zones and industrial parcels with diverse types of land, and build the contiguous residential and public service land in the low fragmentation area of urban system.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/JCLP/fig6new.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Figure 2 Geographical detector results for fragmentation factors, PUA, and POID for CO$_2$ emissions from 4 sources.&lt;/strong&gt;&lt;/p&gt;
+
 &lt;p&gt;The “Scale effect” has always been the hot topic in landscape ecology research. Although, there are many studies on the driving force of urban environmental problems by using landscape metrics. Most studies are carried out in regional, continental and global scales. However, in this study, we explored the relationship between the urban form fragmentation and CO$_2$ emissions in the city scale from the perspective of dual resolution sizes and summarized the research conclusions that can be used in urban internal management based on the analysis results of small towns. At the same time, the influence of scale effect and how to choose the appropriate scale were discussed in the discussion section. The rigorous discussion was also made on whether the research conclusion is applicable to medium and large cities.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Spatial Lifecourse Epidemiology</title>
-      <link>https://gisersqdai.top/mycv/project/spatial-lifecourse-epidemiology/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/project/spatial-lifecourse-epidemiology/</guid>
-      <description>
-
-&lt;p&gt;Spatial Lifecourse Epidemiology was proposed by my supervisor, Dr.Jia Peng in &lt;a href=&#34;https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(18)30245-6/fulltext&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Lancet Planetary Health&lt;/em&gt;&lt;/a&gt;. Now it is also applied to &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1471492220300052&#34; target=&#34;_blank&#34;&gt;infectious disease&lt;/a&gt;, especially the COVID-19 pandemic. It&amp;rsquo;s an emerging research field. There are &lt;a href=&#34;https://ehp.niehs.nih.gov/doi/full/10.1289/EHP4868&#34; target=&#34;_blank&#34;&gt;the top 10 research priorities in Spatial Lifecourse Epidemiology&lt;/a&gt; and &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1353829219306355&#34; target=&#34;_blank&#34;&gt;the Spatial Lifecourse Epidemiology Reporting Standards (ISLE-ReSt) statement&lt;/a&gt; publishing in the Journals. My Ph.D. project will focus on how to use the Earth Observation handling(Google Earth Engine), geospatial big data handling(Street View Image segment), and spatial statistics model to explore the health geography and spatial epidemiology problem. Our research interests include obesity, infectious disease like COVID-19, non-communicate disease, but not limited to these topics.&lt;/p&gt;
-
-&lt;h1 id=&#34;1-obesity&#34;&gt;1 Obesity&lt;/h1&gt;
-
-&lt;p&gt;We conducted a series of systematic reviews articles in &lt;em&gt;Obesity Reviews&lt;/em&gt; to determine all the obesogenic environmental factors in childhood obesity.&lt;/p&gt;
-
-&lt;h1 id=&#34;2-covid-19-pandemic&#34;&gt;2 COVID-19 Pandemic&lt;/h1&gt;
-
-&lt;p&gt;I built up a website about COVID-19 studies, &lt;a href=&#34;http://covid19.gisersqdai.top/en-us/&#34; target=&#34;_blank&#34;&gt;Awesome of COVID-19&lt;/a&gt;. This website was used for collecting all the resources of COVID-19 related studies and was powered by &lt;a href=&#34;https://github.com/txd-team/docsite&#34; target=&#34;_blank&#34;&gt;docsite&lt;/a&gt;. Besides, I developed a dashboard shiny app about COVID-19 map, &lt;a href=&#34;https://gisersqdai.shinyapps.io/COVID19VIS/&#34; target=&#34;_blank&#34;&gt;COVID-19 shiny app&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://github.com/GISerDaiShaoqing/Awesome_COVID-19/raw/master/img/websnapt.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Figure 1 Snapshot of website &amp;ldquo;Awesome of COVID-19&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://github.com/GISerDaiShaoqing/Awesome_COVID-19/raw/master/img/quick_start.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Figure 2 Snapshot of COVID-19 shiny app&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;3-health-effect-of-exposure-to-air-pollution&#34;&gt;3 Health effect of exposure to air pollution&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://gisersqdai.top/mycv/img/202010fig4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Figure 3 The time variation and OD matrices of AF&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -286,9 +363,9 @@
     
     <item>
       <title>The Environmental Effect of Urban Form on PM2.5: A Case Study of Beijing-Tianjin-Hebei Urban Agglomerations(Chinese)</title>
-      <link>https://gisersqdai.top/mycv/publication/urban-form-pm25-le/</link>
+      <link>https://gisersqdai.top/mycv/publication/urban-form-pm25-leworkshop/</link>
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/publication/urban-form-pm25-le/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/urban-form-pm25-leworkshop/</guid>
       <description></description>
     </item>
     
@@ -340,17 +417,25 @@
 
 &lt;p&gt;Cities are the main sources of $CO_2$ emissions and, thus, must abate emissions responsibly. About 50% of urban $CO_2$ emissions was attributed to urban forms, mixed land use, building types, and transportation networks.  It is necessary to characterize the pixel-based distribution of urban direct $CO_2$ emissions accurately. But large uncertainties was found at the urban scale, it&amp;rsquo;s important to analyze the uncertainties of $CO_2$ emissions gridded map at the urban scale. Besides, exlporing the relationship between $CO_2$ emissions and urban form is useful for planning.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/contribution.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Figure 2 Comparison between our high resolution $CO_2$ emission gridding map and CHRED&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;detailed informations can see &lt;a href=&#34;http://science.gisersqdai.top/CEopendata.html&#34; target=&#34;_blank&#34;&gt;it&lt;/a&gt;.&lt;/p&gt;
-
 &lt;p&gt;We used a general hybrid approach based on global downscaled and bottom-up elements to produce the CO$_2$ emissions gridded maps, identitfied the urban functional districts map, and generated the city-scale effect related impact factors. All the maps were included in a spatial database. Detailed information can see &lt;a href=&#34;http://science.gisersqdai.top/DIB/DIBdata.html&#34; target=&#34;_blank&#34;&gt;it&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S2352340920301682-gr1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/CO2compare.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 3 The high-resolution CO$_2$ girded maps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 2 Comparison between our $CO_2$ emission griddedmap and other inventories&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We assessed the uncertainty of CO$_2$ emissions gridded maps during the gridded proceess using our proposed analytic workflow and published in &lt;em&gt;Remote Sensing&lt;/em&gt;. Detailed information can see &lt;a href=&#34;http://science.gisersqdai.top/RSunco2/rsbrief.html&#34; target=&#34;_blank&#34;&gt;it&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-ag-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3 Graphical abstract&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g001-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4 Analytic workflow&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/GISerDaiShaoqing/manuscript_co2_gridded_uncertainty_RS/master/figure/CO2UN.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 5 The $CO_2$ gridded emissions maps and uncertainty maps&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;3-the-relation-between-co-2-emissions-and-urban-form&#34;&gt;3 The relation between CO$_2$ emissions and urban form&lt;/h1&gt;
 
@@ -358,15 +443,15 @@
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/JCLP/JCLP.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 4 Analytical Framework&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 6 Analytical Framework&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0959652619335292-gr2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 5 Percentages of CO$_2$ emissions in Jinjiang attributed to total built-up areas and their composite functional land uses&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 7 Percentages of CO$_2$ emissions in Jinjiang attributed to total built-up areas and their composite functional land uses&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0959652619335292-gr7.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 6 Geographical detector results for fragmentation factors, PUA, and POID for CO$_2$ emissions from 4 sources.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 8 Geographical detector results for fragmentation factors, PUA, and POID for CO$_2$ emissions from 4 sources.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     

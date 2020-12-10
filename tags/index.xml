@@ -5,7 +5,7 @@
     <link>https://gisersqdai.top/mycv/tags/</link>
       <atom:link href="https://gisersqdai.top/mycv/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Sat, 12 Dec 2020 15:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Tags</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Air Pollution Map</title>
       <link>https://gisersqdai.top/mycv/tags/air-pollution-map/</link>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Dec 2020 15:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/air-pollution-map/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>GIS</title>
       <link>https://gisersqdai.top/mycv/tags/gis/</link>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Dec 2020 15:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/gis/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Machine Learning</title>
       <link>https://gisersqdai.top/mycv/tags/machine-learning/</link>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Dec 2020 15:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/machine-learning/</guid>
       <description></description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>Spatial Lifecourse Epidemiology</title>
       <link>https://gisersqdai.top/mycv/tags/spatial-lifecourse-epidemiology/</link>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Dec 2020 15:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/spatial-lifecourse-epidemiology/</guid>
       <description></description>
     </item>
@@ -47,7 +47,7 @@
     <item>
       <title>Spatial Statistics</title>
       <link>https://gisersqdai.top/mycv/tags/spatial-statistics/</link>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Dec 2020 15:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/spatial-statistics/</guid>
       <description></description>
     </item>
@@ -55,7 +55,7 @@
     <item>
       <title>Spatial-Temporal GIS Theory</title>
       <link>https://gisersqdai.top/mycv/tags/spatial-temporal-gis-theory/</link>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Dec 2020 15:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/spatial-temporal-gis-theory/</guid>
       <description></description>
     </item>
@@ -63,8 +63,24 @@
     <item>
       <title>Urban Computing</title>
       <link>https://gisersqdai.top/mycv/tags/urban-computing/</link>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Dec 2020 15:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/urban-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RS</title>
+      <link>https://gisersqdai.top/mycv/tags/rs/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/rs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Carbon Cycle</title>
+      <link>https://gisersqdai.top/mycv/tags/urban-carbon-cycle/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/urban-carbon-cycle/</guid>
       <description></description>
     </item>
     
@@ -77,25 +93,9 @@
     </item>
     
     <item>
-      <title>RS</title>
-      <link>https://gisersqdai.top/mycv/tags/rs/</link>
-      <pubDate>Fri, 07 Aug 2020 15:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/rs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Urban Carbon Cycle</title>
-      <link>https://gisersqdai.top/mycv/tags/urban-carbon-cycle/</link>
-      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/urban-carbon-cycle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Landscape Ecology</title>
       <link>https://gisersqdai.top/mycv/tags/landscape-ecology/</link>
-      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/landscape-ecology/</guid>
       <description></description>
     </item>

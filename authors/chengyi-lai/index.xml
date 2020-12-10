@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chengyi Lai | Shaoqing Dai</title>
+    <link>https://gisersqdai.top/mycv/authors/chengyi-lai/</link>
+      <atom:link href="https://gisersqdai.top/mycv/authors/chengyi-lai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chengyi Lai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gisersqdai.top/mycv/img/site.png</url>
+      <title>Chengyi Lai</title>
+      <link>https://gisersqdai.top/mycv/authors/chengyi-lai/</link>
+    </image>
+    
+    <item>
+      <title>Investigating the Uncertainties Propagation Analysis of CO$_2$ Emissions Gridded Maps at the Urban Scale: A Case Study of Jinjiang City, China</title>
+      <link>https://gisersqdai.top/mycv/publication/uncertainty-propogation-co2-map-rs/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/uncertainty-propogation-co2-map-rs/</guid>
+      <description>
+
+&lt;h3 id=&#34;graphic-abstract&#34;&gt;Graphic abstract&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-ag-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;A proposed workflow to analyze the uncertainties caused by gridded model and model input.&lt;/li&gt;
+&lt;li&gt;Fine-resolution (30 m) maps have a larger spatial variation in CO$_2$ emissions, which gives the fine-resolution maps a higher degree of uncertainty propagation.&lt;/li&gt;
+&lt;li&gt;This indicates a nonlinear change between the sum of the uncertainties for different sectors and the actual uncertainties in the gridded maps.&lt;/li&gt;
+&lt;li&gt;The nonlinear change can be explained by the “compensation of error” phenomenon.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;p&gt;Estimating $CO_2$ emissions at the urban scale, including both un-gridded (i.e., administrative unit maps) and gridded maps, cannot avoid the propagation of uncertainties from input to result, which highlights the importance of being aware of uncertainty estimation, especially in gridded maps due to its implications for the precision mitigation of $CO_2$ emissions.&lt;/p&gt;
+
+&lt;p&gt;To address the above mentioned issue, an analytic workflow was proposed to analyze the propagated uncertainties caused by the gridded model and the input for gridded $CO_2$ emission maps. The present workflow used four sub-modules based on Monte Carlo simulations and a bootstrap sampling method to analyze uncertainties, without other detailed open emission inventories. Two of the submodules obtained the corresponding uncertainty of each grid value, generated the uncertainty map caused by the gridded model, and the uncertainties for the sum of each cell (also referred to as propagated uncertainties caused by the model); the other submodules generated the uncertainty distribution maps based on the total emission estimations and spatial proxies (also referred to as propagated uncertainties caused by input).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g001-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1 Analytic workflow of the uncertainty propagation in gridded $CO_2$ emission maps. ALs, activity levels; CI, confidence interval; EFs, emission factors; GDP, gross domestic product; KS, Kolmogorov–Smirnov; LUT, look up table; MLE, maximum likelihood estimation; NTL, night time light; PDFs, probability distribution functions.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
+
+&lt;p&gt;We regarded the gridded maps of $CO_2$ emissions constructed in previous studies as a case study, and applied the workflow to estimate the uncertainties. The estimation of different uncertainties helps decision makers in formulating relevant policies. Uncertainties in total emission estimations aid the determination of emission reduction targets, the corresponding risks for cities and enterprises, and significant emission sources. Uncertainty maps could help to identify locations suitable for developing low-carbon communities. Fine-resolution (30 m) maps have a larger spatial variation in $CO_2$ emissions, which gives the fine-resolution maps a higher degree of uncertainty propagation. Furthermore, the uncertainties of gridded $CO_2$ emission maps, caused by inserting a random error into spatial proxies, were found to decrease after the gridding process. This can be explained by the “compensation of error” phenomenon, which may be attributed to the cancellation of the overestimated and underestimated values among the different sectors at the same grid. This indicates a nonlinear change between the sum of the uncertainties for different sectors and the actual uncertainties in the gridded maps.&lt;/p&gt;
+
+&lt;h4 id=&#34;u1&#34;&gt;U1&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g004-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2  CDF curve of different $CO_2$ emissions at 30 m and 500 m resolution. The upper figures are at 30 m resolution, while the lower figures are at 500 m resolution. The red line is the distribution of the real values, while the blue line is the distribution of the simulated values. (a,e) are the total $CO_2$ emissions, (b,f) are the residential $CO_2$ emissions, (c,g) are the industrial $CO_2$ emissions, and (d,h) are the transport $CO_2$ emissions. KS., Kolmogorov–Smirnov; Sd, Standard deviation.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g005-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3  Uncertainty maps made by the gridded model of $CO_2$ emissions in Jinjiang city, at resolutions of 30 m (a–d) and 500 m (e–h). (a,e) show uncertainty maps of total $CO_2$ emissions. (b,f) show uncertainty maps of residential $CO_2$ emissions. (c,g) show uncertainty maps of industrial $CO_2$ emissions. (d,h) show uncertainty maps of transport $CO_2$ emissions.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;u2&#34;&gt;U2&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g006-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4 $CO_2$ emission population (statistic term) distributions of different sectors. The left figures are at 30 m resolution, while the right figures are at 500 m resolution. The red line is the distribution of the real values, and the blue line is the distribution of the simulated values. (a,e) are the total $CO_2$ emissions, (b,f) are the residential $CO_2$ emissions, (c,g) are the industrial $CO_2$ emissions, and (d,h) are the transport $CO_2$ emission.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;u3&#34;&gt;U3&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g007-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 5 Map showing the uncertainty caused by activity levels. (a,b) represent the uncertainty maps of total $CO_2$ emissions at 30 m and 500 m resolution, respectively.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;u4&#34;&gt;U4&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g008-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 6 Maps of uncertainty caused by the spatial proxies. (a,b) represent the maps of uncertainty of total $CO_2$ emissions at 30 m and 500 m resolutions.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

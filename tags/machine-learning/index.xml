@@ -5,12 +5,21 @@
     <link>https://gisersqdai.top/mycv/tags/machine-learning/</link>
       <atom:link href="https://gisersqdai.top/mycv/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Sat, 12 Dec 2020 15:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Machine Learning</title>
       <link>https://gisersqdai.top/mycv/tags/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>The Evaluation of Health Effect of Short-term Exposure to PM2.5 during Spring Festival: A Case Study of 25 Cities in the Yangtze River Delta(Chinese)</title>
+      <link>https://gisersqdai.top/mycv/talk/xu020talks/</link>
+      <pubDate>Sat, 12 Dec 2020 15:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/xu020talks/</guid>
+      <description>&lt;p&gt;We will present our new published paper in &lt;em&gt;Shanghai Urban Planning Review&lt;/em&gt; and discuss the built environment and human health with other participants.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Evaluation of Health Effect of Short-term Exposure to PM2.5 during Spring Festival: A Case Study of 25 Cities in the Yangtze River Delta(Chinese)</title>
@@ -116,6 +125,13 @@
 
 &lt;p&gt;We conducted a series of systematic reviews articles in &lt;em&gt;Obesity Reviews&lt;/em&gt; to determine all the obesogenic environmental factors in childhood obesity.&lt;/p&gt;
 
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1111/obr.13097&#34; target=&#34;_blank&#34;&gt;Natural environment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1111/obr.13100&#34; target=&#34;_blank&#34;&gt;Green space&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1111/obr.13042&#34; target=&#34;_blank&#34;&gt;Bike lanes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1111/obr.13052&#34; target=&#34;_blank&#34;&gt;Speed limit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&#34;2-covid-19-pandemic&#34;&gt;2 COVID-19 Pandemic&lt;/h1&gt;
 
 &lt;p&gt;I built up a website about COVID-19 studies, &lt;a href=&#34;http://covid19.gisersqdai.top/en-us/&#34; target=&#34;_blank&#34;&gt;Awesome of COVID-19&lt;/a&gt;. This website was used for collecting all the resources of COVID-19 related studies and was powered by &lt;a href=&#34;https://github.com/txd-team/docsite&#34; target=&#34;_blank&#34;&gt;docsite&lt;/a&gt;. Besides, I developed a dashboard shiny app about COVID-19 map, &lt;a href=&#34;https://gisersqdai.shinyapps.io/COVID19VIS/&#34; target=&#34;_blank&#34;&gt;COVID-19 shiny app&lt;/a&gt;.&lt;/p&gt;
@@ -163,9 +179,9 @@
     
     <item>
       <title>The Environmental Effect of Urban Form on PM2.5: A Case Study of Beijing-Tianjin-Hebei Urban Agglomerations(Chinese)</title>
-      <link>https://gisersqdai.top/mycv/publication/urban-form-pm25-le/</link>
+      <link>https://gisersqdai.top/mycv/publication/urban-form-pm25-leworkshop/</link>
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/publication/urban-form-pm25-le/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/urban-form-pm25-leworkshop/</guid>
       <description></description>
     </item>
     
@@ -217,17 +233,25 @@
 
 &lt;p&gt;Cities are the main sources of $CO_2$ emissions and, thus, must abate emissions responsibly. About 50% of urban $CO_2$ emissions was attributed to urban forms, mixed land use, building types, and transportation networks.  It is necessary to characterize the pixel-based distribution of urban direct $CO_2$ emissions accurately. But large uncertainties was found at the urban scale, it&amp;rsquo;s important to analyze the uncertainties of $CO_2$ emissions gridded map at the urban scale. Besides, exlporing the relationship between $CO_2$ emissions and urban form is useful for planning.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/contribution.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Figure 2 Comparison between our high resolution $CO_2$ emission gridding map and CHRED&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;detailed informations can see &lt;a href=&#34;http://science.gisersqdai.top/CEopendata.html&#34; target=&#34;_blank&#34;&gt;it&lt;/a&gt;.&lt;/p&gt;
-
 &lt;p&gt;We used a general hybrid approach based on global downscaled and bottom-up elements to produce the CO$_2$ emissions gridded maps, identitfied the urban functional districts map, and generated the city-scale effect related impact factors. All the maps were included in a spatial database. Detailed information can see &lt;a href=&#34;http://science.gisersqdai.top/DIB/DIBdata.html&#34; target=&#34;_blank&#34;&gt;it&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S2352340920301682-gr1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/CO2compare.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 3 The high-resolution CO$_2$ girded maps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 2 Comparison between our $CO_2$ emission griddedmap and other inventories&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We assessed the uncertainty of CO$_2$ emissions gridded maps during the gridded proceess using our proposed analytic workflow and published in &lt;em&gt;Remote Sensing&lt;/em&gt;. Detailed information can see &lt;a href=&#34;http://science.gisersqdai.top/RSunco2/rsbrief.html&#34; target=&#34;_blank&#34;&gt;it&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-ag-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3 Graphical abstract&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g001-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4 Analytic workflow&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/GISerDaiShaoqing/manuscript_co2_gridded_uncertainty_RS/master/figure/CO2UN.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 5 The $CO_2$ gridded emissions maps and uncertainty maps&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;3-the-relation-between-co-2-emissions-and-urban-form&#34;&gt;3 The relation between CO$_2$ emissions and urban form&lt;/h1&gt;
 
@@ -235,15 +259,15 @@
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/JCLP/JCLP.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 4 Analytical Framework&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 6 Analytical Framework&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0959652619335292-gr2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 5 Percentages of CO$_2$ emissions in Jinjiang attributed to total built-up areas and their composite functional land uses&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 7 Percentages of CO$_2$ emissions in Jinjiang attributed to total built-up areas and their composite functional land uses&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0959652619335292-gr7.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 6 Geographical detector results for fragmentation factors, PUA, and POID for CO$_2$ emissions from 4 sources.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 8 Geographical detector results for fragmentation factors, PUA, and POID for CO$_2$ emissions from 4 sources.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
