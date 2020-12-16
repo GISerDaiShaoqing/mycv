@@ -17,7 +17,7 @@
       <link>https://gisersqdai.top/mycv/talk/xu020talks/</link>
       <pubDate>Sat, 12 Dec 2020 15:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/talk/xu020talks/</guid>
-      <description>&lt;p&gt;We will present our new published paper in &lt;em&gt;Shanghai Urban Planning Review&lt;/em&gt; and discuss the built environment and human health with other participants.&lt;/p&gt;
+      <description>&lt;p&gt;We presented the published paper namely &amp;lsquo;The Evaluation of Health Effect of Short-term Exposure to PM2.5 during Spring Festival: A Case Study of 25 Cities in the Yangtze River Delta&amp;rsquo; in &lt;em&gt;Shanghai Urban Planning Review&lt;/em&gt; and discuss the built environment and human health with other participants.&lt;/p&gt;
 </description>
     </item>
     
@@ -532,7 +532,7 @@ at the Urban Scale: A Case Study of Jinjiang City, China&amp;rsquo;. This study 
 process. Gridded CO$_2$ emission maps were produced using two resolutions of geospatial datasets (e.g., remote sensing satellite-derived products) for
 Jinjiang City, China, and a workflow was applied to analyze uncertainties. The workflow involved four submodules that can be used to evaluate the
 uncertainties of CO$_2$ emissions in gridded maps, caused by the gridded model and input. &lt;a href=&#34;../mycv/publication/uncertainty-propogation-co2-map-rs&#34;&gt;This paper&lt;/a&gt;
-is now available on &lt;a href=&#34;https://www.mdpi.com/2072-4292/12/23/3932&#34; target=&#34;_blank&#34;&gt;Remote Sensing&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+is now available on &lt;a href=&#34;https://www.mdpi.com/2072-4292/12/23/3932&#34; target=&#34;_blank&#34;&gt;Remote Sensing&lt;/a&gt;.  The Chinese news of this paper are reported on &lt;a href=&#34;http://www.iue.cas.cn/xwzx/kydt/202012/t20201215_5820930.html&#34; target=&#34;_blank&#34;&gt;this website&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Nov. 16, 2020&lt;/strong&gt;:
 Shaoqing Dai passed his PhD qualifier at the Department of Earth Observation Science, Faculty of Geo-information Science
@@ -542,18 +542,18 @@ and Earth Observation, University of Twente.&lt;/p&gt;&lt;/li&gt;
 We published an invitied paper of special issues &amp;lsquo;Built Environment and Behavior Study&amp;rsquo; in &lt;a href=&#34;https://www.shplanning.com.cn/Home/index.html&#34; target=&#34;_blank&#34;&gt;Shanghai Urban Planning Review&lt;/a&gt;,
 namely &amp;lsquo;The Evaluation of Health Effect of Short-term Exposure to PM2.5 during Spring Festival: A Case Study of 25 Cities in the Yangtze River Delta&amp;rsquo;. This paper used
 Tencent location based service data and machine learning mapping produced by multi-sources geospatial data to investigate the health risk of short-term exposure to PM2.5.
-&lt;a href=&#34;../mycv/publication/pm25-health-exposure-shup&#34;&gt;This paper&lt;/a&gt; is now available on &lt;a href=&#34;https://www.shplanning.com.cn/Home/Archive/archive_details/archive_id/3e768e5dae20c8613715a2259edf6146.html&#34; target=&#34;_blank&#34;&gt;Shanghai Urban Planning Review&lt;/a&gt;. The Wechat article is now abailable on &lt;a href=&#34;https://mp.weixin.qq.com/s/tpBS511WWOWau5jHaneoZg&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;a href=&#34;../../mycv/publication/pm25-health-exposure-shup&#34;&gt;This paper&lt;/a&gt; is now available on &lt;a href=&#34;https://www.shplanning.com.cn/Home/Archive/archive_details/archive_id/3e768e5dae20c8613715a2259edf6146.html&#34; target=&#34;_blank&#34;&gt;Shanghai Urban Planning Review&lt;/a&gt;. The Wechat article is now abailable on &lt;a href=&#34;https://mp.weixin.qq.com/s/tpBS511WWOWau5jHaneoZg&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Oct. 14, 2020&lt;/strong&gt;:
 &lt;a href=&#34;http://covid19.gisersqdai.top/en-us/&#34; target=&#34;_blank&#34;&gt;Awesome of COVID-19&lt;/a&gt; was receiving an invitation to participate in a volunteer study on &lt;a href=&#34;https://blogs.ethz.ch/open-source-research/&#34; target=&#34;_blank&#34;&gt;open source software&lt;/a&gt;,
 which proposed by Swiss Federal Institute of Technology (ETH Zurich).&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Aug. 9, 2020&lt;/strong&gt;:
-We used &amp;lsquo;corrplot&amp;rsquo; r package to visualize the impacts of soil type and rice phenology on both syntrophic and methanogenic communities. &lt;a href=&#34;../mycv/publication/jclp-responserice/&#34;&gt;This paper&lt;/a&gt;
+We used &amp;lsquo;corrplot&amp;rsquo; r package to visualize the impacts of soil type and rice phenology on both syntrophic and methanogenic communities. &lt;a href=&#34;../../mycv/publication/jclp-responserice/&#34;&gt;This paper&lt;/a&gt;
 is now available on &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0959652620334636?via%3Dihub&#34; target=&#34;_blank&#34;&gt;Journal of Cleaner Production&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Jun. 21, 2020&lt;/strong&gt;:
-We used &amp;lsquo;corrplot&amp;rsquo; r package to visualize the correlation between heavy metal speciation and characteristics of industrial sludge and char samples. &lt;a href=&#34;../mycv/publication/jaap-corrplot/&#34;&gt;This paper&lt;/a&gt;
+We used &amp;lsquo;corrplot&amp;rsquo; r package to visualize the correlation between heavy metal speciation and characteristics of industrial sludge and char samples. &lt;a href=&#34;../../mycv/publication/jaap-corrplot/&#34;&gt;This paper&lt;/a&gt;
 is now available on &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0165237020303223#fig0020&#34; target=&#34;_blank&#34;&gt;Journal of Analytical and Applied Pyrolysis&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;May. 12, 2020&lt;/strong&gt;:
@@ -565,7 +565,7 @@ of COVID-19 related studies and was powered by &lt;a href=&#34;https://github.co
 &lt;a href=&#34;https://gisersqdai.shinyapps.io/COVID19VIS/&#34; target=&#34;_blank&#34;&gt;COVID-19 shiny app&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Feb. 11, 2020&lt;/strong&gt;:
-We published the dataset about CO$_2$ emisions and its impact factors in the Data in Brief. &lt;a href=&#34;../mycv/publication/high-resolution-co2-map-dib/&#34;&gt;This Paper&lt;/a&gt;
+We published the dataset about CO$_2$ emisions and its impact factors in the Data in Brief. &lt;a href=&#34;../../mycv/publication/high-resolution-co2-map-dib/&#34;&gt;This Paper&lt;/a&gt;
 is now online on &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S2352340920301682?via%3Dihub&#34; target=&#34;_blank&#34;&gt;Data in Brief&lt;/a&gt;. The open dataset could download in
 &lt;a href=&#34;https://doi.org/10.5281/zenodo.3566072&#34; target=&#34;_blank&#34;&gt;this url&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
@@ -581,13 +581,13 @@ We published a paper namely &amp;lsquo;More fragmentized urban form more CO$_2$ 
 different scales&amp;rsquo; in the &lt;a href=&#34;https://www.sciencedirect.com/journal/journal-of-cleaner-production&#34; target=&#34;_blank&#34;&gt;Journal of Cleaner Production&lt;/a&gt;. In this study,
 we explored the relationship between the urban form fragmentation and $CO_2$ emissions in the city scale from the perspective of dual resolution
 sizes and summarized the research conclusions that can be used in urban internal management based on the analysis results of small towns.
-&lt;a href=&#34;../mycv/publication/relationship-co2-fragmentation-jclp/&#34;&gt;This paper&lt;/a&gt;
+&lt;a href=&#34;../../mycv/publication/relationship-co2-fragmentation-jclp/&#34;&gt;This paper&lt;/a&gt;
 is now online on &lt;a href=&#34;http://dx.doi.org/10.1016/j.jclepro.2019.118659&#34; target=&#34;_blank&#34;&gt;Journal of Cleaner Production&lt;/a&gt;. The Chinese and Englisht news of this paper
 are reported on &lt;a href=&#34;http://www.iue.ac.cn/xwzx/kydt/201910/t20191031_5416106.html&#34; target=&#34;_blank&#34;&gt;Chinese news&lt;/a&gt; and
 &lt;a href=&#34;http://english.iue.cas.cn/rh/rp/201911/t20191106_222670.html&#34; target=&#34;_blank&#34;&gt;English news&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;July. 21, 2019&lt;/strong&gt;:
-We analyzed the influence of climate and land use/cover on water yield service by the case of Ningbo. &lt;a href=&#34;../mycv/publication/lucc-invest-water-yield/&#34;&gt;This paper&lt;/a&gt;
+We analyzed the influence of climate and land use/cover on water yield service by the case of Ningbo. &lt;a href=&#34;../../mycv/publication/lucc-invest-water-yield/&#34;&gt;This paper&lt;/a&gt;
 is now available on &lt;a href=&#34;http://kns.cnki.net/kcms/detail/detail.aspx?doi=10.13671/j.hjkxxb.2019.0122&#34; target=&#34;_blank&#34;&gt;Acta Scientiae Circumstantiae&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;July. 4, 2019&lt;/strong&gt;:
@@ -605,12 +605,12 @@ Shaoqing Dai obtainted the 1st Grade Scholarship of Institute of Urban Environme
 Yonker Environmental Protection Scholarship.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Apr. 17, 2019&lt;/strong&gt;:
-We constructed a GIS-based model to accurately estimate the large-scale PV power generation potential in China. &lt;a href=&#34;../mycv/publication/gis-pv-energy/&#34;&gt;This paper&lt;/a&gt;
+We constructed a GIS-based model to accurately estimate the large-scale PV power generation potential in China. &lt;a href=&#34;../../mycv/publication/gis-pv-energy/&#34;&gt;This paper&lt;/a&gt;
 is now available on &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0306261919306312?dgcid=coauthor&#34; target=&#34;_blank&#34;&gt;Applied Energy&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Feb. 1, 2019&lt;/strong&gt;:
 The spatiotemporal distribution pattern of PM2.5 is influenced by many environmental factors, we analyzed the spatial distribution and variation
-characteristics of PM2.5 concentrations in the YRD from 2005–2015. &lt;a href=&#34;../mycv/publication/yrt-pm25-drive-factors/&#34;&gt;This paper&lt;/a&gt;
+characteristics of PM2.5 concentrations in the YRD from 2005–2015. &lt;a href=&#34;../../mycv/publication/yrt-pm25-drive-factors/&#34;&gt;This paper&lt;/a&gt;
 is now available on &lt;a href=&#34;https://www.mdpi.com/2073-4433/10/2/55&#34; target=&#34;_blank&#34;&gt;Atmosphere&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Jan. 12,2019&lt;/strong&gt;:
@@ -622,7 +622,7 @@ Shaoqing Dai obtainted the national scholarship for M.Sc.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Nov. 15,2018&lt;/strong&gt;:
 We determine the mechanisms that influence the surface temperature of urban forest canopies by combining Remote Sensing methods, ground observations,
-and spatial statistical models. &lt;a href=&#34;../mycv/publication/lst-geodector-satellite/&#34;&gt;This paper&lt;/a&gt;
+and spatial statistical models. &lt;a href=&#34;../../mycv/publication/lst-geodector-satellite/&#34;&gt;This paper&lt;/a&gt;
 is now available on &lt;a href=&#34;https://www.mdpi.com/2072-4292/10/11/1814&#34; target=&#34;_blank&#34;&gt;Remote Sensing&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Oct. 28,2018&lt;/strong&gt;:
@@ -633,12 +633,12 @@ We published a paper namely &amp;lsquo;Influence of Walking Environment on Robbe
 &lt;a href=&#34;http://geoscien.neigae.ac.cn/CN/1000-0690/home.shtml&#34; target=&#34;_blank&#34;&gt;Scientia Geographica Sinca&lt;/a&gt;. We analyzed the impact of urban walking
 environment on robbery, snatch and theft crime (RST). Then we found the walking environment probably has a positive effect on
 the RST crime in H city, the greater walkability, the more RST.
-&lt;a href=&#34;../mycv/publication/crime-geography-walkscore/&#34;&gt;This paper&lt;/a&gt; is now available on &lt;a href=&#34;http://geoscien.neigae.ac.cn/CN/10.13249/j.cnki.sgs.2018.08.005&#34; target=&#34;_blank&#34;&gt;Scientia Geographica Sinica&lt;/a&gt;.
+&lt;a href=&#34;../../mycv/publication/crime-geography-walkscore/&#34;&gt;This paper&lt;/a&gt; is now available on &lt;a href=&#34;http://geoscien.neigae.ac.cn/CN/10.13249/j.cnki.sgs.2018.08.005&#34; target=&#34;_blank&#34;&gt;Scientia Geographica Sinica&lt;/a&gt;.
 The Wechat article is now abailable on &lt;a href=&#34;https://mp.weixin.qq.com/s/4AOmOlRPz--PQpRbgdiXqw&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Oct. 4,2018&lt;/strong&gt;:
 We determined the influence factors of heavy metal across the urbanization gradient and found that in the exurbs,
-the stronger interaction effects were observed between strong and weak factors. &lt;a href=&#34;../publication/heavy-metal-geodetector/&#34;&gt;This paper&lt;/a&gt;
+the stronger interaction effects were observed between strong and weak factors. &lt;a href=&#34;../../publication/heavy-metal-geodetector/&#34;&gt;This paper&lt;/a&gt;
 is now available on &lt;a href=&#34;https://www.mdpi.com/1660-4601/15/10/2175&#34; target=&#34;_blank&#34;&gt;International Journal of Environmental Research and Public Health&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Sep.30, 2018&lt;/strong&gt;:
@@ -665,7 +665,7 @@ Resources Research, Chinese Academy of Sciences, Beijing, China.&lt;/p&gt;&lt;/l
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Mar. 26, 2018&lt;/strong&gt;:
 The results by integrating forest management patches inventory, remote sensing and GIS indicated that the elevation and species
 had a significant effect on PM2.5 in urban forest. The interactions between the human activities and other ecological factors
-were the non-linear enhancement. &lt;a href=&#34;../publication/pm25-geodetector-multi-factors/&#34;&gt;This paper&lt;/a&gt; is now available on
+were the non-linear enhancement. &lt;a href=&#34;../../publication/pm25-geodetector-multi-factors/&#34;&gt;This paper&lt;/a&gt; is now available on
 &lt;a href=&#34;http://www.mdpi.com/2072-4292/10/4/521&#34; target=&#34;_blank&#34;&gt;Remote Sensing&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Mar. 22, 2018&lt;/strong&gt;:
@@ -674,12 +674,12 @@ Sharing Service Innovation Contest.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Feb. 15, 2018&lt;/strong&gt;:
 We used the panel data analyze the eﬀects of command-and-control and market-oriented policy tools on China’s energy
-conservation and emissions reduction innovation. &lt;a href=&#34;../publication/energy-conservation-and-emissions-reduction-innovation-journal-cn/&#34;&gt;This Chinese paper&lt;/a&gt; published on
+conservation and emissions reduction innovation. &lt;a href=&#34;../../publication/energy-conservation-and-emissions-reduction-innovation-journal-cn/&#34;&gt;This Chinese paper&lt;/a&gt; published on
 &lt;a href=&#34;http://www.cpre.sdnu.edu.cn/WKC/WebPublication/paperDigest.aspx?paperID=e08627b9-4786-4236-9c4d-f558b23cf875&#34; target=&#34;_blank&#34;&gt;China Populaiton, Resources and Environment&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Dec. 27, 2017&lt;/strong&gt;:
 We used the panel data analyze the eﬀects of command-and-control and market-oriented policy tools on China’s energy
-conservation and emissions reduction innovation. &lt;a href=&#34;../publication/energy-conservation-and-emissions-reduction-innovation-journal-en/&#34;&gt;This English paper&lt;/a&gt; published on
+conservation and emissions reduction innovation. &lt;a href=&#34;../../publication/energy-conservation-and-emissions-reduction-innovation-journal-en/&#34;&gt;This English paper&lt;/a&gt; published on
 &lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/10042857.2017.1418273&#34; target=&#34;_blank&#34;&gt;Chinese Journal of Populaiton Resources and Environment&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Dec. 16, 2017&lt;/strong&gt;:
@@ -688,7 +688,7 @@ The abstract and poster were accepted and showed at the American Geophysical Uni
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Dec. 4, 2017&lt;/strong&gt;:
 Our work combines three research themes, urban waterlogging, landscape ecology, and data mining, for a deep analysis of
-the relationship between the NGI landscape and storm runoff in an urban environment. &lt;a href=&#34;../publication/landscape-blue-green-space/&#34;&gt;This paper&lt;/a&gt; published on
+the relationship between the NGI landscape and storm runoff in an urban environment. &lt;a href=&#34;../../publication/landscape-blue-green-space/&#34;&gt;This paper&lt;/a&gt; published on
 &lt;a href=&#34;https://ascelibrary.org/doi/book/10.1061/9780784481042&#34; target=&#34;_blank&#34;&gt;International Low Impact Development Conference China 2016 : LID Applications in Sponge City Projects&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Nov. 11, 2017&lt;/strong&gt;:
