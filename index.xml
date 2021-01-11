@@ -5,12 +5,23 @@
     <link>https://gisersqdai.top/mycv/</link>
       <atom:link href="https://gisersqdai.top/mycv/index.xml" rel="self" type="application/rss+xml" />
     <description>Shaoqing Dai</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Sat, 12 Dec 2020 15:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2020 Shaoqing Dai</copyright><lastBuildDate>Tue, 29 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Shaoqing Dai</title>
       <link>https://gisersqdai.top/mycv/</link>
     </image>
+    
+    <item>
+      <title>The direct and interactive impacts of hydrological factors on bacillary dysentery across different geographical regions in central China</title>
+      <link>https://gisersqdai.top/mycv/publication/ste-impact-hydrological-factors-bacillary/</link>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/ste-impact-hydrological-factors-bacillary/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0048969720381407-ga1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0048969720381407-gr3.jpgg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Evaluation of Health Effect of Short-term Exposure to PM2.5 during Spring Festival: A Case Study of 25 Cities in the Yangtze River Delta(Chinese)</title>
@@ -525,6 +536,10 @@
       <pubDate>Mon, 08 Jan 2018 00:00:00 +0100</pubDate>
       <guid>https://gisersqdai.top/mycv/news/</guid>
       <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Dec. 29, 2020&lt;/strong&gt;:
+We used a self-defined r function namely &amp;lsquo;geodetector&amp;rsquo; to calculate the impacts of hydrological factors on bacillary dysentery. &lt;a href=&#34;../mycv/publication/ste-impact-hydrological-factors-bacillary/&#34;&gt;This paper&lt;/a&gt;
+is now available on &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0048969720381407?via%3Dihub&#34; target=&#34;_blank&#34;&gt;Science of The Total Environment&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Dec. 12, 2020&lt;/strong&gt;:
 Shaoqing Dai was invitied to present the paper namely &amp;lsquo;The Evaluation of Health Effect of Short-term Exposure to PM2.5 during Spring Festival: A Case Study of 25 Cities in the Yangtze River Delta&amp;rsquo;
 in the workshop workshop of 16th Spatial Behavior and Planning &amp;amp; Digitalization and Fine-Grained Governance. The slide is available on &lt;a href=&#34;http://gisersqdai.top/slides_16th_spatial_behaviors_planning_workshop/&#34; target=&#34;_blank&#34;&gt;this url&lt;/a&gt;.  The news of this workshop is available on &lt;a href=&#34;https://mp.weixin.qq.com/s/oQY9SlSNir3HComkpUJixw&#34; target=&#34;_blank&#34;&gt;this url&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
@@ -553,11 +568,11 @@ Tencent location based service data and machine learning mapping produced by mul
 which proposed by Swiss Federal Institute of Technology (ETH Zurich).&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Aug. 9, 2020&lt;/strong&gt;:
-We used &amp;lsquo;corrplot&amp;rsquo; r package to visualize the impacts of soil type and rice phenology on both syntrophic and methanogenic communities. &lt;a href=&#34;../../mycv/publication/jclp-responserice/&#34;&gt;This paper&lt;/a&gt;
+We used a &amp;lsquo;corrplot&amp;rsquo; r package to visualize the impacts of soil type and rice phenology on both syntrophic and methanogenic communities. &lt;a href=&#34;../../mycv/publication/jclp-responserice/&#34;&gt;This paper&lt;/a&gt;
 is now available on &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0959652620334636?via%3Dihub&#34; target=&#34;_blank&#34;&gt;Journal of Cleaner Production&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Jun. 21, 2020&lt;/strong&gt;:
-We used &amp;lsquo;corrplot&amp;rsquo; r package to visualize the correlation between heavy metal speciation and characteristics of industrial sludge and char samples. &lt;a href=&#34;../../mycv/publication/jaap-corrplot/&#34;&gt;This paper&lt;/a&gt;
+We used a &amp;lsquo;corrplot&amp;rsquo; r package to visualize the correlation between heavy metal speciation and characteristics of industrial sludge and char samples. &lt;a href=&#34;../../mycv/publication/jaap-corrplot/&#34;&gt;This paper&lt;/a&gt;
 is now available on &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0165237020303223#fig0020&#34; target=&#34;_blank&#34;&gt;Journal of Analytical and Applied Pyrolysis&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;May. 12, 2020&lt;/strong&gt;:
