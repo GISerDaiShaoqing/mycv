@@ -5,7 +5,7 @@
     <link>https://gisersqdai.top/mycv/tags/</link>
       <atom:link href="https://gisersqdai.top/mycv/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2021 Shaoqing Dai</copyright><lastBuildDate>Sat, 12 Dec 2020 15:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2021 Shaoqing Dai</copyright><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Tags</title>
@@ -13,18 +13,42 @@
     </image>
     
     <item>
-      <title>Air Pollution Map</title>
-      <link>https://gisersqdai.top/mycv/tags/air-pollution-map/</link>
-      <pubDate>Sat, 12 Dec 2020 15:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/air-pollution-map/</guid>
+      <title>Spatial Lifecourse Epidemiology</title>
+      <link>https://gisersqdai.top/mycv/tags/spatial-lifecourse-epidemiology/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/spatial-lifecourse-epidemiology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GIS</title>
       <link>https://gisersqdai.top/mycv/tags/gis/</link>
-      <pubDate>Sat, 12 Dec 2020 15:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/gis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RS</title>
+      <link>https://gisersqdai.top/mycv/tags/rs/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/rs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial-Temporal GIS Theory</title>
+      <link>https://gisersqdai.top/mycv/tags/spatial-temporal-gis-theory/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/spatial-temporal-gis-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Air Pollution Map</title>
+      <link>https://gisersqdai.top/mycv/tags/air-pollution-map/</link>
+      <pubDate>Sat, 12 Dec 2020 15:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/air-pollution-map/</guid>
       <description></description>
     </item>
     
@@ -37,14 +61,6 @@
     </item>
     
     <item>
-      <title>Spatial Lifecourse Epidemiology</title>
-      <link>https://gisersqdai.top/mycv/tags/spatial-lifecourse-epidemiology/</link>
-      <pubDate>Sat, 12 Dec 2020 15:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/spatial-lifecourse-epidemiology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Spatial Statistics</title>
       <link>https://gisersqdai.top/mycv/tags/spatial-statistics/</link>
       <pubDate>Sat, 12 Dec 2020 15:00:00 +0000</pubDate>
@@ -53,26 +69,10 @@
     </item>
     
     <item>
-      <title>Spatial-Temporal GIS Theory</title>
-      <link>https://gisersqdai.top/mycv/tags/spatial-temporal-gis-theory/</link>
-      <pubDate>Sat, 12 Dec 2020 15:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/spatial-temporal-gis-theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Urban Computing</title>
       <link>https://gisersqdai.top/mycv/tags/urban-computing/</link>
       <pubDate>Sat, 12 Dec 2020 15:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/urban-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RS</title>
-      <link>https://gisersqdai.top/mycv/tags/rs/</link>
-      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/rs/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,35 @@
     <link>https://gisersqdai.top/mycv/</link>
       <atom:link href="https://gisersqdai.top/mycv/index.xml" rel="self" type="application/rss+xml" />
     <description>Shaoqing Dai</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2021 Shaoqing Dai</copyright><lastBuildDate>Tue, 29 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2021 Shaoqing Dai</copyright><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Shaoqing Dai</title>
       <link>https://gisersqdai.top/mycv/</link>
     </image>
+    
+    <item>
+      <title>Pitfalls in Modeling Asymptomatic COVID-19 Infection</title>
+      <link>https://gisersqdai.top/mycv/publication/frph-covid-19-1/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/frph-covid-19-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High spatial resolution mapping of steel resources accumulated above ground in mainland China: Past trends and future prospects</title>
+      <link>https://gisersqdai.top/mycv/publication/jclp-high-resolution-steels/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/jclp-high-resolution-steels/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0959652621007022-gr4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1 Comparisons between predicted and statistics-based steel stocks in 2015 (a), 2016 (b), 2017 (c), and 2018 (d). The gray shading represents 99% confidence intervals of the log-log regression&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0959652621007022-gr5.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2 National coverage of in-use steel stocks in 2015 at 1 × 1 km grid level and an example (in a partial view) of modelling area (a), and stocks changes during 1995–2015 (b)&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The direct and interactive impacts of hydrological factors on bacillary dysentery across different geographical regions in central China</title>
@@ -536,6 +559,22 @@
       <pubDate>Mon, 08 Jan 2018 00:00:00 +0100</pubDate>
       <guid>https://gisersqdai.top/mycv/news/</guid>
       <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Apr. 12, 2021&lt;/strong&gt;:
+We published a commentary paper on the paper of COVID-19 modeling which published in &lt;a href=&#34;https://science.sciencemag.org/content/368/6490/489.abstract&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Science&lt;/em&gt;&lt;/a&gt;. We highlighted the importance of modeling
+Asymptomatic COVID-19 Infection. &lt;a href=&#34;../mycv/publication/frph-covid-19-1&#34;&gt;This paper&lt;/a&gt; is now available on &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fpubh.2021.593176/full&#34; target=&#34;_blank&#34;&gt;Frontiers in Public Health&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Apr. 1, 2021&lt;/strong&gt;:
+We developed a comprehensive bikeability evaluation index based on multi-sources geospatial datasets, took part in the Digital China Innovation Contest, DCIC 2021, and entered the finals. A list of teams
+that entered the finals could see &lt;a href=&#34;https://mp.weixin.qq.com/s/pgKXZbhq3PxaXFvzK6-Nqw&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Mar. 2, 2021&lt;/strong&gt;:
+We developed an aggregative downscaling model that fuses multiple large-scale spatial datasets to reconstruct the spatio-temporal dynamics mapping of steel stocks in mainland China at 1 × 1 km resolution from
+1995-2015. Besides, we predicted the spatio-temporal dymacis mapping in 2030 considering different scenraios of Shared Socioeconomic Pathways. &lt;a href=&#34;../mycv/publication/jclp-high-resolution-steels&#34;&gt;This paper&lt;/a&gt; is
+now available on &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0959652621007022?via%3Dihub&#34; target=&#34;_blank&#34;&gt;Journal of Cleaner Production&lt;/a&gt;. The Wechat article of this paper is now available &lt;a href=&#34;https://mp.weixin.qq.com/s/PvoIrSS6ZVkr58VCBrPFKQ&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Feb. 4, 2021&lt;/strong&gt;:
+Shaoqing Dai, as a PI, proposed the project &amp;lsquo;Investigating the Changes of Residents’ Daily Behaviors, Lifestyles, and Built Environment During the COVID-19 Pandemic&amp;rsquo; and was funded by WeSpace Academic Support Plan in 2020, &amp;lsquo;Tsinghua-Tencent&amp;rsquo; Emerging Technologies Future Urban Space project.&lt;/p&gt;&lt;/li&gt;
+
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Dec. 29, 2020&lt;/strong&gt;:
 We used a self-defined r function namely &amp;lsquo;geodetector&amp;rsquo; to calculate the impacts of hydrological factors on bacillary dysentery. &lt;a href=&#34;../mycv/publication/ste-impact-hydrological-factors-bacillary/&#34;&gt;This paper&lt;/a&gt;
 is now available on &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0048969720381407?via%3Dihub&#34; target=&#34;_blank&#34;&gt;Science of The Total Environment&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
@@ -561,7 +600,7 @@ and Earth Observation, University of Twente.&lt;/p&gt;&lt;/li&gt;
 We published an invitied paper of special issues &amp;lsquo;Built Environment and Behavior Study&amp;rsquo; in &lt;a href=&#34;https://www.shplanning.com.cn/Home/index.html&#34; target=&#34;_blank&#34;&gt;Shanghai Urban Planning Review&lt;/a&gt;,
 namely &amp;lsquo;The Evaluation of Health Effect of Short-term Exposure to PM2.5 during Spring Festival: A Case Study of 25 Cities in the Yangtze River Delta&amp;rsquo;. This paper used
 Tencent location based service data and machine learning mapping produced by multi-sources geospatial data to investigate the health risk of short-term exposure to PM2.5.
-&lt;a href=&#34;../../mycv/publication/pm25-health-exposure-shup&#34;&gt;This paper&lt;/a&gt; is now available on &lt;a href=&#34;https://www.shplanning.com.cn/Home/Archive/archive_details/archive_id/3e768e5dae20c8613715a2259edf6146.html&#34; target=&#34;_blank&#34;&gt;Shanghai Urban Planning Review&lt;/a&gt;. The Wechat article is now abailable on &lt;a href=&#34;https://mp.weixin.qq.com/s/tpBS511WWOWau5jHaneoZg&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;a href=&#34;../../mycv/publication/pm25-health-exposure-shup&#34;&gt;This paper&lt;/a&gt; is now available on &lt;a href=&#34;https://www.shplanning.com.cn/Home/Archive/archive_details/archive_id/3e768e5dae20c8613715a2259edf6146.html&#34; target=&#34;_blank&#34;&gt;Shanghai Urban Planning Review&lt;/a&gt;. The Wechat article is now abailable &lt;a href=&#34;https://mp.weixin.qq.com/s/tpBS511WWOWau5jHaneoZg&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Oct. 14, 2020&lt;/strong&gt;:
 &lt;a href=&#34;http://covid19.gisersqdai.top/en-us/&#34; target=&#34;_blank&#34;&gt;Awesome of COVID-19&lt;/a&gt; was receiving an invitation to participate in a volunteer study on &lt;a href=&#34;https://blogs.ethz.ch/open-source-research/&#34; target=&#34;_blank&#34;&gt;open source software&lt;/a&gt;,
@@ -653,7 +692,7 @@ We published a paper namely &amp;lsquo;Influence of Walking Environment on Robbe
 environment on robbery, snatch and theft crime (RST). Then we found the walking environment probably has a positive effect on
 the RST crime in H city, the greater walkability, the more RST.
 &lt;a href=&#34;../../mycv/publication/crime-geography-walkscore/&#34;&gt;This paper&lt;/a&gt; is now available on &lt;a href=&#34;http://geoscien.neigae.ac.cn/CN/10.13249/j.cnki.sgs.2018.08.005&#34; target=&#34;_blank&#34;&gt;Scientia Geographica Sinica&lt;/a&gt;.
-The Wechat article is now abailable on &lt;a href=&#34;https://mp.weixin.qq.com/s/4AOmOlRPz--PQpRbgdiXqw&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+The Wechat article is now abailable &lt;a href=&#34;https://mp.weixin.qq.com/s/4AOmOlRPz--PQpRbgdiXqw&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Oct. 4,2018&lt;/strong&gt;:
 We determined the influence factors of heavy metal across the urbanization gradient and found that in the exurbs,
