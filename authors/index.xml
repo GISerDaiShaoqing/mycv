@@ -5,7 +5,7 @@
     <link>https://gisersqdai.top/mycv/authors/</link>
       <atom:link href="https://gisersqdai.top/mycv/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2021 Shaoqing Dai</copyright><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2021 Shaoqing Dai</copyright><lastBuildDate>Thu, 06 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>**Shaoqing Dai**</title>
       <link>https://gisersqdai.top/mycv/authors/shaoqing-dai/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/authors/shaoqing-dai/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Peng Jia</title>
       <link>https://gisersqdai.top/mycv/authors/peng-jia/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/authors/peng-jia/</guid>
       <description></description>
     </item>
@@ -31,8 +31,48 @@
     <item>
       <title>Shujuan Yang</title>
       <link>https://gisersqdai.top/mycv/authors/shujuan-yang/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/authors/shujuan-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tong Wu</title>
+      <link>https://gisersqdai.top/mycv/authors/tong-wu/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/authors/tong-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manuel J.Rodriguez</title>
+      <link>https://gisersqdai.top/mycv/authors/manuel-j.rodriguez/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/authors/manuel-j.rodriguez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Panfeng Dou</title>
+      <link>https://gisersqdai.top/mycv/authors/panfeng-dou/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/authors/panfeng-dou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shudi Zuo</title>
+      <link>https://gisersqdai.top/mycv/authors/shudi-zuo/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/authors/shudi-zuo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yin Ren</title>
+      <link>https://gisersqdai.top/mycv/authors/yin-ren/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/authors/yin-ren/</guid>
       <description></description>
     </item>
     
@@ -101,34 +141,10 @@
     </item>
     
     <item>
-      <title>Panfeng Dou</title>
-      <link>https://gisersqdai.top/mycv/authors/panfeng-dou/</link>
-      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/authors/panfeng-dou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shudi Zuo</title>
-      <link>https://gisersqdai.top/mycv/authors/shudi-zuo/</link>
-      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/authors/shudi-zuo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Wenjun Ma</title>
       <link>https://gisersqdai.top/mycv/authors/wenjun-ma/</link>
       <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/authors/wenjun-ma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yin Ren</title>
-      <link>https://gisersqdai.top/mycv/authors/yin-ren/</link>
-      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/authors/yin-ren/</guid>
       <description></description>
     </item>
     
@@ -329,14 +345,6 @@
       <link>https://gisersqdai.top/mycv/authors/pan-he/</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/authors/pan-he/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tong Wu</title>
-      <link>https://gisersqdai.top/mycv/authors/tong-wu/</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/authors/tong-wu/</guid>
       <description></description>
     </item>
     

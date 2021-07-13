@@ -157,6 +157,8 @@
 
 &lt;h1 id=&#34;2-covid-19-pandemic&#34;&gt;2 COVID-19 Pandemic&lt;/h1&gt;
 
+&lt;h2 id=&#34;2-1-covid-19-research-sources&#34;&gt;2.1 COVID-19 research sources&lt;/h2&gt;
+
 &lt;p&gt;I built up a website about COVID-19 studies, &lt;a href=&#34;http://covid19.gisersqdai.top/en-us/&#34; target=&#34;_blank&#34;&gt;Awesome of COVID-19&lt;/a&gt;. This website was used for collecting all the resources of COVID-19 related studies and was powered by &lt;a href=&#34;https://github.com/txd-team/docsite&#34; target=&#34;_blank&#34;&gt;docsite&lt;/a&gt;. Besides, I developed a dashboard shiny app about COVID-19 map, &lt;a href=&#34;https://gisersqdai.shinyapps.io/COVID19VIS/&#34; target=&#34;_blank&#34;&gt;COVID-19 shiny app&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/GISerDaiShaoqing/Awesome_COVID-19/raw/master/img/websnapt.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -167,11 +169,19 @@
 
 &lt;p&gt;&lt;strong&gt;Figure 2 Snapshot of COVID-19 shiny app&lt;/strong&gt;&lt;/p&gt;
 
+&lt;h2 id=&#34;2-2-reverse-of-covid-19&#34;&gt;2.2 Reverse of COVID-19&lt;/h2&gt;
+
+&lt;p&gt;The coronavirus disease 2019 (COVID-19) pandemic can cause reverse zoonoses (i.e., human–animal transmission of COVID-19). It is vital to utilize up-to-date methods to improve the control, management, and prevention of reverse zoonoses. Awareness of reverse zoonoses should be raised at both individual and regional/national levels for better protection of both humans and animals.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://gisersqdai.top/mycv/img/2021fig3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3 Coronavirus Disease 2019 (COVID-19) Natural Infections of Pet, Zoo, and Livestock Animals as of 11 March 2021 Mapped onto Number of Confirmed Cases in the Human Population.&lt;/strong&gt;&lt;/p&gt;
+
 &lt;h1 id=&#34;3-health-effect-of-exposure-to-air-pollution&#34;&gt;3 Health effect of exposure to air pollution&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://gisersqdai.top/mycv/img/202010fig4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 3 The time variation and OD matrices of AF&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 4 The time variation and OD matrices of AF&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
