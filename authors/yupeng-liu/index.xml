@@ -5,12 +5,23 @@
     <link>https://gisersqdai.top/mycv/authors/yupeng-liu/</link>
       <atom:link href="https://gisersqdai.top/mycv/authors/yupeng-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yupeng Liu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2023 Shaoqing Dai</copyright><lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2023 Shaoqing Dai</copyright><lastBuildDate>Tue, 08 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Yupeng Liu</title>
       <link>https://gisersqdai.top/mycv/authors/yupeng-liu/</link>
     </image>
+    
+    <item>
+      <title>Quantifying urban mass gain and loss by a GIS-based material stocks and flows analysis</title>
+      <link>https://gisersqdai.top/mycv/publication/jie-gisbased-material-stocks-and-flows-analysis/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/jie-gisbased-material-stocks-and-flows-analysis/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://onlinelibrary.wiley.com/cms/asset/6e2b657e-8240-4c6e-a994-ad0948824e47/jiec13252-fig-0001-m.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1 A framework combining stock-driven material flow analysis (MFA) and geographical information system (GIS) to simulate material metabolism. This improved framework highlights four typical activities that generate material flows, namely, construction, demolition, replacement, and maintenance&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>High spatial resolution mapping of steel resources accumulated above ground in mainland China: Past trends and future prospects</title>

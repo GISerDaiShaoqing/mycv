@@ -5,12 +5,35 @@
     <link>https://gisersqdai.top/mycv/authors/chengdong-xu/</link>
       <atom:link href="https://gisersqdai.top/mycv/authors/chengdong-xu/index.xml" rel="self" type="application/rss+xml" />
     <description>Chengdong Xu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2023 Shaoqing Dai</copyright><lastBuildDate>Thu, 15 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2023 Shaoqing Dai</copyright><lastBuildDate>Tue, 30 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Chengdong Xu</title>
       <link>https://gisersqdai.top/mycv/authors/chengdong-xu/</link>
     </image>
+    
+    <item>
+      <title>Improving Plot-Level Model of Forest Biomass: A Combined Approach Using Machine Learning with Spatial Statistics</title>
+      <link>https://gisersqdai.top/mycv/publication/improved-biomass-map-forest/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/improved-biomass-map-forest/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/forests/forests-12-01663/article_deploy/html/images/forests-12-01663-g002-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 1 Framework for estimating (a–c) the machine learning models, (d) the P-BSHADE model, and the three models that combine machine learning with the P-BSHADE model ((a,d), (b,d) and (c,d)).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/forests/forests-12-01663/article_deploy/html/images/forests-12-01663-g004-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 2 Prediction performance of the seven different models. (a) MAE and (b) MRE are presented as boxplots for each prediction method, with the median (black horizontal line in the box), interquartile range (25–75% in the box), range 5–95% (whiskers), and outliers (asterisks) labeled (S1 = SVM, S2 = RBF-ANN, S3 = RF, S4 = P-BSHADE, S5 = SVM &amp;amp; P-BSHADE, S6 = RBF-ANN &amp;amp; P-BSHADE, S7 = RF &amp;amp; P-BSHADE, S8 = allometric model, Allome = allometric model, ML = machine learning, and Sp Stats = spatial statistics). Histogram distributions of RMSE and nRMSE for each prediction method are presented in panels &amp;copy; and (d), respectively.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/forests/forests-12-01663/article_deploy/html/images/forests-12-01663-g005-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 3 Improved accuracy assessment indexes of three combined machine learning and spatial statistical methods are revealed by comparison with three corresponding machine learning methods. Panels (a–d) show the MAE, MRE, RMSE, and nRMSE, respectively; S1 vs. S5 compares S5 with S1, S2 vs. S6 compares S6 with S2, and S3 vs. S7 compares S7 with S3 (S1 = SVM, S2 = RBF-ANN, S3 = RF, S5 = SVM &amp;amp; P-BSHADE, S6 = RBF-ANN &amp;amp; P-BSHADE, S7 = RF &amp;amp; P-BSHADE)&lt;/p&gt;
+
+&lt;p&gt;Forest AGB estimates at the plot level play a major role in connecting accurate single-tree AGB measurements to relatively difficult regional AGB estimates. However, AGB estimates at the plot level are plagued by numerous uncertainties. Improving the plot-level model of forest AGB is a key issue in producing accurate AGB maps. A variety of prediction models have been applied to make accurate AGB estimates, all of which have their own advantages and disadvantages. Different approaches complement the advantages of different models and may yield more accurate AGB estimates than would otherwise be produced by using a single method. The main goal of the current study was to determine whether combining machine learning with spatial statistics can improve plot-level AGB estimates.&lt;/p&gt;
+
+&lt;p&gt;This study explores the prediction performance of different AGB models, and the results show that the model combining the random forest and P-BSHADE models substantially improves the accuracy of the estimates of forest AGB. The results of this study suggest that combining machine learning with spatial statistics improves plot-level AGB estimates. The understanding gained here should help to improve AGB mapping in other regions and in different types of forests.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Determining the Mechanisms that Influence the Surface Temperature of Urban Forest Canopies by Combining Remote Sensing Methods, Ground Observations, and Spatial Statistical Models</title>
