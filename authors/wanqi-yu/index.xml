@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wanqi Yu | Shaoqing Dai</title>
+    <link>https://gisersqdai.top/mycv/authors/wanqi-yu/</link>
+      <atom:link href="https://gisersqdai.top/mycv/authors/wanqi-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wanqi Yu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2023 Shaoqing Dai</copyright><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gisersqdai.top/mycv/img/site.png</url>
+      <title>Wanqi Yu</title>
+      <link>https://gisersqdai.top/mycv/authors/wanqi-yu/</link>
+    </image>
+    
+    <item>
+      <title>Development and validation of an age-sex-ethnicity-specific metabolic syndrome score in the Chinese adults</title>
+      <link>https://gisersqdai.top/mycv/publication/nc-mets-score-calculator/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/nc-mets-score-calculator/</guid>
+      <description>&lt;p&gt;We develop a continuous, age-sex-ethnicity-specific Metabolic syndrome (MetS) score based on continuous measures of the five metabolic dysfunctions (waist circumference [WC], triglycerides [TG], high-density lipoprotein cholesterol [HDL-C], mean arterial pressure [MAP], and fasting blood glucose [FBG]).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.nature.com/articles/s41467-023-42423-y/figures/1&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. An overview of the study design.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2 Shiny app of age-sex-ethnicity-specific MetS score.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

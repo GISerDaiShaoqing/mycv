@@ -5,7 +5,7 @@
     <link>https://gisersqdai.top/mycv/authors/</link>
       <atom:link href="https://gisersqdai.top/mycv/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2023 Shaoqing Dai</copyright><lastBuildDate>Fri, 07 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2023 Shaoqing Dai</copyright><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Authors</title>
@@ -15,8 +15,80 @@
     <item>
       <title>**Shaoqing Dai**</title>
       <link>https://gisersqdai.top/mycv/authors/shaoqing-dai/</link>
-      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/authors/shaoqing-dai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bin Yu</title>
+      <link>https://gisersqdai.top/mycv/authors/bin-yu/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/authors/bin-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chuanteng Feng</title>
+      <link>https://gisersqdai.top/mycv/authors/chuanteng-feng/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/authors/chuanteng-feng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peng Jia</title>
+      <link>https://gisersqdai.top/mycv/authors/peng-jia/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/authors/peng-jia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shujuan Yang</title>
+      <link>https://gisersqdai.top/mycv/authors/shujuan-yang/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/authors/shujuan-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tianjing He</title>
+      <link>https://gisersqdai.top/mycv/authors/tianjing-he/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/authors/tianjing-he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wanqi Yu</title>
+      <link>https://gisersqdai.top/mycv/authors/wanqi-yu/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/authors/wanqi-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaoqing Li</title>
+      <link>https://gisersqdai.top/mycv/authors/xiaoqing-li/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/authors/xiaoqing-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xing Zhao</title>
+      <link>https://gisersqdai.top/mycv/authors/xing-zhao/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/authors/xing-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ying Shao</title>
+      <link>https://gisersqdai.top/mycv/authors/ying-shao/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/authors/ying-shao/</guid>
       <description></description>
     </item>
     
@@ -53,26 +125,10 @@
     </item>
     
     <item>
-      <title>Bin Yu</title>
-      <link>https://gisersqdai.top/mycv/authors/bin-yu/</link>
-      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/authors/bin-yu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ge Qiu</title>
       <link>https://gisersqdai.top/mycv/authors/ge-qiu/</link>
       <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/authors/ge-qiu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peng Jia</title>
-      <link>https://gisersqdai.top/mycv/authors/peng-jia/</link>
-      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/authors/peng-jia/</guid>
       <description></description>
     </item>
     
@@ -89,14 +145,6 @@
       <link>https://gisersqdai.top/mycv/authors/shuhan-yang/</link>
       <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/authors/shuhan-yang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shujuan Yang</title>
-      <link>https://gisersqdai.top/mycv/authors/shujuan-yang/</link>
-      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/authors/shujuan-yang/</guid>
       <description></description>
     </item>
     
