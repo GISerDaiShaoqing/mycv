@@ -1,0 +1,1192 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Shaoqing Dai">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="we develop a bikeability evaluation framework by combining the collected multi-source spatio-temporal big data.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://gisersqdai.top/mycv/publication/jag-bikeability-multisource/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#3f51b5">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/mycv/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+
+  <link rel="manifest" href="/mycv/index.webmanifest">
+  <link rel="icon" type="image/png" href="/mycv/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/mycv/img/icon-192.png">
+
+  <link rel="canonical" href="https://gisersqdai.top/mycv/publication/jag-bikeability-multisource/">
+
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Shaoqing Dai">
+  <meta property="og:url" content="https://gisersqdai.top/mycv/publication/jag-bikeability-multisource/">
+  <meta property="og:title" content="Assessing spatiotemporal bikeability using multi-source geospatial big data: A case study of Xiamen, China | Shaoqing Dai">
+  <meta property="og:description" content="we develop a bikeability evaluation framework by combining the collected multi-source spatio-temporal big data."><meta property="og:image" content="https://gisersqdai.top/mycv/publication/jag-bikeability-multisource/featured.jpg">
+  <meta property="twitter:image" content="https://gisersqdai.top/mycv/publication/jag-bikeability-multisource/featured.jpg"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2023-11-08T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2023-11-08T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://gisersqdai.top/mycv/publication/jag-bikeability-multisource/"
+  },
+  "headline": "Assessing spatiotemporal bikeability using multi-source geospatial big data: A case study of Xiamen, China",
+  
+  "image": [
+    "https://gisersqdai.top/mycv/publication/jag-bikeability-multisource/featured.jpg"
+  ],
+  
+  "datePublished": "2023-11-08T00:00:00Z",
+  "dateModified": "2023-11-08T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "**Shaoqing Dai**"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Shaoqing Dai",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://gisersqdai.top/mycv/img/site.png"
+    }
+  },
+  "description": "we develop a bikeability evaluation framework by combining the collected multi-source spatio-temporal big data."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Assessing spatiotemporal bikeability using multi-source geospatial big data: A case study of Xiamen, China | Shaoqing Dai</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/mycv/"><img src="/mycv/img/site.png" alt="Shaoqing Dai"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/mycv/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/mycv/#news"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/mycv/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/mycv/#featured"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/mycv/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/mycv/#resources"><span>Resources</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/mycv/#services"><span>Services</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/mycv/#awards"><span>Awards</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/mycv/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="http://gisersqdai.top/" target="_blank" rel="noopener"><span>Blog</span></a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>Assessing spatiotemporal bikeability using multi-source geospatial big data: A case study of Xiamen, China</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a href="/mycv/authors/shaoqing-dai/"><strong>Shaoqing Dai</strong></a></span>, <span><a href="/mycv/authors/wufan-zhao/">Wufan Zhao</a></span>, <span><a href="/mycv/authors/yanwen-wang/">Yanwen Wang</a></span>, <span><a href="/mycv/authors/xiao-huang/">Xiao Huang</a></span>, <span><a href="/mycv/authors/zhidong-chen/">Zhidong Chen</a></span>, <span><a href="/mycv/authors/jinghan-lei/">Jinghan Lei</a></span>, <span><a href="/mycv/authors/alfred-stein/">Alfred Stein</a></span>, <span><a href="/mycv/authors/peng-jia/">Peng Jia</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    November 2023
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="/mycv/202306.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/mycv/publication/jag-bikeability-multisource/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/mycv/project/spatial-lifecourse-epidemiology/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/mycv/project/spatial-temporal-gis-theory/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1016/j.jag.2023.103539" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://mp.weixin.qq.com/s/lUi7l5uX8DPr1LQgEibjbw" target="_blank" rel="noopener">
+    
+    Wechat articles
+  </a>
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 527px; max-height: 461px;">
+  <div style="position: relative">
+    <img src="/mycv/publication/jag-bikeability-multisource/featured.jpg" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">This study focuses on the development of a new framework for evaluating bikeability in urban environments with the aim of enhancing sustainable urban transportation planning. To close the research gap that previous studies have disregarded the dynamic environmental factors and trajectory data, we propose a framework that comprises four sub-indices: safety, comfort, accessibility, and vitality. Utilizing open-source data, advanced deep neural networks, and GIS spatial analysis, the framework eliminates subjective evaluations and is more efficient and comprehensive than prior methods. The experimental results on Xiamen, China, demonstrate the effectiveness of the framework in identifying areas for improvement and enhancing cycling mobility. The proposed framework provides a structured approach for evaluating bikeability in different geographical contexts, making reproducing bikeability indices easier and more comprehensive to policymakers, transportation planners, and environmental decision-makers.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/mycv/publication/#2">
+              Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In <em>International Journal of Applied Earth Observation and Geoinformation</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
+
+<h3 id="proposed-bikeability-framework">Proposed bikeability framework</h3>
+
+<p>We construct the bikeability evaluation framework by combining the collected multi-source spatio-temporal big data (Figure 1 and Figure 2). The proposed bikeability evaluation framework contains four subindexes, i.e., safety, comfort, accessibility, and vitality, and thirteen influencing indicators, i.e., wind speed, road slope, precipitation, temperature, sky view index, green view index, trajectory sinuosity, air pollution, average speed of trajectory, public transportation accessibility, commercial accessibility, number of trajectory and crowdedness. All indicators used in our framework belong to objective and quantitative measurements.</p>
+
+<p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr2.jpg" alt="" /></p>
+
+<p><strong>Figure 1. The proposed bikeability framework.</strong></p>
+
+<p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr3.jpg" alt="" /></p>
+
+<p><strong>Figure 2. Street view imagery semantic segmentation process, revised from Chen et al. (2018).</strong></p>
+
+<h3 id="spatiotemporal-analysis-of-bikeability">Spatiotemporal analysis of bikeability</h3>
+
+<p>We first present and discuss the results of four subindexes across Xiamen Island on a daily basis from December 21 to 25th, 2020 (Figure 3).</p>
+
+<p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr4.jpg" alt="" /></p>
+
+<p><strong>Figure 3. The figures show the daily safety, comfort, accessibility, and vitality of Xiamen Island from top row to bottom row, where from left column to right column respectively represent the dates from 21 to 25th.</strong></p>
+
+<p>The calculation of the bikeability index requires assigning appropriate weights to each indicators. To determine these weights, we performed a principal component analysis (PCA) on the 13 indicators. The PCA resulted in 6 components, providing a balance between a minimal number of components and reliable explained variance. The relationships between components and indicators are displayed in Figure 4.</p>
+
+<p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr5.jpg" alt="" /></p>
+
+<p><strong>Figure 4. The PCA result for 13 indicators indicates correspondence between principal components and original indicators.</strong></p>
+
+<p>The temporal distribution of the bikeability index shows a fluctuation throughout the study period, as seen in Figure 5.The temporal distribution of the bikeability index shows a fluctuation throughout the study period, as seen in Fig. 8. On the 21st and 22nd, the average values were recorded as 0.236 and 0.233, respectively. On the 23rd, however, there was a noticeable drop in the bikeability index value, reaching a low of 0.098. Despite this decrease, the values rebounded to 0.188 and 0.185 on the 24th and 25th, respectively. This fluctuation in the bikeability index is mainly due to a rainfall event that occurred in Xiamen on the 23rd. The rainy conditions led to a significant decrease in the safety subindex, which in turn decreased the overall value of the bikeability index.</p>
+
+<p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr7.jpg" alt="" /></p>
+
+<p><strong>Figure 5. Average bikeability of Xiamen Island on December 21st, 22nd, 23rd, 24th, 25th, 2020, the roads highlighted in red indicate lower levels of bikeability, whereas those in green indicate higher levels of bikeability.</strong></p>
+
+<p>The hourly pattern of the bikeability index reveals a different trend compared to the daily change (Fig. 8). As seen in Fig. 8, the hourly bikeability index values exhibit much less fluctuation. The value was recorded as 0.184 at 6:00 a.m. and then gradually increased, reaching its peak at 7:00 a.m. and 8:00 a.m. with values of 0.198 and 0.195, respectively. This increase was mainly due to an increase in the vitality subindex, as more people were using shared bicycles between 7:00 a.m. and 8:00 a.m. on working days. However, at 9:00 a.m., the value dropped to its lowest point at 0.17.</p>
+
+<p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr8.jpg" alt="" /></p>
+
+<p><strong>Figure 6. Average bikeability of Xiamen Island at 6:00, 7:00, 8:00, and 9:00 a.m., the roads highlighted in red indicate lower levels of bikeability, whereas those in green indicate higher levels of bikeability.</strong></p>
+
+<p>To further validate our proposed index, we conducted a case study analysis in the central area of Xiamen CR, which is the middle continuous hotspot area. The location of this case study is the shared bicycle cycling hotspot at the intersection of Hubin Nanlu and Hubin Donglu, near the commercial center of Xiamen Wanxiangcheng, between 8:00–9:00 a.m. on December 21, 2020, as shown in Figure 7.</p>
+
+<p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr10.jpg" alt="" /></p>
+
+<p><strong>Figure 7. Case study field validation.</strong></p>
+
+<p>The study area is centered around the Huarun commercial center, surrounded by a large residential area. During the morning hours, a substantial amount of shared bicycles are used in this region, contributing to a relatively high bikeability index. This highlights the significance of cycling routes in determining the level of bikeability.</p>
+
+<p>The current cycling infrastructure falls short of supporting high-friendly cycling routes. For example, the road section near Hubin Middle School, which is located in a residential area and has a high demand for commuting, features a high density of shared bicycle stops, catering, shopping, and life services. The natural environment also favors cycling with low slopes, moderate wind speed, low precipitation, suitable temperature, overcast weather, and good air quality. Despite these favorable conditions, this section is congested during the morning rush hour due to a narrow non-motorized lane, slow average speed, and high volume of people commuting and going to school, resulting in low bikeability in this section despite high cycling activity.</p>
+
+<p>Furthermore, the demand for shared bicycles in hot spot regions is much higher, underscoring the importance of ensuring the availability of bicycles and easy accessibility. As shown in the figure, most road sections in the hot spot area have high densities of parking spots. However, there is a shortage of parking spots on the east side of Huarun Center, leading to a concentration of cyclists in other areas, causing congestion and potentially affecting commuting efficiency.</p>
+
+<p>This case study showcases how our bikeability index takes into account the purpose of cycling and reflects cyclists’ preferred routes. Nonetheless, there remain disparities between the actual infrastructure, preferred routes, and regional conditions. By integrating the index system with real-time data, it is possible to provide suggestions for enhancing regional cycling conditions. The findings of this research can guide management departments and shared bicycle providers to improve facilities and offer optimal route planning for cyclists to avoid congestion and overcome difficulties in finding available bicycles. In conclusion, the bikeability index can provide comprehensive decision-making recommendations and advance the development of cycling-friendly cities.</p>
+
+<h4 id="implications-for-policy-and-practice">Implications for policy and practice</h4>
+
+<p>The variability in the bikeability index across different segments presents an opportunity for transportation planners to enhance cycling infrastructure. Monitoring the spatiotemporal dynamics of bikeability can help identify potential environmental or infrastructure changes and their impact on the community’s level of bikeability. To ensure the relevance of the cycling friendliness index, case studies that incorporate additional infrastructure data are necessary for local comparison of bikeability results, enabling the proposal of landable solutions for varying infrastructure. For instance, the fusion analysis of parking spot electronic fence data and bikeability could expose discrepancies between regional cycling infrastructure and cyclists’ preferences, providing actionable recommendations to government departments and guiding users to cycle in a more bike-friendly manner.</p>
+</div>
+
+    
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/mycv/tags/spatial-lifecourse-epidemiology/">Spatial Lifecourse Epidemiology</a>
+  
+  <a class="badge badge-light" href="/mycv/tags/gis/">GIS</a>
+  
+  <a class="badge badge-light" href="/mycv/tags/spatial-statistics/">Spatial Statistics</a>
+  
+  <a class="badge badge-light" href="/mycv/tags/street-view-images/">Street view images</a>
+  
+  <a class="badge badge-light" href="/mycv/tags/spatial-temporal-gis-theory/">Spatial-Temporal GIS Theory</a>
+  
+  <a class="badge badge-light" href="/mycv/tags/urban-computing/">Urban Computing</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://gisersqdai.top/mycv/publication/jag-bikeability-multisource/&amp;text=Assessing%20spatiotemporal%20bikeability%20using%20multi-source%20geospatial%20big%20data:%20A%20case%20study%20of%20Xiamen,%20China" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://gisersqdai.top/mycv/publication/jag-bikeability-multisource/&amp;t=Assessing%20spatiotemporal%20bikeability%20using%20multi-source%20geospatial%20big%20data:%20A%20case%20study%20of%20Xiamen,%20China" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Assessing%20spatiotemporal%20bikeability%20using%20multi-source%20geospatial%20big%20data:%20A%20case%20study%20of%20Xiamen,%20China&amp;body=https://gisersqdai.top/mycv/publication/jag-bikeability-multisource/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://gisersqdai.top/mycv/publication/jag-bikeability-multisource/&amp;title=Assessing%20spatiotemporal%20bikeability%20using%20multi-source%20geospatial%20big%20data:%20A%20case%20study%20of%20Xiamen,%20China" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Assessing%20spatiotemporal%20bikeability%20using%20multi-source%20geospatial%20big%20data:%20A%20case%20study%20of%20Xiamen,%20China%20https://gisersqdai.top/mycv/publication/jag-bikeability-multisource/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://gisersqdai.top/mycv/publication/jag-bikeability-multisource/&amp;title=Assessing%20spatiotemporal%20bikeability%20using%20multi-source%20geospatial%20big%20data:%20A%20case%20study%20of%20Xiamen,%20China" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/mycv/authors/shaoqing-dai/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/mycv/talk/xmno12023talks/">Seeking your interest and going ahead will contribute to success</a></li>
+      
+      <li><a href="/mycv/talk/xu2020talks/">The Evaluation of Health Effect of Short-term Exposure to PM2.5 during Spring Festival: A Case Study of 25 Cities in the Yangtze River Delta(Chinese)</a></li>
+      
+      <li><a href="/mycv/publication/pm25-health-exposure-shup/">The Evaluation of Health Effect of Short-term Exposure to PM2.5 during Spring Festival: A Case Study of 25 Cities in the Yangtze River Delta(Chinese)</a></li>
+      
+      <li><a href="/mycv/talk/cpgis2022talks/">Do neighborhood boundaries matter for examining the associations between environmental factors and obesity</a></li>
+      
+      <li><a href="/mycv/project/spatial-lifecourse-epidemiology/">Spatial Lifecourse Epidemiology</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+  </div>
+</div>
+
+      
+
+    
+    
+    
+    <script src="/mycv/js/mathjax-config.js"></script>
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+        
+      
+
+      
+      
+      <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/mycv/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/mycv/js/academic.min.d6bd04fdad2ad213aa8111c5a3b72fc5.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    &copy; 2016-2023 Shaoqing Dai &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

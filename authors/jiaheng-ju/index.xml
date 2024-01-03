@@ -5,12 +5,23 @@
     <link>https://gisersqdai.top/mycv/authors/jiaheng-ju/</link>
       <atom:link href="https://gisersqdai.top/mycv/authors/jiaheng-ju/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiaheng Ju</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2023 Shaoqing Dai</copyright><lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2023 Shaoqing Dai</copyright><lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Jiaheng Ju</title>
       <link>https://gisersqdai.top/mycv/authors/jiaheng-ju/</link>
     </image>
+    
+    <item>
+      <title>Local carbon emission zone construction in the highly urbanized regions: Application of residential and transport CO$_2$ emissions in Shanghai, China</title>
+      <link>https://gisersqdai.top/mycv/publication/bae-local-carbon-emission-zone/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/bae-local-carbon-emission-zone/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S036013232301034X-gr2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. The flowchart of the LCEZ construction. Step 1: Luojia1-01 night light image data is the proxy variable of the RTCE map. GWR is geographically weighted regression. Step 2: L is low. M is medium. H is high. the solid line is the three key factors. The dotted line means that n key factors can be selected in the future. The point is POI. the column is BF. the line is RD. A&amp;amp;B represents Dense&amp;amp;sparse forests. C&amp;amp;D represents Farmland&amp;amp;grassland&amp;amp;wetland. G represents the water body.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The importance of the functional mixed entropy for the explanation of residential and transport CO$_2$ emissions in the urban center of China</title>
@@ -19,7 +30,7 @@
       <guid>https://gisersqdai.top/mycv/publication/jclp-importance-mixed-urban-function/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://www.iue.cas.cn/xwzx/kydt/202211/W020221125307842798054.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Figure 1 The relation between the functional mixed entropy and the GWR mean regression coefficients in 31 cities. The red, yellow, light blue and blue dot represents the Type Ⅰ, Ⅱ, Ⅲ and Ⅳ city, respectively. The numbers follow the city names represent the size order of the urban area. Point A, B and C are hypothetical.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 1 The relation between the functional mixed entropy and the GWR mean regression coefficients in 31 cities. The red, yellow, light blue and blue dot represents the Type Ⅰ, Ⅱ, Ⅲ and Ⅳ city, respectively. The numbers follow the city names represent the size order of the urban area. Point A, B and C are hypothetical.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     

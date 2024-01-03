@@ -5,12 +5,96 @@
     <link>https://gisersqdai.top/mycv/authors/shaoqing-dai/</link>
       <atom:link href="https://gisersqdai.top/mycv/authors/shaoqing-dai/index.xml" rel="self" type="application/rss+xml" />
     <description>**Shaoqing Dai**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2023 Shaoqing Dai</copyright><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2023 Shaoqing Dai</copyright><lastBuildDate>Tue, 05 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>**Shaoqing Dai**</title>
       <link>https://gisersqdai.top/mycv/authors/shaoqing-dai/</link>
     </image>
+    
+    <item>
+      <title>Mixed land use has opposite associations with subjective well-being through social capital: Spatial heterogeneity in residential and workplace neighborhoods</title>
+      <link>https://gisersqdai.top/mycv/publication/tbs-mixed-land-use-well-being/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/tbs-mixed-land-use-well-being/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local carbon emission zone construction in the highly urbanized regions: Application of residential and transport CO$_2$ emissions in Shanghai, China</title>
+      <link>https://gisersqdai.top/mycv/publication/bae-local-carbon-emission-zone/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/bae-local-carbon-emission-zone/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S036013232301034X-gr2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. The flowchart of the LCEZ construction. Step 1: Luojia1-01 night light image data is the proxy variable of the RTCE map. GWR is geographically weighted regression. Step 2: L is low. M is medium. H is high. the solid line is the three key factors. The dotted line means that n key factors can be selected in the future. The point is POI. the column is BF. the line is RD. A&amp;amp;B represents Dense&amp;amp;sparse forests. C&amp;amp;D represents Farmland&amp;amp;grassland&amp;amp;wetland. G represents the water body.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Assessing spatiotemporal bikeability using multi-source geospatial big data: A case study of Xiamen, China</title>
+      <link>https://gisersqdai.top/mycv/publication/jag-bikeability-multisource/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/jag-bikeability-multisource/</guid>
+      <description>
+
+&lt;h3 id=&#34;proposed-bikeability-framework&#34;&gt;Proposed bikeability framework&lt;/h3&gt;
+
+&lt;p&gt;We construct the bikeability evaluation framework by combining the collected multi-source spatio-temporal big data (Figure 1 and Figure 2). The proposed bikeability evaluation framework contains four subindexes, i.e., safety, comfort, accessibility, and vitality, and thirteen influencing indicators, i.e., wind speed, road slope, precipitation, temperature, sky view index, green view index, trajectory sinuosity, air pollution, average speed of trajectory, public transportation accessibility, commercial accessibility, number of trajectory and crowdedness. All indicators used in our framework belong to objective and quantitative measurements.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. The proposed bikeability framework.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2. Street view imagery semantic segmentation process, revised from Chen et al. (2018).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;spatiotemporal-analysis-of-bikeability&#34;&gt;Spatiotemporal analysis of bikeability&lt;/h3&gt;
+
+&lt;p&gt;We first present and discuss the results of four subindexes across Xiamen Island on a daily basis from December 21 to 25th, 2020 (Figure 3).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3. The figures show the daily safety, comfort, accessibility, and vitality of Xiamen Island from top row to bottom row, where from left column to right column respectively represent the dates from 21 to 25th.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The calculation of the bikeability index requires assigning appropriate weights to each indicators. To determine these weights, we performed a principal component analysis (PCA) on the 13 indicators. The PCA resulted in 6 components, providing a balance between a minimal number of components and reliable explained variance. The relationships between components and indicators are displayed in Figure 4.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr5.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4. The PCA result for 13 indicators indicates correspondence between principal components and original indicators.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The temporal distribution of the bikeability index shows a fluctuation throughout the study period, as seen in Figure 5.The temporal distribution of the bikeability index shows a fluctuation throughout the study period, as seen in Fig. 8. On the 21st and 22nd, the average values were recorded as 0.236 and 0.233, respectively. On the 23rd, however, there was a noticeable drop in the bikeability index value, reaching a low of 0.098. Despite this decrease, the values rebounded to 0.188 and 0.185 on the 24th and 25th, respectively. This fluctuation in the bikeability index is mainly due to a rainfall event that occurred in Xiamen on the 23rd. The rainy conditions led to a significant decrease in the safety subindex, which in turn decreased the overall value of the bikeability index.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr7.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 5. Average bikeability of Xiamen Island on December 21st, 22nd, 23rd, 24th, 25th, 2020, the roads highlighted in red indicate lower levels of bikeability, whereas those in green indicate higher levels of bikeability.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The hourly pattern of the bikeability index reveals a different trend compared to the daily change (Fig. 8). As seen in Fig. 8, the hourly bikeability index values exhibit much less fluctuation. The value was recorded as 0.184 at 6:00 a.m. and then gradually increased, reaching its peak at 7:00 a.m. and 8:00 a.m. with values of 0.198 and 0.195, respectively. This increase was mainly due to an increase in the vitality subindex, as more people were using shared bicycles between 7:00 a.m. and 8:00 a.m. on working days. However, at 9:00 a.m., the value dropped to its lowest point at 0.17.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr8.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 6. Average bikeability of Xiamen Island at 6:00, 7:00, 8:00, and 9:00 a.m., the roads highlighted in red indicate lower levels of bikeability, whereas those in green indicate higher levels of bikeability.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;To further validate our proposed index, we conducted a case study analysis in the central area of Xiamen CR, which is the middle continuous hotspot area. The location of this case study is the shared bicycle cycling hotspot at the intersection of Hubin Nanlu and Hubin Donglu, near the commercial center of Xiamen Wanxiangcheng, between 8:00–9:00 a.m. on December 21, 2020, as shown in Figure 7.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr10.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 7. Case study field validation.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The study area is centered around the Huarun commercial center, surrounded by a large residential area. During the morning hours, a substantial amount of shared bicycles are used in this region, contributing to a relatively high bikeability index. This highlights the significance of cycling routes in determining the level of bikeability.&lt;/p&gt;
+
+&lt;p&gt;The current cycling infrastructure falls short of supporting high-friendly cycling routes. For example, the road section near Hubin Middle School, which is located in a residential area and has a high demand for commuting, features a high density of shared bicycle stops, catering, shopping, and life services. The natural environment also favors cycling with low slopes, moderate wind speed, low precipitation, suitable temperature, overcast weather, and good air quality. Despite these favorable conditions, this section is congested during the morning rush hour due to a narrow non-motorized lane, slow average speed, and high volume of people commuting and going to school, resulting in low bikeability in this section despite high cycling activity.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, the demand for shared bicycles in hot spot regions is much higher, underscoring the importance of ensuring the availability of bicycles and easy accessibility. As shown in the figure, most road sections in the hot spot area have high densities of parking spots. However, there is a shortage of parking spots on the east side of Huarun Center, leading to a concentration of cyclists in other areas, causing congestion and potentially affecting commuting efficiency.&lt;/p&gt;
+
+&lt;p&gt;This case study showcases how our bikeability index takes into account the purpose of cycling and reflects cyclists’ preferred routes. Nonetheless, there remain disparities between the actual infrastructure, preferred routes, and regional conditions. By integrating the index system with real-time data, it is possible to provide suggestions for enhancing regional cycling conditions. The findings of this research can guide management departments and shared bicycle providers to improve facilities and offer optimal route planning for cyclists to avoid congestion and overcome difficulties in finding available bicycles. In conclusion, the bikeability index can provide comprehensive decision-making recommendations and advance the development of cycling-friendly cities.&lt;/p&gt;
+
+&lt;h4 id=&#34;implications-for-policy-and-practice&#34;&gt;Implications for policy and practice&lt;/h4&gt;
+
+&lt;p&gt;The variability in the bikeability index across different segments presents an opportunity for transportation planners to enhance cycling infrastructure. Monitoring the spatiotemporal dynamics of bikeability can help identify potential environmental or infrastructure changes and their impact on the community’s level of bikeability. To ensure the relevance of the cycling friendliness index, case studies that incorporate additional infrastructure data are necessary for local comparison of bikeability results, enabling the proposal of landable solutions for varying infrastructure. For instance, the fusion analysis of parking spot electronic fence data and bikeability could expose discrepancies between regional cycling infrastructure and cyclists’ preferences, providing actionable recommendations to government departments and guiding users to cycle in a more bike-friendly manner.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Development and validation of an age-sex-ethnicity-specific metabolic syndrome score in the Chinese adults</title>
@@ -19,7 +103,7 @@
       <guid>https://gisersqdai.top/mycv/publication/nc-mets-score-calculator/</guid>
       <description>&lt;p&gt;We develop a continuous, age-sex-ethnicity-specific Metabolic syndrome (MetS) score based on continuous measures of the five metabolic dysfunctions (waist circumference [WC], triglycerides [TG], high-density lipoprotein cholesterol [HDL-C], mean arterial pressure [MAP], and fasting blood glucose [FBG]).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.nature.com/articles/s41467-023-42423-y/figures/1&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-42423-y/MediaObjects/41467_2023_42423_Fig1_HTML.png?as=webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Figure 1. An overview of the study design.&lt;/strong&gt;&lt;/p&gt;
 
@@ -68,7 +152,7 @@
       <guid>https://gisersqdai.top/mycv/publication/jclp-importance-mixed-urban-function/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://www.iue.cas.cn/xwzx/kydt/202211/W020221125307842798054.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Figure 1 The relation between the functional mixed entropy and the GWR mean regression coefficients in 31 cities. The red, yellow, light blue and blue dot represents the Type Ⅰ, Ⅱ, Ⅲ and Ⅳ city, respectively. The numbers follow the city names represent the size order of the urban area. Point A, B and C are hypothetical.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 1 The relation between the functional mixed entropy and the GWR mean regression coefficients in 31 cities. The red, yellow, light blue and blue dot represents the Type Ⅰ, Ⅱ, Ⅲ and Ⅳ city, respectively. The numbers follow the city names represent the size order of the urban area. Point A, B and C are hypothetical.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -97,6 +181,8 @@
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/publication/cs-corrplot/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://pubs.rsc.org/image/article/2022/SC/d1sc06156a/d1sc06156a-f2_hi-res.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1.  Cu concentration and the δ65Cu value in plasma and RBC of BCa patients grouped by cancer grade, cancer stage, age, and gender. Each symbol presents an individual subject. (A and B) Cu concentration in plasma and RBC of BCa patients for different grades. “Low” refers to low-grade BCa (n = 16) and “high” refers to high-grade BCa (n = 21). PA = 0.7910 and PB = 0.8324, Mann Whitney test. (C and D) δ65Cu value in plasma and RBC of BCa patients for different grades. PC = 0.0227 and PD = 0.1854, unpaired Student&amp;rsquo;s two-tailed t-test. (E and F) Cu concentration in plasma and RBC of BCa patients for different cancer stages (n = 31 for Ta/T1 and n = 4 for T2/T3). PE = 0.9692 and PF = 0.7699, unpaired Student&amp;rsquo;s two-tailed t-test. (G and H) δ65Cu value in plasma and RBC of BCa patients for different cancer stages. PG = 0.2094 and PH = 0.5604, unpaired Student&amp;rsquo;s two-tailed t-test. (I and J) Variation of the Cu concentration in plasma and RBC of all subjects with age. (K and L) Variation of the δ65Cu value in plasma and RBC of BCa patients with age. (M and N) Variation of the Cu concentration in plasma and RBC of BCa patients with gender (n = 28 for male and n = 13 for female). PM = 0.1083, unpaired Student&amp;rsquo;s two-tailed t-test; PN = 0.2924, Mann Whitney test. (O and P) Variation of the δ65Cu value in plasma and RBC of BCa patients with gender. PO = 0.8701 and PP = 0.7349, unpaired Student&amp;rsquo;s two-tailed t-test.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -107,15 +193,15 @@
       <guid>https://gisersqdai.top/mycv/publication/improved-biomass-map-forest/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/forests/forests-12-01663/article_deploy/html/images/forests-12-01663-g002-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Figure 1 Framework for estimating (a–c) the machine learning models, (d) the P-BSHADE model, and the three models that combine machine learning with the P-BSHADE model ((a,d), (b,d) and (c,d)).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 1 Framework for estimating (a–c) the machine learning models, (d) the P-BSHADE model, and the three models that combine machine learning with the P-BSHADE model ((a,d), (b,d) and (c,d)).&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/forests/forests-12-01663/article_deploy/html/images/forests-12-01663-g004-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Figure 2 Prediction performance of the seven different models. (a) MAE and (b) MRE are presented as boxplots for each prediction method, with the median (black horizontal line in the box), interquartile range (25–75% in the box), range 5–95% (whiskers), and outliers (asterisks) labeled (S1 = SVM, S2 = RBF-ANN, S3 = RF, S4 = P-BSHADE, S5 = SVM &amp;amp; P-BSHADE, S6 = RBF-ANN &amp;amp; P-BSHADE, S7 = RF &amp;amp; P-BSHADE, S8 = allometric model, Allome = allometric model, ML = machine learning, and Sp Stats = spatial statistics). Histogram distributions of RMSE and nRMSE for each prediction method are presented in panels &amp;copy; and (d), respectively.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 2 Prediction performance of the seven different models. (a) MAE and (b) MRE are presented as boxplots for each prediction method, with the median (black horizontal line in the box), interquartile range (25–75% in the box), range 5–95% (whiskers), and outliers (asterisks) labeled (S1 = SVM, S2 = RBF-ANN, S3 = RF, S4 = P-BSHADE, S5 = SVM &amp;amp; P-BSHADE, S6 = RBF-ANN &amp;amp; P-BSHADE, S7 = RF &amp;amp; P-BSHADE, S8 = allometric model, Allome = allometric model, ML = machine learning, and Sp Stats = spatial statistics). Histogram distributions of RMSE and nRMSE for each prediction method are presented in panels &amp;copy; and (d), respectively.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/forests/forests-12-01663/article_deploy/html/images/forests-12-01663-g005-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Figure 3 Improved accuracy assessment indexes of three combined machine learning and spatial statistical methods are revealed by comparison with three corresponding machine learning methods. Panels (a–d) show the MAE, MRE, RMSE, and nRMSE, respectively; S1 vs. S5 compares S5 with S1, S2 vs. S6 compares S6 with S2, and S3 vs. S7 compares S7 with S3 (S1 = SVM, S2 = RBF-ANN, S3 = RF, S5 = SVM &amp;amp; P-BSHADE, S6 = RBF-ANN &amp;amp; P-BSHADE, S7 = RF &amp;amp; P-BSHADE)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 3 Improved accuracy assessment indexes of three combined machine learning and spatial statistical methods are revealed by comparison with three corresponding machine learning methods. Panels (a–d) show the MAE, MRE, RMSE, and nRMSE, respectively; S1 vs. S5 compares S5 with S1, S2 vs. S6 compares S6 with S2, and S3 vs. S7 compares S7 with S3 (S1 = SVM, S2 = RBF-ANN, S3 = RF, S5 = SVM &amp;amp; P-BSHADE, S6 = RBF-ANN &amp;amp; P-BSHADE, S7 = RF &amp;amp; P-BSHADE)&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Forest AGB estimates at the plot level play a major role in connecting accurate single-tree AGB measurements to relatively difficult regional AGB estimates. However, AGB estimates at the plot level are plagued by numerous uncertainties. Improving the plot-level model of forest AGB is a key issue in producing accurate AGB maps. A variety of prediction models have been applied to make accurate AGB estimates, all of which have their own advantages and disadvantages. Different approaches complement the advantages of different models and may yield more accurate AGB estimates than would otherwise be produced by using a single method. The main goal of the current study was to determine whether combining machine learning with spatial statistics can improve plot-level AGB estimates.&lt;/p&gt;
 
@@ -189,7 +275,9 @@
       <guid>https://gisersqdai.top/mycv/publication/ste-impact-hydrological-factors-bacillary/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0048969720381407-ga1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0048969720381407-gr3.jpgg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0048969720381407-gr3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. The conceptual diagram illustrating the relationship between bacillary dysentery and hydrological factors.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -365,7 +453,11 @@
       <guid>https://gisersqdai.top/mycv/publication/jclp-responserice/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0959652620334636-gr3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Figure 1. Distributions of syntrophs (SPOB and SBOB) and methanogens in the 10 paddy soils (a) at different rice growth stages (b).&lt;/strong&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0959652620334636-gr5.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2. Environmental drivers of syntrophic bacteria composition in the 10 paddy soils (a) at different rice growth stages (b). Pairwise comparisons of environmental parameters and bacterial communities are demonstrated, and the color gradient indicates Spearman’s correlation coefficients. Total syntrophs and SFAS were correlated to each environmental factor, as revealed by the partial Mantel tests. The edge color and width represent the statistical significance and Mantel’s R statistic, respectively.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -391,6 +483,8 @@
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/publication/jaap-corrplot/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0165237020303223-gr7.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. Pearson correlation between heavy metal speciation and characteristics of industrial sludge and char samples: (a) F1 + F2 fractions; (b) F3 fraction; &amp;copy; F4 fraction. The color (red to blue) indicates the change in correlation from negative to positive and the size of bubble shows the strength of correlation, which can be expressed by skew-symmetric numbers. Cross shows non-significant correlation between heavy metal and char property (P &amp;gt;  0.05). SA presents BET specific surface area.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -454,48 +548,7 @@
       <link>https://gisersqdai.top/mycv/publication/lucc-invest-water-yield/</link>
       <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/publication/lucc-invest-water-yield/</guid>
-      <description>
-
-&lt;h4 id=&#34;scientific-problems&#34;&gt;Scientific problems&lt;/h4&gt;
-
-&lt;p&gt;(1) The influence of urban walking environment on the RST, whether it is in consitent with the theory of good urban walking environment and reducing crime rate in western context?&lt;/p&gt;
-
-&lt;p&gt;(2) What are the characteristics and laws of urban walking environment on RST?&lt;/p&gt;
-
-&lt;h4 id=&#34;methods&#34;&gt;Methods&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/201812052312.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;results&#34;&gt;Results&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180601.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Walking environment in urban&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180602.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The results of spatial aggregation(a) and spatial autocorrelation(b)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180603.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The spatial distribution of residence probability of suspects under the different distances&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180604.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The visualization of correlation coefficient matrix and scatter plot&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180605.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Spatial variation of regression coefficient of GWGLM&lt;/em&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h4&gt;
-
-&lt;p&gt;The results showed that the walking environment probably has a positive effect on the RST crime in H city, the greater walkability, the more RST. The effects of walking environment probably has spatial heterogeneity features both on RST and the residence probability of suspects.&lt;/p&gt;
-
-&lt;h4 id=&#34;wechat-articles&#34;&gt;Wechat articles&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/4AOmOlRPz--PQpRbgdiXqw&#34; target=&#34;_blank&#34;&gt;【犯罪地理专栏】H市城区步行环境对两抢一盗警情的影响&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>

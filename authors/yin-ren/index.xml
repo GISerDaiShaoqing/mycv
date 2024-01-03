@@ -5,12 +5,23 @@
     <link>https://gisersqdai.top/mycv/authors/yin-ren/</link>
       <atom:link href="https://gisersqdai.top/mycv/authors/yin-ren/index.xml" rel="self" type="application/rss+xml" />
     <description>Yin Ren</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2023 Shaoqing Dai</copyright><lastBuildDate>Fri, 07 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2023 Shaoqing Dai</copyright><lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Yin Ren</title>
       <link>https://gisersqdai.top/mycv/authors/yin-ren/</link>
     </image>
+    
+    <item>
+      <title>Local carbon emission zone construction in the highly urbanized regions: Application of residential and transport CO$_2$ emissions in Shanghai, China</title>
+      <link>https://gisersqdai.top/mycv/publication/bae-local-carbon-emission-zone/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/bae-local-carbon-emission-zone/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S036013232301034X-gr2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. The flowchart of the LCEZ construction. Step 1: Luojia1-01 night light image data is the proxy variable of the RTCE map. GWR is geographically weighted regression. Step 2: L is low. M is medium. H is high. the solid line is the three key factors. The dotted line means that n key factors can be selected in the future. The point is POI. the column is BF. the line is RD. A&amp;amp;B represents Dense&amp;amp;sparse forests. C&amp;amp;D represents Farmland&amp;amp;grassland&amp;amp;wetland. G represents the water body.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A mixed-effect model for estimation of large area subtropical forest biomass</title>
@@ -43,7 +54,7 @@
       <guid>https://gisersqdai.top/mycv/publication/jclp-importance-mixed-urban-function/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://www.iue.cas.cn/xwzx/kydt/202211/W020221125307842798054.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Figure 1 The relation between the functional mixed entropy and the GWR mean regression coefficients in 31 cities. The red, yellow, light blue and blue dot represents the Type Ⅰ, Ⅱ, Ⅲ and Ⅳ city, respectively. The numbers follow the city names represent the size order of the urban area. Point A, B and C are hypothetical.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 1 The relation between the functional mixed entropy and the GWR mean regression coefficients in 31 cities. The red, yellow, light blue and blue dot represents the Type Ⅰ, Ⅱ, Ⅲ and Ⅳ city, respectively. The numbers follow the city names represent the size order of the urban area. Point A, B and C are hypothetical.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -54,15 +65,15 @@
       <guid>https://gisersqdai.top/mycv/publication/improved-biomass-map-forest/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/forests/forests-12-01663/article_deploy/html/images/forests-12-01663-g002-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Figure 1 Framework for estimating (a–c) the machine learning models, (d) the P-BSHADE model, and the three models that combine machine learning with the P-BSHADE model ((a,d), (b,d) and (c,d)).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 1 Framework for estimating (a–c) the machine learning models, (d) the P-BSHADE model, and the three models that combine machine learning with the P-BSHADE model ((a,d), (b,d) and (c,d)).&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/forests/forests-12-01663/article_deploy/html/images/forests-12-01663-g004-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Figure 2 Prediction performance of the seven different models. (a) MAE and (b) MRE are presented as boxplots for each prediction method, with the median (black horizontal line in the box), interquartile range (25–75% in the box), range 5–95% (whiskers), and outliers (asterisks) labeled (S1 = SVM, S2 = RBF-ANN, S3 = RF, S4 = P-BSHADE, S5 = SVM &amp;amp; P-BSHADE, S6 = RBF-ANN &amp;amp; P-BSHADE, S7 = RF &amp;amp; P-BSHADE, S8 = allometric model, Allome = allometric model, ML = machine learning, and Sp Stats = spatial statistics). Histogram distributions of RMSE and nRMSE for each prediction method are presented in panels &amp;copy; and (d), respectively.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 2 Prediction performance of the seven different models. (a) MAE and (b) MRE are presented as boxplots for each prediction method, with the median (black horizontal line in the box), interquartile range (25–75% in the box), range 5–95% (whiskers), and outliers (asterisks) labeled (S1 = SVM, S2 = RBF-ANN, S3 = RF, S4 = P-BSHADE, S5 = SVM &amp;amp; P-BSHADE, S6 = RBF-ANN &amp;amp; P-BSHADE, S7 = RF &amp;amp; P-BSHADE, S8 = allometric model, Allome = allometric model, ML = machine learning, and Sp Stats = spatial statistics). Histogram distributions of RMSE and nRMSE for each prediction method are presented in panels &amp;copy; and (d), respectively.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/forests/forests-12-01663/article_deploy/html/images/forests-12-01663-g005-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Figure 3 Improved accuracy assessment indexes of three combined machine learning and spatial statistical methods are revealed by comparison with three corresponding machine learning methods. Panels (a–d) show the MAE, MRE, RMSE, and nRMSE, respectively; S1 vs. S5 compares S5 with S1, S2 vs. S6 compares S6 with S2, and S3 vs. S7 compares S7 with S3 (S1 = SVM, S2 = RBF-ANN, S3 = RF, S5 = SVM &amp;amp; P-BSHADE, S6 = RBF-ANN &amp;amp; P-BSHADE, S7 = RF &amp;amp; P-BSHADE)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 3 Improved accuracy assessment indexes of three combined machine learning and spatial statistical methods are revealed by comparison with three corresponding machine learning methods. Panels (a–d) show the MAE, MRE, RMSE, and nRMSE, respectively; S1 vs. S5 compares S5 with S1, S2 vs. S6 compares S6 with S2, and S3 vs. S7 compares S7 with S3 (S1 = SVM, S2 = RBF-ANN, S3 = RF, S5 = SVM &amp;amp; P-BSHADE, S6 = RBF-ANN &amp;amp; P-BSHADE, S7 = RF &amp;amp; P-BSHADE)&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Forest AGB estimates at the plot level play a major role in connecting accurate single-tree AGB measurements to relatively difficult regional AGB estimates. However, AGB estimates at the plot level are plagued by numerous uncertainties. Improving the plot-level model of forest AGB is a key issue in producing accurate AGB maps. A variety of prediction models have been applied to make accurate AGB estimates, all of which have their own advantages and disadvantages. Different approaches complement the advantages of different models and may yield more accurate AGB estimates than would otherwise be produced by using a single method. The main goal of the current study was to determine whether combining machine learning with spatial statistics can improve plot-level AGB estimates.&lt;/p&gt;
 
@@ -86,7 +97,9 @@
       <guid>https://gisersqdai.top/mycv/publication/ste-impact-hydrological-factors-bacillary/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0048969720381407-ga1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0048969720381407-gr3.jpgg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0048969720381407-gr3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. The conceptual diagram illustrating the relationship between bacillary dysentery and hydrological factors.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -208,48 +221,7 @@
       <link>https://gisersqdai.top/mycv/publication/lucc-invest-water-yield/</link>
       <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/publication/lucc-invest-water-yield/</guid>
-      <description>
-
-&lt;h4 id=&#34;scientific-problems&#34;&gt;Scientific problems&lt;/h4&gt;
-
-&lt;p&gt;(1) The influence of urban walking environment on the RST, whether it is in consitent with the theory of good urban walking environment and reducing crime rate in western context?&lt;/p&gt;
-
-&lt;p&gt;(2) What are the characteristics and laws of urban walking environment on RST?&lt;/p&gt;
-
-&lt;h4 id=&#34;methods&#34;&gt;Methods&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/201812052312.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;results&#34;&gt;Results&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180601.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Walking environment in urban&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180602.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The results of spatial aggregation(a) and spatial autocorrelation(b)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180603.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The spatial distribution of residence probability of suspects under the different distances&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180604.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The visualization of correlation coefficient matrix and scatter plot&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/20180605.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Spatial variation of regression coefficient of GWGLM&lt;/em&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h4&gt;
-
-&lt;p&gt;The results showed that the walking environment probably has a positive effect on the RST crime in H city, the greater walkability, the more RST. The effects of walking environment probably has spatial heterogeneity features both on RST and the residence probability of suspects.&lt;/p&gt;
-
-&lt;h4 id=&#34;wechat-articles&#34;&gt;Wechat articles&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/4AOmOlRPz--PQpRbgdiXqw&#34; target=&#34;_blank&#34;&gt;【犯罪地理专栏】H市城区步行环境对两抢一盗警情的影响&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
