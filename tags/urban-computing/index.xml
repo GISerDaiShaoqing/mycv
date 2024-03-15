@@ -5,12 +5,20 @@
     <link>https://gisersqdai.top/mycv/tags/urban-computing/</link>
       <atom:link href="https://gisersqdai.top/mycv/tags/urban-computing/index.xml" rel="self" type="application/rss+xml" />
     <description>Urban Computing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2024 Shaoqing Dai</copyright><lastBuildDate>Wed, 08 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2024 Shaoqing Dai</copyright><lastBuildDate>Wed, 17 Jan 2024 10:30:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Urban Computing</title>
       <link>https://gisersqdai.top/mycv/tags/urban-computing/</link>
     </image>
+    
+    <item>
+      <title>Health geography studies based on spatial lifecourse epidemiology framework</title>
+      <link>https://gisersqdai.top/mycv/talk/iue2024talks/</link>
+      <pubDate>Wed, 17 Jan 2024 10:30:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/iue2024talks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Assessing spatiotemporal bikeability using multi-source geospatial big data: A case study of Xiamen, China</title>

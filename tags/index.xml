@@ -5,7 +5,7 @@
     <link>https://gisersqdai.top/mycv/tags/</link>
       <atom:link href="https://gisersqdai.top/mycv/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2024 Shaoqing Dai</copyright><lastBuildDate>Tue, 05 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2024 Shaoqing Dai</copyright><lastBuildDate>Thu, 14 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Tags</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>Spatial Lifecourse Epidemiology</title>
-      <link>https://gisersqdai.top/mycv/tags/spatial-lifecourse-epidemiology/</link>
-      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/spatial-lifecourse-epidemiology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>GIS</title>
       <link>https://gisersqdai.top/mycv/tags/gis/</link>
-      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/gis/</guid>
       <description></description>
     </item>
@@ -31,16 +23,48 @@
     <item>
       <title>RS</title>
       <link>https://gisersqdai.top/mycv/tags/rs/</link>
-      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/rs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Statistics</title>
+      <link>https://gisersqdai.top/mycv/tags/spatial-statistics/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/spatial-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Air Pollution Map</title>
+      <link>https://gisersqdai.top/mycv/tags/air-pollution-map/</link>
+      <pubDate>Wed, 17 Jan 2024 10:30:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/air-pollution-map/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Lifecourse Epidemiology</title>
+      <link>https://gisersqdai.top/mycv/tags/spatial-lifecourse-epidemiology/</link>
+      <pubDate>Wed, 17 Jan 2024 10:30:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/spatial-lifecourse-epidemiology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial-Temporal GIS Theory</title>
       <link>https://gisersqdai.top/mycv/tags/spatial-temporal-gis-theory/</link>
-      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Jan 2024 10:30:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/spatial-temporal-gis-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Computing</title>
+      <link>https://gisersqdai.top/mycv/tags/urban-computing/</link>
+      <pubDate>Wed, 17 Jan 2024 10:30:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/urban-computing/</guid>
       <description></description>
     </item>
     
@@ -53,14 +77,6 @@
     </item>
     
     <item>
-      <title>Spatial Statistics</title>
-      <link>https://gisersqdai.top/mycv/tags/spatial-statistics/</link>
-      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/spatial-statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Street view images</title>
       <link>https://gisersqdai.top/mycv/tags/street-view-images/</link>
       <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
@@ -69,26 +85,10 @@
     </item>
     
     <item>
-      <title>Urban Computing</title>
-      <link>https://gisersqdai.top/mycv/tags/urban-computing/</link>
-      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/urban-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Obesity</title>
       <link>https://gisersqdai.top/mycv/tags/obesity/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/obesity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Air Pollution Map</title>
-      <link>https://gisersqdai.top/mycv/tags/air-pollution-map/</link>
-      <pubDate>Fri, 19 May 2023 17:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/air-pollution-map/</guid>
       <description></description>
     </item>
     
