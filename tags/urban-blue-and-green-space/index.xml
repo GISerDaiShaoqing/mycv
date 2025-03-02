@@ -5,7 +5,7 @@
     <link>https://gisersqdai.top/mycv/tags/urban-blue-and-green-space/</link>
       <atom:link href="https://gisersqdai.top/mycv/tags/urban-blue-and-green-space/index.xml" rel="self" type="application/rss+xml" />
     <description>Urban Blue and Green Space</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2024 Shaoqing Dai</copyright><lastBuildDate>Mon, 04 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Mon, 04 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Urban Blue and Green Space</title>
@@ -139,21 +139,13 @@
     </item>
     
     <item>
-      <title>The Simulation Analysis of Waterlogging and the Sponge City Planning Control of Central Urabn Area in Fuzhou City</title>
-      <link>https://gisersqdai.top/mycv/publication/sponge-city-blue-green-space/</link>
-      <pubDate>Sun, 26 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/publication/sponge-city-blue-green-space/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Urban Blue and Green Space</title>
       <link>https://gisersqdai.top/mycv/project/urban-blue-and-green-space/</link>
       <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/project/urban-blue-and-green-space/</guid>
       <description>
 
-&lt;h1 id=&#34;the-relation-between-ngi-landscape-and-urban-submerged-area&#34;&gt;The relation between NGI landscape and urban submerged area&lt;/h1&gt;
+&lt;h1 id=&#34;the-relationship-between-urban-blue-and-green-space-and-urban-submerged-area&#34;&gt;The relationship between urban blue and green space and urban submerged area&lt;/h1&gt;
 
 &lt;p&gt;In the new normal period of economic transition in China, The Government came up with the concept of the Sponge City, we have some different views of sponge city planning
 The research extracted the impervious surface from the non-NGI(natural green infrastructure ) landscape and used the precipitation-volumetric method to simulate waterlogging scenarios. We determined the area of rainwater submersion by simulation experiments, the change in the NGI landscape by overlaying images of the region, and the association between these features by data mining. Using the change in ecology indices, we ascertained the changing spatial patterns of the NGI landscape and used these findings to formulate suggestions for Sponge City planning in Fuzhou. Overall, our work combines three research themes, urban waterlogging, landscape ecology, and data mining, for a deep analysis of the relationship between the NGI landscape and storm runoff in an urban environment.&lt;/p&gt;
@@ -252,6 +244,10 @@ The research extracted the impervious surface from the non-NGI(natural green inf
 &lt;p&gt;If an area was submerged, then the probability that the area was converted landscape was 21.2%. If an area was not subject to landscape conversion, then the probability that it would not be a submerged area was 99.2%.&lt;/p&gt;
 
 &lt;p&gt;On the other hand, we used multi-source data to identify the urban ecological-production-living spaces and provided some suggesstions for urban resilience simulation optimization. We developed some ArcGIS toolbox based on model builder and Python. Our results won the national third prize in the 2th big data supports spatial plannning and design competition.&lt;/p&gt;
+
+&lt;h1 id=&#34;the-environmental-effect-of-urban-blue-and-green-space&#34;&gt;The environmental effect of urban blue and green space&lt;/h1&gt;
+
+&lt;p&gt;Urban blue and green space could reduced urban heat island effect and air pollution and increase the water yield.&lt;/p&gt;
 </description>
     </item>
     

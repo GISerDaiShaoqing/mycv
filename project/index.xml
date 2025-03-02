@@ -5,7 +5,7 @@
     <link>https://gisersqdai.top/mycv/project/</link>
       <atom:link href="https://gisersqdai.top/mycv/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2024 Shaoqing Dai</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Projects</title>
@@ -13,13 +13,13 @@
     </image>
     
     <item>
-      <title>Spatial Lifecourse Epidemiology</title>
-      <link>https://gisersqdai.top/mycv/project/spatial-lifecourse-epidemiology/</link>
+      <title>Spatial Lifecourse Health</title>
+      <link>https://gisersqdai.top/mycv/project/spatial-lifecourse-health/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/project/spatial-lifecourse-epidemiology/</guid>
+      <guid>https://gisersqdai.top/mycv/project/spatial-lifecourse-health/</guid>
       <description>
 
-&lt;p&gt;Spatial Lifecourse Epidemiology was proposed by my supervisor, Dr.Jia Peng in &lt;a href=&#34;https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(18)30245-6/fulltext&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Lancet Planetary Health&lt;/em&gt;&lt;/a&gt;. Now it is also applied to &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1471492220300052&#34; target=&#34;_blank&#34;&gt;infectious disease&lt;/a&gt;, especially the COVID-19 pandemic. It&amp;rsquo;s an emerging research field. There are &lt;a href=&#34;https://ehp.niehs.nih.gov/doi/full/10.1289/EHP4868&#34; target=&#34;_blank&#34;&gt;the top 10 research priorities in Spatial Lifecourse Epidemiology&lt;/a&gt; and &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1353829219306355&#34; target=&#34;_blank&#34;&gt;the Spatial Lifecourse Epidemiology Reporting Standards (ISLE-ReSt) statement&lt;/a&gt; publishing in the Journals. My Ph.D. project will focus on how to use the Earth Observation handling(Google Earth Engine), geospatial big data handling(Street View Image segment), and spatial statistics model to explore the health geography and spatial epidemiology problem. Our research interests include obesity, infectious disease like COVID-19, non-communicate disease, but not limited to these topics.&lt;/p&gt;
+&lt;p&gt;Spatial Lifecourse Health was proposed by my supervisor, Dr.Jia Peng in &lt;a href=&#34;https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(18)30245-6/fulltext&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Lancet Planetary Health&lt;/em&gt;&lt;/a&gt;. Now it is also applied to &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1471492220300052&#34; target=&#34;_blank&#34;&gt;infectious disease&lt;/a&gt;, especially the COVID-19 pandemic. It&amp;rsquo;s an emerging research field. There are &lt;a href=&#34;https://ehp.niehs.nih.gov/doi/full/10.1289/EHP4868&#34; target=&#34;_blank&#34;&gt;the top 10 research priorities in Spatial Lifecourse Epidemiology&lt;/a&gt; and &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1353829219306355&#34; target=&#34;_blank&#34;&gt;the Spatial Lifecourse Epidemiology Reporting Standards (ISLE-ReSt) statement&lt;/a&gt; publishing in the Journals. My Ph.D. project will focus on how to use the Earth Observation handling(Google Earth Engine), geospatial big data handling(Street View Image segment), and spatial statistics model to explore the health geography and spatial epidemiology problem. Our research interests include obesity, infectious disease like COVID-19, non-communicate disease, but not limited to these topics.&lt;/p&gt;
 
 &lt;h1 id=&#34;1-obesity&#34;&gt;1 Obesity&lt;/h1&gt;
 
@@ -60,6 +60,10 @@
 
 &lt;p&gt;&lt;img src=&#34;https://science.gisersqdai.top/%E5%86%85%E8%92%99COVID-19%E5%A5%96%E7%8A%B6.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
+&lt;h2 id=&#34;2-4-comprenhensive-impact-of-covid-19&#34;&gt;2.4 Comprenhensive impact of COVID-19&lt;/h2&gt;
+
+&lt;p&gt;Understanding the heterogeneous impacts of and vulnerability to COVID-19 could inform the design of environmentally sustainable and socially resilient cities, making them better equipped to encounter future epidemics. This study would help us identify more effective and equitable solutions to the ongoing challenges of the pandemic, promoting sustainability and resilience at multiple societal levels.&lt;/p&gt;
+
 &lt;h1 id=&#34;3-health-effect-of-exposure-to-air-pollution&#34;&gt;3 Health effect of exposure to air pollution&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://gisersqdai.top/mycv/img/202010fig4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -68,23 +72,40 @@
 
 &lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/tpBS511WWOWau5jHaneoZg&#34; target=&#34;_blank&#34;&gt;【建成环境与行为研究】春节期间的PM2.5污染短期暴露健康效应评估——以长三角地区25个城市为例 | 上海城市规划&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;4-development-of-spatiotemporal-physical-activity-opportunity-using-multi-source-geospatial-big-data-and-machine-learning&#34;&gt;4 Development of spatiotemporal physical activity opportunity using multi-source geospatial big data and machine learning&lt;/h1&gt;
+&lt;h1 id=&#34;4-assessing-obesogenic-environment-and-spatiotemporal-physical-activity-opportunity-using-multi-source-geospatial-big-data-and-geoai&#34;&gt;4 Assessing obesogenic environment and spatiotemporal physical activity opportunity using multi-source geospatial big data and GeoAI&lt;/h1&gt;
 
-&lt;h2 id=&#34;4-1-bikeability&#34;&gt;4.1 Bikeability&lt;/h2&gt;
+&lt;h2 id=&#34;4-1-built-environment-auditing&#34;&gt;4.1 Built environment auditing&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Enhancing accuracy in quantifying built environment features&lt;/li&gt;
+&lt;li&gt;Choosing a suitable SVI-based BEA method and enhancing robustness&lt;/li&gt;
+&lt;li&gt;Addressing time lag and spatial limitations of SVI&lt;/li&gt;
+&lt;li&gt;Bridging the BEA and urban exposome observation through SVI&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Through a systematic review of the commonly audited built environment attributes and auditing tools, our findings provide a comprehensive understanding of the state-of-the-art SVI-based auditing approaches and offer insights into future directions for development. The reliability of these audits varies depending on the type of attribute and the assessment tool used. We have learned that objective attributes, such as the presence of a sidewalk, generally yield higher reliability, while subjective assessments may be influenced by auditor biases, resulting in lower reliability. The use of standardized auditing tools, such as S-VAT, across multiple cities demonstrates the potential for improved comparability and generalizability of research findings. Considering the number of research groups that used these tools, ANC and MAPS were identified as the two most widely accepted auditing tools. Furthermore, many standardized auditing tools have been exclusively implemented in specific countries. This is often attributed to auditing of those attributes that are relevant in these particular countries, which may not necessarily align with conditions found in other nations. Consequently, this localization of attributes has resulted in higher reliability when the tools are applied in the country where they were originally developed, as compared to their performance in other countries. The varying levels of reliability for different attributes within the same tool indicate the need for further refinement and standardization of assessment criteria.&lt;/p&gt;
+
+&lt;p&gt;The methodology’s merits lie in the adoption of a classification of auditing aims and the integration of various built environment features, ultimately allowing researchers to better understand the relationship between urban design and public health. The broader impact of these findings can inform urban planning and policy-making efforts to promote healthier and more sustainable living environments. Achieving higher reliability in built environment audits requires a careful balance between objective and subjective attributes and the adoption of standardized tools and assessment criteria. This can lead to more robust research findings and an improved understanding of urban environments, ultimately contributing to better-informed urban planning and policy decisions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/b95b20c6-0fd4-490f-9b14-f4b7dab19fe3/tgis_a_2336034_f0003_c.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 5. An overview of the studies using different built environment auditing tools in different countries, (a) represents the number of these tools within different countries (in parentheses), (b) represents the number of these tools that have been applied by different groups and in various studies.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;4-2-bikeability&#34;&gt;4.2 Bikeability&lt;/h2&gt;
 
 &lt;p&gt;We develop a bikeability evaluation framework by combining the collected multi-source spatio-temporal big data.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 5. The proposed bikeability framework.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 6. The proposed bikeability framework.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr7.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 6. Average bikeability of Xiamen Island on December 21st, 22nd, 23rd, 24th, 25th, 2020, the roads highlighted in red indicate lower levels of bikeability, whereas those in green indicate higher levels of bikeability.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 7. Average bikeability of Xiamen Island on December 21st, 22nd, 23rd, 24th, 25th, 2020, the roads highlighted in red indicate lower levels of bikeability, whereas those in green indicate higher levels of bikeability.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr8.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 7. Average bikeability of Xiamen Island at 6:00, 7:00, 8:00, and 9:00 a.m., the roads highlighted in red indicate lower levels of bikeability, whereas those in green indicate higher levels of bikeability.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 8. Average bikeability of Xiamen Island at 6:00, 7:00, 8:00, and 9:00 a.m., the roads highlighted in red indicate lower levels of bikeability, whereas those in green indicate higher levels of bikeability.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/lUi7l5uX8DPr1LQgEibjbw&#34; target=&#34;_blank&#34;&gt;《Int J Appl Earth Obs》发文：基于多源地理空间大数据的时空自行车可行性评估&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -227,7 +248,7 @@
 
 &lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s?__biz=MzkyODIzMjAzMg==&amp;amp;mid=2247483767&amp;amp;idx=1&amp;amp;sn=a530f39e1155b29d0bf8b6458deda3dd&amp;amp;chksm=c21aa678f56d2f6e67b241ea75b486fdfcdaee6864f1ffc07ceabbe28ab6d5c3295f6a5035f5&amp;amp;scene=126&amp;amp;sessionid=1689883670#rd&#34; target=&#34;_blank&#34;&gt;钢铁城市矿产储量的高精度预测&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;3-development-of-spatiotemporal-physical-activity-opportunity-using-multi-source-geospatial-big-data-and-machine-learning&#34;&gt;3 Development of spatiotemporal physical activity opportunity using multi-source geospatial big data and machine learning&lt;/h1&gt;
+&lt;h1 id=&#34;3-assessing-spatiotemporal-physical-activity-opportunity-using-multi-source-geospatial-big-data-and-geoai&#34;&gt;3 Assessing spatiotemporal physical activity opportunity using multi-source geospatial big data and GeoAI&lt;/h1&gt;
 
 &lt;p&gt;We develop a bikeability evaluation framework by combining the collected multi-source spatio-temporal big data.&lt;/p&gt;
 
@@ -254,7 +275,7 @@
       <guid>https://gisersqdai.top/mycv/project/urban-blue-and-green-space/</guid>
       <description>
 
-&lt;h1 id=&#34;the-relation-between-ngi-landscape-and-urban-submerged-area&#34;&gt;The relation between NGI landscape and urban submerged area&lt;/h1&gt;
+&lt;h1 id=&#34;the-relationship-between-urban-blue-and-green-space-and-urban-submerged-area&#34;&gt;The relationship between urban blue and green space and urban submerged area&lt;/h1&gt;
 
 &lt;p&gt;In the new normal period of economic transition in China, The Government came up with the concept of the Sponge City, we have some different views of sponge city planning
 The research extracted the impervious surface from the non-NGI(natural green infrastructure ) landscape and used the precipitation-volumetric method to simulate waterlogging scenarios. We determined the area of rainwater submersion by simulation experiments, the change in the NGI landscape by overlaying images of the region, and the association between these features by data mining. Using the change in ecology indices, we ascertained the changing spatial patterns of the NGI landscape and used these findings to formulate suggestions for Sponge City planning in Fuzhou. Overall, our work combines three research themes, urban waterlogging, landscape ecology, and data mining, for a deep analysis of the relationship between the NGI landscape and storm runoff in an urban environment.&lt;/p&gt;
@@ -353,6 +374,10 @@ The research extracted the impervious surface from the non-NGI(natural green inf
 &lt;p&gt;If an area was submerged, then the probability that the area was converted landscape was 21.2%. If an area was not subject to landscape conversion, then the probability that it would not be a submerged area was 99.2%.&lt;/p&gt;
 
 &lt;p&gt;On the other hand, we used multi-source data to identify the urban ecological-production-living spaces and provided some suggesstions for urban resilience simulation optimization. We developed some ArcGIS toolbox based on model builder and Python. Our results won the national third prize in the 2th big data supports spatial plannning and design competition.&lt;/p&gt;
+
+&lt;h1 id=&#34;the-environmental-effect-of-urban-blue-and-green-space&#34;&gt;The environmental effect of urban blue and green space&lt;/h1&gt;
+
+&lt;p&gt;Urban blue and green space could reduced urban heat island effect and air pollution and increase the water yield.&lt;/p&gt;
 </description>
     </item>
     

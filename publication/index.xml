@@ -5,12 +5,227 @@
     <link>https://gisersqdai.top/mycv/publication/</link>
       <atom:link href="https://gisersqdai.top/mycv/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2024 Shaoqing Dai</copyright><lastBuildDate>Thu, 14 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Publications</title>
       <link>https://gisersqdai.top/mycv/publication/</link>
     </image>
+    
+    <item>
+      <title>Built environments and obesity: A framework considering residences, commute routes, and workplaces</title>
+      <link>https://gisersqdai.top/mycv/publication/cities-be-obesity/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/cities-be-obesity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward 3D hedonic price model for vertically developed cities using street view images and machine learning methods</title>
+      <link>https://gisersqdai.top/mycv/publication/habitati-svi-3dhpm/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/habitati-svi-3dhpm/</guid>
+      <description>
+
+&lt;h3 id=&#34;data-collection&#34;&gt;Data Collection&lt;/h3&gt;
+
+&lt;p&gt;The workflow of mass-downloading SVIs started with generating the sampling points with an interval of 10 m along the OpenStreetMap (&lt;a href=&#34;https://www.openstreetmap.org&#34; target=&#34;_blank&#34;&gt;https://www.openstreetmap.org&lt;/a&gt;) road networks (Figure 1a). Second, we determined the heading direction and pitch, two parameters in image customisation (Figure 1b and c). Heading direction defines the compass heading of the camera with the value from 0° to 360°. Four heading directions (0°, 90°, 180°, 270°) were selected for a full surrounding view. The pitch represents the up/down angle at which the street view is taken. Compared to other studies that adopt pitch 0° for eye-level only, our strategy incorporates two pitches (0° and 90°) to collect both eye-level images reflecting horizontal streetscape and sky-view images reflecting the vertical sky openness (Figure 1d and e). Finally, we determined the acquisition time: 2019 or 2020. Our objective is to improve the quantity of SVIs by employing a compact sampling point density and a comparatively inclusive acquisition timeframe. Preliminary assessments indicated that not all sampling points have images, and annual updates are not guaranteed. Ideally, if images are available, eight images are collected per year per sampling point. Each image has 1024 ∗ 512 pixels. In total, we generated 83,925 sampling points and downloaded 737,704 images.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0197397525000049-gr2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. Distribution of sampling points along the road network, the abstract simulations of eye-level angle  and sky-view angles, and illustrations of SVI in eye-level angle and sky-view angle (a)-(e).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;proposed-3d-hedonic-price-model&#34;&gt;Proposed 3D hedonic price model&lt;/h3&gt;
+
+&lt;p&gt;As shown in Figure 2, this study is conducted within the HPM framework, which consists of three steps. We first generate physical, locational variables, extract 3D variables from SVIs, and then construct HPM in different valuation models, namely OLS, GWR and RF.&lt;/p&gt;
+
+&lt;p&gt;$$V=f(P,L,E_{3d})$$&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0197397525000049-gr3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2. The methodology design and the workflow of 3D hedonic price model (3D HPM).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0197397525000049-gr4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3. The example of semantic segmentation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;RF performs the best among all three models. $R^2$ increases from 0.716 to 0.768 by adding 3D variables. In addition to R2 values, RMSE, MAE, and MAPE are also used to evaluate the model accuracy, as shown in Table 3. The lowest RMSE in RF is 1669.60 $yuan/m^2$. Taking the average property value (14,318 $yuan/m^2$), the MAPE of estimation in RF is 11.66%. In summary, OLS has the basic performance, GWR has improvement, and RF has the best explainability and the least errors in different regards.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Table 1. The comparison of $R^2$, RMSE, MAE and MAPE among different models (based on group 4). The unit of RMSE and MAE: $yuan/m^2$.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Indicator&lt;/th&gt;
+&lt;th&gt;OLS&lt;/th&gt;
+&lt;th&gt;GWR&lt;/th&gt;
+&lt;th&gt;RF&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;R2&lt;/td&gt;
+&lt;td&gt;0.376&lt;/td&gt;
+&lt;td&gt;0.636&lt;/td&gt;
+&lt;td&gt;0.768&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;RMSE&lt;/td&gt;
+&lt;td&gt;3116.65&lt;/td&gt;
+&lt;td&gt;2331.41&lt;/td&gt;
+&lt;td&gt;1669.60&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;MAE&lt;/td&gt;
+&lt;td&gt;2199.91&lt;/td&gt;
+&lt;td&gt;1582.27&lt;/td&gt;
+&lt;td&gt;1006.63&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;MAPE&lt;/td&gt;
+&lt;td&gt;0.16&lt;/td&gt;
+&lt;td&gt;0.11&lt;/td&gt;
+&lt;td&gt;0.08&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Figure 4 gives an overview of 3Dss in GWR. The distribution of 3Dss has a trend of expansion from the centre towards the periphery (Figure 4c and d). The city centre of Xi&amp;rsquo;an has narrow street width and densely distributed buildings. The north and west peripheries have improved urban design with broader roads and more sky exposure. The distribution of its coefficients has a similar tendency (Figure 4a). In the centre, 3Dss has negative values. The fact shows that the presence of sky is not favoured for higher property values. The negativity reduces and eventually becomes positive as it gets farther from the centre. Figure 4b shows the distribution of the p value of 3Dss, indicating the geographical coverage when 3Dss is statistical significant.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0197397525000049-gr5.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4. The distribution of 3Dss in GWR model: coefficient, p value, variable itsel, and 3D visualisation (a)-(d).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 5 displays the relative importance of all the variables. Among the 3D variables, road, tree and grass from eye-level images are the top three influential variables with values of 1, 0.619 and 0.541. Sky from sky-view images ranks fourth (0.432) in the total and first in sky-view variables. Building from sky-view images closely follows with a value of 0.411. The sequence of other 3D variables is as follows: building (0.369), sky (0.361), sidewalk (0.327) in eye-level images, separately. Tree in sky-view images, has the least value (0.26) among 3D variables, but it is still ahead of several physical and locational variables.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0197397525000049-gr6.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 5. The relative importance of variables in Random Forest (RF) model.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 6 illustrates the PDPs of all 3D variables. 3Det, 3Deg, 3Der, 3Dss, and 3Dsb share a similar pattern. In the early stage, there is hardly an impact on property values; then, the influence becomes obvious after a certain value. After reaching another value, the impact again becomes insignificant. Certain values vary among different variables. In eye-level images, tree starts at 0.10 and ends at 0.15; grass starts at 0.08 and ends at 0.22, road starts at 0.23 and ends at 0.26. In sky-view images, sky starts at 0.30 and ends at 0.65, building starts at 0.06 and ends at 0.12.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0197397525000049-gr7.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 6. The partial dependence plots (PDPs) of 3D variables.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;With the spatial changes happening in the vertical direction in cities because of the construction of high-rise buildings, it is necessary to conceptually and technically identify the hedonic value of 3D and add 3D variables in HPM for property valuation. Our empirical results show: 1) 3D variables have made significant contributions to HPM, and the sky-view angle cannot be overlooked. 2) In the sky-view angle, sky is positively correlated while the presence of buildings and trees are negatively correlated with property values. The influence direction of building and tree are different in eye-level and sky-view images, which further reminds the importance of sky-view angle. 3) RF outperforms OLS and GWR regarding a higher model fitting and stronger explainability power to interpret the influences of 3D variables. The study confirms the important role of 3D in HPM in the context of vertically developed cities with generous amounts of high-rise buildings. Our findings are expected to provide consultancy value for housing policy-making, such as fair property taxation and equal land use policy. In conclusion, this study provides solid evidences that SVIs and AI can quantify the 3D built environment at a low cost on a mass scale (technically feasible), and the sky-view angle is meaningful in valuation practices in vertical cities (practically significant), laying a foundation for future 3D property valuation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous impacts of and vulnerabilities to the COVID-19 pandemic</title>
+      <link>https://gisersqdai.top/mycv/publication/landscapeecology-covid-19-impact/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/landscapeecology-covid-19-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving obesogenic environmental assessments with advanced geospatial methods</title>
+      <link>https://gisersqdai.top/mycv/publication/phdthesis/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/phdthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-term exposure to PM2.5 chemical constituents and diabesity: evidence from a multi-center cohort study in China</title>
+      <link>https://gisersqdai.top/mycv/publication/lanwpc-pm25-diabesity/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/lanwpc-pm25-diabesity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Street view imagery-based built environment auditing tools: a systematic review</title>
+      <link>https://gisersqdai.top/mycv/publication/ijgis-bea-review/</link>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/ijgis-bea-review/</guid>
+      <description>
+
+&lt;h3 id=&#34;systematic-review-method&#34;&gt;Systematic review Method&lt;/h3&gt;
+
+&lt;p&gt;We used the PubMed and Web of Science databases to search for refereed journal articles. To identify articles related to BEA and SVI, we used two sets of search terms: (1) ‘built environment* audit’, ‘auditing’, and ‘virtual audit*’; (2) ‘streetview*’, ‘street view*’, ‘street-view*’, and ‘street view image*’. We collected all the papers published from the inception of the electronic bibliographic databases up to October 2023. We followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines to conduct a systematic review (Moher et al. Citation2009), as depicted in Figure 1. Out of 429 initial results, we identified 96 eligible studies.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/94087bc3-4359-4dbf-9ff6-9548bb3d9935/tgis_a_2336034_f0001_b.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. The flowchart that was followed when selecting and including studies on built environment auditing.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;characteristics-of-included-studies&#34;&gt;Characteristics of included studies&lt;/h3&gt;
+
+&lt;p&gt;All included studies were published after 2010, marking a discernible increase trajectory in the annual number of publications over the past decade, as illustrated in Figure 2.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/b1f0eb76-d6eb-48ee-9120-110ee2dbd814/tgis_a_2336034_f0002_c.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2. Number of the included studies published each year.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The vast majority of the studies (89 of 96, 92.7%) utilized Google SVI for BEA, while the remaining seven studies explored alternative SVI sources including Tencent SVI and Baidu SVI. Additionally, 13 studies employed other SVI sources, such as Bing Map, closed-circuit television, daum road view service, Google Earth, and Google Maps alongside Google SVI. In most studies (78 of 96, 81.3%), SVI was processed for BEA manually. Only 18 studies used computer vision and artificial intelligence technologies. Among these, deep learning techniques were particularly prevalent, employing convolutional neural network models like visual geometry group-16, visual geometry group-19, ResNet-18, SegNet, and DeepLab V3+. These models were specifically tailored for image segmentation tasks, offering fine-scale detection of eye-level objects, such as trees, sidewalks, and bike lanes.&lt;/p&gt;
+
+&lt;p&gt;BEA tools are defined as a range of developed toolsets or instruments utilized to audit and assess built environment attributes, including physical structures, facilities, and surroundings within a given study area, comprising both validated and unvalidated auditing tools. The validated auditing tools were defined as a series of commonly used auditing tools, which are based on well-established references and often implemented as platforms, toolsets, and frameworks. In contrast, unvalidated auditing tools are usually self-developed, lacking validation in other studies, and thus could only serve as conceptual methods without systematic implementation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/b95b20c6-0fd4-490f-9b14-f4b7dab19fe3/tgis_a_2336034_f0003_c.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3. An overview of the studies using different built environment auditing tools in different countries, (a) represents the number of these tools within different countries (in parentheses), (b) represents the number of these tools that have been applied by different groups and in various studies.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/543541e4-3bfc-4421-8302-abdb78417836/tgis_a_2336034_f0004_c.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4. The number of the included studies using different built environment auditing tools at different scales (in parentheses). Note: N—National; S—State (e.g. in the US) or equivalent unit; C—City; Cn—multicity; County—County or equivalent unit.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Frequently audited built environment attributes included street-related features (e.g. street lights, street parking, and streetscape aesthetics) (n = 52), sidewalk-related features (e.g. width, buffers, and continuity) (n = 49), and traffic-related features (e.g. signals, volume, public transit stops, and environment) (n = 47). Other notable attributes include land use (n = 33), facility-related features (n = 28), visual perceptions (e.g. aesthetics) (n = 25), and social environment (e.g. safety) (n = 16).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/21f6ad73-3737-4327-8ea9-9d430ee9a217/tgis_a_2336034_f0005_c.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 5. The count of studies auditing different built environment attributes.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Most studies (n = 64), undertook an evaluation of the reliability associated with the assessed built environment attributes.&lt;/p&gt;
+
+&lt;p&gt;The choice of indicators for audited built environment attributes differs among studies. Due to the ambiguity in some auditing characteristic definitions, the reliability and validity of gathered audit measures tend to be higher for objective attributes than subjective assessments. Among audited attributes, the presence of a sidewalk, a typical objective attribute, has the highest average reliability (0.837) across the majority of studies, exceeding the noteworthy threshold of 0.7 (as illustrated in Figure 6).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/bcb746f4-5213-4633-a1d3-fd3cb4d72768/tgis_a_2336034_f0006_c.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 6. The average reliability indexes among different built environment attributes.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;implications-for-policy-and-practice&#34;&gt;Implications for policy and practice&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Enhancing accuracy in quantifying built environment features&lt;/li&gt;
+&lt;li&gt;Choosing a suitable SVI-based BEA method and enhancing robustness&lt;/li&gt;
+&lt;li&gt;Addressing time lag and spatial limitations of SVI&lt;/li&gt;
+&lt;li&gt;Bridging the BEA and urban exposome observation through SVI&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Through a systematic review of the commonly audited built environment attributes and auditing tools, our findings provide a comprehensive understanding of the state-of-the-art SVI-based auditing approaches and offer insights into future directions for development. The reliability of these audits varies depending on the type of attribute and the assessment tool used. We have learned that objective attributes, such as the presence of a sidewalk, generally yield higher reliability, while subjective assessments may be influenced by auditor biases, resulting in lower reliability. The use of standardized auditing tools, such as S-VAT, across multiple cities demonstrates the potential for improved comparability and generalizability of research findings. Considering the number of research groups that used these tools, ANC and MAPS were identified as the two most widely accepted auditing tools. Furthermore, many standardized auditing tools have been exclusively implemented in specific countries. This is often attributed to auditing of those attributes that are relevant in these particular countries, which may not necessarily align with conditions found in other nations. Consequently, this localization of attributes has resulted in higher reliability when the tools are applied in the country where they were originally developed, as compared to their performance in other countries. The varying levels of reliability for different attributes within the same tool indicate the need for further refinement and standardization of assessment criteria.&lt;/p&gt;
+
+&lt;p&gt;The methodology’s merits lie in the adoption of a classification of auditing aims and the integration of various built environment features, ultimately allowing researchers to better understand the relationship between urban design and public health. The broader impact of these findings can inform urban planning and policy-making efforts to promote healthier and more sustainable living environments. Achieving higher reliability in built environment audits requires a careful balance between objective and subjective attributes and the adoption of standardized tools and assessment criteria. This can lead to more robust research findings and an improved understanding of urban environments, ultimately contributing to better-informed urban planning and policy decisions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal patterns of air pollutants over the epidemic course: a national study in China</title>
+      <link>https://gisersqdai.top/mycv/publication/spatiaotemporal-air-china-rs/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/spatiaotemporal-air-china-rs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State of the Art of Lifecourse Cohort Establishment</title>
+      <link>https://gisersqdai.top/mycv/publication/lifecourse-cohort-chinacdcweekly/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/lifecourse-cohort-chinacdcweekly/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Long-Term Dynamic Monitoring and Driving Force Analysis of Eco-Environmental Quality in China</title>

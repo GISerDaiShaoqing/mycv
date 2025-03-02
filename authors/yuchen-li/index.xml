@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuchen Li | Shaoqing Dai</title>
+    <link>https://gisersqdai.top/mycv/authors/yuchen-li/</link>
+      <atom:link href="https://gisersqdai.top/mycv/authors/yuchen-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuchen Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gisersqdai.top/mycv/img/site.png</url>
+      <title>Yuchen Li</title>
+      <link>https://gisersqdai.top/mycv/authors/yuchen-li/</link>
+    </image>
+    
+    <item>
+      <title>Long-term exposure to PM2.5 chemical constituents and diabesity: evidence from a multi-center cohort study in China</title>
+      <link>https://gisersqdai.top/mycv/publication/lanwpc-pm25-diabesity/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/lanwpc-pm25-diabesity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Street view imagery-based built environment auditing tools: a systematic review</title>
+      <link>https://gisersqdai.top/mycv/publication/ijgis-bea-review/</link>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/ijgis-bea-review/</guid>
+      <description>
+
+&lt;h3 id=&#34;systematic-review-method&#34;&gt;Systematic review Method&lt;/h3&gt;
+
+&lt;p&gt;We used the PubMed and Web of Science databases to search for refereed journal articles. To identify articles related to BEA and SVI, we used two sets of search terms: (1) ‘built environment* audit’, ‘auditing’, and ‘virtual audit*’; (2) ‘streetview*’, ‘street view*’, ‘street-view*’, and ‘street view image*’. We collected all the papers published from the inception of the electronic bibliographic databases up to October 2023. We followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines to conduct a systematic review (Moher et al. Citation2009), as depicted in Figure 1. Out of 429 initial results, we identified 96 eligible studies.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/94087bc3-4359-4dbf-9ff6-9548bb3d9935/tgis_a_2336034_f0001_b.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. The flowchart that was followed when selecting and including studies on built environment auditing.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;characteristics-of-included-studies&#34;&gt;Characteristics of included studies&lt;/h3&gt;
+
+&lt;p&gt;All included studies were published after 2010, marking a discernible increase trajectory in the annual number of publications over the past decade, as illustrated in Figure 2.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/b1f0eb76-d6eb-48ee-9120-110ee2dbd814/tgis_a_2336034_f0002_c.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2. Number of the included studies published each year.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The vast majority of the studies (89 of 96, 92.7%) utilized Google SVI for BEA, while the remaining seven studies explored alternative SVI sources including Tencent SVI and Baidu SVI. Additionally, 13 studies employed other SVI sources, such as Bing Map, closed-circuit television, daum road view service, Google Earth, and Google Maps alongside Google SVI. In most studies (78 of 96, 81.3%), SVI was processed for BEA manually. Only 18 studies used computer vision and artificial intelligence technologies. Among these, deep learning techniques were particularly prevalent, employing convolutional neural network models like visual geometry group-16, visual geometry group-19, ResNet-18, SegNet, and DeepLab V3+. These models were specifically tailored for image segmentation tasks, offering fine-scale detection of eye-level objects, such as trees, sidewalks, and bike lanes.&lt;/p&gt;
+
+&lt;p&gt;BEA tools are defined as a range of developed toolsets or instruments utilized to audit and assess built environment attributes, including physical structures, facilities, and surroundings within a given study area, comprising both validated and unvalidated auditing tools. The validated auditing tools were defined as a series of commonly used auditing tools, which are based on well-established references and often implemented as platforms, toolsets, and frameworks. In contrast, unvalidated auditing tools are usually self-developed, lacking validation in other studies, and thus could only serve as conceptual methods without systematic implementation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/b95b20c6-0fd4-490f-9b14-f4b7dab19fe3/tgis_a_2336034_f0003_c.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3. An overview of the studies using different built environment auditing tools in different countries, (a) represents the number of these tools within different countries (in parentheses), (b) represents the number of these tools that have been applied by different groups and in various studies.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/543541e4-3bfc-4421-8302-abdb78417836/tgis_a_2336034_f0004_c.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4. The number of the included studies using different built environment auditing tools at different scales (in parentheses). Note: N—National; S—State (e.g. in the US) or equivalent unit; C—City; Cn—multicity; County—County or equivalent unit.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Frequently audited built environment attributes included street-related features (e.g. street lights, street parking, and streetscape aesthetics) (n = 52), sidewalk-related features (e.g. width, buffers, and continuity) (n = 49), and traffic-related features (e.g. signals, volume, public transit stops, and environment) (n = 47). Other notable attributes include land use (n = 33), facility-related features (n = 28), visual perceptions (e.g. aesthetics) (n = 25), and social environment (e.g. safety) (n = 16).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/21f6ad73-3737-4327-8ea9-9d430ee9a217/tgis_a_2336034_f0005_c.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 5. The count of studies auditing different built environment attributes.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Most studies (n = 64), undertook an evaluation of the reliability associated with the assessed built environment attributes.&lt;/p&gt;
+
+&lt;p&gt;The choice of indicators for audited built environment attributes differs among studies. Due to the ambiguity in some auditing characteristic definitions, the reliability and validity of gathered audit measures tend to be higher for objective attributes than subjective assessments. Among audited attributes, the presence of a sidewalk, a typical objective attribute, has the highest average reliability (0.837) across the majority of studies, exceeding the noteworthy threshold of 0.7 (as illustrated in Figure 6).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/bcb746f4-5213-4633-a1d3-fd3cb4d72768/tgis_a_2336034_f0006_c.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 6. The average reliability indexes among different built environment attributes.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;implications-for-policy-and-practice&#34;&gt;Implications for policy and practice&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Enhancing accuracy in quantifying built environment features&lt;/li&gt;
+&lt;li&gt;Choosing a suitable SVI-based BEA method and enhancing robustness&lt;/li&gt;
+&lt;li&gt;Addressing time lag and spatial limitations of SVI&lt;/li&gt;
+&lt;li&gt;Bridging the BEA and urban exposome observation through SVI&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Through a systematic review of the commonly audited built environment attributes and auditing tools, our findings provide a comprehensive understanding of the state-of-the-art SVI-based auditing approaches and offer insights into future directions for development. The reliability of these audits varies depending on the type of attribute and the assessment tool used. We have learned that objective attributes, such as the presence of a sidewalk, generally yield higher reliability, while subjective assessments may be influenced by auditor biases, resulting in lower reliability. The use of standardized auditing tools, such as S-VAT, across multiple cities demonstrates the potential for improved comparability and generalizability of research findings. Considering the number of research groups that used these tools, ANC and MAPS were identified as the two most widely accepted auditing tools. Furthermore, many standardized auditing tools have been exclusively implemented in specific countries. This is often attributed to auditing of those attributes that are relevant in these particular countries, which may not necessarily align with conditions found in other nations. Consequently, this localization of attributes has resulted in higher reliability when the tools are applied in the country where they were originally developed, as compared to their performance in other countries. The varying levels of reliability for different attributes within the same tool indicate the need for further refinement and standardization of assessment criteria.&lt;/p&gt;
+
+&lt;p&gt;The methodology’s merits lie in the adoption of a classification of auditing aims and the integration of various built environment features, ultimately allowing researchers to better understand the relationship between urban design and public health. The broader impact of these findings can inform urban planning and policy-making efforts to promote healthier and more sustainable living environments. Achieving higher reliability in built environment audits requires a careful balance between objective and subjective attributes and the adoption of standardized tools and assessment criteria. This can lead to more robust research findings and an improved understanding of urban environments, ultimately contributing to better-informed urban planning and policy decisions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal patterns of air pollutants over the epidemic course: a national study in China</title>
+      <link>https://gisersqdai.top/mycv/publication/spatiaotemporal-air-china-rs/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/spatiaotemporal-air-china-rs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State of the Art of Lifecourse Cohort Establishment</title>
+      <link>https://gisersqdai.top/mycv/publication/lifecourse-cohort-chinacdcweekly/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/lifecourse-cohort-chinacdcweekly/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

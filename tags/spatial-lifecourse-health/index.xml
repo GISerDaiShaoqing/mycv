@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spatial Lifecourse Health | Shaoqing Dai</title>
+    <link>https://gisersqdai.top/mycv/tags/spatial-lifecourse-health/</link>
+      <atom:link href="https://gisersqdai.top/mycv/tags/spatial-lifecourse-health/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spatial Lifecourse Health</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gisersqdai.top/mycv/img/site.png</url>
+      <title>Spatial Lifecourse Health</title>
+      <link>https://gisersqdai.top/mycv/tags/spatial-lifecourse-health/</link>
+    </image>
+    
+    <item>
+      <title>Built environments and obesity: A framework considering residences, commute routes, and workplaces</title>
+      <link>https://gisersqdai.top/mycv/publication/cities-be-obesity/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/cities-be-obesity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous impacts of and vulnerabilities to the COVID-19 pandemic</title>
+      <link>https://gisersqdai.top/mycv/publication/landscapeecology-covid-19-impact/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/landscapeecology-covid-19-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of the frequently used built environmental auditing and simulation tools in health domain</title>
+      <link>https://gisersqdai.top/mycv/talk/isle2024talks/</link>
+      <pubDate>Sun, 28 Jul 2024 09:10:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/isle2024talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving obesogenic environmental assessments with advanced geospatial methods</title>
+      <link>https://gisersqdai.top/mycv/publication/phdthesis/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/phdthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-term exposure to PM2.5 chemical constituents and diabesity: evidence from a multi-center cohort study in China</title>
+      <link>https://gisersqdai.top/mycv/publication/lanwpc-pm25-diabesity/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/lanwpc-pm25-diabesity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of the frequently used environmental exposome observation tools in health domain</title>
+      <link>https://gisersqdai.top/mycv/talk/hgyf2024talks/</link>
+      <pubDate>Sun, 26 May 2024 09:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/hgyf2024talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bridging environment and human health, from earth observation to human-center observation</title>
+      <link>https://gisersqdai.top/mycv/talk/ai4citylab2024talks/</link>
+      <pubDate>Fri, 24 May 2024 09:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/ai4citylab2024talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of physical activity opportunities based on multi-source geospatial data</title>
+      <link>https://gisersqdai.top/mycv/talk/ygf2024talks/</link>
+      <pubDate>Sun, 19 May 2024 15:10:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/ygf2024talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The frequently used built environmental auditing tools in the health domain</title>
+      <link>https://gisersqdai.top/mycv/talk/rs4geo2024talks/</link>
+      <pubDate>Sun, 12 May 2024 16:15:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/rs4geo2024talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Street view imagery-based built environment auditing tools: a systematic review</title>
+      <link>https://gisersqdai.top/mycv/publication/ijgis-bea-review/</link>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/ijgis-bea-review/</guid>
+      <description>
+
+&lt;h3 id=&#34;systematic-review-method&#34;&gt;Systematic review Method&lt;/h3&gt;
+
+&lt;p&gt;We used the PubMed and Web of Science databases to search for refereed journal articles. To identify articles related to BEA and SVI, we used two sets of search terms: (1) ‘built environment* audit’, ‘auditing’, and ‘virtual audit*’; (2) ‘streetview*’, ‘street view*’, ‘street-view*’, and ‘street view image*’. We collected all the papers published from the inception of the electronic bibliographic databases up to October 2023. We followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines to conduct a systematic review (Moher et al. Citation2009), as depicted in Figure 1. Out of 429 initial results, we identified 96 eligible studies.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/94087bc3-4359-4dbf-9ff6-9548bb3d9935/tgis_a_2336034_f0001_b.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. The flowchart that was followed when selecting and including studies on built environment auditing.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;characteristics-of-included-studies&#34;&gt;Characteristics of included studies&lt;/h3&gt;
+
+&lt;p&gt;All included studies were published after 2010, marking a discernible increase trajectory in the annual number of publications over the past decade, as illustrated in Figure 2.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/b1f0eb76-d6eb-48ee-9120-110ee2dbd814/tgis_a_2336034_f0002_c.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2. Number of the included studies published each year.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The vast majority of the studies (89 of 96, 92.7%) utilized Google SVI for BEA, while the remaining seven studies explored alternative SVI sources including Tencent SVI and Baidu SVI. Additionally, 13 studies employed other SVI sources, such as Bing Map, closed-circuit television, daum road view service, Google Earth, and Google Maps alongside Google SVI. In most studies (78 of 96, 81.3%), SVI was processed for BEA manually. Only 18 studies used computer vision and artificial intelligence technologies. Among these, deep learning techniques were particularly prevalent, employing convolutional neural network models like visual geometry group-16, visual geometry group-19, ResNet-18, SegNet, and DeepLab V3+. These models were specifically tailored for image segmentation tasks, offering fine-scale detection of eye-level objects, such as trees, sidewalks, and bike lanes.&lt;/p&gt;
+
+&lt;p&gt;BEA tools are defined as a range of developed toolsets or instruments utilized to audit and assess built environment attributes, including physical structures, facilities, and surroundings within a given study area, comprising both validated and unvalidated auditing tools. The validated auditing tools were defined as a series of commonly used auditing tools, which are based on well-established references and often implemented as platforms, toolsets, and frameworks. In contrast, unvalidated auditing tools are usually self-developed, lacking validation in other studies, and thus could only serve as conceptual methods without systematic implementation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/b95b20c6-0fd4-490f-9b14-f4b7dab19fe3/tgis_a_2336034_f0003_c.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3. An overview of the studies using different built environment auditing tools in different countries, (a) represents the number of these tools within different countries (in parentheses), (b) represents the number of these tools that have been applied by different groups and in various studies.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/543541e4-3bfc-4421-8302-abdb78417836/tgis_a_2336034_f0004_c.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4. The number of the included studies using different built environment auditing tools at different scales (in parentheses). Note: N—National; S—State (e.g. in the US) or equivalent unit; C—City; Cn—multicity; County—County or equivalent unit.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Frequently audited built environment attributes included street-related features (e.g. street lights, street parking, and streetscape aesthetics) (n = 52), sidewalk-related features (e.g. width, buffers, and continuity) (n = 49), and traffic-related features (e.g. signals, volume, public transit stops, and environment) (n = 47). Other notable attributes include land use (n = 33), facility-related features (n = 28), visual perceptions (e.g. aesthetics) (n = 25), and social environment (e.g. safety) (n = 16).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/21f6ad73-3737-4327-8ea9-9d430ee9a217/tgis_a_2336034_f0005_c.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 5. The count of studies auditing different built environment attributes.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Most studies (n = 64), undertook an evaluation of the reliability associated with the assessed built environment attributes.&lt;/p&gt;
+
+&lt;p&gt;The choice of indicators for audited built environment attributes differs among studies. Due to the ambiguity in some auditing characteristic definitions, the reliability and validity of gathered audit measures tend to be higher for objective attributes than subjective assessments. Among audited attributes, the presence of a sidewalk, a typical objective attribute, has the highest average reliability (0.837) across the majority of studies, exceeding the noteworthy threshold of 0.7 (as illustrated in Figure 6).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/bcb746f4-5213-4633-a1d3-fd3cb4d72768/tgis_a_2336034_f0006_c.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 6. The average reliability indexes among different built environment attributes.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;implications-for-policy-and-practice&#34;&gt;Implications for policy and practice&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Enhancing accuracy in quantifying built environment features&lt;/li&gt;
+&lt;li&gt;Choosing a suitable SVI-based BEA method and enhancing robustness&lt;/li&gt;
+&lt;li&gt;Addressing time lag and spatial limitations of SVI&lt;/li&gt;
+&lt;li&gt;Bridging the BEA and urban exposome observation through SVI&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Through a systematic review of the commonly audited built environment attributes and auditing tools, our findings provide a comprehensive understanding of the state-of-the-art SVI-based auditing approaches and offer insights into future directions for development. The reliability of these audits varies depending on the type of attribute and the assessment tool used. We have learned that objective attributes, such as the presence of a sidewalk, generally yield higher reliability, while subjective assessments may be influenced by auditor biases, resulting in lower reliability. The use of standardized auditing tools, such as S-VAT, across multiple cities demonstrates the potential for improved comparability and generalizability of research findings. Considering the number of research groups that used these tools, ANC and MAPS were identified as the two most widely accepted auditing tools. Furthermore, many standardized auditing tools have been exclusively implemented in specific countries. This is often attributed to auditing of those attributes that are relevant in these particular countries, which may not necessarily align with conditions found in other nations. Consequently, this localization of attributes has resulted in higher reliability when the tools are applied in the country where they were originally developed, as compared to their performance in other countries. The varying levels of reliability for different attributes within the same tool indicate the need for further refinement and standardization of assessment criteria.&lt;/p&gt;
+
+&lt;p&gt;The methodology’s merits lie in the adoption of a classification of auditing aims and the integration of various built environment features, ultimately allowing researchers to better understand the relationship between urban design and public health. The broader impact of these findings can inform urban planning and policy-making efforts to promote healthier and more sustainable living environments. Achieving higher reliability in built environment audits requires a careful balance between objective and subjective attributes and the adoption of standardized tools and assessment criteria. This can lead to more robust research findings and an improved understanding of urban environments, ultimately contributing to better-informed urban planning and policy decisions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal patterns of air pollutants over the epidemic course: a national study in China</title>
+      <link>https://gisersqdai.top/mycv/publication/spatiaotemporal-air-china-rs/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/spatiaotemporal-air-china-rs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State of the Art of Lifecourse Cohort Establishment</title>
+      <link>https://gisersqdai.top/mycv/publication/lifecourse-cohort-chinacdcweekly/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/lifecourse-cohort-chinacdcweekly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health geography studies based on spatial lifecourse epidemiology framework</title>
+      <link>https://gisersqdai.top/mycv/talk/iue2024talks/</link>
+      <pubDate>Wed, 17 Jan 2024 10:30:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/iue2024talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixed land use has opposite associations with subjective well-being through social capital: Spatial heterogeneity in residential and workplace neighborhoods</title>
+      <link>https://gisersqdai.top/mycv/publication/tbs-mixed-land-use-well-being/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/tbs-mixed-land-use-well-being/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing spatiotemporal bikeability using multi-source geospatial big data: A case study of Xiamen, China</title>
+      <link>https://gisersqdai.top/mycv/publication/jag-bikeability-multisource/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/jag-bikeability-multisource/</guid>
+      <description>
+
+&lt;h3 id=&#34;proposed-bikeability-framework&#34;&gt;Proposed bikeability framework&lt;/h3&gt;
+
+&lt;p&gt;We construct the bikeability evaluation framework by combining the collected multi-source spatio-temporal big data (Figure 1 and Figure 2). The proposed bikeability evaluation framework contains four subindexes, i.e., safety, comfort, accessibility, and vitality, and thirteen influencing indicators, i.e., wind speed, road slope, precipitation, temperature, sky view index, green view index, trajectory sinuosity, air pollution, average speed of trajectory, public transportation accessibility, commercial accessibility, number of trajectory and crowdedness. All indicators used in our framework belong to objective and quantitative measurements.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. The proposed bikeability framework.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2. Street view imagery semantic segmentation process, revised from Chen et al. (2018).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;spatiotemporal-analysis-of-bikeability&#34;&gt;Spatiotemporal analysis of bikeability&lt;/h3&gt;
+
+&lt;p&gt;We first present and discuss the results of four subindexes across Xiamen Island on a daily basis from December 21 to 25th, 2020 (Figure 3).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3. The figures show the daily safety, comfort, accessibility, and vitality of Xiamen Island from top row to bottom row, where from left column to right column respectively represent the dates from 21 to 25th.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The calculation of the bikeability index requires assigning appropriate weights to each indicators. To determine these weights, we performed a principal component analysis (PCA) on the 13 indicators. The PCA resulted in 6 components, providing a balance between a minimal number of components and reliable explained variance. The relationships between components and indicators are displayed in Figure 4.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr5.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4. The PCA result for 13 indicators indicates correspondence between principal components and original indicators.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The temporal distribution of the bikeability index shows a fluctuation throughout the study period, as seen in Figure 5.The temporal distribution of the bikeability index shows a fluctuation throughout the study period, as seen in Fig. 8. On the 21st and 22nd, the average values were recorded as 0.236 and 0.233, respectively. On the 23rd, however, there was a noticeable drop in the bikeability index value, reaching a low of 0.098. Despite this decrease, the values rebounded to 0.188 and 0.185 on the 24th and 25th, respectively. This fluctuation in the bikeability index is mainly due to a rainfall event that occurred in Xiamen on the 23rd. The rainy conditions led to a significant decrease in the safety subindex, which in turn decreased the overall value of the bikeability index.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr7.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 5. Average bikeability of Xiamen Island on December 21st, 22nd, 23rd, 24th, 25th, 2020, the roads highlighted in red indicate lower levels of bikeability, whereas those in green indicate higher levels of bikeability.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The hourly pattern of the bikeability index reveals a different trend compared to the daily change (Fig. 8). As seen in Fig. 8, the hourly bikeability index values exhibit much less fluctuation. The value was recorded as 0.184 at 6:00 a.m. and then gradually increased, reaching its peak at 7:00 a.m. and 8:00 a.m. with values of 0.198 and 0.195, respectively. This increase was mainly due to an increase in the vitality subindex, as more people were using shared bicycles between 7:00 a.m. and 8:00 a.m. on working days. However, at 9:00 a.m., the value dropped to its lowest point at 0.17.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr8.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 6. Average bikeability of Xiamen Island at 6:00, 7:00, 8:00, and 9:00 a.m., the roads highlighted in red indicate lower levels of bikeability, whereas those in green indicate higher levels of bikeability.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;To further validate our proposed index, we conducted a case study analysis in the central area of Xiamen CR, which is the middle continuous hotspot area. The location of this case study is the shared bicycle cycling hotspot at the intersection of Hubin Nanlu and Hubin Donglu, near the commercial center of Xiamen Wanxiangcheng, between 8:00–9:00 a.m. on December 21, 2020, as shown in Figure 7.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr10.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 7. Case study field validation.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The study area is centered around the Huarun commercial center, surrounded by a large residential area. During the morning hours, a substantial amount of shared bicycles are used in this region, contributing to a relatively high bikeability index. This highlights the significance of cycling routes in determining the level of bikeability.&lt;/p&gt;
+
+&lt;p&gt;The current cycling infrastructure falls short of supporting high-friendly cycling routes. For example, the road section near Hubin Middle School, which is located in a residential area and has a high demand for commuting, features a high density of shared bicycle stops, catering, shopping, and life services. The natural environment also favors cycling with low slopes, moderate wind speed, low precipitation, suitable temperature, overcast weather, and good air quality. Despite these favorable conditions, this section is congested during the morning rush hour due to a narrow non-motorized lane, slow average speed, and high volume of people commuting and going to school, resulting in low bikeability in this section despite high cycling activity.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, the demand for shared bicycles in hot spot regions is much higher, underscoring the importance of ensuring the availability of bicycles and easy accessibility. As shown in the figure, most road sections in the hot spot area have high densities of parking spots. However, there is a shortage of parking spots on the east side of Huarun Center, leading to a concentration of cyclists in other areas, causing congestion and potentially affecting commuting efficiency.&lt;/p&gt;
+
+&lt;p&gt;This case study showcases how our bikeability index takes into account the purpose of cycling and reflects cyclists’ preferred routes. Nonetheless, there remain disparities between the actual infrastructure, preferred routes, and regional conditions. By integrating the index system with real-time data, it is possible to provide suggestions for enhancing regional cycling conditions. The findings of this research can guide management departments and shared bicycle providers to improve facilities and offer optimal route planning for cyclists to avoid congestion and overcome difficulties in finding available bicycles. In conclusion, the bikeability index can provide comprehensive decision-making recommendations and advance the development of cycling-friendly cities.&lt;/p&gt;
+
+&lt;h4 id=&#34;implications-for-policy-and-practice&#34;&gt;Implications for policy and practice&lt;/h4&gt;
+
+&lt;p&gt;The variability in the bikeability index across different segments presents an opportunity for transportation planners to enhance cycling infrastructure. Monitoring the spatiotemporal dynamics of bikeability can help identify potential environmental or infrastructure changes and their impact on the community’s level of bikeability. To ensure the relevance of the cycling friendliness index, case studies that incorporate additional infrastructure data are necessary for local comparison of bikeability results, enabling the proposal of landable solutions for varying infrastructure. For instance, the fusion analysis of parking spot electronic fence data and bikeability could expose discrepancies between regional cycling infrastructure and cyclists’ preferences, providing actionable recommendations to government departments and guiding users to cycle in a more bike-friendly manner.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Development and validation of an age-sex-ethnicity-specific metabolic syndrome score in the Chinese adults</title>
+      <link>https://gisersqdai.top/mycv/publication/nc-mets-score-calculator/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/nc-mets-score-calculator/</guid>
+      <description>&lt;p&gt;We develop a continuous, age-sex-ethnicity-specific Metabolic syndrome (MetS) score based on continuous measures of the five metabolic dysfunctions (waist circumference [WC], triglycerides [TG], high-density lipoprotein cholesterol [HDL-C], mean arterial pressure [MAP], and fasting blood glucose [FBG]).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-42423-y/MediaObjects/41467_2023_42423_Fig1_HTML.png?as=webp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. An overview of the study design.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2 Shiny app of age-sex-ethnicity-specific MetS score.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seeking your interest and going ahead will contribute to success</title>
+      <link>https://gisersqdai.top/mycv/talk/xmno12023talks/</link>
+      <pubDate>Fri, 19 May 2023 17:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/xmno12023talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental determinants of childhood obesity: a meta-analysis</title>
+      <link>https://gisersqdai.top/mycv/publication/lancetgh-obesityenvironment/</link>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/lancetgh-obesityenvironment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do neighborhood boundaries matter for examining the associations between environmental factors and obesity</title>
+      <link>https://gisersqdai.top/mycv/talk/cpgis2022talks/</link>
+      <pubDate>Thu, 18 Aug 2022 14:45:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/cpgis2022talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global spreading of Omicron variant of COVID-19</title>
+      <link>https://gisersqdai.top/mycv/publication/gh-covid-19-1/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/gh-covid-19-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Approaches to Anticipate the Risk of Reverse Zoonosis</title>
+      <link>https://gisersqdai.top/mycv/publication/tree-covid-19-2/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/tree-covid-19-2/</guid>
+      <description>
+
+&lt;h4 id=&#34;human-activities-exacerbate-the-risks-from-zoonotic-diseases&#34;&gt;Human Activities Exacerbate the Risks from Zoonotic Diseases&lt;/h4&gt;
+
+&lt;p&gt;The COVID-19 has been the most widespread zoonotic pandemic to affect humanity in over a century, reflecting the problem of human activities exacerbating the risks of pathogen spillover, such as hunting, butchering, farming, deforestation, reforestation, irrigation, and traveling. Moreover, it has caused ecological feedbacks at local scales (e.g., bi-directional transmission of COVID-19 between animals and humans, which could augment the COVID-19 risk in both animals and humans).&lt;/p&gt;
+
+&lt;h4 id=&#34;reverse-zoonosis-of-covid-19&#34;&gt;Reverse Zoonosis of COVID-19&lt;/h4&gt;
+
+&lt;p&gt;Infection of animals with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) from humans has highlighted the importance of understanding ‘reverse zoonosis’ (zooanthroponosis). Compared with three of the four possible routes of transmission for zoonotic diseases (i.e., animal–human, animal–animal, human–human), which have been well studied and confirmed, human–animal transmission lacks sufficient research due to the rare occurrence prior to COVID-19. Once such reverse zoonosis occurs it may cause the further evolution of viruses and affect the effectiveness of potential COVID-19 vaccines. Given the growing populations of livestock and other domesticated animals, increasing proximity between animals and humans in multiple settings (e.g., wet markets, home, and animal production facilities), and the relatively fewer resources assigned for animal testing during human outbreaks with zoonotic potential (particularly asymptomatic infections), new animals diseases may spread undetected. Proactive consideration of such reverse zoonosis enables the creation of management strategies. Therefore, reverse zoonoses require more rigorous and widespread macroecological and microbial studies.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1 Coronavirus Disease 2019 (COVID-19) Natural Infections of Pet, Zoo, and Livestock Animals as of 11 March 2021 Mapped onto Number of Confirmed Cases in the Human Population.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;building-resilience-against-future-reverse-zoonoses&#34;&gt;Building Resilience against Future Reverse Zoonoses&lt;/h4&gt;
+
+&lt;p&gt;Reverse zoonoses may cause reduction and even extinction of the wild animal populations susceptible to viruses, which could destroy local biodiversity and ecological balance.&lt;/p&gt;
+
+&lt;p&gt;Preventing reverse zoonoses also requires understanding pathogen feedback loops at the wildlife–livestock/pet–human interface. This will require greater capacities and commitments for pathogen discovery, mutation rate detection, and surveillance, in order to improve the prediction of pandemic potential, leading to management actions that interrupt possible pathways of spillover and transmission. Understanding these key evolutionary processes and ecological interactions calls for integrated virus–animal–human–environment surveillance systems. Spatial lifecourse epidemiology also provides a uniform analytical framework to link ecological surveillance to the national disease reporting system.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pitfalls in Modeling Asymptomatic COVID-19 Infection</title>
+      <link>https://gisersqdai.top/mycv/publication/frph-covid-19-1/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/frph-covid-19-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Evaluation of Health Effect of Short-term Exposure to PM2.5 during Spring Festival: A Case Study of 25 Cities in the Yangtze River Delta(Chinese)</title>
+      <link>https://gisersqdai.top/mycv/talk/xu2020talks/</link>
+      <pubDate>Sat, 12 Dec 2020 15:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/xu2020talks/</guid>
+      <description>&lt;p&gt;We presented the published paper namely &amp;lsquo;The Evaluation of Health Effect of Short-term Exposure to PM2.5 during Spring Festival: A Case Study of 25 Cities in the Yangtze River Delta&amp;rsquo; in &lt;em&gt;Shanghai Urban Planning Review&lt;/em&gt; and discuss the built environment and human health with other participants.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Evaluation of Health Effect of Short-term Exposure to PM2.5 during Spring Festival: A Case Study of 25 Cities in the Yangtze River Delta(Chinese)</title>
+      <link>https://gisersqdai.top/mycv/publication/pm25-health-exposure-shup/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/pm25-health-exposure-shup/</guid>
+      <description>
+
+&lt;h4 id=&#34;research-goal&#34;&gt;Research goal&lt;/h4&gt;
+
+&lt;p&gt;Spatiotemporal change of health risk of short-term exposure to PM2.5 affected by human mobility during Spring Festival.&lt;/p&gt;
+
+&lt;h4 id=&#34;results&#34;&gt;Results&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://gisersqdai.top/mycv/img/202010fig1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1 Comparison between different machine learning models via spatial cross validation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://gisersqdai.top/mycv/img/202010fig2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2 Daily level PM2.5 mapping at 1-km resolution&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Table 1 The average value and 95% confidence intervals of AF causing by PM2.5 exposure&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;死亡原因&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;$\bar{AF}(+)$(n = 2 858)&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;$\bar{AF}(-)$(n = 2 914)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;总死亡&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.28(0.21, 0.33)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.28(0.21, 0.33)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;心血管疾病&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.32(0.24, 0.38)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.33(0.25, 0.39)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;高血压疾病&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.40(0.19, 0.53)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.41(0.19, 0.54)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;冠心病&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.34(0.24, 0.41)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.35(0.26, 0.42)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;中风&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.29(0.19, 0.37)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.29(0.19, 0.38)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;呼吸道疾病&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.34(0.23, 0.42)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.34(0.24, 0.43)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;慢性阻塞性肺疾病&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.40(0.29, 0.48)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;0.40(0.29, 0.49)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://gisersqdai.top/mycv/img/202010fig3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3 The changing mode of human mobility-health risk in 25 cities of the Yangtze River Delta during the Spring Festival&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://gisersqdai.top/mycv/img/202010fig4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4 The time variation and OD matrices of AF&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h4&gt;
+
+&lt;p&gt;We should not ignore the health risks of short-term exposure to PM 2.5 caused by human mobility behavior during the Spring Festival, because the estimated average increased risks are from 0.25 to 0.39. The highest risk is more than 0.9. This reveals strong spatiotemporal heterogeneity in the health effect of short-term exposure to PM 2.5. Even the value of risks could change from 0.84 to-0.75 in two days. Most of the travel populations in the Yangtze River Delta have increased the health risk of short-term exposure to PM 2.5 caused by human mobility during the Spring Festival, such as Shanghai and Suzhou, with the exposed populations reaching to nearly 13.2 million and 6 million.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Natural environment and childhood obesity: A systematic review</title>
+      <link>https://gisersqdai.top/mycv/publication/or-naturalenvironment/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/or-naturalenvironment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Green space access in the neighbourhood and childhood obesity</title>
+      <link>https://gisersqdai.top/mycv/publication/or-greenspace/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/or-greenspace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neighbourhood speed limit and childhood obesity</title>
+      <link>https://gisersqdai.top/mycv/publication/or-speedlimit/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/or-speedlimit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Access to bike lanes and childhood obesity: A systematic review and meta‐analysis</title>
+      <link>https://gisersqdai.top/mycv/publication/or-bikelane/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/or-bikelane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Lifecourse Health</title>
+      <link>https://gisersqdai.top/mycv/project/spatial-lifecourse-health/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/project/spatial-lifecourse-health/</guid>
+      <description>
+
+&lt;p&gt;Spatial Lifecourse Health was proposed by my supervisor, Dr.Jia Peng in &lt;a href=&#34;https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(18)30245-6/fulltext&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Lancet Planetary Health&lt;/em&gt;&lt;/a&gt;. Now it is also applied to &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1471492220300052&#34; target=&#34;_blank&#34;&gt;infectious disease&lt;/a&gt;, especially the COVID-19 pandemic. It&amp;rsquo;s an emerging research field. There are &lt;a href=&#34;https://ehp.niehs.nih.gov/doi/full/10.1289/EHP4868&#34; target=&#34;_blank&#34;&gt;the top 10 research priorities in Spatial Lifecourse Epidemiology&lt;/a&gt; and &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1353829219306355&#34; target=&#34;_blank&#34;&gt;the Spatial Lifecourse Epidemiology Reporting Standards (ISLE-ReSt) statement&lt;/a&gt; publishing in the Journals. My Ph.D. project will focus on how to use the Earth Observation handling(Google Earth Engine), geospatial big data handling(Street View Image segment), and spatial statistics model to explore the health geography and spatial epidemiology problem. Our research interests include obesity, infectious disease like COVID-19, non-communicate disease, but not limited to these topics.&lt;/p&gt;
+
+&lt;h1 id=&#34;1-obesity&#34;&gt;1 Obesity&lt;/h1&gt;
+
+&lt;p&gt;We conducted a series of systematic reviews articles in &lt;em&gt;Obesity Reviews&lt;/em&gt; to determine all the obesogenic environmental factors in childhood obesity.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1111/obr.13097&#34; target=&#34;_blank&#34;&gt;Natural environment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1111/obr.13100&#34; target=&#34;_blank&#34;&gt;Green space&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1111/obr.13042&#34; target=&#34;_blank&#34;&gt;Bike lanes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1111/obr.13052&#34; target=&#34;_blank&#34;&gt;Speed limit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;2-covid-19-pandemic&#34;&gt;2 COVID-19 Pandemic&lt;/h1&gt;
+
+&lt;h2 id=&#34;2-1-covid-19-research-sources&#34;&gt;2.1 COVID-19 research sources&lt;/h2&gt;
+
+&lt;p&gt;I built up a website about COVID-19 studies, &lt;a href=&#34;http://covid19.gisersqdai.top/en-us/&#34; target=&#34;_blank&#34;&gt;Awesome of COVID-19&lt;/a&gt;. This website was used for collecting all the resources of COVID-19 related studies and was powered by &lt;a href=&#34;https://github.com/txd-team/docsite&#34; target=&#34;_blank&#34;&gt;docsite&lt;/a&gt;. Besides, I developed a dashboard shiny app about COVID-19 map, &lt;a href=&#34;https://gisersqdai.shinyapps.io/COVID19VIS/&#34; target=&#34;_blank&#34;&gt;COVID-19 shiny app&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/GISerDaiShaoqing/Awesome_COVID-19/raw/master/img/websnapt.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. Snapshot of website &amp;ldquo;Awesome of COVID-19&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/GISerDaiShaoqing/Awesome_COVID-19/raw/master/img/quick_start.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2. Snapshot of COVID-19 shiny app&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2-2-reverse-of-covid-19&#34;&gt;2.2 Reverse of COVID-19&lt;/h2&gt;
+
+&lt;p&gt;The coronavirus disease 2019 (COVID-19) pandemic can cause reverse zoonoses (i.e., human–animal transmission of COVID-19). It is vital to utilize up-to-date methods to improve the control, management, and prevention of reverse zoonoses. Awareness of reverse zoonoses should be raised at both individual and regional/national levels for better protection of both humans and animals.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://gisersqdai.top/mycv/img/2021fig3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3. Coronavirus Disease 2019 (COVID-19) Natural Infections of Pet, Zoo, and Livestock Animals as of 11 March 2021 Mapped onto Number of Confirmed Cases in the Human Population.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/Iye21hgtkTlFv95ybRDA0g&#34; target=&#34;_blank&#34;&gt;Trends论文献策疫情中被忽视的“人-动物”感染风险 | Cell Press论文速递&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2-3-covid-19-epidemic-prevention-and-control&#34;&gt;2.3 COVID-19 epidemic prevention and control&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://science.gisersqdai.top/%E5%86%85%E8%92%99COVID-19%E5%A5%96%E7%8A%B6.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2-4-comprenhensive-impact-of-covid-19&#34;&gt;2.4 Comprenhensive impact of COVID-19&lt;/h2&gt;
+
+&lt;p&gt;Understanding the heterogeneous impacts of and vulnerability to COVID-19 could inform the design of environmentally sustainable and socially resilient cities, making them better equipped to encounter future epidemics. This study would help us identify more effective and equitable solutions to the ongoing challenges of the pandemic, promoting sustainability and resilience at multiple societal levels.&lt;/p&gt;
+
+&lt;h1 id=&#34;3-health-effect-of-exposure-to-air-pollution&#34;&gt;3 Health effect of exposure to air pollution&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://gisersqdai.top/mycv/img/202010fig4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4 The time variation and OD matrices of AF&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/tpBS511WWOWau5jHaneoZg&#34; target=&#34;_blank&#34;&gt;【建成环境与行为研究】春节期间的PM2.5污染短期暴露健康效应评估——以长三角地区25个城市为例 | 上海城市规划&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;4-assessing-obesogenic-environment-and-spatiotemporal-physical-activity-opportunity-using-multi-source-geospatial-big-data-and-geoai&#34;&gt;4 Assessing obesogenic environment and spatiotemporal physical activity opportunity using multi-source geospatial big data and GeoAI&lt;/h1&gt;
+
+&lt;h2 id=&#34;4-1-built-environment-auditing&#34;&gt;4.1 Built environment auditing&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Enhancing accuracy in quantifying built environment features&lt;/li&gt;
+&lt;li&gt;Choosing a suitable SVI-based BEA method and enhancing robustness&lt;/li&gt;
+&lt;li&gt;Addressing time lag and spatial limitations of SVI&lt;/li&gt;
+&lt;li&gt;Bridging the BEA and urban exposome observation through SVI&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Through a systematic review of the commonly audited built environment attributes and auditing tools, our findings provide a comprehensive understanding of the state-of-the-art SVI-based auditing approaches and offer insights into future directions for development. The reliability of these audits varies depending on the type of attribute and the assessment tool used. We have learned that objective attributes, such as the presence of a sidewalk, generally yield higher reliability, while subjective assessments may be influenced by auditor biases, resulting in lower reliability. The use of standardized auditing tools, such as S-VAT, across multiple cities demonstrates the potential for improved comparability and generalizability of research findings. Considering the number of research groups that used these tools, ANC and MAPS were identified as the two most widely accepted auditing tools. Furthermore, many standardized auditing tools have been exclusively implemented in specific countries. This is often attributed to auditing of those attributes that are relevant in these particular countries, which may not necessarily align with conditions found in other nations. Consequently, this localization of attributes has resulted in higher reliability when the tools are applied in the country where they were originally developed, as compared to their performance in other countries. The varying levels of reliability for different attributes within the same tool indicate the need for further refinement and standardization of assessment criteria.&lt;/p&gt;
+
+&lt;p&gt;The methodology’s merits lie in the adoption of a classification of auditing aims and the integration of various built environment features, ultimately allowing researchers to better understand the relationship between urban design and public health. The broader impact of these findings can inform urban planning and policy-making efforts to promote healthier and more sustainable living environments. Achieving higher reliability in built environment audits requires a careful balance between objective and subjective attributes and the adoption of standardized tools and assessment criteria. This can lead to more robust research findings and an improved understanding of urban environments, ultimately contributing to better-informed urban planning and policy decisions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/b95b20c6-0fd4-490f-9b14-f4b7dab19fe3/tgis_a_2336034_f0003_c.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 5. An overview of the studies using different built environment auditing tools in different countries, (a) represents the number of these tools within different countries (in parentheses), (b) represents the number of these tools that have been applied by different groups and in various studies.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;4-2-bikeability&#34;&gt;4.2 Bikeability&lt;/h2&gt;
+
+&lt;p&gt;We develop a bikeability evaluation framework by combining the collected multi-source spatio-temporal big data.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 6. The proposed bikeability framework.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr7.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 7. Average bikeability of Xiamen Island on December 21st, 22nd, 23rd, 24th, 25th, 2020, the roads highlighted in red indicate lower levels of bikeability, whereas those in green indicate higher levels of bikeability.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S1569843223003631-gr8.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 8. Average bikeability of Xiamen Island at 6:00, 7:00, 8:00, and 9:00 a.m., the roads highlighted in red indicate lower levels of bikeability, whereas those in green indicate higher levels of bikeability.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/lUi7l5uX8DPr1LQgEibjbw&#34; target=&#34;_blank&#34;&gt;《Int J Appl Earth Obs》发文：基于多源地理空间大数据的时空自行车可行性评估&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

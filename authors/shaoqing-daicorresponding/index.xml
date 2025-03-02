@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>**Shaoqing Dai(corresponding)** | Shaoqing Dai</title>
+    <link>https://gisersqdai.top/mycv/authors/shaoqing-daicorresponding/</link>
+      <atom:link href="https://gisersqdai.top/mycv/authors/shaoqing-daicorresponding/index.xml" rel="self" type="application/rss+xml" />
+    <description>**Shaoqing Dai(corresponding)**</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gisersqdai.top/mycv/img/site.png</url>
+      <title>**Shaoqing Dai(corresponding)**</title>
+      <link>https://gisersqdai.top/mycv/authors/shaoqing-daicorresponding/</link>
+    </image>
+    
+    <item>
+      <title>Toward 3D hedonic price model for vertically developed cities using street view images and machine learning methods</title>
+      <link>https://gisersqdai.top/mycv/publication/habitati-svi-3dhpm/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/habitati-svi-3dhpm/</guid>
+      <description>
+
+&lt;h3 id=&#34;data-collection&#34;&gt;Data Collection&lt;/h3&gt;
+
+&lt;p&gt;The workflow of mass-downloading SVIs started with generating the sampling points with an interval of 10 m along the OpenStreetMap (&lt;a href=&#34;https://www.openstreetmap.org&#34; target=&#34;_blank&#34;&gt;https://www.openstreetmap.org&lt;/a&gt;) road networks (Figure 1a). Second, we determined the heading direction and pitch, two parameters in image customisation (Figure 1b and c). Heading direction defines the compass heading of the camera with the value from 0° to 360°. Four heading directions (0°, 90°, 180°, 270°) were selected for a full surrounding view. The pitch represents the up/down angle at which the street view is taken. Compared to other studies that adopt pitch 0° for eye-level only, our strategy incorporates two pitches (0° and 90°) to collect both eye-level images reflecting horizontal streetscape and sky-view images reflecting the vertical sky openness (Figure 1d and e). Finally, we determined the acquisition time: 2019 or 2020. Our objective is to improve the quantity of SVIs by employing a compact sampling point density and a comparatively inclusive acquisition timeframe. Preliminary assessments indicated that not all sampling points have images, and annual updates are not guaranteed. Ideally, if images are available, eight images are collected per year per sampling point. Each image has 1024 ∗ 512 pixels. In total, we generated 83,925 sampling points and downloaded 737,704 images.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0197397525000049-gr2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. Distribution of sampling points along the road network, the abstract simulations of eye-level angle  and sky-view angles, and illustrations of SVI in eye-level angle and sky-view angle (a)-(e).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;proposed-3d-hedonic-price-model&#34;&gt;Proposed 3D hedonic price model&lt;/h3&gt;
+
+&lt;p&gt;As shown in Figure 2, this study is conducted within the HPM framework, which consists of three steps. We first generate physical, locational variables, extract 3D variables from SVIs, and then construct HPM in different valuation models, namely OLS, GWR and RF.&lt;/p&gt;
+
+&lt;p&gt;$$V=f(P,L,E_{3d})$$&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0197397525000049-gr3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2. The methodology design and the workflow of 3D hedonic price model (3D HPM).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0197397525000049-gr4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3. The example of semantic segmentation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;RF performs the best among all three models. $R^2$ increases from 0.716 to 0.768 by adding 3D variables. In addition to R2 values, RMSE, MAE, and MAPE are also used to evaluate the model accuracy, as shown in Table 3. The lowest RMSE in RF is 1669.60 $yuan/m^2$. Taking the average property value (14,318 $yuan/m^2$), the MAPE of estimation in RF is 11.66%. In summary, OLS has the basic performance, GWR has improvement, and RF has the best explainability and the least errors in different regards.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Table 1. The comparison of $R^2$, RMSE, MAE and MAPE among different models (based on group 4). The unit of RMSE and MAE: $yuan/m^2$.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Indicator&lt;/th&gt;
+&lt;th&gt;OLS&lt;/th&gt;
+&lt;th&gt;GWR&lt;/th&gt;
+&lt;th&gt;RF&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;R2&lt;/td&gt;
+&lt;td&gt;0.376&lt;/td&gt;
+&lt;td&gt;0.636&lt;/td&gt;
+&lt;td&gt;0.768&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;RMSE&lt;/td&gt;
+&lt;td&gt;3116.65&lt;/td&gt;
+&lt;td&gt;2331.41&lt;/td&gt;
+&lt;td&gt;1669.60&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;MAE&lt;/td&gt;
+&lt;td&gt;2199.91&lt;/td&gt;
+&lt;td&gt;1582.27&lt;/td&gt;
+&lt;td&gt;1006.63&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;MAPE&lt;/td&gt;
+&lt;td&gt;0.16&lt;/td&gt;
+&lt;td&gt;0.11&lt;/td&gt;
+&lt;td&gt;0.08&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Figure 4 gives an overview of 3Dss in GWR. The distribution of 3Dss has a trend of expansion from the centre towards the periphery (Figure 4c and d). The city centre of Xi&amp;rsquo;an has narrow street width and densely distributed buildings. The north and west peripheries have improved urban design with broader roads and more sky exposure. The distribution of its coefficients has a similar tendency (Figure 4a). In the centre, 3Dss has negative values. The fact shows that the presence of sky is not favoured for higher property values. The negativity reduces and eventually becomes positive as it gets farther from the centre. Figure 4b shows the distribution of the p value of 3Dss, indicating the geographical coverage when 3Dss is statistical significant.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0197397525000049-gr5.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4. The distribution of 3Dss in GWR model: coefficient, p value, variable itsel, and 3D visualisation (a)-(d).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 5 displays the relative importance of all the variables. Among the 3D variables, road, tree and grass from eye-level images are the top three influential variables with values of 1, 0.619 and 0.541. Sky from sky-view images ranks fourth (0.432) in the total and first in sky-view variables. Building from sky-view images closely follows with a value of 0.411. The sequence of other 3D variables is as follows: building (0.369), sky (0.361), sidewalk (0.327) in eye-level images, separately. Tree in sky-view images, has the least value (0.26) among 3D variables, but it is still ahead of several physical and locational variables.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0197397525000049-gr6.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 5. The relative importance of variables in Random Forest (RF) model.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 6 illustrates the PDPs of all 3D variables. 3Det, 3Deg, 3Der, 3Dss, and 3Dsb share a similar pattern. In the early stage, there is hardly an impact on property values; then, the influence becomes obvious after a certain value. After reaching another value, the impact again becomes insignificant. Certain values vary among different variables. In eye-level images, tree starts at 0.10 and ends at 0.15; grass starts at 0.08 and ends at 0.22, road starts at 0.23 and ends at 0.26. In sky-view images, sky starts at 0.30 and ends at 0.65, building starts at 0.06 and ends at 0.12.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0197397525000049-gr7.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 6. The partial dependence plots (PDPs) of 3D variables.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;With the spatial changes happening in the vertical direction in cities because of the construction of high-rise buildings, it is necessary to conceptually and technically identify the hedonic value of 3D and add 3D variables in HPM for property valuation. Our empirical results show: 1) 3D variables have made significant contributions to HPM, and the sky-view angle cannot be overlooked. 2) In the sky-view angle, sky is positively correlated while the presence of buildings and trees are negatively correlated with property values. The influence direction of building and tree are different in eye-level and sky-view images, which further reminds the importance of sky-view angle. 3) RF outperforms OLS and GWR regarding a higher model fitting and stronger explainability power to interpret the influences of 3D variables. The study confirms the important role of 3D in HPM in the context of vertically developed cities with generous amounts of high-rise buildings. Our findings are expected to provide consultancy value for housing policy-making, such as fair property taxation and equal land use policy. In conclusion, this study provides solid evidences that SVIs and AI can quantify the 3D built environment at a low cost on a mass scale (technically feasible), and the sky-view angle is meaningful in valuation practices in vertical cities (practically significant), laying a foundation for future 3D property valuation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
