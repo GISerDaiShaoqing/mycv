@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jinhan Lei | Shaoqing Dai</title>
+    <link>https://gisersqdai.top/mycv/authors/jinhan-lei/</link>
+      <atom:link href="https://gisersqdai.top/mycv/authors/jinhan-lei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jinhan Lei</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gisersqdai.top/mycv/img/site.png</url>
+      <title>Jinhan Lei</title>
+      <link>https://gisersqdai.top/mycv/authors/jinhan-lei/</link>
+    </image>
+    
+    <item>
+      <title>Assessing bicycle-sharing riding friendliness by fusing multi-source heterogeneous spatio-temporal big data</title>
+      <link>https://gisersqdai.top/mycv/publication/bikeability-book-section/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/bikeability-book-section/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing riding friendliness by fusing multi-source heterogeneous spatio-temporal big data</title>
+      <link>https://gisersqdai.top/mycv/publication/bikeability-chinses-urban-planning-meeting/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/bikeability-chinses-urban-planning-meeting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

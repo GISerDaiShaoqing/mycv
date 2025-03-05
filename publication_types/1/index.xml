@@ -5,12 +5,20 @@
     <link>https://gisersqdai.top/mycv/publication_types/1/</link>
       <atom:link href="https://gisersqdai.top/mycv/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Wed, 23 May 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>1</title>
       <link>https://gisersqdai.top/mycv/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Assessing riding friendliness by fusing multi-source heterogeneous spatio-temporal big data</title>
+      <link>https://gisersqdai.top/mycv/publication/bikeability-chinses-urban-planning-meeting/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/bikeability-chinses-urban-planning-meeting/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Improving the prediction accuracy of forest aboveground biomass benchmark map by integrating machine learning and spatial statistics</title>
