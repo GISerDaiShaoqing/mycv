@@ -5,12 +5,132 @@
     <link>https://gisersqdai.top/mycv/</link>
       <atom:link href="https://gisersqdai.top/mycv/index.xml" rel="self" type="application/rss+xml" />
     <description>Shaoqing Dai</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Shaoqing Dai</title>
       <link>https://gisersqdai.top/mycv/</link>
     </image>
+    
+    <item>
+      <title>The evaluation of health effect of short-term exposure to PM2.5 during spring festival: a case study of 25 cities in the Yangtze Diver Delta</title>
+      <link>https://gisersqdai.top/mycv/publication/pm25healthexposure-book-section/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/pm25healthexposure-book-section/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensing healthy city based on multimodal data and GeoAI</title>
+      <link>https://gisersqdai.top/mycv/talk/dtdc2025talks/</link>
+      <pubDate>Sat, 13 Dec 2025 13:45:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/dtdc2025talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward health geography: from the COVID-19 pandemic to Health China</title>
+      <link>https://gisersqdai.top/mycv/talk/gischat2025talks/</link>
+      <pubDate>Sun, 30 Nov 2025 20:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/gischat2025talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensing healthy city based on multimodal data and GeoAI</title>
+      <link>https://gisersqdai.top/mycv/talk/uagdconf2025talks/</link>
+      <pubDate>Tue, 18 Nov 2025 16:15:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/uagdconf2025talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Short-Term Exposure to Air Pollutants on Real-Time Blood Pressure: A Wearable Device-Based Study in China</title>
+      <link>https://gisersqdai.top/mycv/publication/juh-airpollutant-wearble/</link>
+      <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/juh-airpollutant-wearble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing Variations in River Networks Under Urbanization Across Metropolitan Plains Using a Multi-Metric Approach</title>
+      <link>https://gisersqdai.top/mycv/publication/land-rivernetwork-urbanization/</link>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/land-rivernetwork-urbanization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agreicultural socialized service system and its mechanism driving industrial upgrade: based on an empirical study on value chain theory(Chinese)</title>
+      <link>https://gisersqdai.top/mycv/publication/agriculture-economic-ri/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/agriculture-economic-ri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensing healthy city based on street view imagery and GeoAI</title>
+      <link>https://gisersqdai.top/mycv/talk/infogeo2025talks/</link>
+      <pubDate>Wed, 20 Aug 2025 09:15:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/infogeo2025talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of night light remote sensing data in urban studies</title>
+      <link>https://gisersqdai.top/mycv/talk/urbanparty2025talks/</link>
+      <pubDate>Tue, 12 Aug 2025 20:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/urbanparty2025talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensing healthy city based on street view imagery and GeoAI</title>
+      <link>https://gisersqdai.top/mycv/talk/isle2025talks/</link>
+      <pubDate>Sat, 19 Jul 2025 16:40:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/isle2025talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-resolution population density mapping in urban areas using a contextualized geographically weighted neural network (CGWNN) model</title>
+      <link>https://gisersqdai.top/mycv/publication/japg-cgwnn-population/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/japg-cgwnn-population/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensing healthy city based on street view imagery and GeoAI</title>
+      <link>https://gisersqdai.top/mycv/talk/agscf2025talks/</link>
+      <pubDate>Sat, 28 Jun 2025 14:50:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/agscf2025talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensing healthy city based on street view imagery and GeoAI</title>
+      <link>https://gisersqdai.top/mycv/talk/csusd3thtalks2/</link>
+      <pubDate>Sun, 25 May 2025 14:55:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/csusd3thtalks2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact assessment of urban built environment on carbon-air-health nexus: a lifecourse perspective</title>
+      <link>https://gisersqdai.top/mycv/talk/csusd3thtalks1/</link>
+      <pubDate>Sat, 24 May 2025 16:20:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/csusd3thtalks1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying landscape patterns at different scales as driving factors for urban flooding</title>
+      <link>https://gisersqdai.top/mycv/publication/ecoi-landscape-flooding/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/ecoi-landscape-flooding/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Built environments and obesity: A framework considering residences, commute routes, and workplaces</title>
@@ -1129,6 +1249,111 @@
       <pubDate>Mon, 08 Jan 2018 00:00:00 +0800</pubDate>
       <guid>https://gisersqdai.top/mycv/news/</guid>
       <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Jan. 23-24, 2026:&lt;/strong&gt;
+Shaoqing Dai attended the annual meeting of the Geographical Society of China(Central-China region), Wuhan, Hubei.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Jan. 07, 2026:&lt;/strong&gt;
+Our &lt;a href=&#34;../../mycv/publication/pm25-health-exposure-shup&#34;&gt;published paper&lt;/a&gt; has been selected for inclusion in the textbook Medical Big Data and Artificial Intelligence Applications. This textbook, a core curriculum material for the Ministry of Education&amp;rsquo;s &amp;ldquo;101 Project&amp;rdquo; and a recommended text for preventive medicine programs, is chief-edited by Xifeng Wu, Guihua Zhuang, Yan Jin, Chaolong Wang, and Chen Mao, and has been published recently.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Dec. 17-24, 2025:&lt;/strong&gt;
+Shaoqing Dai, as one of the lecturers of &amp;lsquo;Health Geography&amp;rsquo;, gave three classes to postgraduate students. The material for course could click the &lt;a href=&#34;https://github.com/GISerDaiShaoqing/geog_202101014&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Dec. 12-14, 2025:&lt;/strong&gt;
+Shaoqing Dai attended the Aerospace Symposium on Data Technology and Data Curation, DTDC 2025, Qingdao, Shandong, and present the published study entitled &amp;lsquo;Sensing healthy city based on multimoda data and GeoAI&amp;rsquo;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Nov. 30, 2025:&lt;/strong&gt;
+Shaoqing Dai was invited to gave a GISChat letcure entitled &amp;lsquo;Toward health geography: from the COVID-19 pandemic to Health China&amp;rsquo;. The recording of letcture could click the &lt;a href=&#34;https://www.bilibili.com/video/BV12R2jBkERJ/?share_source=copy_web&amp;amp;vd_source=341f7ce371e948e28d6a4301f1c0edb8&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Nov. 27, 2025:&lt;/strong&gt;
+Shaoqing Dai was invited to gave a talk with Associate Prof. Yingbing Li&amp;rsquo;s group, School of Geodesy and Geomatics, Wuhan University.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Nov. 21-23, 2025:&lt;/strong&gt;
+Shaoqing Dai attended the 20th Conference on Theories and Methods of Geographic Information Science (GIScience), Jimei University, Xiamen, Fujian.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Nov. 16-18, 2025:&lt;/strong&gt;
+Shaoqing Dai attended the 3rd Urban Agglomeration Green Development Conference, Xiamen, Fujian, and present the published study entitled &amp;lsquo;Sensing healthy city based on multimoda data and GeoAI&amp;rsquo;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Nov. 7, 2025:&lt;/strong&gt;
+Shaoqing Dai，as one of the lecturers of personalized cultivation week program course, gave a class to undergraduate students entitled ‘Empowering GeoAI and Health Geography with R Programming’.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Nov. 4, 2025:&lt;/strong&gt;
+We published a paper entitled &amp;lsquo;Effects of Short-Term Exposure to Air Pollutants on Real-Time Blood Pressure: A Wearable Device-Based Study in China&amp;rsquo;. &lt;a href=&#34;../mycv/publication/juh-airpollutant-wearble&#34;&gt;This paper&lt;/a&gt; is now available on &lt;a href=&#34;https://link.springer.com/article/10.1007/s11524-025-01017-3&#34; target=&#34;_blank&#34;&gt;Land&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Oct. 26-30, 2025:&lt;/strong&gt;
+Shaoqing Dai was invited to the final round of the 3rd National Postdoctoral Innovation and Entrepreneurship Competition, where he signed a Letter of Intent with the Strait (Jinjiang) Technology Innovation Center Co., Ltd. during the project roadshow signing ceremony. Subsequently, he joined the “Eight-Min Postdoctoral Tour,” visiting multiple enterprises in Xiamen and Zhangzhou. &lt;a href=&#34;https://share.fjdaily.com/displayTemplate/news/newsDetail/487666.html?isDigital=true&amp;amp;isShare=true&amp;amp;linkV=1761959640000&#34; target=&#34;_blank&#34;&gt;The cooperative project garnered coverage from Fujian Daily&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Oct. 24-26, 2025:&lt;/strong&gt;
+Shaoqing Dai attended the 24th annual meeting of Ecological Socienty of China.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Oct. 15, 2025:&lt;/strong&gt;
+Shaoqing Dai attended the &lt;a href=&#34;https://sres.whu.edu.cn/info/3761/336441.htm&#34; target=&#34;_blank&#34;&gt;early-career faculty member forum&lt;/a&gt; hosted by the School of Resources and Environmental Sciences, Wuhan University.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Oct. 4, 2025:&lt;/strong&gt;
+We published a paper entitled &amp;lsquo;Assessing Variations in River Networks Under Urbanization Across Metropolitan Plains Using a Multi-Metric Approach&amp;rsquo;. &lt;a href=&#34;../mycv/publication/land-rivernetwork-urbanization&#34;&gt;This paper&lt;/a&gt; is now available on &lt;a href=&#34;https://www.mdpi.com/2073-445X/14/10/1994&#34; target=&#34;_blank&#34;&gt;Land&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Sep. 26-28, 2025:&lt;/strong&gt;
+Shaoqing Dai attended &lt;a href=&#34;https://mp.weixin.qq.com/s/KRjNkNw0yJh-cwTYGMWGeA&#34; target=&#34;_blank&#34;&gt;9th National Conference of LiDAR remote sensing&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Sep. 24-25, 2025:&lt;/strong&gt;
+Shaoqing Dai attended 2025 Conference on Geoinformation Technology and Innovation, Beijing.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Sep. 2, 2025:&lt;/strong&gt;
+We published a paper entitled &amp;lsquo;Agreicultural socialized service system and its mechanism driving industrial upgrade: based on an empirical study on value chain theory(Chinese)&amp;lsquo;. &lt;a href=&#34;../mycv/publication/agriculture-economic-ri&#34;&gt;This paper&lt;/a&gt; is now available on &lt;a href=&#34;https://www.chndoi.org/Resolution/Handler?doi=10.13776/j.cnki.resourcesindustries.20250901.006&#34; target=&#34;_blank&#34;&gt;Resources &amp;amp; Industries&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Aug. 17-20, 2025:&lt;/strong&gt;
+Shaoqing Dai, as one of co-convener of 5th International Symposium on Spatial Lifecourse Health, particularly for the &amp;ldquo;Human behaviors,health geography and spatial modeling&amp;rdquo; session, along with Prof. Meipo Kwan, Dr. Ningyezi Peng, Dr.Yan Zhang, Dr. Jin Zeng, led the session and delivered a presentation entitled &amp;ldquo;Sensing healthy city based on street view imagery and GeoAI&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Aug. 15, 2025:&lt;/strong&gt;
+Shaoqing Dai is serving as a leading co-guest editor for a Special Issue in &lt;a href=&#34;https://www.mdpi.com/journal/land&#34; target=&#34;_blank&#34;&gt;Land&lt;/a&gt;. The issue, entitled &lt;a href=&#34;https://www.mdpi.com/journal/land/special_issues/M2F52SX604&#34; target=&#34;_blank&#34;&gt;”Urban Spatial Planning for Health and Well-Being”&lt;/a&gt;, is now open for submissions.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Aug. 12, 2025:&lt;/strong&gt;
+As a lecturer for Urban Data Party, Shaoqing Dai delivered an online lecture titled &amp;ldquo;Application of Nighttime Light Remote Sensing Data in Urban Studies&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;July. 22, 2025:&lt;/strong&gt;
+Shaoqing Dai is serving as a co-guest editor for a Special Issue in &lt;a href=&#34;https://www.frontiersin.org/journals/remote-sensing&#34; target=&#34;_blank&#34;&gt;Frontiers in Remote Sensing&lt;/a&gt;. The issue, entitled &lt;a href=&#34;https://www.frontiersin.org/research-topics/71611/&#34; target=&#34;_blank&#34;&gt;”Machine Learning for Advanced Remote Sensing: From Theory to Applications and Societal Impact”&lt;/a&gt;, is now open for submissions.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;July. 19-20, 2025:&lt;/strong&gt;
+Shaoqing Dai, as one of co-convener of 5th International Symposium on Spatial Lifecourse Health, particularly for the &amp;ldquo;Street view images, human mobility and environmental health&amp;rdquo; session, along with Prof. Yao Yao, Associate Prof. Xingang Zhou, Dr.Yan Zhang, Dr. Jiakun Liu, led the session and delivered a presentation entitled &amp;ldquo;Sensing healthy city based on street view imagery and GeoAI&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;July. 17-18, 2025:&lt;/strong&gt;
+Shaoqing Dai, as one of the lecturers of the International Institute of Spatial Lifecourse Health Workshop, along with Prof. Jaime Hart from Harvard University, Prof.Jingjing Li, and Associate Prof. Chun Yin, will conduct a two - day training course on the concept of spatial epidemiology, causal inference, and the application of artificial intelligence in health geography.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;July. 13-16, 2025:&lt;/strong&gt;
+As a member of the 138th Postdoctoral Service Corps, Shaoqing Dai participated in the &lt;a href=&#34;https://mp.weixin.qq.com/s/swd5UNpeflP_6iJKeE27zQ&#34; target=&#34;_blank&#34;&gt;Fujian &amp;ldquo;Four-Chain Integration&amp;rdquo; Precision Matchmaking Event&lt;/a&gt;. He conducted discussions with Quanzhou Weizhi Co., Ltd. on the research topic of deep integration between large language models and spatial decision support systems. &lt;a href=&#34;https://mp.weixin.qq.com/s/66PatBhccqwnYjyCCsMNiw&#34; target=&#34;_blank&#34;&gt;This engagement received coverage from Jinjiang Television&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;July. 5, 2025:&lt;/strong&gt;
+As a co-supervisor, Shaoqing Dai was awarded the National 2nd Prize(supervisor), 9th Planning Decision Support Model Design Contest(Chengyuan Cup).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;July. 5, 2025:&lt;/strong&gt;
+Shaoqing Dai attended the 18th China-R Conference in Hong Kong University of Science and Technology (Guangzhou), Nansha, Guangzhou, Guangdong.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;July. 4, 2025:&lt;/strong&gt;
+We published a paper entitled &amp;lsquo;High-resolution population density mapping in urban areas using a contextualized geographically weighted neural network (CGWNN) model&amp;rsquo;. &lt;a href=&#34;../mycv/publication/japg-cgwnn-population&#34;&gt;This paper&lt;/a&gt; is now available on &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0143622825002036?via%3Dihub&#34; target=&#34;_blank&#34;&gt;Applied Geography&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Jun. 28, 2025:&lt;/strong&gt;
+Shaoqing Dai attended the Annual conference of The Geographical Society of Fujian, Fuzhou, Fujian, and present the published study entitled &amp;lsquo;Sensing healthy city based on street view imagery and GeoAI&amp;rsquo;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Jun. 24-26, 2025:&lt;/strong&gt;
+Shaoqing Dai attended and completed the Peking University Graduate Education Innovation Program – &amp;ldquo;Geography Frontiers 2025: Regional Environmental Processes and Health&amp;rdquo; Graduate Summer School, receiving a certificate of completion.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;May. 24-25, 2025:&lt;/strong&gt;
+Shaoqing Dai attended the 3rd China Symposium on Urban Sustainable Development in Optics Valley Kingdom Plaza Wuhan, Hubei, and present the published study entitled &amp;lsquo;The impact assessment of urban built environment on carbon-air-health nexus: a lifecourse perspective&amp;rsquo; and &amp;lsquo;Sensing healthy city based on street view imagery and GeoAI&amp;rsquo;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;May. 23, 2025:&lt;/strong&gt;
+We published a paper entitled &amp;lsquo;Identifying landscape patterns at different scales as driving factors for urban flooding&amp;rsquo;. &lt;a href=&#34;../mycv/publication/ecoi-landscape-flooding&#34;&gt;This paper&lt;/a&gt; is now available on &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1470160X25005448?via%3Dihub&#34; target=&#34;_blank&#34;&gt;Ecological Indicators&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;May. 21, 2025:&lt;/strong&gt;
+Shaoqing Dai participated as a volunteer in the student recruitment seminar held by the Graduate Office of the Institute of Urban Environment, Chinese Academy of Sciences at Wuhan University.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;May. 16, 2025:&lt;/strong&gt;
+Shaoqing Dai participated as a core team member in the 2025 Shandong Provincial Youth Research Project approval process.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;May. 13, 2025:&lt;/strong&gt;
+Shaoqing Dai attended the Initiating Meeting of Research Project of Collaborative Chronic Disease Management by Traditional Chinese and Western Medicine.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Apr. 12, 2025:&lt;/strong&gt;
+Shaoqing Dai attended the 2nd National Conference on Environmental Geosciences, Wuhan.&lt;/p&gt;&lt;/li&gt;
+
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Feb. 28, 2025:&lt;/strong&gt;
 We published a paper entitled &amp;lsquo;Built environments and obesity: A framework considering residences, commute routes, and workplaces&amp;rsquo;. In this study, we introduced an innovative framework to explore the relationships between the built environment at various geographic contexts and obesity, including residences, commuting routes, and workplaces. &lt;a href=&#34;../mycv/publication/cities-be-obesity&#34;&gt;This paper&lt;/a&gt; is now available on &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0264275125001428?via%3Dihub&#34; target=&#34;_blank&#34;&gt;Cities&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 

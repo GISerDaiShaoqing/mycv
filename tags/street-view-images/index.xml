@@ -5,12 +5,68 @@
     <link>https://gisersqdai.top/mycv/tags/street-view-images/</link>
       <atom:link href="https://gisersqdai.top/mycv/tags/street-view-images/index.xml" rel="self" type="application/rss+xml" />
     <description>Street View Images</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Sat, 13 Dec 2025 13:45:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Street View Images</title>
       <link>https://gisersqdai.top/mycv/tags/street-view-images/</link>
     </image>
+    
+    <item>
+      <title>Sensing healthy city based on multimodal data and GeoAI</title>
+      <link>https://gisersqdai.top/mycv/talk/dtdc2025talks/</link>
+      <pubDate>Sat, 13 Dec 2025 13:45:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/dtdc2025talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward health geography: from the COVID-19 pandemic to Health China</title>
+      <link>https://gisersqdai.top/mycv/talk/gischat2025talks/</link>
+      <pubDate>Sun, 30 Nov 2025 20:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/gischat2025talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensing healthy city based on multimodal data and GeoAI</title>
+      <link>https://gisersqdai.top/mycv/talk/uagdconf2025talks/</link>
+      <pubDate>Tue, 18 Nov 2025 16:15:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/uagdconf2025talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensing healthy city based on street view imagery and GeoAI</title>
+      <link>https://gisersqdai.top/mycv/talk/infogeo2025talks/</link>
+      <pubDate>Wed, 20 Aug 2025 09:15:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/infogeo2025talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensing healthy city based on street view imagery and GeoAI</title>
+      <link>https://gisersqdai.top/mycv/talk/isle2025talks/</link>
+      <pubDate>Sat, 19 Jul 2025 16:40:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/isle2025talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensing healthy city based on street view imagery and GeoAI</title>
+      <link>https://gisersqdai.top/mycv/talk/agscf2025talks/</link>
+      <pubDate>Sat, 28 Jun 2025 14:50:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/agscf2025talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensing healthy city based on street view imagery and GeoAI</title>
+      <link>https://gisersqdai.top/mycv/talk/csusd3thtalks2/</link>
+      <pubDate>Sun, 25 May 2025 14:55:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/csusd3thtalks2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Toward 3D hedonic price model for vertically developed cities using street view images and machine learning methods</title>

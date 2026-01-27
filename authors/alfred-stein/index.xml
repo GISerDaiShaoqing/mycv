@@ -5,12 +5,20 @@
     <link>https://gisersqdai.top/mycv/authors/alfred-stein/</link>
       <atom:link href="https://gisersqdai.top/mycv/authors/alfred-stein/index.xml" rel="self" type="application/rss+xml" />
     <description>Alfred Stein</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Thu, 11 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Alfred Stein</title>
       <link>https://gisersqdai.top/mycv/authors/alfred-stein/</link>
     </image>
+    
+    <item>
+      <title>Identifying landscape patterns at different scales as driving factors for urban flooding</title>
+      <link>https://gisersqdai.top/mycv/publication/ecoi-landscape-flooding/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/ecoi-landscape-flooding/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Street view imagery-based built environment auditing tools: a systematic review</title>
