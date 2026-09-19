@@ -46,9 +46,9 @@
     
     <item>
       <title>Effects of Short-Term Exposure to Air Pollutants on Real-Time Blood Pressure: A Wearable Device-Based Study in China</title>
-      <link>https://gisersqdai.top/mycv/publication/juh-airpollutant-wearble/</link>
+      <link>https://gisersqdai.top/mycv/publication/juh-airpollutant-wearable/</link>
       <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/publication/juh-airpollutant-wearble/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/juh-airpollutant-wearable/</guid>
       <description></description>
     </item>
     
@@ -130,14 +130,14 @@
 
 &lt;p&gt;&lt;strong&gt;Figure 2 Daily level PM2.5 mapping at 1-km resolution&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Table 1 The average value and 95% confidence intervals of AF causing by PM2.5 exposure&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table 1 The average value and 95% confidence intervals of AF caused by PM2.5 exposure&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&#34;left&#34;&gt;死亡原因&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;$\bar{AF}(+)$(n = 2 858)&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;$\bar{AF}(-)$(n = 2 914)&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;AF(+)(n = 2 858)&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;AF(−)(n = 2 914)&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
@@ -207,31 +207,43 @@
       <guid>https://gisersqdai.top/mycv/project/air-pollution-map/</guid>
       <description>
 
-&lt;p&gt;Air pollution became a global concern of public health and environmental govermance, especially in the developing countries. There is the need to understanding the spatio-temporal dynamics of air pollution. How to map an accurate air pollution map is the main research problem in studies of air pollution. We could explore the driver factors of air pollution based on the spatio-temmporal air pollution maps with high accuracy. We used the different methods such as spatial interpolation methods, remote sensing retrieval, machine learning and land use regression model to obatin the air pollution maps and found some interesting results. But how to intergrating the different methods is the further studies.&lt;/p&gt;
+&lt;p&gt;Air pollution has become a global concern for public health and environmental governance, especially in developing countries. Accurate air pollution maps are the foundation of exposure assessment and policy evaluation. This project builds accurate, multi-scale air pollution maps from multi-source data and machine learning, explores the driving factors behind the observed spatiotemporal dynamics, and further links the maps to population exposure and health outcomes.&lt;/p&gt;
 
-&lt;h1 id=&#34;1-drive-factors-of-pm2-5-concentration-and-map&#34;&gt;1 Drive factors of PM2.5 concentration and map&lt;/h1&gt;
+&lt;h1 id=&#34;1-driving-factors-of-pm2-5-concentration&#34;&gt;1 Driving factors of PM2.5 concentration&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-10-00521/article_deploy/html/images/remotesensing-10-00521-g005-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;What drives the spatiotemporal dynamics of PM2.5? We applied the geographical detector technique to quantify the individual and interactive explanatory power of anthropogenic, ecological, and meteorological factors at different periods, and further analyzed the long-term changes in annual average PM2.5 concentrations across Yangtze River Delta cities between 2005 and 2015. The results reveal strong interactive effects among impact factors and an evident north–south gradient of concentration changes in the YRD region.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 1. Scores for the interactive effects of impact factors sensitivity rankings at the three periods studied calculated based on simulations using multisource data&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;pm25-rs-estimates.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/atmosphere/atmosphere-10-00055/article_deploy/html/images/atmosphere-10-00055-g004-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 1. Scores for the interactive effects of impact factors sensitivity rankings at the three periods studied, calculated based on simulations using multisource data.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 2. The spatial distribution of changes in annual average PM2.5 concentrations in different YRD cities from 2005 to 2015&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;pm25-gtwr.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;2-daily-level-pm2-5-mapping-at-1-km-resolution&#34;&gt;2 Daily level PM2.5 mapping at 1-km resolution&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Figure 2. The spatial distribution of changes in annual average PM2.5 concentrations in different YRD cities from 2005 to 2015.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://gisersqdai.top/mycv/img/202010fig2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.3390/rs10040521&#34; target=&#34;_blank&#34;&gt;The geodetector study was published in &lt;em&gt;Remote Sensing&lt;/em&gt;&lt;/a&gt;, and &lt;a href=&#34;https://doi.org/10.3390/atmos10020055&#34; target=&#34;_blank&#34;&gt;the YRD driver analysis was published in &lt;em&gt;Atmosphere&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 3. Daily level PM2.5 mapping at 1-km resolution&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;2-daily-pm2-5-mapping-at-1-km-resolution&#34;&gt;2 Daily PM2.5 mapping at 1-km resolution&lt;/h1&gt;
 
-&lt;h1 id=&#34;3-health-effect-of-exposure-to-air-pollution&#34;&gt;3 Health effect of exposure to air pollution&lt;/h1&gt;
+&lt;p&gt;Station-based monitoring is too sparse to support exposure assessment. We developed a daily PM2.5 mapping approach at 1-km resolution that integrates remote sensing retrieval, meteorological fields, and land use regression, producing wall-to-wall concentration surfaces that capture day-to-day pollution dynamics, such as the heavy pollution episodes during the Spring Festival travel period.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://gisersqdai.top/mycv/img/202010fig4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;pm25-lur-map.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 4 The time variation and OD matrices of AF&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 3. Daily level PM2.5 mapping at 1-km resolution.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.11982/j.supr.20200504&#34; target=&#34;_blank&#34;&gt;The application was published in &lt;em&gt;Shanghai Urban Planning Review&lt;/em&gt; (in Chinese)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;3-health-effects-of-air-pollution-exposure&#34;&gt;3 Health effects of air pollution exposure&lt;/h1&gt;
+
+&lt;p&gt;Accurate pollution maps enable individual-level exposure assessment. Based on the mapping products, we evaluated the short-term health effects of PM2.5 exposure during the Spring Festival in 25 Yangtze River Delta cities using the population exposure metric AF and OD matrices, and further extended the exposure–health chain to long-term chemical constituents and diabesity risks in a national cohort, as well as real-time blood pressure responses measured by wearables.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;pm25-exposure.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4. The time variation and OD matrices of AF.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/tpBS511WWOWau5jHaneoZg&#34; target=&#34;_blank&#34;&gt;【建成环境与行为研究】春节期间的PM2.5污染短期暴露健康效应评估——以长三角地区25个城市为例 | 上海城市规划&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.lanwpc.2024.101100&#34; target=&#34;_blank&#34;&gt;The cohort study was published in &lt;em&gt;The Lancet Regional Health – Western Pacific&lt;/em&gt;&lt;/a&gt;, and &lt;a href=&#34;https://doi.org/10.1007/s11524-025-01017-3&#34; target=&#34;_blank&#34;&gt;the wearable study was published in &lt;em&gt;Journal of Urban Health&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

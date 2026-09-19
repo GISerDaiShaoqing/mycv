@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="We used machine learning, spatial statistics, ecological process model and remote sensing to construct map of urban carbon cycle.">
+  <meta name="description" content="We used machine learning, spatial statistics, ecological process models, and remote sensing to construct maps of the urban carbon cycle.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://gisersqdai.top/mycv/project/urban-carbon-cycle/">
@@ -114,7 +114,7 @@
   <meta property="og:site_name" content="Shaoqing Dai">
   <meta property="og:url" content="https://gisersqdai.top/mycv/project/urban-carbon-cycle/">
   <meta property="og:title" content="Urban Carbon Cycle | Shaoqing Dai">
-  <meta property="og:description" content="We used machine learning, spatial statistics, ecological process model and remote sensing to construct map of urban carbon cycle."><meta property="og:image" content="https://gisersqdai.top/mycv/project/urban-carbon-cycle/featured.jpg">
+  <meta property="og:description" content="We used machine learning, spatial statistics, ecological process models, and remote sensing to construct maps of the urban carbon cycle."><meta property="og:image" content="https://gisersqdai.top/mycv/project/urban-carbon-cycle/featured.jpg">
   <meta property="twitter:image" content="https://gisersqdai.top/mycv/project/urban-carbon-cycle/featured.jpg"><meta property="og:locale" content="en-us">
   
     
@@ -168,7 +168,7 @@
       "url": "https://gisersqdai.top/mycv/img/site.png"
     }
   },
-  "description": "We used machine learning, spatial statistics, ecological process model and remote sensing to construct map of urban carbon cycle."
+  "description": "We used machine learning, spatial statistics, ecological process models, and remote sensing to construct maps of the urban carbon cycle."
 }
 </script>
 
@@ -688,39 +688,6 @@
 
 
 
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-</div>
-
 
 </div>
 
@@ -739,69 +706,67 @@
     <div class="article-style">
       
 
-<p>Cities are typical sources of carbon and a focus of climate-change mitigation. Although there is great potential for reducing emissions in cities, constructing low-carbonemission cities under the carbon-emission reduction target of the 2016 Paris Agreement remains challenging as there is little scientific evidence for use by government decisionmakers. To solve this problem, we must understand the urban carbon-cycle process in greater detail and especially analyze spatiotemporal variations in carbon sources and sinks.</p>
+<p>Cities are typical sources of carbon and a focus of climate-change mitigation. Although there is great potential for reducing emissions in cities, constructing low-carbon emission cities under the carbon-emission reduction target of the 2016 Paris Agreement remains challenging, as there is little scientific evidence for use by government decision-makers. To solve this problem, we must understand the urban carbon-cycle process in greater detail, especially the spatiotemporal variations in carbon sources and sinks. This project maps the urban carbon cycle from both directions: accurate carbon-sink mapping driven by forest inventory and machine learning, fine-scale CO₂ emission mapping with uncertainty assessment, the relationships between CO₂ emissions and urban form, and the application-oriented local carbon emission zone construction.</p>
 
-<h1 id="1-carbon-sink-map">1 Carbon sink map</h1>
+<h1 id="1-carbon-sink-mapping-with-machine-learning-and-spatial-statistics">1 Carbon sink mapping with machine learning and spatial statistics</h1>
 
-<p>The forest is the only exact carbon sink. How to map the accurate carbon sink maps? Firstly, we propose herein a low-cost method that combines machine learning and spatial statistics to construct a regional biomass map from non-representative sample units. Secondly, we scaled up an ecological process model to obtain the spatial distribution of regional biomass. Finally, we used some data assimilation technology by these data.</p>
+<p>Forests are the only precisely measurable carbon sink. How can we map carbon sinks accurately at low cost? We proposed a combined approach that fuses machine learning with spatial statistics to construct a regional biomass map from non-representative sample units: three machine learning models (SVM, RBF-ANN, and RF) generate plot-level estimates, which are then scaled up through the P-BSHADE spatial statistical model. The combined models outperformed single models in accuracy, providing a practical pathway from sparse field inventory to wall-to-wall biomass mapping.</p>
 
-<p><img src="https://www.mdpi.com/forests/forests-12-01663/article_deploy/html/images/forests-12-01663-g002-550.jpg" alt="" /></p>
+<p><img src="ml-pbshade-framework.jpg" alt="" /></p>
 
-<p><strong>Figure 1 Framework for estimating (a–c) the machine learning models, (d) the P-BSHADE model, and the three models that combine machine learning with the P-BSHADE model ((a,d), (b,d) and (c,d)).</strong></p>
+<p><strong>Figure 1. The framework for estimating (a–c) the machine learning models, (d) the P-BSHADE model, and the three models that combine machine learning with the P-BSHADE model ((a,d), (b,d) and (c,d)).</strong></p>
 
-<p><a href="https://mp.weixin.qq.com/s?__biz=MzUxOTAwODQ4MA==&amp;mid=2247486720&amp;idx=1&amp;sn=425389e7844aa4b89cdd2c63027b7522&amp;chksm=f981748fcef6fd9979aefda213c091d38fec068dfcd9629fb92393fcad9d40d20226886e7e36&amp;scene=126&amp;sessionid=1689882541#rd" target="_blank">【动态】城市环境研究所在提升森林样地水平地上生物量的估算精度方面取得进展</a></p>
+<p><img src="biomass-accuracy.jpg" alt="" /></p>
 
-<p><img src="http://science.gisersqdai.top/figcs.jpg" alt="" /></p>
+<p><strong>Figure 2. The accuracy of different methods for biomass estimation.</strong></p>
 
-<p><strong>Figure 2. The accuracy of different methods for biomass estimation</strong></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzUxOTAwODQ4MA==&amp;mid=2247486720&amp;idx=1&amp;sn=425389e7844aa4b89cdd2c63027b7522&amp;chksm=f981748fcef6fd9979aefda213c091d38fec068dfcd9629fb92393fcad9d40886e7e36&amp;scene=126&amp;sessionid=1689882541#rd" target="_blank">【动态】城市环境研究所在提升森林样地水平地上生物量的估算精度方面取得进展</a></p>
 
-<h1 id="2-carbon-source-map">2 Carbon source map</h1>
+<p><a href="https://doi.org/10.3390/f12121663" target="_blank">The paper was published in <em>Forests</em></a></p>
 
-<p>Cities are the main sources of $CO_2$ emissions and, thus, must abate emissions responsibly. About 50% of urban $CO_2$ emissions was attributed to urban forms, mixed land use, building types, and transportation networks.  It is necessary to characterize the pixel-based distribution of urban direct $CO_2$ emissions accurately. But large uncertainties was found at the urban scale, it&rsquo;s important to analyze the uncertainties of $CO_2$ emissions gridded map at the urban scale. Besides, exlporing the relationship between $CO_2$ emissions and urban form is useful for planning.</p>
+<h1 id="2-gridded-co₂-emission-maps-and-uncertainty-assessment">2 Gridded CO₂ emission maps and uncertainty assessment</h1>
 
-<p>We used a general hybrid approach based on global downscaled and bottom-up elements to produce the CO$_2$ emissions gridded maps, identitfied the urban functional districts map, and generated the city-scale effect related impact factors. All the maps were included in a spatial database. Detailed information can see <a href="http://science.gisersqdai.top/DIB/DIBdata.html" target="_blank">it</a>.</p>
+<p>Cities are the main sources of CO₂ emissions and thus must abate emissions responsibly. We produced fine-scale (residential and transport) CO₂ emission gridded maps by fusing global downscaled and bottom-up elements, and compared them with existing inventories to verify the spatial patterns. Because large uncertainties exist at the urban scale, we further proposed an analytic workflow based on Monte Carlo simulation and bootstrap sampling to quantify the uncertainties propagated from the gridded model and the spatial proxies, finding that fine-resolution (30 m) maps carry a higher degree of uncertainty propagation.</p>
 
-<p><img src="http://science.gisersqdai.top/CO2compare.gif" alt="" /></p>
+<p><img src="co2-gridded-compare.gif" alt="" /></p>
 
-<p><strong>Figure 3. Comparison between our $CO_2$ emission griddedmap and other inventories</strong></p>
+<p><strong>Figure 3. Comparison between our CO₂ emission gridded map and other inventories.</strong></p>
 
-<p>We assessed the uncertainty of CO$_2$ emissions gridded maps during the gridded proceess using our proposed analytic workflow and published in <em>Remote Sensing</em>. Detailed information can see <a href="http://science.gisersqdai.top/RSunco2/rsbrief.html" target="_blank">it</a>.</p>
+<p><img src="co2-uncertainty-maps.gif" alt="" /></p>
 
-<p><img src="https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-ag-550.jpg" alt="" /></p>
-
-<p><strong>Figure 3. Graphical abstract</strong></p>
-
-<p><img src="https://raw.githubusercontent.com/GISerDaiShaoqing/manuscript_co2_gridded_uncertainty_RS/master/figure/CO2UN.gif" alt="" /></p>
-
-<p><strong>Figure 4. The $CO_2$ gridded emissions maps and uncertainty maps</strong></p>
+<p><strong>Figure 4. The CO₂ gridded emissions maps and uncertainty maps.</strong></p>
 
 <p><a href="https://mp.weixin.qq.com/s/54E8KZkWs2cdp1p2mdlaOg" target="_blank">[动态]城市环境研究所在城市尺度二氧化碳排放网格制图的不确定性传播分析取得研究进展</a></p>
 
-<h1 id="3-the-relation-between-co-2-emissions-and-urban-form">3 The relation between CO$_2$ emissions and urban form</h1>
+<p><a href="https://doi.org/10.1016/j.dib.2020.105274" target="_blank">The database paper was published in <em>Data in Brief</em></a>, and <a href="https://doi.org/10.3390/rs12233932" target="_blank">the uncertainty analysis was published in <em>Remote Sensing</em></a></p>
 
-<p>Understanding the spatial or temporal distribution of carbon cycle including carbon sink and source is the key to design low-carbon city development policy. We compared the relationships between urban form fragmentation and CO$_2$ emissions in an urban system through the analytic framework composed of the Pearson correlation analysis, geographically weighted regression (GWR), and geographical detector methods with the use of multi-source data to construct the CO$_2$ emissions maps. The analytical framework can be applied to CO$_2$ emissions research in urban agglomerations, megacities, and small towns.</p>
+<h1 id="3-co₂-emissions-and-urban-form">3 CO₂ emissions and urban form</h1>
 
-<p><img src="http://science.gisersqdai.top/JCLP/JCLP.jpg" alt="" /></p>
+<p>Understanding the spatial distribution of CO₂ emissions is the key to designing low-carbon city development policies. We compared the relationships between urban form fragmentation and CO₂ emissions through an analytic framework composed of Pearson correlation analysis, geographically weighted regression (GWR), and the geographical detector method. The results show that urban form indicators—especially the functional mixed entropy—significantly drive CO₂ emissions, with clear spatial heterogeneity across 31 Chinese cities, and the framework can be applied to urban agglomerations, megacities, and small towns.</p>
 
-<p><strong>Figure 6. Analytical Framework</strong></p>
+<p><img src="jclp-framework.jpg" alt="" /></p>
 
-<p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0959652619335292-gr7.jpg" alt="" /></p>
+<p><strong>Figure 5. The analytical framework.</strong></p>
 
-<p><strong>Figure 7. Geographical detector results for fragmentation factors, PUA, and POID for CO$_2$ emissions from 4 sources.</strong></p>
+<p><img src="geo-detector-results.jpg" alt="" /></p>
 
-<p>This research uses remote sensing data and downscaling interpolation to generate residential and transport (RTCE) maps in 130 m spatial resolution of urban center regions from 31 major cities in China, then investigates the relationship between 3 types of urban form indicators (Internal characteristics, external morphology, and development intensity) and RTCE through Geographical Weighted Regression method. The results reveal that urban form indicators could explain about 45.9% of RTCE. The 2D building shape indicator has the second greatest positive impact as the external morphology indicator, which complicates the influence. The internal characteristics indicators have relatively strong influences than the development intensity indicators. For instance, the influence of functional mixed entropy (FME) is the greatest positive influence and decreases exponentially with FME increases.</p>
+<p><strong>Figure 6. Geographical detector results for fragmentation factors, PUA, and POID for CO₂ emissions from 4 sources.</strong></p>
 
-<p><img src="http://www.iue.cas.cn/xwzx/kydt/202211/W020221125307842798054.jpg" alt="" /></p>
+<p><img src="fme-gwr.jpg" alt="" /></p>
 
-<p><strong>Figure 8. The relation between the functional mixed entropy and the GWR mean regression coefficients in 31 cities. The red, yellow, light blue and blue dot represents the Type Ⅰ, Ⅱ, Ⅲ and Ⅳ city, respectively. The numbers follow the city names represent the size order of the urban area. Point A, B and C are hypothetical.</strong></p>
+<p><strong>Figure 7. The relation between the functional mixed entropy and the GWR mean regression coefficients in 31 cities. The red, yellow, light blue and blue dots represent the Type I, II, III and IV city, respectively.</strong></p>
+
+<p><a href="https://doi.org/10.1016/j.jclepro.2019.118659" target="_blank">The paper was published in <em>Journal of Cleaner Production</em></a></p>
 
 <h1 id="4-local-carbon-emission-zone-construction">4 Local carbon emission zone construction</h1>
 
-<p>We constructed the local carbon emission zone (LCEZ) which links the highly urbanization morphology profiles and CO$_2$ emission intensity to favor summarizing the form characteristics for the low CO$_2$ emission control in new communities.</p>
+<p>To link research findings with planning practice, we constructed the local carbon emission zone (LCEZ), which links highly urbanized morphology profiles with CO₂ emission intensity to summarize the form characteristics for low-emission control in new communities, providing an operational bridge from carbon mapping to urban design guidelines.</p>
 
-<p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S036013232301034X-gr2.jpg" alt="" /></p>
+<p><img src="lcez-flowchart.jpg" alt="" /></p>
 
-<p><strong>Figure 9. The flowchart of the LCEZ construction. Step 1: Luojia1-01 night light image data is the proxy variable of the RTCE map. GWR is geographically weighted regression. Step 2: L is low. M is medium. H is high. the solid line is the three key factors. The dotted line means that n key factors can be selected in the future. The point is POI. the column is BF. the line is RD. A&amp;B represents Dense&amp;sparse forests. C&amp;D represents Farmland&amp;grassland&amp;wetland. G represents the water body.</strong></p>
+<p><strong>Figure 8. The flowchart of the LCEZ construction. Step 1: Luojia1-01 night light image data is the proxy variable of the RTCE map. GWR is geographically weighted regression. Step 2: L is low, M is medium, and H is high; the solid line represents the three key factors; the point is POI; the column is BF; and the line is RD.</strong></p>
+
+<p><a href="https://doi.org/10.1016/j.buildenv.2023.111007" target="_blank">The paper was published in <em>Building and Environment</em></a></p>
 
     </div>
 
@@ -1117,7 +1082,7 @@
       
       <li><a href="/mycv/publication/undergraduatethesis/">The Planning Location and Design of Smart Campus Based on BIM and GIS：A Case Study of Fujian Normal University</a></li>
       
-      <li><a href="/mycv/publication/urban-spatial-development-beijing/">The Analysis of Urban Spatial Development Pattern in Beijing Based on the Big Data of Government(Chinese)</a></li>
+      <li><a href="/mycv/project/spatial-lifecourse-health/">Spatial Lifecourse Health</a></li>
       
     </ul>
   </div>
@@ -1162,7 +1127,126 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/mycv/publication/bae-local-carbon-emission-zone/" >Local carbon emission zone construction in the highly urbanized regions: Application of residential and transport CO$_2$ emissions in Shanghai, China</a>
+      <a href="/mycv/publication/forests-agb-marginal-rs/" >Evaluating the Marginal Contribution of Remote Sensing for Forest Biomass Estimation When Inventory Data Exists</a>
+    </h3>
+
+    
+    <div class="article-style">
+      A critical assessment showing that when high-quality forest inventory data exist, adding optical remote sensing brings only marginal …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span><a href="/mycv/authors/xiaoman-zheng/">Xiaoman Zheng</a></span>, <span><a href="/mycv/authors/ying-su/">Ying Su</a></span>, <span><a href="/mycv/authors/yunxia-wang/">Yunxia Wang</a></span>, <span><a href="/mycv/authors/shaoqing-dai/"><strong>Shaoqing Dai</strong></a></span>, <span><a href="/mycv/authors/yufeng-chi/">Yufeng Chi</a></span>, <span><a href="/mycv/authors/guanjun-lin/">Guanjun Lin</a></span>, <span><a href="/mycv/authors/yin-ren/">Yin Ren</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/202608.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/mycv/publication/forests-agb-marginal-rs/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/project/urban-carbon-cycle/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.3390/f17091094" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/mycv/publication/forests-agb-marginal-rs/" >
+      <img src="/mycv/publication/forests-agb-marginal-rs/featured_hu8b9902d7d8a1c1844ac9d33463b538fd_163713_150x0_resize_q90_lanczos.jpg" alt="">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/mycv/publication/bae-local-carbon-emission-zone/" >Local carbon emission zone construction in the highly urbanized regions: Application of residential and transport CO₂ emissions in Shanghai, China</a>
     </h3>
 
     
@@ -1591,7 +1675,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/mycv/publication/jclp-importance-mixed-urban-function/" >The importance of the functional mixed entropy for the explanation of residential and transport CO$_2$ emissions in the urban center of China</a>
+      <a href="/mycv/publication/jclp-importance-mixed-urban-function/" >The importance of the functional mixed entropy for the explanation of residential and transport CO₂ emissions in the urban center of China</a>
     </h3>
 
     
@@ -1872,12 +1956,12 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/mycv/publication/uncertainty-propogation-co2-map-rs/" >Investigating the Uncertainties Propagation Analysis of CO$_2$ Emissions Gridded Maps at the Urban Scale: A Case Study of Jinjiang City, China</a>
+      <a href="/mycv/publication/uncertainty-propagation-co2-map-rs/" >Investigating the Uncertainties Propagation Analysis of CO₂ Emissions Gridded Maps at the Urban Scale: A Case Study of Jinjiang City, China</a>
     </h3>
 
     
     <div class="article-style">
-      Cities play an essential role in low-carbon development. However, Estimating CO$_2$ emissions at the urban scale, including both …
+      Cities play an essential role in low-carbon development. However, Estimating CO₂ emissions at the urban scale, including both …
     </div>
     
 
@@ -1922,7 +2006,7 @@
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/mycv/publication/uncertainty-propogation-co2-map-rs/cite.bib">
+        data-filename="/mycv/publication/uncertainty-propagation-co2-map-rs/cite.bib">
   Cite
 </button>
 
@@ -2014,8 +2098,8 @@
     
     
     
-    <a href="/mycv/publication/uncertainty-propogation-co2-map-rs/" >
-      <img src="/mycv/publication/uncertainty-propogation-co2-map-rs/featured_huf7332127a26eec94e0bf04733f01e947_4563694_150x0_resize_q90_lanczos.jpg" alt="">
+    <a href="/mycv/publication/uncertainty-propagation-co2-map-rs/" >
+      <img src="/mycv/publication/uncertainty-propagation-co2-map-rs/featured_huf7332127a26eec94e0bf04733f01e947_4563694_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -2047,7 +2131,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/mycv/publication/high-resolution-co2-map-dib/" >A spatial database of CO$_2$ emissions, urban form fragmentation and city-scale effect related impact factors for the low carbon urban system in Jinjiang city, China</a>
+      <a href="/mycv/publication/high-resolution-co2-map-dib/" >A spatial database of CO₂ emissions, urban form fragmentation and city-scale effect related impact factors for the low carbon urban system in Jinjiang city, China</a>
     </h3>
 
     
@@ -2177,7 +2261,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/mycv/publication/relationship-co2-fragmentation-jclp/" >More fragmentized urban form more CO$_2$ emissions? A comprehensive relationship from the combination analysis across different scales</a>
+      <a href="/mycv/publication/relationship-co2-fragmentation-jclp/" >More fragmentized urban form more CO₂ emissions? A comprehensive relationship from the combination analysis across different scales</a>
     </h3>
 
     
@@ -2432,6 +2516,136 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
+      <a href="/mycv/publication/gis-pv-energy/" >A GIS-based high spatial resolution assessment of large-scale PV generation potential in China</a>
+    </h3>
+
+    
+    <div class="article-style">
+      The achievement of temperature control target requires a low carbon transition of global energy structure. While China is actively …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span><a href="/mycv/authors/qing-yang/">Qing Yang</a></span>, <span><a href="/mycv/authors/tianyue-huang/">Tianyue Huang</a></span>, <span><a href="/mycv/authors/saige-wang/">Saige Wang</a></span>, <span><a href="/mycv/authors/jiashuo-li/">Jiashuo Li</a></span>, <span><a href="/mycv/authors/shaoqing-dai/"><strong>Shaoqing Dai</strong></a></span>, <span><a href="/mycv/authors/sebastian-wright/">Sebastian Wright</a></span>, <span><a href="/mycv/authors/yuxuan-wang/">Yuxuan Wang</a></span>, <span><a href="/mycv/authors/huaiwu-peng/">Huaiwu Peng</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/201902.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/mycv/publication/gis-pv-energy/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/project/urban-carbon-cycle/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.apenergy.2019.04.005" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://mp.weixin.qq.com/s/O4dPIqwVhTEb7OMN42qkDg" target="_blank" rel="noopener">
+    
+    Wechat article
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
       <a href="/mycv/publication/improved-biomass-map-ei-meeting/" >Improving the prediction accuracy of forest aboveground biomass benchmark map by integrating machine learning and spatial statistics</a>
     </h3>
 
@@ -2536,7 +2750,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/mycv/publication/high-resolution-co2-map-ei-meeting/" >High-resolution mapping of direct CO$_2$ emissions and uncertainties at the urban scale</a>
+      <a href="/mycv/publication/high-resolution-co2-map-ei-meeting/" >High-resolution mapping of direct CO₂ emissions and uncertainties at the urban scale</a>
     </h3>
 
     
@@ -2779,7 +2993,7 @@
 
     
     <div class="article-style">
-      To introduce the how to explore the impact factors of uncertainties for urban carbon dioxide.
+      To introduce how to explore the impact factors of uncertainties for urban carbon emissions.
     </div>
     
 
@@ -2905,12 +3119,12 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/mycv/talk/sa2018talks/" >High-Resolution Mapping of Direct CO$_2$ Emissions and Uncertainties at the Urban Scale</a>
+      <a href="/mycv/talk/sa2018talks/" >High-Resolution Mapping of Direct CO₂ Emissions and Uncertainties at the Urban Scale</a>
     </h3>
 
     
     <div class="article-style">
-      This study gridded the CO$_2$ Emissions at the urban scale and quantified the uncertainties.
+      To introduce our study on gridded CO₂ emissions at the urban scale and the quantification of the uncertainties.
     </div>
     
 

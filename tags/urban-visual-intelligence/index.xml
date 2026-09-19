@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Urban Visual Intelligence | Shaoqing Dai</title>
+    <link>https://gisersqdai.top/mycv/tags/urban-visual-intelligence/</link>
+      <atom:link href="https://gisersqdai.top/mycv/tags/urban-visual-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Urban Visual Intelligence</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gisersqdai.top/mycv/img/site.png</url>
+      <title>Urban Visual Intelligence</title>
+      <link>https://gisersqdai.top/mycv/tags/urban-visual-intelligence/</link>
+    </image>
+    
+    <item>
+      <title>Toward precision urban resilience: Integrating multimodal large language models with spatial analytics for fire risk governance</title>
+      <link>https://gisersqdai.top/mycv/publication/cities-mllm-fire-risk/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/cities-mllm-fire-risk/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. Research framework.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding multi-perspective urban green space patterns under urban expansion: Evidence from Guangzhou</title>
+      <link>https://gisersqdai.top/mycv/publication/scs-green-space-expansion/</link>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/scs-green-space-expansion/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. Research framework.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bridging street view coverage disparities through geographic identity preserving generation from satellite view</title>
+      <link>https://gisersqdai.top/mycv/publication/isprs-street-view-generation/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/isprs-street-view-generation/</guid>
+      <description>
+
+&lt;h4 id=&#34;uneven-street-view-coverage&#34;&gt;Uneven Street View Coverage&lt;/h4&gt;
+
+&lt;p&gt;Street view imagery (SVI) provides a human-centric view of urban environments and is widely used to analyze greenery, mobility, socioeconomic conditions, health outcomes, and safety perception. Its global coverage, however, is highly uneven: published SVI studies concentrate in the United States and Europe, while developing regions across Asia, Africa, and South America remain systematically underrepresented, which limits the inclusiveness of SVI-based analytics and can introduce systematic bias into urban analysis outcomes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. Street view imagery coverage in selected cities.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;the-geoidentity-sat2street-framework&#34;&gt;The GeoIdentity-Sat2Street Framework&lt;/h4&gt;
+
+&lt;p&gt;We propose GeoIdentity-Sat2Street, a geographic identity preserving framework that leverages satellite imagery to expand SVI coverage. A polar-transformation conditional GAN first synthesizes plausible street view perspectives, and a diffusion-based generator then refines them conditioned on semantic captions, location metadata, and structural priors. This two-step design enforces geometric consistency while explicitly preserving geographic identity, an overlooked but critical aspect of urban distinctiveness.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;sat2street-framework.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2. The framework for geographic identity preserving street view imagery generation. Step 1 converts satellite images into an initial SVI providing the basic street view geometry; Step 2 refines it with depth, edges, text descriptions, and location cues.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;evaluation-and-the-multicities-dataset&#34;&gt;Evaluation and the MultiCities Dataset&lt;/h4&gt;
+
+&lt;p&gt;On the classic CVUSA and CVACT cross-view benchmarks, the framework achieves the highest SSIM (0.427 and 0.537), the lowest LPIPS (0.345 and 0.317), and the best mIoU (0.054) among baselines. To assess geographic identity fidelity, we constructed the MultiCities Dataset, a benchmark of 50,000 paired satellite-street-view images across five cities on five continents. An automated GPT-4o evaluation pipeline, with GPT-4o acting successively as Evaluator and Inspector, provides task-specific quantitative and qualitative assessments.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;gpt-eval-pipeline.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3. Automated evaluation pipeline for street view imagery generation using GPT-4o, where GPT-4o acts as Evaluator A and Inspector B in a two-stage assessment.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Quantitative results on the CVUSA benchmark show that our method achieves the best SSIM, MS-SSIM, LPIPS, and KID among the compared models:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Model&lt;/th&gt;
+&lt;th&gt;PSNR&lt;/th&gt;
+&lt;th&gt;SSIM&lt;/th&gt;
+&lt;th&gt;MS-SSIM&lt;/th&gt;
+&lt;th&gt;Edge_IoU&lt;/th&gt;
+&lt;th&gt;mIoU&lt;/th&gt;
+&lt;th&gt;LPIPS&lt;/th&gt;
+&lt;th&gt;KID&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Ours&lt;/td&gt;
+&lt;td&gt;14.565&lt;/td&gt;
+&lt;td&gt;0.427&lt;/td&gt;
+&lt;td&gt;0.438&lt;/td&gt;
+&lt;td&gt;0.131&lt;/td&gt;
+&lt;td&gt;0.052&lt;/td&gt;
+&lt;td&gt;0.345&lt;/td&gt;
+&lt;td&gt;0.086&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ComingDownToEarth&lt;/td&gt;
+&lt;td&gt;14.032&lt;/td&gt;
+&lt;td&gt;0.233&lt;/td&gt;
+&lt;td&gt;0.363&lt;/td&gt;
+&lt;td&gt;0.153&lt;/td&gt;
+&lt;td&gt;0.054&lt;/td&gt;
+&lt;td&gt;0.355&lt;/td&gt;
+&lt;td&gt;0.066&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;InstructPix2Pix&lt;/td&gt;
+&lt;td&gt;12.501&lt;/td&gt;
+&lt;td&gt;0.339&lt;/td&gt;
+&lt;td&gt;0.236&lt;/td&gt;
+&lt;td&gt;0.056&lt;/td&gt;
+&lt;td&gt;0.040&lt;/td&gt;
+&lt;td&gt;0.539&lt;/td&gt;
+&lt;td&gt;0.040&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;CrossMLP&lt;/td&gt;
+&lt;td&gt;15.119&lt;/td&gt;
+&lt;td&gt;0.356&lt;/td&gt;
+&lt;td&gt;0.364&lt;/td&gt;
+&lt;td&gt;0.077&lt;/td&gt;
+&lt;td&gt;0.055&lt;/td&gt;
+&lt;td&gt;0.442&lt;/td&gt;
+&lt;td&gt;0.055&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Table 1. Quantitative results on the CVUSA benchmark for evaluating generalization quality.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The model attains the highest Silhouette Score (0.222) and lowest inter-city variance (0.031), with clearly separated clusters in t-SNE, and GPT-based evaluation further confirms realism and semantic alignment. Qualitative comparisons across the five cities show that our results reproduce regionally distinctive streetscapes more faithfully than the baselines.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;qualitative-comparison.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4. Qualitative comparison of street view imagery generation across five cities in the MultiCities Dataset.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;toward-globally-representative-urban-analytics&#34;&gt;Toward Globally Representative Urban Analytics&lt;/h4&gt;
+
+&lt;p&gt;Applying the framework to Kathmandu, Nepal improves usable street-view coverage by about 28%, moving from 72% partial coverage toward dense roadside coverage. The side-by-side comparison shows that the generated street views closely match the real urban scenes, indicating that identity preserving satellite-to-street generation offers a scalable way to fill coverage gaps in data-scarce regions and paves the way for more globally representative and equitable urban analytics.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;kathmandu-comparison.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 5. Side-by-side comparison of real and synthesized street view in Kathmandu.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Urban Visual Intelligence</title>
+      <link>https://gisersqdai.top/mycv/project/urban-visual-intelligence/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/project/urban-visual-intelligence/</guid>
+      <description>
+
+&lt;p&gt;Street view imagery (SVI) provides an eye-level, human-centric record of urban environments, capturing pedestrian-experience features such as greenery, facades, and safety-related cues that satellite imagery cannot observe. This project develops &lt;strong&gt;urban visual intelligence&lt;/strong&gt;: turning massive street-level imagery into measurable, explainable, and actionable urban knowledge. The research covers the full chain from data coverage and generation, visual auditing of built environments, eye-level greenery and multi-source urban analysis, to visual-semantic urban governance with large language models. It is also the methodological backbone of my PhD research on improving obesogenic environmental assessments with advanced geospatial methods.&lt;/p&gt;
+
+&lt;h1 id=&#34;1-street-view-data-coverage-and-generation&#34;&gt;1 Street view data coverage and generation&lt;/h1&gt;
+
+&lt;p&gt;The global coverage of SVI is highly uneven: published studies concentrate in the United States and Europe, while developing regions across Asia, Africa, and South America remain systematically underrepresented, which limits the inclusiveness of SVI-based analytics. We proposed GeoIdentity-Sat2Street, a geographic identity preserving framework that generates street view imagery from satellite views by coupling a polar-transformation conditional GAN with a diffusion-based generator, and constructed the MultiCities Dataset, a benchmark of 50,000 paired satellite-street-view images across five cities on five continents. Applying the framework to Kathmandu, Nepal improved usable street-view coverage by about 28%, showing a scalable way toward globally representative urban analytics.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;svi-coverage-framework.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. Uneven street view imagery coverage in selected cities (top) and the GeoIdentity-Sat2Street generation framework (bottom).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.isprsjprs.2026.03.049&#34; target=&#34;_blank&#34;&gt;The paper was published in &lt;em&gt;ISPRS Journal of Photogrammetry and Remote Sensing&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;2-visual-auditing-of-built-environments&#34;&gt;2 Visual auditing of built environments&lt;/h1&gt;
+
+&lt;p&gt;How can SVI be used to audit built environments in a systematic and reproducible way? We conducted a systematic review of street view imagery-based built environment auditing tools, synthesizing the auditing dimensions (eye-level and sky-view angles), the detection and segmentation models behind them, and their applications across countries and research groups. Furthermore, we extended the auditing from 2D facades to 3D vertical cities by developing a 3D hedonic price model (3D HPM) that quantifies vertical urban features from SVI with machine learning for vertically developed cities.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;bea-tools.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2. An overview of the studies using different built environment auditing tools in different countries.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;svi-3dhpm.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3. Illustrations of SVI sampling and the eye-level and sky-view angles (a)-(e).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1080/13658816.2024.2336034&#34; target=&#34;_blank&#34;&gt;The review was published in &lt;em&gt;IJGIS&lt;/em&gt;&lt;/a&gt;, and &lt;a href=&#34;https://doi.org/10.1016/j.habitatint.2025.103288&#34; target=&#34;_blank&#34;&gt;the 3D HPM study was published in &lt;em&gt;Habitat International&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;3-eye-level-greenery-and-multi-source-urban-analysis&#34;&gt;3 Eye-level greenery and multi-source urban analysis&lt;/h1&gt;
+
+&lt;p&gt;Eye-level greenery often diverges from what aerial indicators suggest. We introduced a multi-perspective framework integrating the aerial perspective (NDVI) and the human-centric perspective (GVI) with urban morphological, socioeconomic, and topographic indicators, revealing how urban expansion reshapes the spatial relationships between urban green space and urban morphology in Guangzhou. We also fused SVI-based semantic segmentation with multi-source geospatial big data to assess the spatiotemporal dynamics of bikeability in Xiamen, evaluating daily safety, comfort, accessibility, and vitality of street cycling environments.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;ugs-framework.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4. Research framework of the multi-perspective urban green space analysis.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;bikeability.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 5. The bikeability assessment: the study area of Xiamen Island, the proposed framework, the daily bikeability maps (December 21st–25th), and the field validation with street-level photos.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.scs.2026.107534&#34; target=&#34;_blank&#34;&gt;The Guangzhou study was published in &lt;em&gt;Sustainable Cities and Society&lt;/em&gt;&lt;/a&gt;, and &lt;a href=&#34;https://doi.org/10.1016/j.jag.2023.103539&#34; target=&#34;_blank&#34;&gt;the bikeability study was published in &lt;em&gt;International Journal of Applied Earth Observation and Geoinformation&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;4-visual-semantic-urban-governance-with-large-language-models&#34;&gt;4 Visual-semantic urban governance with large language models&lt;/h1&gt;
+
+&lt;p&gt;Fine-grained fire hazards, such as cluttered wires or illicit ebike charging, are invisible to conventional POI-based risk indicators. We developed a visual-semantic risk indicator system that uses multimodal large language models (MLLMs) to extract fire-hazard features from street-view and remote-sensing imagery, and integrated these features into a geographically weighted XGBoost model for fire risk governance in Wuhan. The framework distinguishes urban areas that appear similar in static indicators but differ substantially in micro-scale hazard conditions, and scenario simulations show that interventions targeting informal practices in transitional areas produce the greatest reductions in fire risk.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;fire-risk.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 6. Research framework of the MLLM-based urban fire risk governance.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.cities.2026.107449&#34; target=&#34;_blank&#34;&gt;The paper was published in &lt;em&gt;Cities&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

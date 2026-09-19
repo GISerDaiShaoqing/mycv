@@ -5,12 +5,34 @@
     <link>https://gisersqdai.top/mycv/tags/landscape-ecology/</link>
       <atom:link href="https://gisersqdai.top/mycv/tags/landscape-ecology/index.xml" rel="self" type="application/rss+xml" />
     <description>Landscape Ecology</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Sat, 04 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Mon, 14 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Landscape Ecology</title>
       <link>https://gisersqdai.top/mycv/tags/landscape-ecology/</link>
     </image>
+    
+    <item>
+      <title>Evaluating the Marginal Contribution of Remote Sensing for Forest Biomass Estimation When Inventory Data Exists</title>
+      <link>https://gisersqdai.top/mycv/publication/forests-agb-marginal-rs/</link>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/forests-agb-marginal-rs/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. Workflow of the study. SA = stand age, CC = canopy cover, T = temperature, P = precipitation, ELE = elevation, SDE = soil depth, SVR = Support Vector Regression, RF = Random Forest, MLP = Multi-Layer Perceptron.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding multi-perspective urban green space patterns under urban expansion: Evidence from Guangzhou</title>
+      <link>https://gisersqdai.top/mycv/publication/scs-green-space-expansion/</link>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/scs-green-space-expansion/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. Research framework.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Assessing Variations in River Networks Under Urbanization Across Metropolitan Plains Using a Multi-Metric Approach</title>
@@ -37,7 +59,24 @@
     </item>
     
     <item>
-      <title>More fragmentized urban form more CO$_2$ emissions? A comprehensive relationship from the combination analysis across different scales</title>
+      <title>Long-Term Dynamic Monitoring and Driving Force Analysis of Eco-Environmental Quality in China</title>
+      <link>https://gisersqdai.top/mycv/publication/long-term-ecoquality-rs/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/long-term-ecoquality-rs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refined water security assessment for sustainable water management: A case study of 15 key cities in the Yangtze River Delta, China</title>
+      <link>https://gisersqdai.top/mycv/publication/jem-water-security/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/jem-water-security/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ars-els-cdn-com.ezproxy2.utwente.nl/content/image/1-s2.0-S0301479721006502-ga1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>More fragmentized urban form more CO₂ emissions? A comprehensive relationship from the combination analysis across different scales</title>
       <link>https://gisersqdai.top/mycv/publication/relationship-co2-fragmentation-jclp/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/publication/relationship-co2-fragmentation-jclp/</guid>
@@ -49,15 +88,15 @@
 &lt;ul&gt;
 &lt;li&gt;Use of multi-source data and an analytical framework composed of 3 methods.&lt;/li&gt;
 &lt;li&gt;Exploration of the impact of 30-m versus 500-m spatial resolution.&lt;/li&gt;
-&lt;li&gt;Low fragmented mixed and industrial lands affect CO$_2$ emissions negatively.&lt;/li&gt;
-&lt;li&gt;Low fragmented residential and public lands affect CO$_2$ emissions positively.&lt;/li&gt;
+&lt;li&gt;Low fragmented mixed and industrial lands affect CO₂ emissions negatively.&lt;/li&gt;
+&lt;li&gt;Low fragmented residential and public lands affect CO₂ emissions positively.&lt;/li&gt;
 &lt;li&gt;Interactions of factors are weaker at a 30-m resolution than at a 500-m resolution.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 
 &lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 
-&lt;p&gt;Besides the industrial production, transportation, local weather, and fossil fuel use, urban form is the factor that affects energy-related CO$_2$ emissions from human activities secondarily. The major forms of human activity affected by urban form are traffic and residential energy consumption/use emissions. After a wide examination of the relationship between urban higher fragmentation and CO$_2$ emissions, scholars found fragmentation of land use areas (i.e. areas designated for human activities or purposes) is associated with greater CO$_2$ emissions. However, the evidences might be biased by the uncertainties from the spatial distribution of emissions (also referred to “downscaling”, or “representation” uncertainty), the delineation of urban fragmentation landscape, and the analysis method, which ignores the spatial heterogeneity. Zuo et al. (2019) published the study in the Journal of Cleaner Production, which compared the relationships between urban form fragmentation and CO$_2$ emissions in an urban system through the analytic framework composed of the Pearson correlation analysis, geographically weighted regression (GWR), and geographical detector methods with the use of multi-source data to construct the CO$_2$ emissions maps. The analytical framework can be applied to CO$_2$ emissions research in urban agglomerations, megacities, and small towns.&lt;/p&gt;
+&lt;p&gt;Besides the industrial production, transportation, local weather, and fossil fuel use, urban form is the factor that affects energy-related CO₂ emissions from human activities secondarily. The major forms of human activity affected by urban form are traffic and residential energy consumption/use emissions. After a wide examination of the relationship between urban higher fragmentation and CO₂ emissions, scholars found fragmentation of land use areas (i.e. areas designated for human activities or purposes) is associated with greater CO₂ emissions. However, the evidences might be biased by the uncertainties from the spatial distribution of emissions (also referred to “downscaling”, or “representation” uncertainty), the delineation of urban fragmentation landscape, and the analysis method, which ignores the spatial heterogeneity. Zuo et al. (2019) published the study in the Journal of Cleaner Production, which compared the relationships between urban form fragmentation and CO₂ emissions in an urban system through the analytic framework composed of the Pearson correlation analysis, geographically weighted regression (GWR), and geographical detector methods with the use of multi-source data to construct the CO₂ emissions maps. The analytical framework can be applied to CO₂ emissions research in urban agglomerations, megacities, and small towns.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/JCLP/JCLP.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
@@ -65,13 +104,13 @@
 
 &lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
 
-&lt;p&gt;In terms of the GWR analysis, the coarse resolution resulted in: 1) positive coefficients of fragmentation metric becoming negative, and 2) greater absolute values of negative coefficients. As to the results of Geographical detector, single factor impact powers and interactions among fragmentation factors showed a weakening effect at R$_{30m}$, but a strengthening and weakening effect at R500m. However, there were common results observed in low-fragmented areas across different scales. That is, in low-fragmented mixed-function areas and industrial areas, the more fragmented the area was, the less the CO2 emission there would be. However, in low-fragmented residential, administrative and public service areas, the more fragmented the area was, the higher the CO$_2$ emission there would be. Therefore, the government should disperse the mixed function zones and industrial parcels with diverse types of land, and build the contiguous residential and public service land in the low fragmentation area of urban system.&lt;/p&gt;
+&lt;p&gt;In terms of the GWR analysis, the coarse resolution resulted in: 1) positive coefficients of fragmentation metric becoming negative, and 2) greater absolute values of negative coefficients. As to the results of Geographical detector, single factor impact powers and interactions among fragmentation factors showed a weakening effect at R30m, but a strengthening and weakening effect at R500m. However, there were common results observed in low-fragmented areas across different scales. That is, in low-fragmented mixed-function areas and industrial areas, the more fragmented the area was, the less the CO2 emission there would be. However, in low-fragmented residential, administrative and public service areas, the more fragmented the area was, the higher the CO₂ emission there would be. Therefore, the government should disperse the mixed function zones and industrial parcels with diverse types of land, and build the contiguous residential and public service land in the low fragmentation area of urban system.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/JCLP/fig6new.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 2 Geographical detector results for fragmentation factors, PUA, and POID for CO$_2$ emissions from 4 sources.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 2 Geographical detector results for fragmentation factors, PUA, and POID for CO₂ emissions from 4 sources.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;The “Scale effect” has always been the hot topic in landscape ecology research. Although, there are many studies on the driving force of urban environmental problems by using landscape metrics. Most studies are carried out in regional, continental and global scales. However, in this study, we explored the relationship between the urban form fragmentation and CO$_2$ emissions in the city scale from the perspective of dual resolution sizes and summarized the research conclusions that can be used in urban internal management based on the analysis results of small towns. At the same time, the influence of scale effect and how to choose the appropriate scale were discussed in the discussion section. The rigorous discussion was also made on whether the research conclusion is applicable to medium and large cities.&lt;/p&gt;
+&lt;p&gt;The “Scale effect” has always been the hot topic in landscape ecology research. Although, there are many studies on the driving force of urban environmental problems by using landscape metrics. Most studies are carried out in regional, continental and global scales. However, in this study, we explored the relationship between the urban form fragmentation and CO₂ emissions in the city scale from the perspective of dual resolution sizes and summarized the research conclusions that can be used in urban internal management based on the analysis results of small towns. At the same time, the influence of scale effect and how to choose the appropriate scale were discussed in the discussion section. The rigorous discussion was also made on whether the research conclusion is applicable to medium and large cities.&lt;/p&gt;
 </description>
     </item>
     
@@ -130,15 +169,15 @@
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Storm intensity($L·S^{-1}·ha^{-1}$)&lt;/td&gt;
+&lt;td&gt;Storm intensity(L·S⁻¹·ha⁻¹)&lt;/td&gt;
 &lt;td&gt;163.183&lt;/td&gt;
 &lt;td&gt;101.847&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Runoff($L·S^{-1}$)&lt;/td&gt;
-&lt;td&gt;5.342×$10^6$&lt;/td&gt;
-&lt;td&gt;6.668×$10^6$&lt;/td&gt;
+&lt;td&gt;Runoff(L·S⁻¹)&lt;/td&gt;
+&lt;td&gt;5.342×10⁶&lt;/td&gt;
+&lt;td&gt;6.668×10⁶&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -154,7 +193,7 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Submerged area ($km^{2}$)&lt;/td&gt;
+&lt;td&gt;Submerged area (km²)&lt;/td&gt;
 &lt;td&gt;1.345&lt;/td&gt;
 &lt;td&gt;6.032&lt;/td&gt;
 &lt;/tr&gt;
@@ -236,7 +275,7 @@
     </item>
     
     <item>
-      <title>The Assement Platform of Urban Forest Ecosystem Servcie Based on InVEST model and IOT</title>
+      <title>The Assessment Platform of Urban Forest Ecosystem Service Based on InVEST model and IOT</title>
       <link>https://gisersqdai.top/mycv/talk/shnu2017talks/</link>
       <pubDate>Thu, 28 Sep 2017 10:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/talk/shnu2017talks/</guid>
@@ -247,101 +286,17 @@
     </item>
     
     <item>
-      <title>Urban Carbon Cycle</title>
-      <link>https://gisersqdai.top/mycv/project/urban-carbon-cycle/</link>
-      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/project/urban-carbon-cycle/</guid>
-      <description>
-
-&lt;p&gt;Cities are typical sources of carbon and a focus of climate-change mitigation. Although there is great potential for reducing emissions in cities, constructing low-carbonemission cities under the carbon-emission reduction target of the 2016 Paris Agreement remains challenging as there is little scientific evidence for use by government decisionmakers. To solve this problem, we must understand the urban carbon-cycle process in greater detail and especially analyze spatiotemporal variations in carbon sources and sinks.&lt;/p&gt;
-
-&lt;h1 id=&#34;1-carbon-sink-map&#34;&gt;1 Carbon sink map&lt;/h1&gt;
-
-&lt;p&gt;The forest is the only exact carbon sink. How to map the accurate carbon sink maps? Firstly, we propose herein a low-cost method that combines machine learning and spatial statistics to construct a regional biomass map from non-representative sample units. Secondly, we scaled up an ecological process model to obtain the spatial distribution of regional biomass. Finally, we used some data assimilation technology by these data.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/forests/forests-12-01663/article_deploy/html/images/forests-12-01663-g002-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Figure 1 Framework for estimating (a–c) the machine learning models, (d) the P-BSHADE model, and the three models that combine machine learning with the P-BSHADE model ((a,d), (b,d) and (c,d)).&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s?__biz=MzUxOTAwODQ4MA==&amp;amp;mid=2247486720&amp;amp;idx=1&amp;amp;sn=425389e7844aa4b89cdd2c63027b7522&amp;amp;chksm=f981748fcef6fd9979aefda213c091d38fec068dfcd9629fb92393fcad9d40d20226886e7e36&amp;amp;scene=126&amp;amp;sessionid=1689882541#rd&#34; target=&#34;_blank&#34;&gt;【动态】城市环境研究所在提升森林样地水平地上生物量的估算精度方面取得进展&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/figcs.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Figure 2. The accuracy of different methods for biomass estimation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;2-carbon-source-map&#34;&gt;2 Carbon source map&lt;/h1&gt;
-
-&lt;p&gt;Cities are the main sources of $CO_2$ emissions and, thus, must abate emissions responsibly. About 50% of urban $CO_2$ emissions was attributed to urban forms, mixed land use, building types, and transportation networks.  It is necessary to characterize the pixel-based distribution of urban direct $CO_2$ emissions accurately. But large uncertainties was found at the urban scale, it&amp;rsquo;s important to analyze the uncertainties of $CO_2$ emissions gridded map at the urban scale. Besides, exlporing the relationship between $CO_2$ emissions and urban form is useful for planning.&lt;/p&gt;
-
-&lt;p&gt;We used a general hybrid approach based on global downscaled and bottom-up elements to produce the CO$_2$ emissions gridded maps, identitfied the urban functional districts map, and generated the city-scale effect related impact factors. All the maps were included in a spatial database. Detailed information can see &lt;a href=&#34;http://science.gisersqdai.top/DIB/DIBdata.html&#34; target=&#34;_blank&#34;&gt;it&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/CO2compare.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Figure 3. Comparison between our $CO_2$ emission griddedmap and other inventories&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We assessed the uncertainty of CO$_2$ emissions gridded maps during the gridded proceess using our proposed analytic workflow and published in &lt;em&gt;Remote Sensing&lt;/em&gt;. Detailed information can see &lt;a href=&#34;http://science.gisersqdai.top/RSunco2/rsbrief.html&#34; target=&#34;_blank&#34;&gt;it&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-ag-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Figure 3. Graphical abstract&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/GISerDaiShaoqing/manuscript_co2_gridded_uncertainty_RS/master/figure/CO2UN.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Figure 4. The $CO_2$ gridded emissions maps and uncertainty maps&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/54E8KZkWs2cdp1p2mdlaOg&#34; target=&#34;_blank&#34;&gt;[动态]城市环境研究所在城市尺度二氧化碳排放网格制图的不确定性传播分析取得研究进展&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;3-the-relation-between-co-2-emissions-and-urban-form&#34;&gt;3 The relation between CO$_2$ emissions and urban form&lt;/h1&gt;
-
-&lt;p&gt;Understanding the spatial or temporal distribution of carbon cycle including carbon sink and source is the key to design low-carbon city development policy. We compared the relationships between urban form fragmentation and CO$_2$ emissions in an urban system through the analytic framework composed of the Pearson correlation analysis, geographically weighted regression (GWR), and geographical detector methods with the use of multi-source data to construct the CO$_2$ emissions maps. The analytical framework can be applied to CO$_2$ emissions research in urban agglomerations, megacities, and small towns.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/JCLP/JCLP.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Figure 6. Analytical Framework&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0959652619335292-gr7.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Figure 7. Geographical detector results for fragmentation factors, PUA, and POID for CO$_2$ emissions from 4 sources.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This research uses remote sensing data and downscaling interpolation to generate residential and transport (RTCE) maps in 130 m spatial resolution of urban center regions from 31 major cities in China, then investigates the relationship between 3 types of urban form indicators (Internal characteristics, external morphology, and development intensity) and RTCE through Geographical Weighted Regression method. The results reveal that urban form indicators could explain about 45.9% of RTCE. The 2D building shape indicator has the second greatest positive impact as the external morphology indicator, which complicates the influence. The internal characteristics indicators have relatively strong influences than the development intensity indicators. For instance, the influence of functional mixed entropy (FME) is the greatest positive influence and decreases exponentially with FME increases.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.iue.cas.cn/xwzx/kydt/202211/W020221125307842798054.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Figure 8. The relation between the functional mixed entropy and the GWR mean regression coefficients in 31 cities. The red, yellow, light blue and blue dot represents the Type Ⅰ, Ⅱ, Ⅲ and Ⅳ city, respectively. The numbers follow the city names represent the size order of the urban area. Point A, B and C are hypothetical.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;4-local-carbon-emission-zone-construction&#34;&gt;4 Local carbon emission zone construction&lt;/h1&gt;
-
-&lt;p&gt;We constructed the local carbon emission zone (LCEZ) which links the highly urbanization morphology profiles and CO$_2$ emission intensity to favor summarizing the form characteristics for the low CO$_2$ emission control in new communities.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S036013232301034X-gr2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Figure 9. The flowchart of the LCEZ construction. Step 1: Luojia1-01 night light image data is the proxy variable of the RTCE map. GWR is geographically weighted regression. Step 2: L is low. M is medium. H is high. the solid line is the three key factors. The dotted line means that n key factors can be selected in the future. The point is POI. the column is BF. the line is RD. A&amp;amp;B represents Dense&amp;amp;sparse forests. C&amp;amp;D represents Farmland&amp;amp;grassland&amp;amp;wetland. G represents the water body.&lt;/strong&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Simulation Analysis of Waterlogging and the Sponge City Planning Control of Central Urabn Area in Fuzhou City</title>
-      <link>https://gisersqdai.top/mycv/publication/sponge-city-blue-green-space/</link>
-      <pubDate>Sun, 26 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/publication/sponge-city-blue-green-space/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Urban Blue and Green Space</title>
       <link>https://gisersqdai.top/mycv/project/urban-blue-and-green-space/</link>
-      <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/project/urban-blue-and-green-space/</guid>
       <description>
 
-&lt;h1 id=&#34;the-relationship-between-urban-blue-and-green-space-and-urban-submerged-area&#34;&gt;The relationship between urban blue and green space and urban submerged area&lt;/h1&gt;
+&lt;p&gt;Urban blue and green space reduces the urban heat island effect, mitigates air pollution, and increases water yield, making it a core element of resilient and livable cities. This project examines urban blue and green space from both the water and the green side: stormwater simulation for sponge city planning, landscape patterns as driving factors of urban flooding, river network changes under urbanization, and the multi-perspective dynamics of urban green space during urban expansion.&lt;/p&gt;
 
-&lt;p&gt;In the new normal period of economic transition in China, The Government came up with the concept of the Sponge City, we have some different views of sponge city planning
-The research extracted the impervious surface from the non-NGI(natural green infrastructure ) landscape and used the precipitation-volumetric method to simulate waterlogging scenarios. We determined the area of rainwater submersion by simulation experiments, the change in the NGI landscape by overlaying images of the region, and the association between these features by data mining. Using the change in ecology indices, we ascertained the changing spatial patterns of the NGI landscape and used these findings to formulate suggestions for Sponge City planning in Fuzhou. Overall, our work combines three research themes, urban waterlogging, landscape ecology, and data mining, for a deep analysis of the relationship between the NGI landscape and storm runoff in an urban environment.&lt;/p&gt;
+&lt;h1 id=&#34;1-blue-green-space-and-stormwater-simulation-for-sponge-city-planning&#34;&gt;1 Blue-green space and stormwater simulation for sponge city planning&lt;/h1&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Submerged areas were characterized by high population densities and high levels of human activity.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;In the new normal period of economic transition in China, the government proposed the Sponge City concept, and we hold some different views on sponge city planning. We extracted the impervious surface from the non-natural green infrastructure (NGI) landscape and used the precipitation-volumetric method to simulate waterlogging scenarios in Fuzhou, then linked the NGI landscape changes to the submerged areas through association rule mining. The simulation shows that submerged areas were characterized by high population densities and high levels of human activity, and spatial association rule mining revealed a strong association between areas converted from NGI landscape and submerged areas, providing suggestions for sponge city planning.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Table 1. Simulation results of storm water scenarios&lt;/strong&gt;&lt;/p&gt;
 
@@ -356,15 +311,15 @@ The research extracted the impervious surface from the non-NGI(natural green inf
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Storm intensity($L·S^{-1}·ha^{-1}$)&lt;/td&gt;
+&lt;td&gt;Storm intensity(L·S⁻¹·ha⁻¹)&lt;/td&gt;
 &lt;td&gt;163.183&lt;/td&gt;
 &lt;td&gt;101.847&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Runoff($L·S^{-1}$)&lt;/td&gt;
-&lt;td&gt;5.342×$10^6$&lt;/td&gt;
-&lt;td&gt;6.668×$10^6$&lt;/td&gt;
+&lt;td&gt;Runoff(L·S⁻¹)&lt;/td&gt;
+&lt;td&gt;5.342×10⁶&lt;/td&gt;
+&lt;td&gt;6.668×10⁶&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -380,26 +335,20 @@ The research extracted the impervious surface from the non-NGI(natural green inf
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Submerged area ($km^{2}$)&lt;/td&gt;
+&lt;td&gt;Submerged area (km²)&lt;/td&gt;
 &lt;td&gt;1.345&lt;/td&gt;
 &lt;td&gt;6.032&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;The main submerged area in Fuzhou included the central business district. Numbers of people exposed to the submerged areas of scenarios 1 and 2 were 12,840 and 46,460 people, respectively.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;bgs-fig3h.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/fig.3%28h%29.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 1. Visual representation of simulation results for scenario 1.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 1. Visual representation of simulation results for scenario 1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;bgs-fig3i.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/fig.3%28i%29.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Figure 2. Visual representation of simulation results for scenario 2&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Spatial association rule mining revealed a strong association between areas that were converted from NGI landscape and areas that were submerged in our simulations.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Figure 2. Visual representation of simulation results for scenario 2.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Table 2. Results of association rule mining&lt;/strong&gt;&lt;/p&gt;
 
@@ -430,14 +379,113 @@ The research extracted the impervious surface from the non-NGI(natural green inf
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;If an area was submerged, then the probability that the area was converted landscape was 21.2%. If an area was not subject to landscape conversion, then the probability that it would not be a submerged area was 99.2%.&lt;/p&gt;
+&lt;p&gt;If an area was submerged, then the probability that the area was converted landscape was 21.2%; if an area was not subject to landscape conversion, then the probability that it would not be submerged was 99.2%.&lt;/p&gt;
 
-&lt;p&gt;On the other hand, we used multi-source data to identify the urban ecological-production-living spaces and provided some suggesstions for urban resilience simulation optimization. We developed some ArcGIS toolbox based on model builder and Python. Our results won the national third prize in the 2th big data supports spatial plannning and design competition.&lt;/p&gt;
+&lt;p&gt;The research also used multi-source data to identify urban ecological-production-living spaces and provided suggestions for urban resilience simulation optimization, developing ArcGIS toolboxes based on ModelBuilder and Python. Our results won the national third prize in the 2nd Big Data Supports Spatial Planning and Design Competition.&lt;/p&gt;
 
-&lt;h1 id=&#34;the-environmental-effect-of-urban-blue-and-green-space&#34;&gt;The environmental effect of urban blue and green space&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1061/9780784481042.028&#34; target=&#34;_blank&#34;&gt;The chapter was published by &lt;em&gt;ASCE&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Urban blue and green space could reduced urban heat island effect and air pollution and increase the water yield.&lt;/p&gt;
+&lt;h1 id=&#34;2-landscape-patterns-as-driving-factors-of-urban-flooding&#34;&gt;2 Landscape patterns as driving factors of urban flooding&lt;/h1&gt;
+
+&lt;p&gt;Which landscape patterns drive urban flooding? We identified landscape patterns at different scales as driving factors for urban flooding in Guangzhou, showing that the composition and configuration of blue-green infrastructure significantly shape flood risk, and that multi-scale analysis is essential for capturing these relationships.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.ecolind.2025.113614&#34; target=&#34;_blank&#34;&gt;The paper was published in &lt;em&gt;Ecological Indicators&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;3-river-networks-under-urbanization&#34;&gt;3 River networks under urbanization&lt;/h1&gt;
+
+&lt;p&gt;River networks are the skeleton of urban blue space. We assessed the variations in river networks under urbanization across metropolitan plains using a multi-metric approach, quantifying how urban expansion reshapes river density, connectivity, and morphology.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.3390/land14101994&#34; target=&#34;_blank&#34;&gt;The paper was published in &lt;em&gt;Land&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;4-multi-perspective-urban-green-space-under-urban-expansion&#34;&gt;4 Multi-perspective urban green space under urban expansion&lt;/h1&gt;
+
+&lt;p&gt;Eye-level greenery often diverges from what aerial indicators suggest. We introduced a multi-perspective framework integrating the aerial perspective (NDVI) and the human-centric perspective (GVI) with urban morphological, socioeconomic, and topographic indicators, revealing how urban expansion reshapes the spatial relationships between urban green space and urban morphology in Guangzhou.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;ugs-expansion-framework.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3. Research framework of the multi-perspective urban green space analysis.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.scs.2026.107534&#34; target=&#34;_blank&#34;&gt;The paper was published in &lt;em&gt;Sustainable Cities and Society&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Urban Carbon Cycle</title>
+      <link>https://gisersqdai.top/mycv/project/urban-carbon-cycle/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/project/urban-carbon-cycle/</guid>
+      <description>
+
+&lt;p&gt;Cities are typical sources of carbon and a focus of climate-change mitigation. Although there is great potential for reducing emissions in cities, constructing low-carbon emission cities under the carbon-emission reduction target of the 2016 Paris Agreement remains challenging, as there is little scientific evidence for use by government decision-makers. To solve this problem, we must understand the urban carbon-cycle process in greater detail, especially the spatiotemporal variations in carbon sources and sinks. This project maps the urban carbon cycle from both directions: accurate carbon-sink mapping driven by forest inventory and machine learning, fine-scale CO₂ emission mapping with uncertainty assessment, the relationships between CO₂ emissions and urban form, and the application-oriented local carbon emission zone construction.&lt;/p&gt;
+
+&lt;h1 id=&#34;1-carbon-sink-mapping-with-machine-learning-and-spatial-statistics&#34;&gt;1 Carbon sink mapping with machine learning and spatial statistics&lt;/h1&gt;
+
+&lt;p&gt;Forests are the only precisely measurable carbon sink. How can we map carbon sinks accurately at low cost? We proposed a combined approach that fuses machine learning with spatial statistics to construct a regional biomass map from non-representative sample units: three machine learning models (SVM, RBF-ANN, and RF) generate plot-level estimates, which are then scaled up through the P-BSHADE spatial statistical model. The combined models outperformed single models in accuracy, providing a practical pathway from sparse field inventory to wall-to-wall biomass mapping.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;ml-pbshade-framework.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. The framework for estimating (a–c) the machine learning models, (d) the P-BSHADE model, and the three models that combine machine learning with the P-BSHADE model ((a,d), (b,d) and (c,d)).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;biomass-accuracy.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2. The accuracy of different methods for biomass estimation.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s?__biz=MzUxOTAwODQ4MA==&amp;amp;mid=2247486720&amp;amp;idx=1&amp;amp;sn=425389e7844aa4b89cdd2c63027b7522&amp;amp;chksm=f981748fcef6fd9979aefda213c091d38fec068dfcd9629fb92393fcad9d40886e7e36&amp;amp;scene=126&amp;amp;sessionid=1689882541#rd&#34; target=&#34;_blank&#34;&gt;【动态】城市环境研究所在提升森林样地水平地上生物量的估算精度方面取得进展&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.3390/f12121663&#34; target=&#34;_blank&#34;&gt;The paper was published in &lt;em&gt;Forests&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;2-gridded-co₂-emission-maps-and-uncertainty-assessment&#34;&gt;2 Gridded CO₂ emission maps and uncertainty assessment&lt;/h1&gt;
+
+&lt;p&gt;Cities are the main sources of CO₂ emissions and thus must abate emissions responsibly. We produced fine-scale (residential and transport) CO₂ emission gridded maps by fusing global downscaled and bottom-up elements, and compared them with existing inventories to verify the spatial patterns. Because large uncertainties exist at the urban scale, we further proposed an analytic workflow based on Monte Carlo simulation and bootstrap sampling to quantify the uncertainties propagated from the gridded model and the spatial proxies, finding that fine-resolution (30 m) maps carry a higher degree of uncertainty propagation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;co2-gridded-compare.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3. Comparison between our CO₂ emission gridded map and other inventories.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;co2-uncertainty-maps.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4. The CO₂ gridded emissions maps and uncertainty maps.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/54E8KZkWs2cdp1p2mdlaOg&#34; target=&#34;_blank&#34;&gt;[动态]城市环境研究所在城市尺度二氧化碳排放网格制图的不确定性传播分析取得研究进展&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.dib.2020.105274&#34; target=&#34;_blank&#34;&gt;The database paper was published in &lt;em&gt;Data in Brief&lt;/em&gt;&lt;/a&gt;, and &lt;a href=&#34;https://doi.org/10.3390/rs12233932&#34; target=&#34;_blank&#34;&gt;the uncertainty analysis was published in &lt;em&gt;Remote Sensing&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;3-co₂-emissions-and-urban-form&#34;&gt;3 CO₂ emissions and urban form&lt;/h1&gt;
+
+&lt;p&gt;Understanding the spatial distribution of CO₂ emissions is the key to designing low-carbon city development policies. We compared the relationships between urban form fragmentation and CO₂ emissions through an analytic framework composed of Pearson correlation analysis, geographically weighted regression (GWR), and the geographical detector method. The results show that urban form indicators—especially the functional mixed entropy—significantly drive CO₂ emissions, with clear spatial heterogeneity across 31 Chinese cities, and the framework can be applied to urban agglomerations, megacities, and small towns.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;jclp-framework.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 5. The analytical framework.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;geo-detector-results.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 6. Geographical detector results for fragmentation factors, PUA, and POID for CO₂ emissions from 4 sources.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;fme-gwr.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 7. The relation between the functional mixed entropy and the GWR mean regression coefficients in 31 cities. The red, yellow, light blue and blue dots represent the Type I, II, III and IV city, respectively.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.jclepro.2019.118659&#34; target=&#34;_blank&#34;&gt;The paper was published in &lt;em&gt;Journal of Cleaner Production&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;4-local-carbon-emission-zone-construction&#34;&gt;4 Local carbon emission zone construction&lt;/h1&gt;
+
+&lt;p&gt;To link research findings with planning practice, we constructed the local carbon emission zone (LCEZ), which links highly urbanized morphology profiles with CO₂ emission intensity to summarize the form characteristics for low-emission control in new communities, providing an operational bridge from carbon mapping to urban design guidelines.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;lcez-flowchart.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 8. The flowchart of the LCEZ construction. Step 1: Luojia1-01 night light image data is the proxy variable of the RTCE map. GWR is geographically weighted regression. Step 2: L is low, M is medium, and H is high; the solid line represents the three key factors; the point is POI; the column is BF; and the line is RD.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.buildenv.2023.111007&#34; target=&#34;_blank&#34;&gt;The paper was published in &lt;em&gt;Building and Environment&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Simulation Analysis of Waterlogging and the Sponge City Planning Control of Central Urabn Area in Fuzhou City</title>
+      <link>https://gisersqdai.top/mycv/publication/sponge-city-blue-green-space/</link>
+      <pubDate>Sun, 26 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/sponge-city-blue-green-space/</guid>
+      <description></description>
     </item>
     
   </channel>

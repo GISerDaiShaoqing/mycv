@@ -5,12 +5,124 @@
     <link>https://gisersqdai.top/mycv/authors/shaoqing-daicorresponding/</link>
       <atom:link href="https://gisersqdai.top/mycv/authors/shaoqing-daicorresponding/index.xml" rel="self" type="application/rss+xml" />
     <description>**Shaoqing Dai(corresponding)**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Mon, 13 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>**Shaoqing Dai(corresponding)**</title>
       <link>https://gisersqdai.top/mycv/authors/shaoqing-daicorresponding/</link>
     </image>
+    
+    <item>
+      <title>Bridging street view coverage disparities through geographic identity preserving generation from satellite view</title>
+      <link>https://gisersqdai.top/mycv/publication/isprs-street-view-generation/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/isprs-street-view-generation/</guid>
+      <description>
+
+&lt;h4 id=&#34;uneven-street-view-coverage&#34;&gt;Uneven Street View Coverage&lt;/h4&gt;
+
+&lt;p&gt;Street view imagery (SVI) provides a human-centric view of urban environments and is widely used to analyze greenery, mobility, socioeconomic conditions, health outcomes, and safety perception. Its global coverage, however, is highly uneven: published SVI studies concentrate in the United States and Europe, while developing regions across Asia, Africa, and South America remain systematically underrepresented, which limits the inclusiveness of SVI-based analytics and can introduce systematic bias into urban analysis outcomes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. Street view imagery coverage in selected cities.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;the-geoidentity-sat2street-framework&#34;&gt;The GeoIdentity-Sat2Street Framework&lt;/h4&gt;
+
+&lt;p&gt;We propose GeoIdentity-Sat2Street, a geographic identity preserving framework that leverages satellite imagery to expand SVI coverage. A polar-transformation conditional GAN first synthesizes plausible street view perspectives, and a diffusion-based generator then refines them conditioned on semantic captions, location metadata, and structural priors. This two-step design enforces geometric consistency while explicitly preserving geographic identity, an overlooked but critical aspect of urban distinctiveness.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;sat2street-framework.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2. The framework for geographic identity preserving street view imagery generation. Step 1 converts satellite images into an initial SVI providing the basic street view geometry; Step 2 refines it with depth, edges, text descriptions, and location cues.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;evaluation-and-the-multicities-dataset&#34;&gt;Evaluation and the MultiCities Dataset&lt;/h4&gt;
+
+&lt;p&gt;On the classic CVUSA and CVACT cross-view benchmarks, the framework achieves the highest SSIM (0.427 and 0.537), the lowest LPIPS (0.345 and 0.317), and the best mIoU (0.054) among baselines. To assess geographic identity fidelity, we constructed the MultiCities Dataset, a benchmark of 50,000 paired satellite-street-view images across five cities on five continents. An automated GPT-4o evaluation pipeline, with GPT-4o acting successively as Evaluator and Inspector, provides task-specific quantitative and qualitative assessments.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;gpt-eval-pipeline.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3. Automated evaluation pipeline for street view imagery generation using GPT-4o, where GPT-4o acts as Evaluator A and Inspector B in a two-stage assessment.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Quantitative results on the CVUSA benchmark show that our method achieves the best SSIM, MS-SSIM, LPIPS, and KID among the compared models:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Model&lt;/th&gt;
+&lt;th&gt;PSNR&lt;/th&gt;
+&lt;th&gt;SSIM&lt;/th&gt;
+&lt;th&gt;MS-SSIM&lt;/th&gt;
+&lt;th&gt;Edge_IoU&lt;/th&gt;
+&lt;th&gt;mIoU&lt;/th&gt;
+&lt;th&gt;LPIPS&lt;/th&gt;
+&lt;th&gt;KID&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Ours&lt;/td&gt;
+&lt;td&gt;14.565&lt;/td&gt;
+&lt;td&gt;0.427&lt;/td&gt;
+&lt;td&gt;0.438&lt;/td&gt;
+&lt;td&gt;0.131&lt;/td&gt;
+&lt;td&gt;0.052&lt;/td&gt;
+&lt;td&gt;0.345&lt;/td&gt;
+&lt;td&gt;0.086&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ComingDownToEarth&lt;/td&gt;
+&lt;td&gt;14.032&lt;/td&gt;
+&lt;td&gt;0.233&lt;/td&gt;
+&lt;td&gt;0.363&lt;/td&gt;
+&lt;td&gt;0.153&lt;/td&gt;
+&lt;td&gt;0.054&lt;/td&gt;
+&lt;td&gt;0.355&lt;/td&gt;
+&lt;td&gt;0.066&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;InstructPix2Pix&lt;/td&gt;
+&lt;td&gt;12.501&lt;/td&gt;
+&lt;td&gt;0.339&lt;/td&gt;
+&lt;td&gt;0.236&lt;/td&gt;
+&lt;td&gt;0.056&lt;/td&gt;
+&lt;td&gt;0.040&lt;/td&gt;
+&lt;td&gt;0.539&lt;/td&gt;
+&lt;td&gt;0.040&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;CrossMLP&lt;/td&gt;
+&lt;td&gt;15.119&lt;/td&gt;
+&lt;td&gt;0.356&lt;/td&gt;
+&lt;td&gt;0.364&lt;/td&gt;
+&lt;td&gt;0.077&lt;/td&gt;
+&lt;td&gt;0.055&lt;/td&gt;
+&lt;td&gt;0.442&lt;/td&gt;
+&lt;td&gt;0.055&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Table 1. Quantitative results on the CVUSA benchmark for evaluating generalization quality.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The model attains the highest Silhouette Score (0.222) and lowest inter-city variance (0.031), with clearly separated clusters in t-SNE, and GPT-based evaluation further confirms realism and semantic alignment. Qualitative comparisons across the five cities show that our results reproduce regionally distinctive streetscapes more faithfully than the baselines.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;qualitative-comparison.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4. Qualitative comparison of street view imagery generation across five cities in the MultiCities Dataset.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;toward-globally-representative-urban-analytics&#34;&gt;Toward Globally Representative Urban Analytics&lt;/h4&gt;
+
+&lt;p&gt;Applying the framework to Kathmandu, Nepal improves usable street-view coverage by about 28%, moving from 72% partial coverage toward dense roadside coverage. The side-by-side comparison shows that the generated street views closely match the real urban scenes, indicating that identity preserving satellite-to-street generation offers a scalable way to fill coverage gaps in data-scarce regions and paves the way for more globally representative and equitable urban analytics.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;kathmandu-comparison.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 5. Side-by-side comparison of real and synthesized street view in Kathmandu.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>High-resolution population density mapping in urban areas using a contextualized geographically weighted neural network (CGWNN) model</title>
@@ -39,7 +151,7 @@
 
 &lt;p&gt;As shown in Figure 2, this study is conducted within the HPM framework, which consists of three steps. We first generate physical, locational variables, extract 3D variables from SVIs, and then construct HPM in different valuation models, namely OLS, GWR and RF.&lt;/p&gt;
 
-&lt;p&gt;$$V=f(P,L,E_{3d})$$&lt;/p&gt;
+&lt;p&gt;V = f(P, L, E3d)&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0197397525000049-gr3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
@@ -49,9 +161,9 @@
 
 &lt;p&gt;&lt;strong&gt;Figure 3. The example of semantic segmentation&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;RF performs the best among all three models. $R^2$ increases from 0.716 to 0.768 by adding 3D variables. In addition to R2 values, RMSE, MAE, and MAPE are also used to evaluate the model accuracy, as shown in Table 3. The lowest RMSE in RF is 1669.60 $yuan/m^2$. Taking the average property value (14,318 $yuan/m^2$), the MAPE of estimation in RF is 11.66%. In summary, OLS has the basic performance, GWR has improvement, and RF has the best explainability and the least errors in different regards.&lt;/p&gt;
+&lt;p&gt;RF performs the best among all three models. R² increases from 0.716 to 0.768 by adding 3D variables. In addition to R2 values, RMSE, MAE, and MAPE are also used to evaluate the model accuracy, as shown in Table 3. The lowest RMSE in RF is 1669.60 yuan/m². Taking the average property value (14,318 yuan/m²), the MAPE of estimation in RF is 11.66%. In summary, OLS has the basic performance, GWR has improvement, and RF has the best explainability and the least errors in different regards.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Table 1. The comparison of $R^2$, RMSE, MAE and MAPE among different models (based on group 4). The unit of RMSE and MAE: $yuan/m^2$.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table 1. The comparison of R², RMSE, MAE and MAPE among different models (based on group 4). The unit of RMSE and MAE: yuan/m².&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;

@@ -31,7 +31,7 @@
 
 &lt;p&gt;As shown in Figure 2, this study is conducted within the HPM framework, which consists of three steps. We first generate physical, locational variables, extract 3D variables from SVIs, and then construct HPM in different valuation models, namely OLS, GWR and RF.&lt;/p&gt;
 
-&lt;p&gt;$$V=f(P,L,E_{3d})$$&lt;/p&gt;
+&lt;p&gt;V = f(P, L, E3d)&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0197397525000049-gr3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
@@ -41,9 +41,9 @@
 
 &lt;p&gt;&lt;strong&gt;Figure 3. The example of semantic segmentation&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;RF performs the best among all three models. $R^2$ increases from 0.716 to 0.768 by adding 3D variables. In addition to R2 values, RMSE, MAE, and MAPE are also used to evaluate the model accuracy, as shown in Table 3. The lowest RMSE in RF is 1669.60 $yuan/m^2$. Taking the average property value (14,318 $yuan/m^2$), the MAPE of estimation in RF is 11.66%. In summary, OLS has the basic performance, GWR has improvement, and RF has the best explainability and the least errors in different regards.&lt;/p&gt;
+&lt;p&gt;RF performs the best among all three models. R² increases from 0.716 to 0.768 by adding 3D variables. In addition to R2 values, RMSE, MAE, and MAPE are also used to evaluate the model accuracy, as shown in Table 3. The lowest RMSE in RF is 1669.60 yuan/m². Taking the average property value (14,318 yuan/m²), the MAPE of estimation in RF is 11.66%. In summary, OLS has the basic performance, GWR has improvement, and RF has the best explainability and the least errors in different regards.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Table 1. The comparison of $R^2$, RMSE, MAE and MAPE among different models (based on group 4). The unit of RMSE and MAE: $yuan/m^2$.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table 1. The comparison of R², RMSE, MAE and MAPE among different models (based on group 4). The unit of RMSE and MAE: yuan/m².&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;

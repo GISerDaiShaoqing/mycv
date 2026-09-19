@@ -1,0 +1,2569 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Shaoqing Dai">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="We develop street view imagery-based urban visual intelligence, from SVI coverage generation to GeoAI and LLM visual-semantic sensing, to quantify eye-level built environments and support urban management.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://gisersqdai.top/mycv/project/urban-visual-intelligence/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/mycv/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+
+  <link rel="manifest" href="/mycv/index.webmanifest">
+  <link rel="icon" type="image/png" href="/mycv/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/mycv/img/icon-192.png">
+
+  <link rel="canonical" href="https://gisersqdai.top/mycv/project/urban-visual-intelligence/">
+
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Shaoqing Dai">
+  <meta property="og:url" content="https://gisersqdai.top/mycv/project/urban-visual-intelligence/">
+  <meta property="og:title" content="Urban Visual Intelligence | Shaoqing Dai">
+  <meta property="og:description" content="We develop street view imagery-based urban visual intelligence, from SVI coverage generation to GeoAI and LLM visual-semantic sensing, to quantify eye-level built environments and support urban management."><meta property="og:image" content="https://gisersqdai.top/mycv/project/urban-visual-intelligence/featured.jpg">
+  <meta property="twitter:image" content="https://gisersqdai.top/mycv/project/urban-visual-intelligence/featured.jpg"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2020-01-01T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2020-01-01T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://gisersqdai.top/mycv/project/urban-visual-intelligence/"
+  },
+  "headline": "Urban Visual Intelligence",
+  
+  "image": [
+    "https://gisersqdai.top/mycv/project/urban-visual-intelligence/featured.jpg"
+  ],
+  
+  "datePublished": "2020-01-01T00:00:00Z",
+  "dateModified": "2020-01-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Shaoqing Dai"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Shaoqing Dai",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://gisersqdai.top/mycv/img/site.png"
+    }
+  },
+  "description": "We develop street view imagery-based urban visual intelligence, from SVI coverage generation to GeoAI and LLM visual-semantic sensing, to quantify eye-level built environments and support urban management."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Urban Visual Intelligence | Shaoqing Dai</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/mycv/"><img src="/mycv/img/site.png" alt="Shaoqing Dai"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/mycv/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/mycv/#news"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/mycv/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/mycv/#featured"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/mycv/#teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/mycv/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/mycv/#resources"><span>Resources</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/mycv/#services"><span>Services</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/mycv/#awards"><span>Awards</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/mycv/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="http://gisersqdai.top/" target="_blank" rel="noopener"><span>Blog</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/mycv/cv.pdf"><span>CV</span></a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  <article class="article article-project">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+
+<div class="article-container pt-3">
+  <h1>Urban Visual Intelligence</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 1, 2020
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 409px;">
+  <div style="position: relative">
+    <img src="/mycv/project/urban-visual-intelligence/featured_hu99b34a17d49026060875607ffcf04113_265841_720x0_resize_q90_lanczos.jpg" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      
+
+<p>Street view imagery (SVI) provides an eye-level, human-centric record of urban environments, capturing pedestrian-experience features such as greenery, facades, and safety-related cues that satellite imagery cannot observe. This project develops <strong>urban visual intelligence</strong>: turning massive street-level imagery into measurable, explainable, and actionable urban knowledge. The research covers the full chain from data coverage and generation, visual auditing of built environments, eye-level greenery and multi-source urban analysis, to visual-semantic urban governance with large language models. It is also the methodological backbone of my PhD research on improving obesogenic environmental assessments with advanced geospatial methods.</p>
+
+<h1 id="1-street-view-data-coverage-and-generation">1 Street view data coverage and generation</h1>
+
+<p>The global coverage of SVI is highly uneven: published studies concentrate in the United States and Europe, while developing regions across Asia, Africa, and South America remain systematically underrepresented, which limits the inclusiveness of SVI-based analytics. We proposed GeoIdentity-Sat2Street, a geographic identity preserving framework that generates street view imagery from satellite views by coupling a polar-transformation conditional GAN with a diffusion-based generator, and constructed the MultiCities Dataset, a benchmark of 50,000 paired satellite-street-view images across five cities on five continents. Applying the framework to Kathmandu, Nepal improved usable street-view coverage by about 28%, showing a scalable way toward globally representative urban analytics.</p>
+
+<p><img src="svi-coverage-framework.jpg" alt="" /></p>
+
+<p><strong>Figure 1. Uneven street view imagery coverage in selected cities (top) and the GeoIdentity-Sat2Street generation framework (bottom).</strong></p>
+
+<p><a href="https://doi.org/10.1016/j.isprsjprs.2026.03.049" target="_blank">The paper was published in <em>ISPRS Journal of Photogrammetry and Remote Sensing</em></a></p>
+
+<h1 id="2-visual-auditing-of-built-environments">2 Visual auditing of built environments</h1>
+
+<p>How can SVI be used to audit built environments in a systematic and reproducible way? We conducted a systematic review of street view imagery-based built environment auditing tools, synthesizing the auditing dimensions (eye-level and sky-view angles), the detection and segmentation models behind them, and their applications across countries and research groups. Furthermore, we extended the auditing from 2D facades to 3D vertical cities by developing a 3D hedonic price model (3D HPM) that quantifies vertical urban features from SVI with machine learning for vertically developed cities.</p>
+
+<p><img src="bea-tools.jpg" alt="" /></p>
+
+<p><strong>Figure 2. An overview of the studies using different built environment auditing tools in different countries.</strong></p>
+
+<p><img src="svi-3dhpm.jpg" alt="" /></p>
+
+<p><strong>Figure 3. Illustrations of SVI sampling and the eye-level and sky-view angles (a)-(e).</strong></p>
+
+<p><a href="https://doi.org/10.1080/13658816.2024.2336034" target="_blank">The review was published in <em>IJGIS</em></a>, and <a href="https://doi.org/10.1016/j.habitatint.2025.103288" target="_blank">the 3D HPM study was published in <em>Habitat International</em></a></p>
+
+<h1 id="3-eye-level-greenery-and-multi-source-urban-analysis">3 Eye-level greenery and multi-source urban analysis</h1>
+
+<p>Eye-level greenery often diverges from what aerial indicators suggest. We introduced a multi-perspective framework integrating the aerial perspective (NDVI) and the human-centric perspective (GVI) with urban morphological, socioeconomic, and topographic indicators, revealing how urban expansion reshapes the spatial relationships between urban green space and urban morphology in Guangzhou. We also fused SVI-based semantic segmentation with multi-source geospatial big data to assess the spatiotemporal dynamics of bikeability in Xiamen, evaluating daily safety, comfort, accessibility, and vitality of street cycling environments.</p>
+
+<p><img src="ugs-framework.jpg" alt="" /></p>
+
+<p><strong>Figure 4. Research framework of the multi-perspective urban green space analysis.</strong></p>
+
+<p><img src="bikeability.jpg" alt="" /></p>
+
+<p><strong>Figure 5. The bikeability assessment: the study area of Xiamen Island, the proposed framework, the daily bikeability maps (December 21st–25th), and the field validation with street-level photos.</strong></p>
+
+<p><a href="https://doi.org/10.1016/j.scs.2026.107534" target="_blank">The Guangzhou study was published in <em>Sustainable Cities and Society</em></a>, and <a href="https://doi.org/10.1016/j.jag.2023.103539" target="_blank">the bikeability study was published in <em>International Journal of Applied Earth Observation and Geoinformation</em></a></p>
+
+<h1 id="4-visual-semantic-urban-governance-with-large-language-models">4 Visual-semantic urban governance with large language models</h1>
+
+<p>Fine-grained fire hazards, such as cluttered wires or illicit ebike charging, are invisible to conventional POI-based risk indicators. We developed a visual-semantic risk indicator system that uses multimodal large language models (MLLMs) to extract fire-hazard features from street-view and remote-sensing imagery, and integrated these features into a geographically weighted XGBoost model for fire risk governance in Wuhan. The framework distinguishes urban areas that appear similar in static indicators but differ substantially in micro-scale hazard conditions, and scenario simulations show that interventions targeting informal practices in transitional areas produce the greatest reductions in fire risk.</p>
+
+<p><img src="fire-risk.jpg" alt="" /></p>
+
+<p><strong>Figure 6. Research framework of the MLLM-based urban fire risk governance.</strong></p>
+
+<p><a href="https://doi.org/10.1016/j.cities.2026.107449" target="_blank">The paper was published in <em>Cities</em></a></p>
+
+    </div>
+
+    
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/mycv/tags/urban-visual-intelligence/">Urban Visual Intelligence</a>
+  
+  <a class="badge badge-light" href="/mycv/tags/street-view-images/">Street View Images</a>
+  
+  <a class="badge badge-light" href="/mycv/tags/geoai/">GeoAI</a>
+  
+  <a class="badge badge-light" href="/mycv/tags/health-geography/">Health Geography</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://gisersqdai.top/mycv/project/urban-visual-intelligence/&amp;text=Urban%20Visual%20Intelligence" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://gisersqdai.top/mycv/project/urban-visual-intelligence/&amp;t=Urban%20Visual%20Intelligence" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Urban%20Visual%20Intelligence&amp;body=https://gisersqdai.top/mycv/project/urban-visual-intelligence/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://gisersqdai.top/mycv/project/urban-visual-intelligence/&amp;title=Urban%20Visual%20Intelligence" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Urban%20Visual%20Intelligence%20https://gisersqdai.top/mycv/project/urban-visual-intelligence/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://gisersqdai.top/mycv/project/urban-visual-intelligence/&amp;title=Urban%20Visual%20Intelligence" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <img class="portrait mr-3" src="/mycv/authors/admin/avatar_hub28c2f61d8cd3be186e6f9f36203d7b6_1859238_250x250_fill_lanczos_center_2.png" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://gisersqdai.top/mycv/">Shaoqing Dai</a></h5>
+      <h6 class="card-subtitle">Postdoc</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/GISerDaiShaoqing" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0003-0858-4728" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=AQXoB80AAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Shaoqing_Dai" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:shaoqing.dai@outlook.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://weibo.com/2884386252/profile?rightmod=1&amp;wvr=6&amp;mod=personinfo&amp;ssl_rnd=1509588674.6099" target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/DaiShaoqing" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/shaoqing-dai-2ab7b6182/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.zhihu.com/people/dai-shao-qing-84" target="_blank" rel="noopener">
+        <i class="fa fa-question"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/mycv/project/spatial-lifecourse-health/">Spatial Lifecourse Health</a></li>
+      
+      <li><a href="/mycv/publication/masterthesis/">Creating a Carbon Source and Sink Map by Coupling an Ecological Process Model with an Emission Inventory to Study a Carbon Balance</a></li>
+      
+      <li><a href="/mycv/publication/improved-biomass-map-ei-meeting/">Improving the prediction accuracy of forest aboveground biomass benchmark map by integrating machine learning and spatial statistics</a></li>
+      
+      <li><a href="/mycv/talk/sa2018talks/">High-Resolution Mapping of Direct CO₂ Emissions and Uncertainties at the Urban Scale</a></li>
+      
+      <li><a href="/mycv/publication/landscape-blue-green-space/">Landscape-Scale Simulation Analysis of Waterlogging and Sponge City Planning for a Central Urban Area in Fuzhou City, China</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+    <div class="project-related-pages content-widget-hr">
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+        <h2>Publications</h2>
+        
+          
+            
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/mycv/publication/cities-mllm-fire-risk/" >Toward precision urban resilience: Integrating multimodal large language models with spatial analytics for fire risk governance</a>
+    </h3>
+
+    
+    <div class="article-style">
+      An MLLM-powered visual-semantic indicator system coupled with geographically weighted XGBoost for precise, spatially explicit urban …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span><a href="/mycv/authors/dong-xie/">Dong Xie</a></span>, <span><a href="/mycv/authors/senhong-cai/">Senhong Cai</a></span>, <span><a href="/mycv/authors/ke-wang/">Ke Wang</a></span>, <span><a href="/mycv/authors/ce-hou/">Ce Hou</a></span>, <span><a href="/mycv/authors/shaoqing-dai/"><strong>Shaoqing Dai</strong></a></span>, <span><a href="/mycv/authors/jingnan-huang/">Jingnan Huang</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/202607.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/mycv/publication/cities-mllm-fire-risk/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/project/urban-visual-intelligence/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.cities.2026.107449" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/mycv/publication/cities-mllm-fire-risk/" >
+      <img src="/mycv/publication/cities-mllm-fire-risk/featured_hub34cdaaa31b8fb4a5244266aef28c032_648728_150x0_resize_q90_lanczos.jpg" alt="">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/mycv/publication/scs-green-space-expansion/" >Understanding multi-perspective urban green space patterns under urban expansion: Evidence from Guangzhou</a>
+    </h3>
+
+    
+    <div class="article-style">
+      A multi-perspective NDVI-GVI framework revealing how urban expansion reshapes the spatial relationships between urban green space and …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span><a href="/mycv/authors/qiming-liu/">Qiming Liu</a></span>, <span><a href="/mycv/authors/shaoqing-dai/"><strong>Shaoqing Dai</strong></a></span>, <span><a href="/mycv/authors/guosheng-yang/">Guosheng Yang</a></span>, <span><a href="/mycv/authors/cai-wu/">Cai Wu</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/202603.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/mycv/publication/scs-green-space-expansion/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/project/urban-visual-intelligence/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/project/urban-blue-and-green-space/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.scs.2026.107534" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://mp.weixin.qq.com/s/aT44tmMTMkwA5ZlajeXQAw" target="_blank" rel="noopener">
+    
+    Wechat article
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/mycv/publication/scs-green-space-expansion/" >
+      <img src="/mycv/publication/scs-green-space-expansion/featured_huc04e0a64bd38cd3ce5a831207693cf01_549787_150x0_resize_q90_lanczos.jpg" alt="">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/mycv/publication/isprs-street-view-generation/" >Bridging street view coverage disparities through geographic identity preserving generation from satellite view</a>
+    </h3>
+
+    
+    <div class="article-style">
+      We proposed GeoIdentity-Sat2Street, a geographic identity preserving satellite-to-street-view generation framework that expands street …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span><a href="/mycv/authors/zongrong-li/">Zongrong Li</a></span>, <span><a href="/mycv/authors/fan-zhang/">Fan Zhang</a></span>, <span><a href="/mycv/authors/shaoqing-daicorresponding/"><strong>Shaoqing Dai(corresponding)</strong></a></span>, <span><a href="/mycv/authors/wufan-zhao/">Wufan Zhao</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/202602.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/mycv/publication/isprs-street-view-generation/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/project/urban-visual-intelligence/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.isprsjprs.2026.03.049" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://mp.weixin.qq.com/s/CwR2Hy9mXqjlw_cyHreKOg" target="_blank" rel="noopener">
+    
+    Wechat article
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/mycv/publication/isprs-street-view-generation/" >
+      <img src="/mycv/publication/isprs-street-view-generation/featured_hud341420cd90ba5124a8d3685567c7e61_292824_150x0_resize_q90_lanczos.jpg" alt="">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/mycv/publication/habitati-svi-3dhpm/" >Toward 3D hedonic price model for vertically developed cities using street view images and machine learning methods</a>
+    </h3>
+
+    
+    <div class="article-style">
+      we developed a 3D hedonic price model for vertically developed cities using street view images and machine learning methods.
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span><a href="/mycv/authors/yue-ying/">Yue Ying</a></span>, <span><a href="/mycv/authors/shaoqing-daicorresponding/"><strong>Shaoqing Dai(corresponding)</strong></a></span>, <span><a href="/mycv/authors/mila-koeva/">Mila Koeva</a></span>, <span><a href="/mycv/authors/monika-kuffer/">Monika Kuffer</a></span>, <span><a href="/mycv/authors/claudio-persello/">Claudio Persello</a></span>, <span><a href="/mycv/authors/wen-zhou/">Wen Zhou</a></span>, <span><a href="/mycv/authors/jaap-zevenbergen/">Jaap Zevenbergen</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/202502.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/mycv/publication/habitati-svi-3dhpm/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/project/spatial-temporal-gis-theory/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/project/urban-visual-intelligence/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.habitatint.2025.103288" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/mycv/publication/habitati-svi-3dhpm/" >
+      <img src="/mycv/publication/habitati-svi-3dhpm/featured_hu40f8225ff6cfed69b70c0edbfa2dc8d5_492973_150x0_resize_q90_lanczos.jpg" alt="">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/mycv/publication/phdthesis/" >Improving obesogenic environmental assessments with advanced geospatial methods</a>
+    </h3>
+
+    
+    <div class="article-style">
+      This thesis explores the intricate connections between the envir- onment and obesity. It develops and applies advanced geospatial …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span><a href="/mycv/authors/shaoqing-dai/"><strong>Shaoqing Dai</strong></a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/mycv/publication/phdthesis/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/project/spatial-lifecourse-health/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/project/urban-visual-intelligence/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/mycv/publication/ijgis-bea-review/" >Street view imagery-based built environment auditing tools: a systematic review</a>
+    </h3>
+
+    
+    <div class="article-style">
+      we conduct a systematic review on street view imagery-based built environment auditing tools.
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span><a href="/mycv/authors/shaoqing-dai/"><strong>Shaoqing Dai</strong></a></span>, <span><a href="/mycv/authors/yuchen-li/">Yuchen Li</a></span>, <span><a href="/mycv/authors/alfred-stein/">Alfred Stein</a></span>, <span><a href="/mycv/authors/shujuan-yang/">Shujuan Yang</a></span>, <span><a href="/mycv/authors/peng-jia/">Peng Jia</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/202406.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/mycv/publication/ijgis-bea-review/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5281/zenodo.8381347" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/project/spatial-lifecourse-health/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/project/urban-visual-intelligence/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/202408slides.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1080/13658816.2024.2336034" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/mycv/publication/ijgis-bea-review/" >
+      <img src="/mycv/publication/ijgis-bea-review/featured_hu7097f065b05190de89b7180f5d3423bb_208236_150x0_resize_q90_lanczos.jpg" alt="">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/mycv/publication/jag-bikeability-multisource/" >Assessing spatiotemporal bikeability using multi-source geospatial big data: A case study of Xiamen, China</a>
+    </h3>
+
+    
+    <div class="article-style">
+      we develop a bikeability evaluation framework by combining the collected multi-source spatio-temporal big data.
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span><a href="/mycv/authors/shaoqing-dai/"><strong>Shaoqing Dai</strong></a></span>, <span><a href="/mycv/authors/wufan-zhao/">Wufan Zhao</a></span>, <span><a href="/mycv/authors/yanwen-wang/">Yanwen Wang</a></span>, <span><a href="/mycv/authors/xiao-huang/">Xiao Huang</a></span>, <span><a href="/mycv/authors/zhidong-chen/">Zhidong Chen</a></span>, <span><a href="/mycv/authors/jinghan-lei/">Jinghan Lei</a></span>, <span><a href="/mycv/authors/alfred-stein/">Alfred Stein</a></span>, <span><a href="/mycv/authors/peng-jia/">Peng Jia</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/202306.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/mycv/publication/jag-bikeability-multisource/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/project/spatial-lifecourse-health/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/project/spatial-temporal-gis-theory/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/project/urban-visual-intelligence/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/202409slides.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.jag.2023.103539" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://mp.weixin.qq.com/s/lUi7l5uX8DPr1LQgEibjbw" target="_blank" rel="noopener">
+    
+    Wechat articles
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/mycv/publication/jag-bikeability-multisource/" >
+      <img src="/mycv/publication/jag-bikeability-multisource/featured_hu788f8540679ae32fb5f3feb99332b83c_139027_150x0_resize_q90_lanczos.jpg" alt="">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+      
+
+      
+      
+      
+        <h2>Talks</h2>
+        
+          
+            
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/mycv/talk/isle2026talks/" >Sensing healthy city: from multimodal geographic data, GeoAI to causal inference</a>
+    </h3>
+
+    
+    <div class="article-style">
+      To introduce our published studies in sensing healthy city from multimodal geographic data, GeoAI to causal inference.
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jul 19, 2026 9:10 AM &mdash; 9:30 AM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Wuhan, Hubei</span>
+        
+      </div>
+      
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/project/spatial-lifecourse-health/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/project/urban-visual-intelligence/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://weibo.com/2884386252/profile?rightmod=1&amp;wvr=6&amp;mod=personinfo&amp;ssl_rnd=1509588674.6099&amp;sudaref=localhost&amp;display=0&amp;retcode=6102" target="_blank" rel="noopener">
+    <i class="fab fa-weibo mr-1"></i>
+    Follow
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/mycv/talk/giph2026talks/" >Sensing healthy city: from multimodal geographic data, GeoAI to causal inference</a>
+    </h3>
+
+    
+    <div class="article-style">
+      To introduce our published studies in sensing healthy city from multimodal geographic data, GeoAI to causal inference.
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jul 17, 2026 9:20 AM &mdash; 9:30 AM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>East China Normal University, Shanghai</span>
+        
+      </div>
+      
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/project/spatial-lifecourse-health/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/project/urban-visual-intelligence/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://weibo.com/2884386252/profile?rightmod=1&amp;wvr=6&amp;mod=personinfo&amp;ssl_rnd=1509588674.6099&amp;sudaref=localhost&amp;display=0&amp;retcode=6102" target="_blank" rel="noopener">
+    <i class="fab fa-weibo mr-1"></i>
+    Follow
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/mycv/talk/giph2026talks/" >
+      <img src="/mycv/talk/giph2026talks/featured_huda1f87e5f4e18ee31a96dfdf3d44583e_90596_150x0_resize_q90_lanczos.jpg" alt="">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/mycv/talk/ysrs2026talks/" >Obesogenic environment sensing based on multimodal data and GeoAI</a>
+    </h3>
+
+    
+    <div class="article-style">
+      To introduce our published research in sensing obesogenic environments based on multimodal data and GeoAI.
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Apr 17, 2026 3:35 PM &mdash; 3:50 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Fuzhou University, Fujian</span>
+        
+      </div>
+      
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/project/spatial-lifecourse-health/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/mycv/project/urban-visual-intelligence/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://weibo.com/2884386252/profile?rightmod=1&amp;wvr=6&amp;mod=personinfo&amp;ssl_rnd=1509588674.6099&amp;sudaref=localhost&amp;display=0&amp;retcode=6102" target="_blank" rel="noopener">
+    <i class="fab fa-weibo mr-1"></i>
+    Follow
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/mycv/talk/ysrs2026talks/" >
+      <img src="/mycv/talk/ysrs2026talks/featured_hu61af048d00be2bcdf5124ef4ee4988be_215567_150x0_resize_q90_lanczos.jpg" alt="">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+      
+    </div>
+  </div>
+</article>
+
+      
+
+    
+    
+    
+    <script src="/mycv/js/mathjax-config.js"></script>
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+        
+      
+
+      
+      
+      <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/mycv/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/mycv/js/academic.min.d6bd04fdad2ad213aa8111c5a3b72fc5.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    &copy; 2016-2025 Shaoqing Dai &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

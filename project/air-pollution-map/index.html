@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="We used multi-sources data, machine learning and spatial statistics to devlop the accurate air pollution map.">
+  <meta name="description" content="We used multi-source data, machine learning, and spatial statistics to develop accurate air pollution maps and assess their health effects.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://gisersqdai.top/mycv/project/air-pollution-map/">
@@ -114,7 +114,7 @@
   <meta property="og:site_name" content="Shaoqing Dai">
   <meta property="og:url" content="https://gisersqdai.top/mycv/project/air-pollution-map/">
   <meta property="og:title" content="Air Pollution Map | Shaoqing Dai">
-  <meta property="og:description" content="We used multi-sources data, machine learning and spatial statistics to devlop the accurate air pollution map."><meta property="og:image" content="https://gisersqdai.top/mycv/project/air-pollution-map/featured.jpg">
+  <meta property="og:description" content="We used multi-source data, machine learning, and spatial statistics to develop accurate air pollution maps and assess their health effects."><meta property="og:image" content="https://gisersqdai.top/mycv/project/air-pollution-map/featured.jpg">
   <meta property="twitter:image" content="https://gisersqdai.top/mycv/project/air-pollution-map/featured.jpg"><meta property="og:locale" content="en-us">
   
     
@@ -168,7 +168,7 @@
       "url": "https://gisersqdai.top/mycv/img/site.png"
     }
   },
-  "description": "We used multi-sources data, machine learning and spatial statistics to devlop the accurate air pollution map."
+  "description": "We used multi-source data, machine learning, and spatial statistics to develop accurate air pollution maps and assess their health effects."
 }
 </script>
 
@@ -706,31 +706,43 @@
     <div class="article-style">
       
 
-<p>Air pollution became a global concern of public health and environmental govermance, especially in the developing countries. There is the need to understanding the spatio-temporal dynamics of air pollution. How to map an accurate air pollution map is the main research problem in studies of air pollution. We could explore the driver factors of air pollution based on the spatio-temmporal air pollution maps with high accuracy. We used the different methods such as spatial interpolation methods, remote sensing retrieval, machine learning and land use regression model to obatin the air pollution maps and found some interesting results. But how to intergrating the different methods is the further studies.</p>
+<p>Air pollution has become a global concern for public health and environmental governance, especially in developing countries. Accurate air pollution maps are the foundation of exposure assessment and policy evaluation. This project builds accurate, multi-scale air pollution maps from multi-source data and machine learning, explores the driving factors behind the observed spatiotemporal dynamics, and further links the maps to population exposure and health outcomes.</p>
 
-<h1 id="1-drive-factors-of-pm2-5-concentration-and-map">1 Drive factors of PM2.5 concentration and map</h1>
+<h1 id="1-driving-factors-of-pm2-5-concentration">1 Driving factors of PM2.5 concentration</h1>
 
-<p><img src="https://www.mdpi.com/remotesensing/remotesensing-10-00521/article_deploy/html/images/remotesensing-10-00521-g005-550.jpg" alt="" /></p>
+<p>What drives the spatiotemporal dynamics of PM2.5? We applied the geographical detector technique to quantify the individual and interactive explanatory power of anthropogenic, ecological, and meteorological factors at different periods, and further analyzed the long-term changes in annual average PM2.5 concentrations across Yangtze River Delta cities between 2005 and 2015. The results reveal strong interactive effects among impact factors and an evident north–south gradient of concentration changes in the YRD region.</p>
 
-<p><strong>Figure 1. Scores for the interactive effects of impact factors sensitivity rankings at the three periods studied calculated based on simulations using multisource data</strong></p>
+<p><img src="pm25-rs-estimates.jpg" alt="" /></p>
 
-<p><img src="https://www.mdpi.com/atmosphere/atmosphere-10-00055/article_deploy/html/images/atmosphere-10-00055-g004-550.jpg" alt="" /></p>
+<p><strong>Figure 1. Scores for the interactive effects of impact factors sensitivity rankings at the three periods studied, calculated based on simulations using multisource data.</strong></p>
 
-<p><strong>Figure 2. The spatial distribution of changes in annual average PM2.5 concentrations in different YRD cities from 2005 to 2015</strong></p>
+<p><img src="pm25-gtwr.jpg" alt="" /></p>
 
-<h1 id="2-daily-level-pm2-5-mapping-at-1-km-resolution">2 Daily level PM2.5 mapping at 1-km resolution</h1>
+<p><strong>Figure 2. The spatial distribution of changes in annual average PM2.5 concentrations in different YRD cities from 2005 to 2015.</strong></p>
 
-<p><img src="http://gisersqdai.top/mycv/img/202010fig2.jpg" alt="" /></p>
+<p><a href="https://doi.org/10.3390/rs10040521" target="_blank">The geodetector study was published in <em>Remote Sensing</em></a>, and <a href="https://doi.org/10.3390/atmos10020055" target="_blank">the YRD driver analysis was published in <em>Atmosphere</em></a></p>
 
-<p><strong>Figure 3. Daily level PM2.5 mapping at 1-km resolution</strong></p>
+<h1 id="2-daily-pm2-5-mapping-at-1-km-resolution">2 Daily PM2.5 mapping at 1-km resolution</h1>
 
-<h1 id="3-health-effect-of-exposure-to-air-pollution">3 Health effect of exposure to air pollution</h1>
+<p>Station-based monitoring is too sparse to support exposure assessment. We developed a daily PM2.5 mapping approach at 1-km resolution that integrates remote sensing retrieval, meteorological fields, and land use regression, producing wall-to-wall concentration surfaces that capture day-to-day pollution dynamics, such as the heavy pollution episodes during the Spring Festival travel period.</p>
 
-<p><img src="http://gisersqdai.top/mycv/img/202010fig4.jpg" alt="" /></p>
+<p><img src="pm25-lur-map.jpg" alt="" /></p>
 
-<p><strong>Figure 4 The time variation and OD matrices of AF</strong></p>
+<p><strong>Figure 3. Daily level PM2.5 mapping at 1-km resolution.</strong></p>
+
+<p><a href="https://doi.org/10.11982/j.supr.20200504" target="_blank">The application was published in <em>Shanghai Urban Planning Review</em> (in Chinese)</a></p>
+
+<h1 id="3-health-effects-of-air-pollution-exposure">3 Health effects of air pollution exposure</h1>
+
+<p>Accurate pollution maps enable individual-level exposure assessment. Based on the mapping products, we evaluated the short-term health effects of PM2.5 exposure during the Spring Festival in 25 Yangtze River Delta cities using the population exposure metric AF and OD matrices, and further extended the exposure–health chain to long-term chemical constituents and diabesity risks in a national cohort, as well as real-time blood pressure responses measured by wearables.</p>
+
+<p><img src="pm25-exposure.jpg" alt="" /></p>
+
+<p><strong>Figure 4. The time variation and OD matrices of AF.</strong></p>
 
 <p><a href="https://mp.weixin.qq.com/s/tpBS511WWOWau5jHaneoZg" target="_blank">【建成环境与行为研究】春节期间的PM2.5污染短期暴露健康效应评估——以长三角地区25个城市为例 | 上海城市规划</a></p>
+
+<p><a href="https://doi.org/10.1016/j.lanwpc.2024.101100" target="_blank">The cohort study was published in <em>The Lancet Regional Health – Western Pacific</em></a>, and <a href="https://doi.org/10.1007/s11524-025-01017-3" target="_blank">the wearable study was published in <em>Journal of Urban Health</em></a></p>
 
     </div>
 
@@ -1332,7 +1344,7 @@
 
 
   
-  <span><a href="/mycv/authors/kun-qin/">Kun Qin#</a></span>, <span>Zhanpeng Wang#</span>, <span><a href="/mycv/authors/shaoqing-dai/"><strong>Shaoqing Dai#</strong></a></span>, <span><a href="/mycv/authors/yuchen-li/">Yuchen Li</a></span>, <span><a href="/mycv/authors/manyao-li/">Manyao Li</a></span>, <span><a href="/mycv/authors/chen-li/">Chen Li</a></span>, <span><a href="/mycv/authors/ge-qiu/">Ge Qiu</a></span>, <span><a href="/mycv/authors/yuanyuan-shi/">Yuanyuan Shi</a></span>, <span><a href="/mycv/authors/chun-yin/">Chun Yin</a></span>, <span><a href="/mycv/authors/shujuan-yang/">Shujuan Yang</a></span>, <span><a href="/mycv/authors/peng-jia/">Peng Jia</a></span>
+  <span><a href="/mycv/authors/kun-qin/">Kun Qin#</a></span>, <span><a href="/mycv/authors/zhanpeng-wang/">Zhanpeng Wang#</a></span>, <span><a href="/mycv/authors/shaoqing-dai/"><strong>Shaoqing Dai#</strong></a></span>, <span><a href="/mycv/authors/yuchen-li/">Yuchen Li</a></span>, <span><a href="/mycv/authors/manyao-li/">Manyao Li</a></span>, <span><a href="/mycv/authors/chen-li/">Chen Li</a></span>, <span><a href="/mycv/authors/ge-qiu/">Ge Qiu</a></span>, <span><a href="/mycv/authors/yuanyuan-shi/">Yuanyuan Shi</a></span>, <span><a href="/mycv/authors/chun-yin/">Chun Yin</a></span>, <span><a href="/mycv/authors/shujuan-yang/">Shujuan Yang</a></span>, <span><a href="/mycv/authors/peng-jia/">Peng Jia</a></span>
 
       </div>
       
@@ -1935,7 +1947,7 @@
 
     
     <div class="article-style">
-      To introduce our rethikings on carbon-air-health nexus.
+      To introduce our rethinking on the carbon-air-health nexus.
     </div>
     
 
@@ -2065,7 +2077,7 @@
 
     
     <div class="article-style">
-      Using Tencent location based service data and machine learning mapping produced by multi-sources geospatial data to investigate the …
+      To introduce our study on the health risk of short-term PM2.5 exposure during the Spring Festival, using Tencent location-based service …
     </div>
     
 
@@ -2199,7 +2211,7 @@
 
     
     <div class="article-style">
-      This study analyzed the environmental effect of urban form on PM2.5 by multi-sources data.
+      To introduce our study on the environmental effect of urban form on PM2.5 using multi-source data.
     </div>
     
 

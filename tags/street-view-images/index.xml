@@ -5,12 +5,173 @@
     <link>https://gisersqdai.top/mycv/tags/street-view-images/</link>
       <atom:link href="https://gisersqdai.top/mycv/tags/street-view-images/index.xml" rel="self" type="application/rss+xml" />
     <description>Street View Images</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Sat, 13 Dec 2025 13:45:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Sun, 19 Jul 2026 09:10:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Street View Images</title>
       <link>https://gisersqdai.top/mycv/tags/street-view-images/</link>
     </image>
+    
+    <item>
+      <title>Sensing healthy city: from multimodal geographic data, GeoAI to causal inference</title>
+      <link>https://gisersqdai.top/mycv/talk/isle2026talks/</link>
+      <pubDate>Sun, 19 Jul 2026 09:10:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/isle2026talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensing healthy city: from multimodal geographic data, GeoAI to causal inference</title>
+      <link>https://gisersqdai.top/mycv/talk/giph2026talks/</link>
+      <pubDate>Fri, 17 Jul 2026 09:20:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/giph2026talks/</guid>
+      <description>
+
+&lt;h4 id=&#34;photos&#34;&gt;Photos&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;healthgis2026.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Presenting at the 10th Symposium on Applications of Geographic Information and Spatial Analysis Technologies in Public Health, East China Normal University, Shanghai, July 2026.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding multi-perspective urban green space patterns under urban expansion: Evidence from Guangzhou</title>
+      <link>https://gisersqdai.top/mycv/publication/scs-green-space-expansion/</link>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/scs-green-space-expansion/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. Research framework.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Obesogenic environment sensing based on multimodal data and GeoAI</title>
+      <link>https://gisersqdai.top/mycv/talk/ysrs2026talks/</link>
+      <pubDate>Fri, 17 Apr 2026 15:35:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/ysrs2026talks/</guid>
+      <description>
+
+&lt;h4 id=&#34;photos&#34;&gt;Photos&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;ysrs2026.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Presenting &amp;ldquo;Obesogenic environment sensing based on multimodal data and GeoAI&amp;rdquo; at the 2026 Young Scientists Symposium on Remote Sensing, Fuzhou University, Fuzhou, April 2026.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bridging street view coverage disparities through geographic identity preserving generation from satellite view</title>
+      <link>https://gisersqdai.top/mycv/publication/isprs-street-view-generation/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/isprs-street-view-generation/</guid>
+      <description>
+
+&lt;h4 id=&#34;uneven-street-view-coverage&#34;&gt;Uneven Street View Coverage&lt;/h4&gt;
+
+&lt;p&gt;Street view imagery (SVI) provides a human-centric view of urban environments and is widely used to analyze greenery, mobility, socioeconomic conditions, health outcomes, and safety perception. Its global coverage, however, is highly uneven: published SVI studies concentrate in the United States and Europe, while developing regions across Asia, Africa, and South America remain systematically underrepresented, which limits the inclusiveness of SVI-based analytics and can introduce systematic bias into urban analysis outcomes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. Street view imagery coverage in selected cities.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;the-geoidentity-sat2street-framework&#34;&gt;The GeoIdentity-Sat2Street Framework&lt;/h4&gt;
+
+&lt;p&gt;We propose GeoIdentity-Sat2Street, a geographic identity preserving framework that leverages satellite imagery to expand SVI coverage. A polar-transformation conditional GAN first synthesizes plausible street view perspectives, and a diffusion-based generator then refines them conditioned on semantic captions, location metadata, and structural priors. This two-step design enforces geometric consistency while explicitly preserving geographic identity, an overlooked but critical aspect of urban distinctiveness.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;sat2street-framework.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2. The framework for geographic identity preserving street view imagery generation. Step 1 converts satellite images into an initial SVI providing the basic street view geometry; Step 2 refines it with depth, edges, text descriptions, and location cues.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;evaluation-and-the-multicities-dataset&#34;&gt;Evaluation and the MultiCities Dataset&lt;/h4&gt;
+
+&lt;p&gt;On the classic CVUSA and CVACT cross-view benchmarks, the framework achieves the highest SSIM (0.427 and 0.537), the lowest LPIPS (0.345 and 0.317), and the best mIoU (0.054) among baselines. To assess geographic identity fidelity, we constructed the MultiCities Dataset, a benchmark of 50,000 paired satellite-street-view images across five cities on five continents. An automated GPT-4o evaluation pipeline, with GPT-4o acting successively as Evaluator and Inspector, provides task-specific quantitative and qualitative assessments.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;gpt-eval-pipeline.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3. Automated evaluation pipeline for street view imagery generation using GPT-4o, where GPT-4o acts as Evaluator A and Inspector B in a two-stage assessment.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Quantitative results on the CVUSA benchmark show that our method achieves the best SSIM, MS-SSIM, LPIPS, and KID among the compared models:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Model&lt;/th&gt;
+&lt;th&gt;PSNR&lt;/th&gt;
+&lt;th&gt;SSIM&lt;/th&gt;
+&lt;th&gt;MS-SSIM&lt;/th&gt;
+&lt;th&gt;Edge_IoU&lt;/th&gt;
+&lt;th&gt;mIoU&lt;/th&gt;
+&lt;th&gt;LPIPS&lt;/th&gt;
+&lt;th&gt;KID&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Ours&lt;/td&gt;
+&lt;td&gt;14.565&lt;/td&gt;
+&lt;td&gt;0.427&lt;/td&gt;
+&lt;td&gt;0.438&lt;/td&gt;
+&lt;td&gt;0.131&lt;/td&gt;
+&lt;td&gt;0.052&lt;/td&gt;
+&lt;td&gt;0.345&lt;/td&gt;
+&lt;td&gt;0.086&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ComingDownToEarth&lt;/td&gt;
+&lt;td&gt;14.032&lt;/td&gt;
+&lt;td&gt;0.233&lt;/td&gt;
+&lt;td&gt;0.363&lt;/td&gt;
+&lt;td&gt;0.153&lt;/td&gt;
+&lt;td&gt;0.054&lt;/td&gt;
+&lt;td&gt;0.355&lt;/td&gt;
+&lt;td&gt;0.066&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;InstructPix2Pix&lt;/td&gt;
+&lt;td&gt;12.501&lt;/td&gt;
+&lt;td&gt;0.339&lt;/td&gt;
+&lt;td&gt;0.236&lt;/td&gt;
+&lt;td&gt;0.056&lt;/td&gt;
+&lt;td&gt;0.040&lt;/td&gt;
+&lt;td&gt;0.539&lt;/td&gt;
+&lt;td&gt;0.040&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;CrossMLP&lt;/td&gt;
+&lt;td&gt;15.119&lt;/td&gt;
+&lt;td&gt;0.356&lt;/td&gt;
+&lt;td&gt;0.364&lt;/td&gt;
+&lt;td&gt;0.077&lt;/td&gt;
+&lt;td&gt;0.055&lt;/td&gt;
+&lt;td&gt;0.442&lt;/td&gt;
+&lt;td&gt;0.055&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Table 1. Quantitative results on the CVUSA benchmark for evaluating generalization quality.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The model attains the highest Silhouette Score (0.222) and lowest inter-city variance (0.031), with clearly separated clusters in t-SNE, and GPT-based evaluation further confirms realism and semantic alignment. Qualitative comparisons across the five cities show that our results reproduce regionally distinctive streetscapes more faithfully than the baselines.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;qualitative-comparison.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4. Qualitative comparison of street view imagery generation across five cities in the MultiCities Dataset.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;toward-globally-representative-urban-analytics&#34;&gt;Toward Globally Representative Urban Analytics&lt;/h4&gt;
+
+&lt;p&gt;Applying the framework to Kathmandu, Nepal improves usable street-view coverage by about 28%, moving from 72% partial coverage toward dense roadside coverage. The side-by-side comparison shows that the generated street views closely match the real urban scenes, indicating that identity preserving satellite-to-street generation offers a scalable way to fill coverage gaps in data-scarce regions and paves the way for more globally representative and equitable urban analytics.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;kathmandu-comparison.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 5. Side-by-side comparison of real and synthesized street view in Kathmandu.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Sensing healthy city based on multimodal data and GeoAI</title>
@@ -87,7 +248,7 @@
 
 &lt;p&gt;As shown in Figure 2, this study is conducted within the HPM framework, which consists of three steps. We first generate physical, locational variables, extract 3D variables from SVIs, and then construct HPM in different valuation models, namely OLS, GWR and RF.&lt;/p&gt;
 
-&lt;p&gt;$$V=f(P,L,E_{3d})$$&lt;/p&gt;
+&lt;p&gt;V = f(P, L, E3d)&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0197397525000049-gr3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
@@ -97,9 +258,9 @@
 
 &lt;p&gt;&lt;strong&gt;Figure 3. The example of semantic segmentation&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;RF performs the best among all three models. $R^2$ increases from 0.716 to 0.768 by adding 3D variables. In addition to R2 values, RMSE, MAE, and MAPE are also used to evaluate the model accuracy, as shown in Table 3. The lowest RMSE in RF is 1669.60 $yuan/m^2$. Taking the average property value (14,318 $yuan/m^2$), the MAPE of estimation in RF is 11.66%. In summary, OLS has the basic performance, GWR has improvement, and RF has the best explainability and the least errors in different regards.&lt;/p&gt;
+&lt;p&gt;RF performs the best among all three models. R² increases from 0.716 to 0.768 by adding 3D variables. In addition to R2 values, RMSE, MAE, and MAPE are also used to evaluate the model accuracy, as shown in Table 3. The lowest RMSE in RF is 1669.60 yuan/m². Taking the average property value (14,318 yuan/m²), the MAPE of estimation in RF is 11.66%. In summary, OLS has the basic performance, GWR has improvement, and RF has the best explainability and the least errors in different regards.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Table 1. The comparison of $R^2$, RMSE, MAE and MAPE among different models (based on group 4). The unit of RMSE and MAE: $yuan/m^2$.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table 1. The comparison of R², RMSE, MAE and MAPE among different models (based on group 4). The unit of RMSE and MAE: yuan/m².&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -358,10 +519,171 @@
     
     <item>
       <title>Assessing riding friendliness by fusing multi-source heterogeneous spatio-temporal big data</title>
-      <link>https://gisersqdai.top/mycv/publication/bikeability-chinses-urban-planning-meeting/</link>
+      <link>https://gisersqdai.top/mycv/publication/bikeability-chinese-urban-planning-meeting/</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/publication/bikeability-chinses-urban-planning-meeting/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/bikeability-chinese-urban-planning-meeting/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Visual Intelligence</title>
+      <link>https://gisersqdai.top/mycv/project/urban-visual-intelligence/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/project/urban-visual-intelligence/</guid>
+      <description>
+
+&lt;p&gt;Street view imagery (SVI) provides an eye-level, human-centric record of urban environments, capturing pedestrian-experience features such as greenery, facades, and safety-related cues that satellite imagery cannot observe. This project develops &lt;strong&gt;urban visual intelligence&lt;/strong&gt;: turning massive street-level imagery into measurable, explainable, and actionable urban knowledge. The research covers the full chain from data coverage and generation, visual auditing of built environments, eye-level greenery and multi-source urban analysis, to visual-semantic urban governance with large language models. It is also the methodological backbone of my PhD research on improving obesogenic environmental assessments with advanced geospatial methods.&lt;/p&gt;
+
+&lt;h1 id=&#34;1-street-view-data-coverage-and-generation&#34;&gt;1 Street view data coverage and generation&lt;/h1&gt;
+
+&lt;p&gt;The global coverage of SVI is highly uneven: published studies concentrate in the United States and Europe, while developing regions across Asia, Africa, and South America remain systematically underrepresented, which limits the inclusiveness of SVI-based analytics. We proposed GeoIdentity-Sat2Street, a geographic identity preserving framework that generates street view imagery from satellite views by coupling a polar-transformation conditional GAN with a diffusion-based generator, and constructed the MultiCities Dataset, a benchmark of 50,000 paired satellite-street-view images across five cities on five continents. Applying the framework to Kathmandu, Nepal improved usable street-view coverage by about 28%, showing a scalable way toward globally representative urban analytics.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;svi-coverage-framework.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. Uneven street view imagery coverage in selected cities (top) and the GeoIdentity-Sat2Street generation framework (bottom).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.isprsjprs.2026.03.049&#34; target=&#34;_blank&#34;&gt;The paper was published in &lt;em&gt;ISPRS Journal of Photogrammetry and Remote Sensing&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;2-visual-auditing-of-built-environments&#34;&gt;2 Visual auditing of built environments&lt;/h1&gt;
+
+&lt;p&gt;How can SVI be used to audit built environments in a systematic and reproducible way? We conducted a systematic review of street view imagery-based built environment auditing tools, synthesizing the auditing dimensions (eye-level and sky-view angles), the detection and segmentation models behind them, and their applications across countries and research groups. Furthermore, we extended the auditing from 2D facades to 3D vertical cities by developing a 3D hedonic price model (3D HPM) that quantifies vertical urban features from SVI with machine learning for vertically developed cities.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;bea-tools.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2. An overview of the studies using different built environment auditing tools in different countries.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;svi-3dhpm.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3. Illustrations of SVI sampling and the eye-level and sky-view angles (a)-(e).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1080/13658816.2024.2336034&#34; target=&#34;_blank&#34;&gt;The review was published in &lt;em&gt;IJGIS&lt;/em&gt;&lt;/a&gt;, and &lt;a href=&#34;https://doi.org/10.1016/j.habitatint.2025.103288&#34; target=&#34;_blank&#34;&gt;the 3D HPM study was published in &lt;em&gt;Habitat International&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;3-eye-level-greenery-and-multi-source-urban-analysis&#34;&gt;3 Eye-level greenery and multi-source urban analysis&lt;/h1&gt;
+
+&lt;p&gt;Eye-level greenery often diverges from what aerial indicators suggest. We introduced a multi-perspective framework integrating the aerial perspective (NDVI) and the human-centric perspective (GVI) with urban morphological, socioeconomic, and topographic indicators, revealing how urban expansion reshapes the spatial relationships between urban green space and urban morphology in Guangzhou. We also fused SVI-based semantic segmentation with multi-source geospatial big data to assess the spatiotemporal dynamics of bikeability in Xiamen, evaluating daily safety, comfort, accessibility, and vitality of street cycling environments.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;ugs-framework.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4. Research framework of the multi-perspective urban green space analysis.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;bikeability.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 5. The bikeability assessment: the study area of Xiamen Island, the proposed framework, the daily bikeability maps (December 21st–25th), and the field validation with street-level photos.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.scs.2026.107534&#34; target=&#34;_blank&#34;&gt;The Guangzhou study was published in &lt;em&gt;Sustainable Cities and Society&lt;/em&gt;&lt;/a&gt;, and &lt;a href=&#34;https://doi.org/10.1016/j.jag.2023.103539&#34; target=&#34;_blank&#34;&gt;the bikeability study was published in &lt;em&gt;International Journal of Applied Earth Observation and Geoinformation&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;4-visual-semantic-urban-governance-with-large-language-models&#34;&gt;4 Visual-semantic urban governance with large language models&lt;/h1&gt;
+
+&lt;p&gt;Fine-grained fire hazards, such as cluttered wires or illicit ebike charging, are invisible to conventional POI-based risk indicators. We developed a visual-semantic risk indicator system that uses multimodal large language models (MLLMs) to extract fire-hazard features from street-view and remote-sensing imagery, and integrated these features into a geographically weighted XGBoost model for fire risk governance in Wuhan. The framework distinguishes urban areas that appear similar in static indicators but differ substantially in micro-scale hazard conditions, and scenario simulations show that interventions targeting informal practices in transitional areas produce the greatest reductions in fire risk.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;fire-risk.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 6. Research framework of the MLLM-based urban fire risk governance.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.cities.2026.107449&#34; target=&#34;_blank&#34;&gt;The paper was published in &lt;em&gt;Cities&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatial Lifecourse Health</title>
+      <link>https://gisersqdai.top/mycv/project/spatial-lifecourse-health/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/project/spatial-lifecourse-health/</guid>
+      <description>
+
+&lt;p&gt;Spatial Lifecourse Health was proposed by my supervisor, Prof. Peng Jia in &lt;a href=&#34;https://doi.org/10.1016/S2542-5196(18)30245-6&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Lancet Planetary Health&lt;/em&gt;&lt;/a&gt;. It is an emerging framework that integrates life-course theory with spatial thinking to understand how places shape health across the life span, and it is now also applied to infectious diseases such as the COVID-19 pandemic. The top 10 research priorities in spatial lifecourse epidemiology and the &lt;a href=&#34;https://doi.org/10.1016/j.jadohealth.2019.11.296&#34; target=&#34;_blank&#34;&gt;ISLE-ReSt reporting standards&lt;/a&gt; have been published to guide this field. My PhD project applies Earth observation (Google Earth Engine), geospatial big data (street view image segmentation), and spatial statistical models to health geography and spatial epidemiology, covering obesity, infectious diseases, non-communicable diseases, and air pollution exposure.&lt;/p&gt;
+
+&lt;h1 id=&#34;1-obesity-and-obesogenic-environments&#34;&gt;1 Obesity and obesogenic environments&lt;/h1&gt;
+
+&lt;p&gt;We conducted a series of systematic reviews in &lt;em&gt;Obesity Reviews&lt;/em&gt; to determine all the obesogenic environmental factors of childhood obesity, covering the natural environment, green space, bike lanes, and speed limits, and further proposed a framework connecting built environments at different geographic contexts—residences, commute routes, and workplaces—with obesity.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1111/obr.13097&#34; target=&#34;_blank&#34;&gt;Natural environment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1111/obr.13100&#34; target=&#34;_blank&#34;&gt;Green space&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1111/obr.13042&#34; target=&#34;_blank&#34;&gt;Bike lanes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1111/obr.13052&#34; target=&#34;_blank&#34;&gt;Speed limit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/S2214-109X(23)00092-X&#34; target=&#34;_blank&#34;&gt;The framework paper was published in &lt;em&gt;The Lancet Global Health&lt;/em&gt;&lt;/a&gt;, and &lt;a href=&#34;https://doi.org/10.1016/j.cities.2025.105842&#34; target=&#34;_blank&#34;&gt;the residence–commute–workplace study was published in &lt;em&gt;Cities&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;2-covid-19-pandemic&#34;&gt;2 COVID-19 pandemic&lt;/h1&gt;
+
+&lt;p&gt;The COVID-19 pandemic became a natural laboratory for spatial lifecourse health. I built &lt;a href=&#34;http://covid19.gisersqdai.top/en-us/&#34; target=&#34;_blank&#34;&gt;Awesome of COVID-19&lt;/a&gt;, a website collecting COVID-19 research resources, and developed a &lt;a href=&#34;https://gisersqdai.shinyapps.io/COVID19VIS/&#34; target=&#34;_blank&#34;&gt;COVID-19 shiny app&lt;/a&gt; for spatiotemporal visualization.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;covid-website.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. Snapshot of the website &amp;ldquo;Awesome of COVID-19&amp;rdquo;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;covid-quickstart.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2. Snapshot of the COVID-19 shiny app.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We also raised awareness of reverse zoonoses (i.e., human–animal transmission of COVID-19), calling for up-to-date methods to improve the control, management, and prevention of cross-species transmission at both individual and regional/national levels.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;covid-fig3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3. COVID-19 natural infections of pet, zoo, and livestock animals as of 11 March 2021, mapped onto the number of confirmed human cases.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/Iye21hgtkTlFv95ybRDA0g&#34; target=&#34;_blank&#34;&gt;Trends论文献策疫情中被忽视的“人-动物”感染风险 | Cell Press论文速递&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.tree.2021.03.012&#34; target=&#34;_blank&#34;&gt;The paper was published in &lt;em&gt;Trends in Ecology &amp;amp; Evolution&lt;/em&gt;&lt;/a&gt;, and &lt;a href=&#34;https://doi.org/10.1007/s10980-024-02039-z&#34; target=&#34;_blank&#34;&gt;the heterogeneous impacts study was published in &lt;em&gt;Landscape Ecology&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Our contributions to COVID-19 epidemic prevention and control were also recognized by the Health Commission of Tumot Left Banner, Inner Mongolia.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;nmg-covid-award.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4. The certificate of outstanding contributions to COVID-19 epidemic prevention and control.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;3-health-effects-of-air-pollution-exposure&#34;&gt;3 Health effects of air pollution exposure&lt;/h1&gt;
+
+&lt;p&gt;Based on the daily 1-km PM2.5 mapping products, we evaluated the short-term health effects of PM2.5 exposure during the Spring Festival in 25 Yangtze River Delta cities using the attributable fraction (AF) and OD matrices, and further extended the exposure–health chain to long-term chemical constituents and diabesity risks in a national cohort, as well as real-time blood pressure responses measured by wearables.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;pm25-exposure.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 5. The time variation and OD matrices of AF.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/tpBS511WWOWau5jHaneoZg&#34; target=&#34;_blank&#34;&gt;【建成环境与行为研究】春节期间的PM2.5污染短期暴露健康效应评估——以长三角地区25个城市为例 | 上海城市规划&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.lanwpc.2024.101100&#34; target=&#34;_blank&#34;&gt;The cohort study was published in &lt;em&gt;The Lancet Regional Health – Western Pacific&lt;/em&gt;&lt;/a&gt;, and &lt;a href=&#34;https://doi.org/10.1007/s11524-025-01017-3&#34; target=&#34;_blank&#34;&gt;the wearable study was published in &lt;em&gt;Journal of Urban Health&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;4-built-environment-auditing-and-physical-activity-assessment&#34;&gt;4 Built environment auditing and physical activity assessment&lt;/h1&gt;
+
+&lt;p&gt;Street view imagery makes it possible to audit built environments at eye level. Through a systematic review of SVI-based built environment auditing tools, we synthesized the audited attributes, the detection models behind them, and their reliability across countries and research groups, and identified standardized tools (such as ANC and MAPS) as the most widely accepted auditing instruments.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;bea-review-map.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 6. An overview of the studies using different built environment auditing tools in different countries, (a) represents the number of these tools within different countries (in parentheses), (b) represents the number of these tools that have been applied by different groups and in various studies.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1080/13658816.2024.2336034&#34; target=&#34;_blank&#34;&gt;The review was published in &lt;em&gt;IJGIS&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We further developed a bikeability evaluation framework by fusing multi-source spatiotemporal big data, revealing the daily and hourly dynamics of cycling friendliness on Xiamen Island.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;bikeability-framework.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 7. The proposed bikeability framework.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;bikeability-daily.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 8. Average bikeability of Xiamen Island on December 21st, 22nd, 23rd, 24th, and 25th, 2020; the roads highlighted in red indicate lower levels of bikeability, whereas those in green indicate higher levels.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;bikeability-hourly.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 9. Average bikeability of Xiamen Island at 6:00, 7:00, 8:00, and 9:00 a.m.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/lUi7l5uX8DPr1LQgEibjbw&#34; target=&#34;_blank&#34;&gt;《Int J Appl Earth Obs》发文：基于多源地理空间大数据的时空自行车可行性评估&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.jag.2023.103539&#34; target=&#34;_blank&#34;&gt;The paper was published in &lt;em&gt;International Journal of Applied Earth Observation and Geoinformation&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;5-population-and-demographic-mapping&#34;&gt;5 Population and demographic mapping&lt;/h1&gt;
+
+&lt;p&gt;Fine-scale population structure is the foundation of exposure and health assessment. We developed a contextualized geographically weighted neural network (CGWNN) for high-resolution population density mapping, and further estimated complete sex and age structures on 100 m grid cells by fusing census data, remote sensing imagery, and geotagged social media data with a multi-output random forest model.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;demographic-coverage.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 10. Demographic composition data coverage and the distribution of geotagged social media data in Chengdu City.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.apgeog.2025.103708&#34; target=&#34;_blank&#34;&gt;The CGWNN paper was published in &lt;em&gt;Applied Geography&lt;/em&gt;&lt;/a&gt;, and &lt;a href=&#34;https://doi.org/10.1080/13658816.2026.2702485&#34; target=&#34;_blank&#34;&gt;the demographic composition mapping was published in &lt;em&gt;IJGIS&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -383,25 +705,25 @@
 
 &lt;p&gt;The research built up the virtual 3D model of Fuzhou strait olmpic sports center. At the same time, our research includes the planning of the surrounding infrastructure. Eespecially, we use City Engine to construct our variable model(different styles of building) to create greater values.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://media.gisersqdai.top/2.%E4%B8%BB%E4%BD%93%E8%82%B2%E9%A6%86%E6%88%AA%E5%9B%BE.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;vge-stadium.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Figure 1. Scene 1 of 3D model of Stadium&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://media.gisersqdai.top/4.%E4%B8%BB%E4%BD%93%E8%82%B2%E5%9C%BA%E5%87%BA%E5%8F%A3%E4%BB%A5%E5%8F%8A%E4%B8%89%E5%B1%82%E7%BB%93%E6%9E%84%E6%88%AA%E5%9B%BE.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;vge-stadium-exit.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Figure 2. Scene 2 of 3D model of Stadium&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://media.gisersqdai.top/3.%E4%B8%BB%E4%BD%93%E8%82%B2%E9%A6%86%E7%B2%BE%E7%BB%86%E5%BB%BA%E6%A8%A1%EF%BC%88%E6%A0%8F%E6%9D%86%E3%80%81%E6%A5%BC%E6%A2%AF%E3%80%81%E5%87%BA%E5%8F%A3%EF%BC%89.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;vge-stadium-model.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Figure 3. Scene 3 of 3D model of Stadium&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://media.gisersqdai.top/9.%E5%B1%85%E6%B0%91%E5%8C%BA%E8%A7%84%E5%88%99%E5%BB%BA%E6%A8%A1%EF%BC%88window1+balconyA%EF%BC%89.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;vge-residential-rule.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://media.gisersqdai.top/10.%E5%B1%85%E6%B0%91%E5%8C%BA%E8%A7%84%E5%88%99%E5%BB%BA%E6%A8%A1%EF%BC%88window1+balconyC%EF%BC%89.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;vge-residential-rule2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Figure 4. Different styles of buildings&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://media.gisersqdai.top/26.Zoning%E5%8A%9F%E8%83%BD%E6%88%AA%E5%9B%BE.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;vge-zoning.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Figure 5. Detection of illegal construction&lt;/strong&gt;&lt;/p&gt;
 
@@ -417,7 +739,7 @@
 
 &lt;p&gt;With the tide of Smart City and Big Data era, I explore the practice of Data Augmented Design, GIS and BIM in Smart Campus’s Application based on Fujian Normal University Keji Buildings. I build the simulation model of building site location and construction. And I use Data Augmented Design, GIS spatial analysis, Space Syntax and City Engine 3D modeling to support the building site location and assessment of planning, build the BIM model and develop the public participation GIS of Keji Buildings. This work was funded by the Project-The Technological Innovation Plan of University Students, Fujian Normal University, &amp;ldquo;The Optimization Model of High Education Staff’s Refuge Space Under Earthquake Disater&amp;rdquo;(cxxl-2014137).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://github.com/GISerDaiShaoqing/3dmodelFJNU/raw/master/PPGIS.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;ppgis.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Figure 6. Public Participant GIS&lt;/strong&gt;&lt;/p&gt;
 </description>

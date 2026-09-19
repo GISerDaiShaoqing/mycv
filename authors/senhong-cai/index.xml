@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Senhong Cai | Shaoqing Dai</title>
+    <link>https://gisersqdai.top/mycv/authors/senhong-cai/</link>
+      <atom:link href="https://gisersqdai.top/mycv/authors/senhong-cai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Senhong Cai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gisersqdai.top/mycv/img/site.png</url>
+      <title>Senhong Cai</title>
+      <link>https://gisersqdai.top/mycv/authors/senhong-cai/</link>
+    </image>
+    
+    <item>
+      <title>Toward precision urban resilience: Integrating multimodal large language models with spatial analytics for fire risk governance</title>
+      <link>https://gisersqdai.top/mycv/publication/cities-mllm-fire-risk/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/cities-mllm-fire-risk/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. Research framework.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,108 @@
     <link>https://gisersqdai.top/mycv/tags/</link>
       <atom:link href="https://gisersqdai.top/mycv/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Mon, 14 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Tags</title>
       <link>https://gisersqdai.top/mycv/tags/</link>
     </image>
+    
+    <item>
+      <title>Ecological Modeling</title>
+      <link>https://gisersqdai.top/mycv/tags/ecological-modeling/</link>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/ecological-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EO &amp; RS</title>
+      <link>https://gisersqdai.top/mycv/tags/eo-rs/</link>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/eo-rs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Landscape Ecology</title>
+      <link>https://gisersqdai.top/mycv/tags/landscape-ecology/</link>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/landscape-ecology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SDG</title>
+      <link>https://gisersqdai.top/mycv/tags/sdg/</link>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/sdg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GeoAI</title>
+      <link>https://gisersqdai.top/mycv/tags/geoai/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/geoai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Visual Intelligence</title>
+      <link>https://gisersqdai.top/mycv/tags/urban-visual-intelligence/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/urban-visual-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Lifecourse Health</title>
+      <link>https://gisersqdai.top/mycv/tags/spatial-lifecourse-health/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/spatial-lifecourse-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health Geography</title>
+      <link>https://gisersqdai.top/mycv/tags/health-geography/</link>
+      <pubDate>Sun, 19 Jul 2026 09:10:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/health-geography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Street View Images</title>
+      <link>https://gisersqdai.top/mycv/tags/street-view-images/</link>
+      <pubDate>Sun, 19 Jul 2026 09:10:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/street-view-images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Statistics</title>
+      <link>https://gisersqdai.top/mycv/tags/spatial-statistics/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/spatial-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obesity</title>
+      <link>https://gisersqdai.top/mycv/tags/obesity/</link>
+      <pubDate>Fri, 17 Apr 2026 15:35:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/obesity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial-Temporal Big Data</title>
+      <link>https://gisersqdai.top/mycv/tags/spatial-temporal-big-data/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/spatial-temporal-big-data/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Air Pollution Map</title>
@@ -21,66 +117,10 @@
     </item>
     
     <item>
-      <title>GeoAI</title>
-      <link>https://gisersqdai.top/mycv/tags/geoai/</link>
-      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/geoai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial Lifecourse Health</title>
-      <link>https://gisersqdai.top/mycv/tags/spatial-lifecourse-health/</link>
-      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/spatial-lifecourse-health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial Statistics</title>
-      <link>https://gisersqdai.top/mycv/tags/spatial-statistics/</link>
-      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/spatial-statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Spatial-Temporal GIS Theory</title>
       <link>https://gisersqdai.top/mycv/tags/spatial-temporal-gis-theory/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/spatial-temporal-gis-theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EO &amp; RS</title>
-      <link>https://gisersqdai.top/mycv/tags/eo-rs/</link>
-      <pubDate>Sat, 13 Dec 2025 13:45:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/eo-rs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Obesity</title>
-      <link>https://gisersqdai.top/mycv/tags/obesity/</link>
-      <pubDate>Sat, 13 Dec 2025 13:45:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/obesity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Street View Images</title>
-      <link>https://gisersqdai.top/mycv/tags/street-view-images/</link>
-      <pubDate>Sat, 13 Dec 2025 13:45:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/street-view-images/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Landscape Ecology</title>
-      <link>https://gisersqdai.top/mycv/tags/landscape-ecology/</link>
-      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/landscape-ecology/</guid>
       <description></description>
     </item>
     
@@ -105,14 +145,6 @@
       <link>https://gisersqdai.top/mycv/tags/ecosystem-services/</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/ecosystem-services/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ecological Modeling</title>
-      <link>https://gisersqdai.top/mycv/tags/ecological-modeling/</link>
-      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/ecological-modeling/</guid>
       <description></description>
     </item>
     

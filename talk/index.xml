@@ -5,12 +5,50 @@
     <link>https://gisersqdai.top/mycv/talk/</link>
       <atom:link href="https://gisersqdai.top/mycv/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Sat, 13 Dec 2025 13:45:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Sun, 19 Jul 2026 09:10:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://gisersqdai.top/mycv/talk/</link>
     </image>
+    
+    <item>
+      <title>Sensing healthy city: from multimodal geographic data, GeoAI to causal inference</title>
+      <link>https://gisersqdai.top/mycv/talk/isle2026talks/</link>
+      <pubDate>Sun, 19 Jul 2026 09:10:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/isle2026talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensing healthy city: from multimodal geographic data, GeoAI to causal inference</title>
+      <link>https://gisersqdai.top/mycv/talk/giph2026talks/</link>
+      <pubDate>Fri, 17 Jul 2026 09:20:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/giph2026talks/</guid>
+      <description>
+
+&lt;h4 id=&#34;photos&#34;&gt;Photos&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;healthgis2026.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Presenting at the 10th Symposium on Applications of Geographic Information and Spatial Analysis Technologies in Public Health, East China Normal University, Shanghai, July 2026.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Obesogenic environment sensing based on multimodal data and GeoAI</title>
+      <link>https://gisersqdai.top/mycv/talk/ysrs2026talks/</link>
+      <pubDate>Fri, 17 Apr 2026 15:35:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/ysrs2026talks/</guid>
+      <description>
+
+&lt;h4 id=&#34;photos&#34;&gt;Photos&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;ysrs2026.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Presenting &amp;ldquo;Obesogenic environment sensing based on multimodal data and GeoAI&amp;rdquo; at the 2026 Young Scientists Symposium on Remote Sensing, Fuzhou University, Fuzhou, April 2026.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Sensing healthy city based on multimodal data and GeoAI</title>
@@ -183,7 +221,7 @@
     </item>
     
     <item>
-      <title>High-Resolution Mapping of Direct CO$_2$ Emissions and Uncertainties at the Urban Scale</title>
+      <title>High-Resolution Mapping of Direct CO₂ Emissions and Uncertainties at the Urban Scale</title>
       <link>https://gisersqdai.top/mycv/talk/sa2018talks/</link>
       <pubDate>Tue, 22 May 2018 16:15:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/talk/sa2018talks/</guid>
@@ -205,7 +243,7 @@
     </item>
     
     <item>
-      <title>The Assement Platform of Urban Forest Ecosystem Servcie Based on InVEST model and IOT</title>
+      <title>The Assessment Platform of Urban Forest Ecosystem Service Based on InVEST model and IOT</title>
       <link>https://gisersqdai.top/mycv/talk/shnu2017talks/</link>
       <pubDate>Thu, 28 Sep 2017 10:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/talk/shnu2017talks/</guid>

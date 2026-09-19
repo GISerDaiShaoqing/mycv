@@ -5,12 +5,198 @@
     <link>https://gisersqdai.top/mycv/publication/</link>
       <atom:link href="https://gisersqdai.top/mycv/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Mon, 14 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Publications</title>
       <link>https://gisersqdai.top/mycv/publication/</link>
     </image>
+    
+    <item>
+      <title>Evaluating the Marginal Contribution of Remote Sensing for Forest Biomass Estimation When Inventory Data Exists</title>
+      <link>https://gisersqdai.top/mycv/publication/forests-agb-marginal-rs/</link>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/forests-agb-marginal-rs/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. Workflow of the study. SA = stand age, CC = canopy cover, T = temperature, P = precipitation, ELE = elevation, SDE = soil depth, SVR = Support Vector Regression, RF = Random Forest, MLP = Multi-Layer Perceptron.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Toward precision urban resilience: Integrating multimodal large language models with spatial analytics for fire risk governance</title>
+      <link>https://gisersqdai.top/mycv/publication/cities-mllm-fire-risk/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/cities-mllm-fire-risk/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. Research framework.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>High-resolution mapping of demographic compositions based on remote sensing and social media data: a multimodal, multi-output modeling approach</title>
+      <link>https://gisersqdai.top/mycv/publication/ijgis-demographic-mapping/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/ijgis-demographic-mapping/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. The flowchart of the general procedure in this study (top) and the procedure of feature extraction from social media texts (bottom).&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Editorial: Machine learning for advanced remote sensing: from theory to applications and societal impact</title>
+      <link>https://gisersqdai.top/mycv/publication/frs-ml-remote-sensing-editorial/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/frs-ml-remote-sensing-editorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring causal strengths from spatial cross-sectional data with geographical cross mapping cardinality</title>
+      <link>https://gisersqdai.top/mycv/publication/ijgis-gcmc-causal-strength/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/ijgis-gcmc-causal-strength/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. Demonstration of reconstructing embedding for spatial cross-sectional data (top) and schematic diagram of cross mapping in GCMC with the resulting intersectional cardinality (bottom).&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding multi-perspective urban green space patterns under urban expansion: Evidence from Guangzhou</title>
+      <link>https://gisersqdai.top/mycv/publication/scs-green-space-expansion/</link>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/scs-green-space-expansion/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. Research framework.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bridging street view coverage disparities through geographic identity preserving generation from satellite view</title>
+      <link>https://gisersqdai.top/mycv/publication/isprs-street-view-generation/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/isprs-street-view-generation/</guid>
+      <description>
+
+&lt;h4 id=&#34;uneven-street-view-coverage&#34;&gt;Uneven Street View Coverage&lt;/h4&gt;
+
+&lt;p&gt;Street view imagery (SVI) provides a human-centric view of urban environments and is widely used to analyze greenery, mobility, socioeconomic conditions, health outcomes, and safety perception. Its global coverage, however, is highly uneven: published SVI studies concentrate in the United States and Europe, while developing regions across Asia, Africa, and South America remain systematically underrepresented, which limits the inclusiveness of SVI-based analytics and can introduce systematic bias into urban analysis outcomes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. Street view imagery coverage in selected cities.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;the-geoidentity-sat2street-framework&#34;&gt;The GeoIdentity-Sat2Street Framework&lt;/h4&gt;
+
+&lt;p&gt;We propose GeoIdentity-Sat2Street, a geographic identity preserving framework that leverages satellite imagery to expand SVI coverage. A polar-transformation conditional GAN first synthesizes plausible street view perspectives, and a diffusion-based generator then refines them conditioned on semantic captions, location metadata, and structural priors. This two-step design enforces geometric consistency while explicitly preserving geographic identity, an overlooked but critical aspect of urban distinctiveness.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;sat2street-framework.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 2. The framework for geographic identity preserving street view imagery generation. Step 1 converts satellite images into an initial SVI providing the basic street view geometry; Step 2 refines it with depth, edges, text descriptions, and location cues.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;evaluation-and-the-multicities-dataset&#34;&gt;Evaluation and the MultiCities Dataset&lt;/h4&gt;
+
+&lt;p&gt;On the classic CVUSA and CVACT cross-view benchmarks, the framework achieves the highest SSIM (0.427 and 0.537), the lowest LPIPS (0.345 and 0.317), and the best mIoU (0.054) among baselines. To assess geographic identity fidelity, we constructed the MultiCities Dataset, a benchmark of 50,000 paired satellite-street-view images across five cities on five continents. An automated GPT-4o evaluation pipeline, with GPT-4o acting successively as Evaluator and Inspector, provides task-specific quantitative and qualitative assessments.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;gpt-eval-pipeline.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3. Automated evaluation pipeline for street view imagery generation using GPT-4o, where GPT-4o acts as Evaluator A and Inspector B in a two-stage assessment.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Quantitative results on the CVUSA benchmark show that our method achieves the best SSIM, MS-SSIM, LPIPS, and KID among the compared models:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Model&lt;/th&gt;
+&lt;th&gt;PSNR&lt;/th&gt;
+&lt;th&gt;SSIM&lt;/th&gt;
+&lt;th&gt;MS-SSIM&lt;/th&gt;
+&lt;th&gt;Edge_IoU&lt;/th&gt;
+&lt;th&gt;mIoU&lt;/th&gt;
+&lt;th&gt;LPIPS&lt;/th&gt;
+&lt;th&gt;KID&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Ours&lt;/td&gt;
+&lt;td&gt;14.565&lt;/td&gt;
+&lt;td&gt;0.427&lt;/td&gt;
+&lt;td&gt;0.438&lt;/td&gt;
+&lt;td&gt;0.131&lt;/td&gt;
+&lt;td&gt;0.052&lt;/td&gt;
+&lt;td&gt;0.345&lt;/td&gt;
+&lt;td&gt;0.086&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ComingDownToEarth&lt;/td&gt;
+&lt;td&gt;14.032&lt;/td&gt;
+&lt;td&gt;0.233&lt;/td&gt;
+&lt;td&gt;0.363&lt;/td&gt;
+&lt;td&gt;0.153&lt;/td&gt;
+&lt;td&gt;0.054&lt;/td&gt;
+&lt;td&gt;0.355&lt;/td&gt;
+&lt;td&gt;0.066&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;InstructPix2Pix&lt;/td&gt;
+&lt;td&gt;12.501&lt;/td&gt;
+&lt;td&gt;0.339&lt;/td&gt;
+&lt;td&gt;0.236&lt;/td&gt;
+&lt;td&gt;0.056&lt;/td&gt;
+&lt;td&gt;0.040&lt;/td&gt;
+&lt;td&gt;0.539&lt;/td&gt;
+&lt;td&gt;0.040&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;CrossMLP&lt;/td&gt;
+&lt;td&gt;15.119&lt;/td&gt;
+&lt;td&gt;0.356&lt;/td&gt;
+&lt;td&gt;0.364&lt;/td&gt;
+&lt;td&gt;0.077&lt;/td&gt;
+&lt;td&gt;0.055&lt;/td&gt;
+&lt;td&gt;0.442&lt;/td&gt;
+&lt;td&gt;0.055&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Table 1. Quantitative results on the CVUSA benchmark for evaluating generalization quality.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The model attains the highest Silhouette Score (0.222) and lowest inter-city variance (0.031), with clearly separated clusters in t-SNE, and GPT-based evaluation further confirms realism and semantic alignment. Qualitative comparisons across the five cities show that our results reproduce regionally distinctive streetscapes more faithfully than the baselines.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;qualitative-comparison.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4. Qualitative comparison of street view imagery generation across five cities in the MultiCities Dataset.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;toward-globally-representative-urban-analytics&#34;&gt;Toward Globally Representative Urban Analytics&lt;/h4&gt;
+
+&lt;p&gt;Applying the framework to Kathmandu, Nepal improves usable street-view coverage by about 28%, moving from 72% partial coverage toward dense roadside coverage. The side-by-side comparison shows that the generated street views closely match the real urban scenes, indicating that identity preserving satellite-to-street generation offers a scalable way to fill coverage gaps in data-scarce regions and paves the way for more globally representative and equitable urban analytics.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;kathmandu-comparison.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 5. Side-by-side comparison of real and synthesized street view in Kathmandu.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Causal discovery in urban data with temporal empirical dynamic modeling: The R package tEDM</title>
+      <link>https://gisersqdai.top/mycv/publication/ceus-tedm-causal-discovery/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/ceus-tedm-causal-discovery/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. Schematic illustration of empirical dynamic modeling (top) and the standard workflow for causal discovery using the tEDM package (bottom).&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The evaluation of health effect of short-term exposure to PM2.5 during spring festival: a case study of 25 cities in the Yangtze Diver Delta</title>
@@ -22,9 +208,9 @@
     
     <item>
       <title>Effects of Short-Term Exposure to Air Pollutants on Real-Time Blood Pressure: A Wearable Device-Based Study in China</title>
-      <link>https://gisersqdai.top/mycv/publication/juh-airpollutant-wearble/</link>
+      <link>https://gisersqdai.top/mycv/publication/juh-airpollutant-wearable/</link>
       <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/publication/juh-airpollutant-wearble/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/juh-airpollutant-wearable/</guid>
       <description></description>
     </item>
     
@@ -37,7 +223,7 @@
     </item>
     
     <item>
-      <title>Agreicultural socialized service system and its mechanism driving industrial upgrade: based on an empirical study on value chain theory(Chinese)</title>
+      <title>Agricultural socialized service system and its mechanism driving industrial upgrade: based on an empirical study on value chain theory(Chinese)</title>
       <link>https://gisersqdai.top/mycv/publication/agriculture-economic-ri/</link>
       <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/publication/agriculture-economic-ri/</guid>
@@ -87,7 +273,7 @@
 
 &lt;p&gt;As shown in Figure 2, this study is conducted within the HPM framework, which consists of three steps. We first generate physical, locational variables, extract 3D variables from SVIs, and then construct HPM in different valuation models, namely OLS, GWR and RF.&lt;/p&gt;
 
-&lt;p&gt;$$V=f(P,L,E_{3d})$$&lt;/p&gt;
+&lt;p&gt;V = f(P, L, E3d)&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0197397525000049-gr3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
@@ -97,9 +283,9 @@
 
 &lt;p&gt;&lt;strong&gt;Figure 3. The example of semantic segmentation&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;RF performs the best among all three models. $R^2$ increases from 0.716 to 0.768 by adding 3D variables. In addition to R2 values, RMSE, MAE, and MAPE are also used to evaluate the model accuracy, as shown in Table 3. The lowest RMSE in RF is 1669.60 $yuan/m^2$. Taking the average property value (14,318 $yuan/m^2$), the MAPE of estimation in RF is 11.66%. In summary, OLS has the basic performance, GWR has improvement, and RF has the best explainability and the least errors in different regards.&lt;/p&gt;
+&lt;p&gt;RF performs the best among all three models. R² increases from 0.716 to 0.768 by adding 3D variables. In addition to R2 values, RMSE, MAE, and MAPE are also used to evaluate the model accuracy, as shown in Table 3. The lowest RMSE in RF is 1669.60 yuan/m². Taking the average property value (14,318 yuan/m²), the MAPE of estimation in RF is 11.66%. In summary, OLS has the basic performance, GWR has improvement, and RF has the best explainability and the least errors in different regards.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Table 1. The comparison of $R^2$, RMSE, MAE and MAPE among different models (based on group 4). The unit of RMSE and MAE: $yuan/m^2$.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table 1. The comparison of R², RMSE, MAE and MAPE among different models (based on group 4). The unit of RMSE and MAE: yuan/m².&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -292,7 +478,7 @@
     </item>
     
     <item>
-      <title>Local carbon emission zone construction in the highly urbanized regions: Application of residential and transport CO$_2$ emissions in Shanghai, China</title>
+      <title>Local carbon emission zone construction in the highly urbanized regions: Application of residential and transport CO₂ emissions in Shanghai, China</title>
       <link>https://gisersqdai.top/mycv/publication/bae-local-carbon-emission-zone/</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/publication/bae-local-carbon-emission-zone/</guid>
@@ -417,7 +603,7 @@
     </item>
     
     <item>
-      <title>The importance of the functional mixed entropy for the explanation of residential and transport CO$_2$ emissions in the urban center of China</title>
+      <title>The importance of the functional mixed entropy for the explanation of residential and transport CO₂ emissions in the urban center of China</title>
       <link>https://gisersqdai.top/mycv/publication/jclp-importance-mixed-urban-function/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/publication/jclp-importance-mixed-urban-function/</guid>
@@ -467,9 +653,9 @@
     
     <item>
       <title>Assessing riding friendliness by fusing multi-source heterogeneous spatio-temporal big data</title>
-      <link>https://gisersqdai.top/mycv/publication/bikeability-chinses-urban-planning-meeting/</link>
+      <link>https://gisersqdai.top/mycv/publication/bikeability-chinese-urban-planning-meeting/</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/publication/bikeability-chinses-urban-planning-meeting/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/bikeability-chinese-urban-planning-meeting/</guid>
       <description></description>
     </item>
     
@@ -569,10 +755,10 @@
     </item>
     
     <item>
-      <title>Investigating the Uncertainties Propagation Analysis of CO$_2$ Emissions Gridded Maps at the Urban Scale: A Case Study of Jinjiang City, China</title>
-      <link>https://gisersqdai.top/mycv/publication/uncertainty-propogation-co2-map-rs/</link>
+      <title>Investigating the Uncertainties Propagation Analysis of CO₂ Emissions Gridded Maps at the Urban Scale: A Case Study of Jinjiang City, China</title>
+      <link>https://gisersqdai.top/mycv/publication/uncertainty-propagation-co2-map-rs/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/publication/uncertainty-propogation-co2-map-rs/</guid>
+      <guid>https://gisersqdai.top/mycv/publication/uncertainty-propagation-co2-map-rs/</guid>
       <description>
 
 &lt;h3 id=&#34;graphical-abstract&#34;&gt;Graphical abstract&lt;/h3&gt;
@@ -584,7 +770,7 @@
 &lt;blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;A proposed workflow to analyze the uncertainties caused by gridded model and model input.&lt;/li&gt;
-&lt;li&gt;Fine-resolution (30 m) maps have a larger spatial variation in CO$_2$ emissions, which gives the fine-resolution maps a higher degree of uncertainty propagation.&lt;/li&gt;
+&lt;li&gt;Fine-resolution (30 m) maps have a larger spatial variation in CO₂ emissions, which gives the fine-resolution maps a higher degree of uncertainty propagation.&lt;/li&gt;
 &lt;li&gt;This indicates a nonlinear change between the sum of the uncertainties for different sectors and the actual uncertainties in the gridded maps.&lt;/li&gt;
 &lt;li&gt;The nonlinear change can be explained by the “compensation of error” phenomenon.&lt;/li&gt;
 &lt;/ul&gt;
@@ -592,45 +778,45 @@
 
 &lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 
-&lt;p&gt;Estimating $CO_2$ emissions at the urban scale, including both un-gridded (i.e., administrative unit maps) and gridded maps, cannot avoid the propagation of uncertainties from input to result, which highlights the importance of being aware of uncertainty estimation, especially in gridded maps due to its implications for the precision mitigation of $CO_2$ emissions.&lt;/p&gt;
+&lt;p&gt;Estimating CO₂ emissions at the urban scale, including both un-gridded (i.e., administrative unit maps) and gridded maps, cannot avoid the propagation of uncertainties from input to result, which highlights the importance of being aware of uncertainty estimation, especially in gridded maps due to its implications for the precision mitigation of CO₂ emissions.&lt;/p&gt;
 
-&lt;p&gt;To address the above mentioned issue, an analytic workflow was proposed to analyze the propagated uncertainties caused by the gridded model and the input for gridded $CO_2$ emission maps. The present workflow used four sub-modules based on Monte Carlo simulations and a bootstrap sampling method to analyze uncertainties, without other detailed open emission inventories. Two of the submodules obtained the corresponding uncertainty of each grid value, generated the uncertainty map caused by the gridded model, and the uncertainties for the sum of each cell (also referred to as propagated uncertainties caused by the model); the other submodules generated the uncertainty distribution maps based on the total emission estimations and spatial proxies (also referred to as propagated uncertainties caused by input).&lt;/p&gt;
+&lt;p&gt;To address the above mentioned issue, an analytic workflow was proposed to analyze the propagated uncertainties caused by the gridded model and the input for gridded CO₂ emission maps. The present workflow used four sub-modules based on Monte Carlo simulations and a bootstrap sampling method to analyze uncertainties, without other detailed open emission inventories. Two of the submodules obtained the corresponding uncertainty of each grid value, generated the uncertainty map caused by the gridded model, and the uncertainties for the sum of each cell (also referred to as propagated uncertainties caused by the model); the other submodules generated the uncertainty distribution maps based on the total emission estimations and spatial proxies (also referred to as propagated uncertainties caused by input).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g001-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 1 Analytic workflow of the uncertainty propagation in gridded $CO_2$ emission maps. ALs, activity levels; CI, confidence interval; EFs, emission factors; GDP, gross domestic product; KS, Kolmogorov–Smirnov; LUT, look up table; MLE, maximum likelihood estimation; NTL, night time light; PDFs, probability distribution functions.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 1 Analytic workflow of the uncertainty propagation in gridded CO₂ emission maps. ALs, activity levels; CI, confidence interval; EFs, emission factors; GDP, gross domestic product; KS, Kolmogorov–Smirnov; LUT, look up table; MLE, maximum likelihood estimation; NTL, night time light; PDFs, probability distribution functions.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
 
-&lt;p&gt;We regarded the gridded maps of $CO_2$ emissions constructed in previous studies as a case study, and applied the workflow to estimate the uncertainties. The estimation of different uncertainties helps decision makers in formulating relevant policies. Uncertainties in total emission estimations aid the determination of emission reduction targets, the corresponding risks for cities and enterprises, and significant emission sources. Uncertainty maps could help to identify locations suitable for developing low-carbon communities. Fine-resolution (30 m) maps have a larger spatial variation in $CO_2$ emissions, which gives the fine-resolution maps a higher degree of uncertainty propagation. Furthermore, the uncertainties of gridded $CO_2$ emission maps, caused by inserting a random error into spatial proxies, were found to decrease after the gridding process. This can be explained by the “compensation of error” phenomenon, which may be attributed to the cancellation of the overestimated and underestimated values among the different sectors at the same grid. This indicates a nonlinear change between the sum of the uncertainties for different sectors and the actual uncertainties in the gridded maps.&lt;/p&gt;
+&lt;p&gt;We regarded the gridded maps of CO₂ emissions constructed in previous studies as a case study, and applied the workflow to estimate the uncertainties. The estimation of different uncertainties helps decision makers in formulating relevant policies. Uncertainties in total emission estimations aid the determination of emission reduction targets, the corresponding risks for cities and enterprises, and significant emission sources. Uncertainty maps could help to identify locations suitable for developing low-carbon communities. Fine-resolution (30 m) maps have a larger spatial variation in CO₂ emissions, which gives the fine-resolution maps a higher degree of uncertainty propagation. Furthermore, the uncertainties of gridded CO₂ emission maps, caused by inserting a random error into spatial proxies, were found to decrease after the gridding process. This can be explained by the “compensation of error” phenomenon, which may be attributed to the cancellation of the overestimated and underestimated values among the different sectors at the same grid. This indicates a nonlinear change between the sum of the uncertainties for different sectors and the actual uncertainties in the gridded maps.&lt;/p&gt;
 
 &lt;h4 id=&#34;u1&#34;&gt;U1&lt;/h4&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g004-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 2  CDF curve of different $CO_2$ emissions at 30 m and 500 m resolution. The upper figures are at 30 m resolution, while the lower figures are at 500 m resolution. The red line is the distribution of the real values, while the blue line is the distribution of the simulated values. (a,e) are the total $CO_2$ emissions, (b,f) are the residential $CO_2$ emissions, (c,g) are the industrial $CO_2$ emissions, and (d,h) are the transport $CO_2$ emissions. KS., Kolmogorov–Smirnov; Sd, Standard deviation.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 2  CDF curve of different CO₂ emissions at 30 m and 500 m resolution. The upper figures are at 30 m resolution, while the lower figures are at 500 m resolution. The red line is the distribution of the real values, while the blue line is the distribution of the simulated values. (a,e) are the total CO₂ emissions, (b,f) are the residential CO₂ emissions, (c,g) are the industrial CO₂ emissions, and (d,h) are the transport CO₂ emissions. KS., Kolmogorov–Smirnov; Sd, Standard deviation.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g005-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 3  Uncertainty maps made by the gridded model of $CO_2$ emissions in Jinjiang city, at resolutions of 30 m (a–d) and 500 m (e–h). (a,e) show uncertainty maps of total $CO_2$ emissions. (b,f) show uncertainty maps of residential $CO_2$ emissions. (c,g) show uncertainty maps of industrial $CO_2$ emissions. (d,h) show uncertainty maps of transport $CO_2$ emissions.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 3  Uncertainty maps made by the gridded model of CO₂ emissions in Jinjiang city, at resolutions of 30 m (a–d) and 500 m (e–h). (a,e) show uncertainty maps of total CO₂ emissions. (b,f) show uncertainty maps of residential CO₂ emissions. (c,g) show uncertainty maps of industrial CO₂ emissions. (d,h) show uncertainty maps of transport CO₂ emissions.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;u2&#34;&gt;U2&lt;/h4&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g006-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 4 $CO_2$ emission population (statistic term) distributions of different sectors. The left figures are at 30 m resolution, while the right figures are at 500 m resolution. The red line is the distribution of the real values, and the blue line is the distribution of the simulated values. (a,e) are the total $CO_2$ emissions, (b,f) are the residential $CO_2$ emissions, (c,g) are the industrial $CO_2$ emissions, and (d,h) are the transport $CO_2$ emission.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 4 CO₂ emission population (statistic term) distributions of different sectors. The left figures are at 30 m resolution, while the right figures are at 500 m resolution. The red line is the distribution of the real values, and the blue line is the distribution of the simulated values. (a,e) are the total CO₂ emissions, (b,f) are the residential CO₂ emissions, (c,g) are the industrial CO₂ emissions, and (d,h) are the transport CO₂ emission.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;u3&#34;&gt;U3&lt;/h4&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g007-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 5 Map showing the uncertainty caused by activity levels. (a,b) represent the uncertainty maps of total $CO_2$ emissions at 30 m and 500 m resolution, respectively.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 5 Map showing the uncertainty caused by activity levels. (a,b) represent the uncertainty maps of total CO₂ emissions at 30 m and 500 m resolution, respectively.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;u4&#34;&gt;U4&lt;/h4&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g008-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 6 Maps of uncertainty caused by the spatial proxies. (a,b) represent the maps of uncertainty of total $CO_2$ emissions at 30 m and 500 m resolutions.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 6 Maps of uncertainty caused by the spatial proxies. (a,b) represent the maps of uncertainty of total CO₂ emissions at 30 m and 500 m resolutions.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -655,14 +841,14 @@
 
 &lt;p&gt;&lt;strong&gt;Figure 2 Daily level PM2.5 mapping at 1-km resolution&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Table 1 The average value and 95% confidence intervals of AF causing by PM2.5 exposure&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table 1 The average value and 95% confidence intervals of AF caused by PM2.5 exposure&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&#34;left&#34;&gt;死亡原因&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;$\bar{AF}(+)$(n = 2 858)&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;$\bar{AF}(-)$(n = 2 914)&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;AF(+)(n = 2 858)&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;AF(−)(n = 2 914)&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
@@ -784,7 +970,7 @@
     </item>
     
     <item>
-      <title>A spatial database of CO$_2$ emissions, urban form fragmentation and city-scale effect related impact factors for the low carbon urban system in Jinjiang city, China</title>
+      <title>A spatial database of CO₂ emissions, urban form fragmentation and city-scale effect related impact factors for the low carbon urban system in Jinjiang city, China</title>
       <link>https://gisersqdai.top/mycv/publication/high-resolution-co2-map-dib/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/publication/high-resolution-co2-map-dib/</guid>
@@ -792,7 +978,7 @@
     </item>
     
     <item>
-      <title>More fragmentized urban form more CO$_2$ emissions? A comprehensive relationship from the combination analysis across different scales</title>
+      <title>More fragmentized urban form more CO₂ emissions? A comprehensive relationship from the combination analysis across different scales</title>
       <link>https://gisersqdai.top/mycv/publication/relationship-co2-fragmentation-jclp/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/publication/relationship-co2-fragmentation-jclp/</guid>
@@ -804,15 +990,15 @@
 &lt;ul&gt;
 &lt;li&gt;Use of multi-source data and an analytical framework composed of 3 methods.&lt;/li&gt;
 &lt;li&gt;Exploration of the impact of 30-m versus 500-m spatial resolution.&lt;/li&gt;
-&lt;li&gt;Low fragmented mixed and industrial lands affect CO$_2$ emissions negatively.&lt;/li&gt;
-&lt;li&gt;Low fragmented residential and public lands affect CO$_2$ emissions positively.&lt;/li&gt;
+&lt;li&gt;Low fragmented mixed and industrial lands affect CO₂ emissions negatively.&lt;/li&gt;
+&lt;li&gt;Low fragmented residential and public lands affect CO₂ emissions positively.&lt;/li&gt;
 &lt;li&gt;Interactions of factors are weaker at a 30-m resolution than at a 500-m resolution.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 
 &lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 
-&lt;p&gt;Besides the industrial production, transportation, local weather, and fossil fuel use, urban form is the factor that affects energy-related CO$_2$ emissions from human activities secondarily. The major forms of human activity affected by urban form are traffic and residential energy consumption/use emissions. After a wide examination of the relationship between urban higher fragmentation and CO$_2$ emissions, scholars found fragmentation of land use areas (i.e. areas designated for human activities or purposes) is associated with greater CO$_2$ emissions. However, the evidences might be biased by the uncertainties from the spatial distribution of emissions (also referred to “downscaling”, or “representation” uncertainty), the delineation of urban fragmentation landscape, and the analysis method, which ignores the spatial heterogeneity. Zuo et al. (2019) published the study in the Journal of Cleaner Production, which compared the relationships between urban form fragmentation and CO$_2$ emissions in an urban system through the analytic framework composed of the Pearson correlation analysis, geographically weighted regression (GWR), and geographical detector methods with the use of multi-source data to construct the CO$_2$ emissions maps. The analytical framework can be applied to CO$_2$ emissions research in urban agglomerations, megacities, and small towns.&lt;/p&gt;
+&lt;p&gt;Besides the industrial production, transportation, local weather, and fossil fuel use, urban form is the factor that affects energy-related CO₂ emissions from human activities secondarily. The major forms of human activity affected by urban form are traffic and residential energy consumption/use emissions. After a wide examination of the relationship between urban higher fragmentation and CO₂ emissions, scholars found fragmentation of land use areas (i.e. areas designated for human activities or purposes) is associated with greater CO₂ emissions. However, the evidences might be biased by the uncertainties from the spatial distribution of emissions (also referred to “downscaling”, or “representation” uncertainty), the delineation of urban fragmentation landscape, and the analysis method, which ignores the spatial heterogeneity. Zuo et al. (2019) published the study in the Journal of Cleaner Production, which compared the relationships between urban form fragmentation and CO₂ emissions in an urban system through the analytic framework composed of the Pearson correlation analysis, geographically weighted regression (GWR), and geographical detector methods with the use of multi-source data to construct the CO₂ emissions maps. The analytical framework can be applied to CO₂ emissions research in urban agglomerations, megacities, and small towns.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/JCLP/JCLP.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
@@ -820,13 +1006,13 @@
 
 &lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
 
-&lt;p&gt;In terms of the GWR analysis, the coarse resolution resulted in: 1) positive coefficients of fragmentation metric becoming negative, and 2) greater absolute values of negative coefficients. As to the results of Geographical detector, single factor impact powers and interactions among fragmentation factors showed a weakening effect at R$_{30m}$, but a strengthening and weakening effect at R500m. However, there were common results observed in low-fragmented areas across different scales. That is, in low-fragmented mixed-function areas and industrial areas, the more fragmented the area was, the less the CO2 emission there would be. However, in low-fragmented residential, administrative and public service areas, the more fragmented the area was, the higher the CO$_2$ emission there would be. Therefore, the government should disperse the mixed function zones and industrial parcels with diverse types of land, and build the contiguous residential and public service land in the low fragmentation area of urban system.&lt;/p&gt;
+&lt;p&gt;In terms of the GWR analysis, the coarse resolution resulted in: 1) positive coefficients of fragmentation metric becoming negative, and 2) greater absolute values of negative coefficients. As to the results of Geographical detector, single factor impact powers and interactions among fragmentation factors showed a weakening effect at R30m, but a strengthening and weakening effect at R500m. However, there were common results observed in low-fragmented areas across different scales. That is, in low-fragmented mixed-function areas and industrial areas, the more fragmented the area was, the less the CO2 emission there would be. However, in low-fragmented residential, administrative and public service areas, the more fragmented the area was, the higher the CO₂ emission there would be. Therefore, the government should disperse the mixed function zones and industrial parcels with diverse types of land, and build the contiguous residential and public service land in the low fragmentation area of urban system.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/JCLP/fig6new.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 2 Geographical detector results for fragmentation factors, PUA, and POID for CO$_2$ emissions from 4 sources.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 2 Geographical detector results for fragmentation factors, PUA, and POID for CO₂ emissions from 4 sources.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;The “Scale effect” has always been the hot topic in landscape ecology research. Although, there are many studies on the driving force of urban environmental problems by using landscape metrics. Most studies are carried out in regional, continental and global scales. However, in this study, we explored the relationship between the urban form fragmentation and CO$_2$ emissions in the city scale from the perspective of dual resolution sizes and summarized the research conclusions that can be used in urban internal management based on the analysis results of small towns. At the same time, the influence of scale effect and how to choose the appropriate scale were discussed in the discussion section. The rigorous discussion was also made on whether the research conclusion is applicable to medium and large cities.&lt;/p&gt;
+&lt;p&gt;The “Scale effect” has always been the hot topic in landscape ecology research. Although, there are many studies on the driving force of urban environmental problems by using landscape metrics. Most studies are carried out in regional, continental and global scales. However, in this study, we explored the relationship between the urban form fragmentation and CO₂ emissions in the city scale from the perspective of dual resolution sizes and summarized the research conclusions that can be used in urban internal management based on the analysis results of small towns. At the same time, the influence of scale effect and how to choose the appropriate scale were discussed in the discussion section. The rigorous discussion was also made on whether the research conclusion is applicable to medium and large cities.&lt;/p&gt;
 </description>
     </item>
     
@@ -938,7 +1124,7 @@
     </item>
     
     <item>
-      <title>High-resolution mapping of direct CO$_2$ emissions and uncertainties at the urban scale</title>
+      <title>High-resolution mapping of direct CO₂ emissions and uncertainties at the urban scale</title>
       <link>https://gisersqdai.top/mycv/publication/high-resolution-co2-map-ei-meeting/</link>
       <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/publication/high-resolution-co2-map-ei-meeting/</guid>
@@ -1007,15 +1193,15 @@
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Storm intensity($L·S^{-1}·ha^{-1}$)&lt;/td&gt;
+&lt;td&gt;Storm intensity(L·S⁻¹·ha⁻¹)&lt;/td&gt;
 &lt;td&gt;163.183&lt;/td&gt;
 &lt;td&gt;101.847&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Runoff($L·S^{-1}$)&lt;/td&gt;
-&lt;td&gt;5.342×$10^6$&lt;/td&gt;
-&lt;td&gt;6.668×$10^6$&lt;/td&gt;
+&lt;td&gt;Runoff(L·S⁻¹)&lt;/td&gt;
+&lt;td&gt;5.342×10⁶&lt;/td&gt;
+&lt;td&gt;6.668×10⁶&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -1031,7 +1217,7 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Submerged area ($km^{2}$)&lt;/td&gt;
+&lt;td&gt;Submerged area (km²)&lt;/td&gt;
 &lt;td&gt;1.345&lt;/td&gt;
 &lt;td&gt;6.032&lt;/td&gt;
 &lt;/tr&gt;

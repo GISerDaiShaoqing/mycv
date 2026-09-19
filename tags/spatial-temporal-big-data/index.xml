@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spatial-Temporal Big Data | Shaoqing Dai</title>
+    <link>https://gisersqdai.top/mycv/tags/spatial-temporal-big-data/</link>
+      <atom:link href="https://gisersqdai.top/mycv/tags/spatial-temporal-big-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spatial-Temporal Big Data</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Mon, 30 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gisersqdai.top/mycv/img/site.png</url>
+      <title>Spatial-Temporal Big Data</title>
+      <link>https://gisersqdai.top/mycv/tags/spatial-temporal-big-data/</link>
+    </image>
+    
+    <item>
+      <title>Causal discovery in urban data with temporal empirical dynamic modeling: The R package tEDM</title>
+      <link>https://gisersqdai.top/mycv/publication/ceus-tedm-causal-discovery/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/publication/ceus-tedm-causal-discovery/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1. Schematic illustration of empirical dynamic modeling (top) and the standard workflow for causal discovery using the tEDM package (bottom).&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

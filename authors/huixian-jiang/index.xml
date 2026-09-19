@@ -41,14 +41,14 @@
 
 &lt;p&gt;&lt;strong&gt;Figure 2 Daily level PM2.5 mapping at 1-km resolution&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Table 1 The average value and 95% confidence intervals of AF causing by PM2.5 exposure&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table 1 The average value and 95% confidence intervals of AF caused by PM2.5 exposure&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&#34;left&#34;&gt;死亡原因&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;$\bar{AF}(+)$(n = 2 858)&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;$\bar{AF}(-)$(n = 2 914)&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;AF(+)(n = 2 858)&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;AF(−)(n = 2 914)&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
@@ -200,15 +200,15 @@
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Storm intensity($L·S^{-1}·ha^{-1}$)&lt;/td&gt;
+&lt;td&gt;Storm intensity(L·S⁻¹·ha⁻¹)&lt;/td&gt;
 &lt;td&gt;163.183&lt;/td&gt;
 &lt;td&gt;101.847&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Runoff($L·S^{-1}$)&lt;/td&gt;
-&lt;td&gt;5.342×$10^6$&lt;/td&gt;
-&lt;td&gt;6.668×$10^6$&lt;/td&gt;
+&lt;td&gt;Runoff(L·S⁻¹)&lt;/td&gt;
+&lt;td&gt;5.342×10⁶&lt;/td&gt;
+&lt;td&gt;6.668×10⁶&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -224,7 +224,7 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Submerged area ($km^{2}$)&lt;/td&gt;
+&lt;td&gt;Submerged area (km²)&lt;/td&gt;
 &lt;td&gt;1.345&lt;/td&gt;
 &lt;td&gt;6.032&lt;/td&gt;
 &lt;/tr&gt;

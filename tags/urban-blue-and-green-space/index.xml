@@ -66,15 +66,15 @@
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Storm intensity($L·S^{-1}·ha^{-1}$)&lt;/td&gt;
+&lt;td&gt;Storm intensity(L·S⁻¹·ha⁻¹)&lt;/td&gt;
 &lt;td&gt;163.183&lt;/td&gt;
 &lt;td&gt;101.847&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Runoff($L·S^{-1}$)&lt;/td&gt;
-&lt;td&gt;5.342×$10^6$&lt;/td&gt;
-&lt;td&gt;6.668×$10^6$&lt;/td&gt;
+&lt;td&gt;Runoff(L·S⁻¹)&lt;/td&gt;
+&lt;td&gt;5.342×10⁶&lt;/td&gt;
+&lt;td&gt;6.668×10⁶&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -90,7 +90,7 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Submerged area ($km^{2}$)&lt;/td&gt;
+&lt;td&gt;Submerged area (km²)&lt;/td&gt;
 &lt;td&gt;1.345&lt;/td&gt;
 &lt;td&gt;6.032&lt;/td&gt;
 &lt;/tr&gt;
@@ -157,18 +157,15 @@
     <item>
       <title>Urban Blue and Green Space</title>
       <link>https://gisersqdai.top/mycv/project/urban-blue-and-green-space/</link>
-      <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/project/urban-blue-and-green-space/</guid>
       <description>
 
-&lt;h1 id=&#34;the-relationship-between-urban-blue-and-green-space-and-urban-submerged-area&#34;&gt;The relationship between urban blue and green space and urban submerged area&lt;/h1&gt;
+&lt;p&gt;Urban blue and green space reduces the urban heat island effect, mitigates air pollution, and increases water yield, making it a core element of resilient and livable cities. This project examines urban blue and green space from both the water and the green side: stormwater simulation for sponge city planning, landscape patterns as driving factors of urban flooding, river network changes under urbanization, and the multi-perspective dynamics of urban green space during urban expansion.&lt;/p&gt;
 
-&lt;p&gt;In the new normal period of economic transition in China, The Government came up with the concept of the Sponge City, we have some different views of sponge city planning
-The research extracted the impervious surface from the non-NGI(natural green infrastructure ) landscape and used the precipitation-volumetric method to simulate waterlogging scenarios. We determined the area of rainwater submersion by simulation experiments, the change in the NGI landscape by overlaying images of the region, and the association between these features by data mining. Using the change in ecology indices, we ascertained the changing spatial patterns of the NGI landscape and used these findings to formulate suggestions for Sponge City planning in Fuzhou. Overall, our work combines three research themes, urban waterlogging, landscape ecology, and data mining, for a deep analysis of the relationship between the NGI landscape and storm runoff in an urban environment.&lt;/p&gt;
+&lt;h1 id=&#34;1-blue-green-space-and-stormwater-simulation-for-sponge-city-planning&#34;&gt;1 Blue-green space and stormwater simulation for sponge city planning&lt;/h1&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Submerged areas were characterized by high population densities and high levels of human activity.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;In the new normal period of economic transition in China, the government proposed the Sponge City concept, and we hold some different views on sponge city planning. We extracted the impervious surface from the non-natural green infrastructure (NGI) landscape and used the precipitation-volumetric method to simulate waterlogging scenarios in Fuzhou, then linked the NGI landscape changes to the submerged areas through association rule mining. The simulation shows that submerged areas were characterized by high population densities and high levels of human activity, and spatial association rule mining revealed a strong association between areas converted from NGI landscape and submerged areas, providing suggestions for sponge city planning.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Table 1. Simulation results of storm water scenarios&lt;/strong&gt;&lt;/p&gt;
 
@@ -183,15 +180,15 @@ The research extracted the impervious surface from the non-NGI(natural green inf
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Storm intensity($L·S^{-1}·ha^{-1}$)&lt;/td&gt;
+&lt;td&gt;Storm intensity(L·S⁻¹·ha⁻¹)&lt;/td&gt;
 &lt;td&gt;163.183&lt;/td&gt;
 &lt;td&gt;101.847&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Runoff($L·S^{-1}$)&lt;/td&gt;
-&lt;td&gt;5.342×$10^6$&lt;/td&gt;
-&lt;td&gt;6.668×$10^6$&lt;/td&gt;
+&lt;td&gt;Runoff(L·S⁻¹)&lt;/td&gt;
+&lt;td&gt;5.342×10⁶&lt;/td&gt;
+&lt;td&gt;6.668×10⁶&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -207,26 +204,20 @@ The research extracted the impervious surface from the non-NGI(natural green inf
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Submerged area ($km^{2}$)&lt;/td&gt;
+&lt;td&gt;Submerged area (km²)&lt;/td&gt;
 &lt;td&gt;1.345&lt;/td&gt;
 &lt;td&gt;6.032&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;The main submerged area in Fuzhou included the central business district. Numbers of people exposed to the submerged areas of scenarios 1 and 2 were 12,840 and 46,460 people, respectively.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;bgs-fig3h.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/fig.3%28h%29.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 1. Visual representation of simulation results for scenario 1.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Figure 1. Visual representation of simulation results for scenario 1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;bgs-fig3i.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://science.gisersqdai.top/fig.3%28i%29.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Figure 2. Visual representation of simulation results for scenario 2&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Spatial association rule mining revealed a strong association between areas that were converted from NGI landscape and areas that were submerged in our simulations.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Figure 2. Visual representation of simulation results for scenario 2.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Table 2. Results of association rule mining&lt;/strong&gt;&lt;/p&gt;
 
@@ -257,13 +248,33 @@ The research extracted the impervious surface from the non-NGI(natural green inf
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;If an area was submerged, then the probability that the area was converted landscape was 21.2%. If an area was not subject to landscape conversion, then the probability that it would not be a submerged area was 99.2%.&lt;/p&gt;
+&lt;p&gt;If an area was submerged, then the probability that the area was converted landscape was 21.2%; if an area was not subject to landscape conversion, then the probability that it would not be submerged was 99.2%.&lt;/p&gt;
 
-&lt;p&gt;On the other hand, we used multi-source data to identify the urban ecological-production-living spaces and provided some suggesstions for urban resilience simulation optimization. We developed some ArcGIS toolbox based on model builder and Python. Our results won the national third prize in the 2th big data supports spatial plannning and design competition.&lt;/p&gt;
+&lt;p&gt;The research also used multi-source data to identify urban ecological-production-living spaces and provided suggestions for urban resilience simulation optimization, developing ArcGIS toolboxes based on ModelBuilder and Python. Our results won the national third prize in the 2nd Big Data Supports Spatial Planning and Design Competition.&lt;/p&gt;
 
-&lt;h1 id=&#34;the-environmental-effect-of-urban-blue-and-green-space&#34;&gt;The environmental effect of urban blue and green space&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1061/9780784481042.028&#34; target=&#34;_blank&#34;&gt;The chapter was published by &lt;em&gt;ASCE&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Urban blue and green space could reduced urban heat island effect and air pollution and increase the water yield.&lt;/p&gt;
+&lt;h1 id=&#34;2-landscape-patterns-as-driving-factors-of-urban-flooding&#34;&gt;2 Landscape patterns as driving factors of urban flooding&lt;/h1&gt;
+
+&lt;p&gt;Which landscape patterns drive urban flooding? We identified landscape patterns at different scales as driving factors for urban flooding in Guangzhou, showing that the composition and configuration of blue-green infrastructure significantly shape flood risk, and that multi-scale analysis is essential for capturing these relationships.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.ecolind.2025.113614&#34; target=&#34;_blank&#34;&gt;The paper was published in &lt;em&gt;Ecological Indicators&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;3-river-networks-under-urbanization&#34;&gt;3 River networks under urbanization&lt;/h1&gt;
+
+&lt;p&gt;River networks are the skeleton of urban blue space. We assessed the variations in river networks under urbanization across metropolitan plains using a multi-metric approach, quantifying how urban expansion reshapes river density, connectivity, and morphology.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.3390/land14101994&#34; target=&#34;_blank&#34;&gt;The paper was published in &lt;em&gt;Land&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;4-multi-perspective-urban-green-space-under-urban-expansion&#34;&gt;4 Multi-perspective urban green space under urban expansion&lt;/h1&gt;
+
+&lt;p&gt;Eye-level greenery often diverges from what aerial indicators suggest. We introduced a multi-perspective framework integrating the aerial perspective (NDVI) and the human-centric perspective (GVI) with urban morphological, socioeconomic, and topographic indicators, revealing how urban expansion reshapes the spatial relationships between urban green space and urban morphology in Guangzhou.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;ugs-expansion-framework.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3. Research framework of the multi-perspective urban green space analysis.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.scs.2026.107534&#34; target=&#34;_blank&#34;&gt;The paper was published in &lt;em&gt;Sustainable Cities and Society&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

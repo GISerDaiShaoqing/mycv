@@ -41,14 +41,14 @@
 
 &lt;p&gt;&lt;strong&gt;Figure 2 Daily level PM2.5 mapping at 1-km resolution&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Table 1 The average value and 95% confidence intervals of AF causing by PM2.5 exposure&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table 1 The average value and 95% confidence intervals of AF caused by PM2.5 exposure&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&#34;left&#34;&gt;死亡原因&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;$\bar{AF}(+)$(n = 2 858)&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;$\bar{AF}(-)$(n = 2 914)&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;AF(+)(n = 2 858)&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;AF(−)(n = 2 914)&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
