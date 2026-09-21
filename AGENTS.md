@@ -260,6 +260,8 @@ Services 按 `## 分组标题`（Organizational Roles / Science & Technology Ser
 - **拆分图拼接**：论文 PDF 中一张大图可能被拆成多张内嵌位图（上下半或左右半），提取后按阅读顺序用 `-append`（竖）/`+append`（横）还原为一张，与网页图注核对后再落盘（先例：biomass-framework、prediction-performance）。
 - **MDPI 图形摘要（GA）不在论文 PDF 里**：GA 是单独资产且外链被 403，无本地来源时撤掉页面上的 "### Graphical abstract" 小节并列入待补清单，勿用其他图冒充。
 - **Hugo 0 字节缩略图坑**：构建偶发把 featured 缩略图写成 0 字节空文件（`resources/_gen` 缓存里同一文件是好的），线上表现为 200 但 0 字节、浏览器坏图；修复 = 删掉 public/ 里的坏文件重新构建（`hugo` 不会覆盖已存在的坏文件）。每次收尾用 `find public -name "*.jpg" -size -1k` 自查一遍。
+- **public/ 冗余清理（2026-09 实操）**：Hugo 构建不会删除 public/ 里已失效的旧文件（改名的 slug 目录、旧 `_hu` 哈希缩略图、已从 static/ 删除的资源都会残留）；彻底清理 = `find public -mindepth 1 -maxdepth 1 -not -name ".git" -exec rm -rf {} +` → deploy 命令重建 → 补拷 README/AGENTS.md。**删文件前先核实引用**，以下几类"无 src/href 引用"的图是**误报、必须保留**：① featured 原图（og:image 直接引用原图 URL）；② 首页 widget 背景图（内联 `style="background-image: url(...)"` 写法，如 img/CSS.jpg、PPGIS.png、overview_new.png）；③ `index.webmanifest` 引用的 PWA 图标（img/icon-512.png 来自主题 static）；④ 现役头像 `content/authors/admin/avatar.png`（页面用的是它的缩放版）。template-zh.pdf 等四个 CV 文件按规范保留，即使无站内引用。审计脚本要同时抓 `src/href/content=`、`url(...)` 与 webmanifest。
+- **压缩 featured 原图注意**：超大原图（>1.5MB）可 `-resize '1600x1600>' -strip -quality 87` 压缩（2026-09 已把 12 张共约 48MB 压到约 2MB）；magick 的临时输出文件名必须以 `.jpg` 结尾（`.tmp` 会被判成 TIFF 输出），个别历史文件是**多帧 JPEG**（42 帧，浏览器只显示第一帧），保留第一帧即可，先 `file`/`identify` 验过格式再落盘。
 - **Talks 照片**：照片放对应 talk 目录，`featured.jpg` 作列表卡片图，正文末加 `#### Photos` 节：`![](xxx.jpg)` + 一行英文图名（活动、地点、时间）。
 - **Projects 过滤按钮**：首页 Projects 区的过滤按钮在 `content/home/projects.md` 硬编码（`[[content.filter_button]]` 的 name + tag）。新建项目需手动补按钮，tag 必须与项目页 tags 中的词完全一致。
 
