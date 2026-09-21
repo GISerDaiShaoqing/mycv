@@ -241,6 +241,7 @@ Services 按 `## 分组标题`（Organizational Roles / Science & Technology Ser
 
 - `content/authors/admin/_index.md`：个人档案（role、organizations、education、social、bio）。用户说"更新简介/经历/头像"时改这里。
 - 首页各栏目的显示与顺序由 `content/home/*.md` 的 `active` / `weight` 控制。
+- **Contact 地图是自托管静态图**：Google/OSM/Mapbox 动态瓦片国内加载不可靠（2026-09），Contact 区块改用 `static/img/contact-map.jpg`（高德底图瓦片 7×5 拼合、GCJ-02 纠偏定位、红点标记站址），由项目级覆盖模板 `layouts/partials/widgets/contact.html` 渲染（Hugo 项目 layouts 优先于主题，不改主题文件）。`params.toml` 的 `map.engine = 2` 表示启用该静态图块；换图/换点位只需替换该 jpg（可重新按需取瓦片拼合，坐标记得做 WGS84→GCJ-02 转换）。联系表单已弃用 Formspree（`email_form = 0`），访客经 mailto/电话联系；如需表单可用金数据等本土服务 + `contact_links` 图标入口。
 
 ## 8. Markdown 渲染陷阱（Blackfriday，写入前规避）
 
