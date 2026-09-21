@@ -50,7 +50,7 @@
 
 &lt;p&gt;We used the PubMed and Web of Science databases to search for refereed journal articles. To identify articles related to BEA and SVI, we used two sets of search terms: (1) ‘built environment* audit’, ‘auditing’, and ‘virtual audit*’; (2) ‘streetview*’, ‘street view*’, ‘street-view*’, and ‘street view image*’. We collected all the papers published from the inception of the electronic bibliographic databases up to October 2023. We followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines to conduct a systematic review (Moher et al. Citation2009), as depicted in Figure 1. Out of 429 initial results, we identified 96 eligible studies.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/94087bc3-4359-4dbf-9ff6-9548bb3d9935/tgis_a_2336034_f0001_b.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;bea-flowchart.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Figure 1. The flowchart that was followed when selecting and including studies on built environment auditing.&lt;/strong&gt;&lt;/p&gt;
 
@@ -58,7 +58,7 @@
 
 &lt;p&gt;All included studies were published after 2010, marking a discernible increase trajectory in the annual number of publications over the past decade, as illustrated in Figure 2.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/b1f0eb76-d6eb-48ee-9120-110ee2dbd814/tgis_a_2336034_f0002_c.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;bea-studies-per-year.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Figure 2. Number of the included studies published each year.&lt;/strong&gt;&lt;/p&gt;
 
@@ -66,17 +66,17 @@
 
 &lt;p&gt;BEA tools are defined as a range of developed toolsets or instruments utilized to audit and assess built environment attributes, including physical structures, facilities, and surroundings within a given study area, comprising both validated and unvalidated auditing tools. The validated auditing tools were defined as a series of commonly used auditing tools, which are based on well-established references and often implemented as platforms, toolsets, and frameworks. In contrast, unvalidated auditing tools are usually self-developed, lacking validation in other studies, and thus could only serve as conceptual methods without systematic implementation.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/b95b20c6-0fd4-490f-9b14-f4b7dab19fe3/tgis_a_2336034_f0003_c.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;bea-tools-countries.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Figure 3. An overview of the studies using different built environment auditing tools in different countries, (a) represents the number of these tools within different countries (in parentheses), (b) represents the number of these tools that have been applied by different groups and in various studies.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/543541e4-3bfc-4421-8302-abdb78417836/tgis_a_2336034_f0004_c.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;bea-tools-scales.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Figure 4. The number of the included studies using different built environment auditing tools at different scales (in parentheses). Note: N—National; S—State (e.g. in the US) or equivalent unit; C—City; Cn—multicity; County—County or equivalent unit.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Frequently audited built environment attributes included street-related features (e.g. street lights, street parking, and streetscape aesthetics) (n = 52), sidewalk-related features (e.g. width, buffers, and continuity) (n = 49), and traffic-related features (e.g. signals, volume, public transit stops, and environment) (n = 47). Other notable attributes include land use (n = 33), facility-related features (n = 28), visual perceptions (e.g. aesthetics) (n = 25), and social environment (e.g. safety) (n = 16).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/21f6ad73-3737-4327-8ea9-9d430ee9a217/tgis_a_2336034_f0005_c.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;bea-attributes-count.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Figure 5. The count of studies auditing different built environment attributes.&lt;/strong&gt;&lt;/p&gt;
 
@@ -84,7 +84,7 @@
 
 &lt;p&gt;The choice of indicators for audited built environment attributes differs among studies. Due to the ambiguity in some auditing characteristic definitions, the reliability and validity of gathered audit measures tend to be higher for objective attributes than subjective assessments. Among audited attributes, the presence of a sidewalk, a typical objective attribute, has the highest average reliability (0.837) across the majority of studies, exceeding the noteworthy threshold of 0.7 (as illustrated in Figure 6).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.tandfonline.com/cms/asset/bcb746f4-5213-4633-a1d3-fd3cb4d72768/tgis_a_2336034_f0006_c.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;bea-reliability.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Figure 6. The average reliability indexes among different built environment attributes.&lt;/strong&gt;&lt;/p&gt;
 

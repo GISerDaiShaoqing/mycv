@@ -253,7 +253,12 @@ Services 按 `## 分组标题`（Organizational Roles / Science & Technology Ser
 
 - **工具链**：`pdfimages -all`（从论文 PDF 提取位图）、`pdftoppm`（渲染页面后裁剪，适合矢量图）、ImageMagick（`+append` 横拼、`-append` 竖拼、`montage -tile 2x2` 网格；输出统一 `-strip -quality 85~88`，宽约 1400–1600px）。透明通道（smask）需 `-background white -alpha remove -alpha off` 压平。
 - **项目封面 featured.jpg**：同时是项目头图与首页卡片图，可用已有论文图/素材图拼合制作（裁掉文字框与水印、统一宽度后拼接）；正文首图与封面解耦（正文引用独立文件名），换封面不影响正文。
-- **外链图本地化**：项目页/论文页的图尽量存入本目录、语义化命名（如 `bikeability-daily.jpg`）。MDPI 等出版商图片有反爬（403，换 Referer/UA 无效），改从本地论文 PDF 提取。跨 bundle 复用图片必须复制文件（Hugo page bundle 不共享）。
+- **外链图本地化**：项目页/论文页的图尽量存入本目录、语义化命名（如 `bikeability-daily.jpg`）。出版商反爬清单（2026-09 实测全部 403，换 Referer/UA 无效）：**MDPI、T&F (tandfonline)、Wiley、RSC**；Twente 大学 ezproxy 镜像链接会 302 跳校园网登录页；`ars.els-cdn.com` 直连目前可用但同属隐患。一律改从本地论文 PDF 提取。跨 bundle 复用图片必须复制文件（Hugo page bundle 不共享）。
+- **下载图片先验文件头**：从出版商 URL 下载的"图片"须校验文件头是 JPEG/PNG——Cloudflare 人机验证页会被存成 HTML 冒充 .jpg（先例：`bea-review-map.jpg` 曾是 "Just a moment..." 挑战页，浏览器显示为坏图）。发现此类假图后从对应论文 PDF 提取真图同名替换。
+- **CMYK 内嵌图偏色**：Elsevier 等 PDF 的内嵌 JPEG 是 CMYK 色彩空间，`pdfimages -all` 提取出来会偏色（白底变洋红）；改用 `pdftoppm -r 300` 渲染整页后按坐标 `-crop` 裁剪。
+- **拆分图拼接**：论文 PDF 中一张大图可能被拆成多张内嵌位图（上下半或左右半），提取后按阅读顺序用 `-append`（竖）/`+append`（横）还原为一张，与网页图注核对后再落盘（先例：biomass-framework、prediction-performance）。
+- **MDPI 图形摘要（GA）不在论文 PDF 里**：GA 是单独资产且外链被 403，无本地来源时撤掉页面上的 "### Graphical abstract" 小节并列入待补清单，勿用其他图冒充。
+- **Hugo 0 字节缩略图坑**：构建偶发把 featured 缩略图写成 0 字节空文件（`resources/_gen` 缓存里同一文件是好的），线上表现为 200 但 0 字节、浏览器坏图；修复 = 删掉 public/ 里的坏文件重新构建（`hugo` 不会覆盖已存在的坏文件）。每次收尾用 `find public -name "*.jpg" -size -1k` 自查一遍。
 - **Talks 照片**：照片放对应 talk 目录，`featured.jpg` 作列表卡片图，正文末加 `#### Photos` 节：`![](xxx.jpg)` + 一行英文图名（活动、地点、时间）。
 - **Projects 过滤按钮**：首页 Projects 区的过滤按钮在 `content/home/projects.md` 硬编码（`[[content.filter_button]]` 的 name + tag）。新建项目需手动补按钮，tag 必须与项目页 tags 中的词完全一致。
 

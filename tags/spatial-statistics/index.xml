@@ -323,15 +323,15 @@
       <link>https://gisersqdai.top/mycv/publication/improved-biomass-map-forest/</link>
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/publication/improved-biomass-map-forest/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/forests/forests-12-01663/article_deploy/html/images/forests-12-01663-g002-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;biomass-framework.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Figure 1 Framework for estimating (a–c) the machine learning models, (d) the P-BSHADE model, and the three models that combine machine learning with the P-BSHADE model ((a,d), (b,d) and (c,d)).&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/forests/forests-12-01663/article_deploy/html/images/forests-12-01663-g004-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;prediction-performance.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Figure 2 Prediction performance of the seven different models. (a) MAE and (b) MRE are presented as boxplots for each prediction method, with the median (black horizontal line in the box), interquartile range (25–75% in the box), range 5–95% (whiskers), and outliers (asterisks) labeled (S1 = SVM, S2 = RBF-ANN, S3 = RF, S4 = P-BSHADE, S5 = SVM &amp;amp; P-BSHADE, S6 = RBF-ANN &amp;amp; P-BSHADE, S7 = RF &amp;amp; P-BSHADE, S8 = allometric model, Allome = allometric model, ML = machine learning, and Sp Stats = spatial statistics). Histogram distributions of RMSE and nRMSE for each prediction method are presented in panels &amp;copy; and (d), respectively.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/forests/forests-12-01663/article_deploy/html/images/forests-12-01663-g005-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;accuracy-improvement.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Figure 3 Improved accuracy assessment indexes of three combined machine learning and spatial statistical methods are revealed by comparison with three corresponding machine learning methods. Panels (a–d) show the MAE, MRE, RMSE, and nRMSE, respectively; S1 vs. S5 compares S5 with S1, S2 vs. S6 compares S6 with S2, and S3 vs. S7 compares S7 with S3 (S1 = SVM, S2 = RBF-ANN, S3 = RF, S5 = SVM &amp;amp; P-BSHADE, S6 = RBF-ANN &amp;amp; P-BSHADE, S7 = RF &amp;amp; P-BSHADE)&lt;/strong&gt;&lt;/p&gt;
 
@@ -385,10 +385,6 @@
       <guid>https://gisersqdai.top/mycv/publication/uncertainty-propagation-co2-map-rs/</guid>
       <description>
 
-&lt;h3 id=&#34;graphical-abstract&#34;&gt;Graphical abstract&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-ag-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 
 &lt;blockquote&gt;
@@ -406,7 +402,7 @@
 
 &lt;p&gt;To address the above mentioned issue, an analytic workflow was proposed to analyze the propagated uncertainties caused by the gridded model and the input for gridded CO₂ emission maps. The present workflow used four sub-modules based on Monte Carlo simulations and a bootstrap sampling method to analyze uncertainties, without other detailed open emission inventories. Two of the submodules obtained the corresponding uncertainty of each grid value, generated the uncertainty map caused by the gridded model, and the uncertainties for the sum of each cell (also referred to as propagated uncertainties caused by the model); the other submodules generated the uncertainty distribution maps based on the total emission estimations and spatial proxies (also referred to as propagated uncertainties caused by input).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g001-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;co2-uncertainty-workflow.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Figure 1 Analytic workflow of the uncertainty propagation in gridded CO₂ emission maps. ALs, activity levels; CI, confidence interval; EFs, emission factors; GDP, gross domestic product; KS, Kolmogorov–Smirnov; LUT, look up table; MLE, maximum likelihood estimation; NTL, night time light; PDFs, probability distribution functions.&lt;/strong&gt;&lt;/p&gt;
 
@@ -416,29 +412,29 @@
 
 &lt;h4 id=&#34;u1&#34;&gt;U1&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g004-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;co2-cdf-curves.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Figure 2  CDF curve of different CO₂ emissions at 30 m and 500 m resolution. The upper figures are at 30 m resolution, while the lower figures are at 500 m resolution. The red line is the distribution of the real values, while the blue line is the distribution of the simulated values. (a,e) are the total CO₂ emissions, (b,f) are the residential CO₂ emissions, (c,g) are the industrial CO₂ emissions, and (d,h) are the transport CO₂ emissions. KS., Kolmogorov–Smirnov; Sd, Standard deviation.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g005-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;co2-gridded-model-uncertainty-maps.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Figure 3  Uncertainty maps made by the gridded model of CO₂ emissions in Jinjiang city, at resolutions of 30 m (a–d) and 500 m (e–h). (a,e) show uncertainty maps of total CO₂ emissions. (b,f) show uncertainty maps of residential CO₂ emissions. (c,g) show uncertainty maps of industrial CO₂ emissions. (d,h) show uncertainty maps of transport CO₂ emissions.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;u2&#34;&gt;U2&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g006-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;co2-emission-population-distributions.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Figure 4 CO₂ emission population (statistic term) distributions of different sectors. The left figures are at 30 m resolution, while the right figures are at 500 m resolution. The red line is the distribution of the real values, and the blue line is the distribution of the simulated values. (a,e) are the total CO₂ emissions, (b,f) are the residential CO₂ emissions, (c,g) are the industrial CO₂ emissions, and (d,h) are the transport CO₂ emission.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;u3&#34;&gt;U3&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g007-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;co2-activity-level-uncertainty-maps.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Figure 5 Map showing the uncertainty caused by activity levels. (a,b) represent the uncertainty maps of total CO₂ emissions at 30 m and 500 m resolution, respectively.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;u4&#34;&gt;U4&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.mdpi.com/remotesensing/remotesensing-12-03932/article_deploy/html/images/remotesensing-12-03932-g008-550.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;co2-spatial-proxy-uncertainty-maps.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Figure 6 Maps of uncertainty caused by the spatial proxies. (a,b) represent the maps of uncertainty of total CO₂ emissions at 30 m and 500 m resolutions.&lt;/strong&gt;&lt;/p&gt;
 </description>
