@@ -5,12 +5,42 @@
     <link>https://gisersqdai.top/mycv/talk/</link>
       <atom:link href="https://gisersqdai.top/mycv/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Sun, 19 Jul 2026 09:10:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Sun, 01 Nov 2026 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://gisersqdai.top/mycv/talk/</link>
     </image>
+    
+    <item>
+      <title>GISalon No. 49: GIS X health roundtable</title>
+      <link>https://gisersqdai.top/mycv/talk/gisalon2026talks/</link>
+      <pubDate>Sun, 01 Nov 2026 13:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/gisalon2026talks/</guid>
+      <description>
+
+&lt;h4 id=&#34;photos&#34;&gt;Photos&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zoom screenshot: GISalon No. 49 &amp;ldquo;GIS X health&amp;rdquo; organized by GISphere, online, Nov. 1, 2026.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sensing healthy city: from multimodal geographic data, GeoAI to causal inference</title>
+      <link>https://gisersqdai.top/mycv/talk/csusd4thtalks/</link>
+      <pubDate>Sat, 24 Oct 2026 09:16:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/talk/csusd4thtalks/</guid>
+      <description>
+
+&lt;h4 id=&#34;photos&#34;&gt;Photos&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Oral presentation in Session 8 &amp;ldquo;Perception, modeling and prediction of urban complex systems&amp;rdquo;, 4th China Symposium on Urban Sustainable Development, Peking University, Oct. 24, 2026.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Sensing healthy city: from multimodal geographic data, GeoAI to causal inference</title>

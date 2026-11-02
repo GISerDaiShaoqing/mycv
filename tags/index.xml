@@ -5,12 +5,52 @@
     <link>https://gisersqdai.top/mycv/tags/</link>
       <atom:link href="https://gisersqdai.top/mycv/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Mon, 14 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2016-2025 Shaoqing Dai</copyright><lastBuildDate>Sun, 01 Nov 2026 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gisersqdai.top/mycv/img/site.png</url>
       <title>Tags</title>
       <link>https://gisersqdai.top/mycv/tags/</link>
     </image>
+    
+    <item>
+      <title>GeoAI</title>
+      <link>https://gisersqdai.top/mycv/tags/geoai/</link>
+      <pubDate>Sun, 01 Nov 2026 13:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/geoai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health Geography</title>
+      <link>https://gisersqdai.top/mycv/tags/health-geography/</link>
+      <pubDate>Sun, 01 Nov 2026 13:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/health-geography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Lifecourse Health</title>
+      <link>https://gisersqdai.top/mycv/tags/spatial-lifecourse-health/</link>
+      <pubDate>Sat, 24 Oct 2026 09:16:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/spatial-lifecourse-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obesity</title>
+      <link>https://gisersqdai.top/mycv/tags/obesity/</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/obesity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SDG</title>
+      <link>https://gisersqdai.top/mycv/tags/sdg/</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://gisersqdai.top/mycv/tags/sdg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ecological Modeling</title>
@@ -37,42 +77,10 @@
     </item>
     
     <item>
-      <title>SDG</title>
-      <link>https://gisersqdai.top/mycv/tags/sdg/</link>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/sdg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GeoAI</title>
-      <link>https://gisersqdai.top/mycv/tags/geoai/</link>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/geoai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Urban Visual Intelligence</title>
       <link>https://gisersqdai.top/mycv/tags/urban-visual-intelligence/</link>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/urban-visual-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial Lifecourse Health</title>
-      <link>https://gisersqdai.top/mycv/tags/spatial-lifecourse-health/</link>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/spatial-lifecourse-health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Health Geography</title>
-      <link>https://gisersqdai.top/mycv/tags/health-geography/</link>
-      <pubDate>Sun, 19 Jul 2026 09:10:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/health-geography/</guid>
       <description></description>
     </item>
     
@@ -89,14 +97,6 @@
       <link>https://gisersqdai.top/mycv/tags/spatial-statistics/</link>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://gisersqdai.top/mycv/tags/spatial-statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Obesity</title>
-      <link>https://gisersqdai.top/mycv/tags/obesity/</link>
-      <pubDate>Fri, 17 Apr 2026 15:35:00 +0000</pubDate>
-      <guid>https://gisersqdai.top/mycv/tags/obesity/</guid>
       <description></description>
     </item>
     
